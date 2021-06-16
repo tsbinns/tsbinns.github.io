@@ -16,13 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md", title: "Home", icon: "home"}
   - {file: "CV.md", title: "CV", icon: "file-alt"}
   - {file: "publications.md", title: "Publications", icon: "newspaper"}
-  - {file: "contact-links.md", title: "Contact &amp Links", icon: "bullhorn"}
+  - {file: "contact-links.md", title: "Contact &amp Links", icon: "address-book"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: "envelope", url: "mailto:t.s.binns@outlook.com"}
-  - {title: Twitter, icon: "twitter-square", url: "https://twitter.com/TSBinns"}
+  - {title: Twitter, icon: "twitter", url: "https://twitter.com/TSBinns"}
   - {title: LinkedIn, icon: "linkedin", url: "https://www.linkedin.com/in/tsbinns/"}
   - {title: Github, icon: "github", url: "https://github.com/tsbinns"}
 
