@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Home - Thomas Samuel Binns, MSci"
 layout: page
 ---
 
