@@ -18,12 +18,12 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.html", title: "Home", icon: "home"}
   - {file: "CV.html", title: "CV", icon: "file-alt"}
-  - {file: "publications.html", title: "Publications", icon: "newspaper"}
-  - {file: "links.html", title: "Contact &amp Links", icon: "link"}
+  - {file: "publications.html", title: "Publication", icon: "newspaper"}
+  - {file: "links.html", title: "Contact &amp Links", icon: "address-card"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: "envelope", url: "mailto:t.s.binns@outlook.com"}
-  - {title: Twitter, icon: "twitter", url: "https://twitter.com/TSBinns"}
+  - {title: Twitter, icon: "twitter-square", url: "https://twitter.com/TSBinns"}
   - {title: LinkedIn, icon: "linkedin", url: "https://www.linkedin.com/in/tsbinns/"}
   - {title: Github, icon: "github", url: "https://github.com/tsbinns"}
 
