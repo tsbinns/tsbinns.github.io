@@ -5,7 +5,7 @@ layout: page
 
 ## About Me
 
-<img style="float: left;" src="Website_Profile_Pic.png">
+<img style="float: left;" src="/Website_Profile_Pic.png">
 
 I am a neuroscientist from the UK interested in computational, cognitive, and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces.
 
