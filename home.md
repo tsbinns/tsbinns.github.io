@@ -5,6 +5,8 @@ layout: page
 
 ## About Me
 
+![Profile Picture](Website_Profile_Pic.png)
+
 I am a neuroscientist from the UK interested in computational, cognitive, and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces.
 
 I have recently graduated with First-Class Honours in an M.Sci. Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Germany, investigating volition and decision-making using brain-computer interfaces in the lab of Prof. John-Dylan Haynes.
