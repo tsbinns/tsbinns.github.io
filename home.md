@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Thomas Samuel Binns, MSci"
+permalink: "/home/"
 layout: page
 ---
 
