@@ -1,7 +1,7 @@
 title: "Thomas Samuel Binns, MSci"
 author: "Thomas Samuel Binns"
 description: ""
-permalink: /:title/
+permalink:
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", title: "Home", icon: "home"}
   - {file: "CV.md", title: "CV", icon: "file-alt"}
   - {file: "publications.md", title: "Publications", icon: "newspaper"}
-  - {file: "links.md", title: "Contact &amp Links", icon: "bullhorn"}
+  - {file: "contact-links.md", title: "Contact &amp Links", icon: "bullhorn"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: "envelope", url: "mailto:t.s.binns@outlook.com"}
