@@ -1,9 +1,7 @@
 ---
-title: "Thomas Samuel Binns, MSci"
+title: "About Me - Thomas Samuel Binns, MSci"
 layout: page
 ---
-
-## About Me
 
 <img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/Website_Profile_Pic.png">
 
