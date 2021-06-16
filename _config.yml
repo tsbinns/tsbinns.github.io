@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.html", title: "Home", icon: "home"}
-  - {file: "CV.html", title: "CV", icon: "file-alt"}
-  - {file: "publications.html", title: "Publications", icon: "newspaper"}
-  - {file: "links.html", title: "Contact &amp Links", icon: "bullhorn"}
+  - {file: "home.md", title: "Home", icon: "home"}
+  - {file: "CV.md", title: "CV", icon: "file-alt"}
+  - {file: "publications.md", title: "Publications", icon: "newspaper"}
+  - {file: "links.md", title: "Contact &amp Links", icon: "bullhorn"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: "envelope", url: "mailto:t.s.binns@outlook.com"}
