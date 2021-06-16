@@ -1,5 +1,5 @@
 ---
-title: "About Me - Thomas Samuel Binns, MSci"
+title: "About Me -- Thomas Samuel Binns, MSci"
 layout: page
 ---
 
