@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://tsbinns.com", title: "Home", icon: "home"}
-  - {file: "CV.md", title: "CV", icon: "file-alt"}
+  - {file: "CV.md", title: "CV", icon: "scroll"}
   - {file: "publications.md", title: "Publications", icon: "newspaper"}
   - {file: "contact-links.md", title: "Contact &amp Links", icon: "address-book"}
 
