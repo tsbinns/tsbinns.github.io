@@ -3,7 +3,7 @@ title: "Contact &amp Links"
 layout: page
 ---
 
-<i class='envelope'></i>     Email: [t.s.binns@outlook.com](mailto:t.s.binns@outlook.com)
+<svg class='envelope'></svg>     Email: [t.s.binns@outlook.com](mailto:t.s.binns@outlook.com)
 
 <i class="fa fa-google"></i> Google Scholar: [Thomas Samuel Binns](https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ)
 
