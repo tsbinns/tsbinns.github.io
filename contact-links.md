@@ -12,5 +12,4 @@ layout: page
 <i class="fab fa-github"></i> GitHub: [tsbinns](https://github.com/tsbinns)
 
 <i class="fab fa-linkedin"></i> LinkedIn: [tsbinns](https://www.linkedin.com/in/tsbinns/)
-
 <i class="fab fa-orcid"></i> ORCID: [0000-0003-0657-0891](https://orcid.org/0000-0003-0657-0891)
