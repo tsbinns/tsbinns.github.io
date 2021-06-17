@@ -8,7 +8,7 @@ layout: page
 ## 2021
 
 <dl>
-    <dt>Schultze-Kraft, M., Jonany, V., <b>Binns, T.S.</b>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, 8(2). <a href="doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020 &nbsp;<i class="fas fa-link"></i></a></dt>
+    <dt>Schultze-Kraft, M., Jonany, V., <p style="color:yellow;"><b>Binns, T.S.</b></p>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, 8(2). <a href="doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020. <i class="fas fa-link"></i></a></dt>
     <dd>- A research article in which EEG-based neurofeedback was utilised to examine the role of the readiness potential, a precursor of voluntary action, in volition.</dd>
 </dl>
 
