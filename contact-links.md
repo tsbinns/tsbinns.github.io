@@ -3,7 +3,7 @@ title: "Contact &amp Links"
 layout: page
 ---
 
-<i><svg aria-label="Email" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" }}#{{ envelope }}"></use></svg></i>
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
 Email: [t.s.binns@outlook.com](mailto:t.s.binns@outlook.com)
 
 <i class="fab fa-google"></i> Google Scholar: [Thomas Samuel Binns](https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ)
