@@ -3,7 +3,7 @@ title: "Contact &amp Links"
 layout: page
 ---
 
-<a href="{{ site.baseurl }}/index.html"><i class='fas fa-envelope'></i> Home</a>
+<li><a href="{{ site.baseurl }}/index.html"><i class='fas fa-envelope'></i> Home</a></li>
 Email: [t.s.binns@outlook.com](mailto:t.s.binns@outlook.com)
 
 <i class="fab fa-google"></i> Google Scholar: [Thomas Samuel Binns](https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ)
