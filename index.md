@@ -3,7 +3,7 @@ title: "About Me - Thomas Samuel Binns"
 layout: page
 ---
 
-<img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/Website_Profile_Pic.png">
+<img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/data/images/Website_Profile_Pic.png">
 
 I am a neuroscientist from the UK interested in computational, cognitive, and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces.
 
