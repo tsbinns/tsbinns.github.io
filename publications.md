@@ -5,6 +5,7 @@ layout: page
 
 <!-- Sidebar for navigation by year -->
 <div class="w3-sidebar w3-bar-block" style="width:25%">
+  <h3 class="w3-bar-item">Jump to year:</h3>
   <a href="#" class="w3-bar-item w3-button">2021</a>
   <a href="#" class="w3-bar-item w3-button">2020</a>
 </div>
