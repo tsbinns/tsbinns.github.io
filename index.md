@@ -5,7 +5,7 @@ layout: page
 
 <!-- Notification bar: "Use Chrome!" -->
 <div class="alert_browser">
-  <b>For the intended website experience, please use Google Chrome.</b><a class="alert_close">&times;</a>
+  <b>For the intended website experience, please use Google Chrome.</b><a class="close">&times;</a>
 </div>
 
 <!-- Profile picture -->
@@ -23,8 +23,8 @@ Feel free to check out my [CV](/CV.html) and [publications](/publications.html),
 
 
 <script>
-  alert_close = document.getElementById("close");
-  alert_close.addEventListener('click', function() {
+  close = document.getElementById("close");
+  close.addEventListener('click', function() {
   note = document.getElementById("note");
   note.style.display = 'none';
   }, false);
