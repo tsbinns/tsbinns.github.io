@@ -17,7 +17,7 @@ layout: page
         <a href="javascript:void(0);" class="icon-close" onclick="$('#use_chrome-bar').fadeOut()">&#10006;</a>
     </div>
 </div>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 <!--<a href="javascript:void(0);" class="icon-close" onclick="$('#use_chrome-bar').fadeOut()">&#10006;</a>-->
 
 
@@ -33,3 +33,5 @@ I have recently graduated with First-Class Honours in an M.Sci. Neuroscience wit
 I am scheduled to begin my Ph.D. at the Einstein Center for Neurosciences Berlin, Germany, in October 2021.
 
 Feel free to check out my [CV](/CV.html) and [publications](/publications.html), or contact me [here](/contact-links.html).
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
