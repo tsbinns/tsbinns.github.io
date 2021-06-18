@@ -23,9 +23,13 @@ Feel free to check out my [CV](/CV.html) and [publications](/publications.html),
 
 
 <script>
-  close = document.getElementById("alert_close");
-  close.addEventListener('click', function() {
-  note = document.getElementById("note");
-  note.style.display = 'none';
-  }, false);
+  const targetDiv = document.getElementById("alert_browser");
+  const btn = document.getElementById("alert_close");
+  btn.onclick = function () {
+    if (targetDiv.style.display !== "none") {
+      targetDiv.style.display = "none";
+    } else {
+      targetDiv.style.display = "block";
+    }
+  };
 </script>
