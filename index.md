@@ -5,7 +5,7 @@ layout: page
 
 <!-- Notification bar: "Use Chrome!" -->
 <div class="alert-browser">
-  <b>For the intended website experience, use Google Chrome.</b><button class="alert-close" onclick="Func_remove()">&times;</button>
+  <b>For the intended website experience, please use Google Chrome.</b><button class="alert-close">&times;</button>
 </div>
 
 <!-- Profile picture -->
@@ -23,12 +23,12 @@ Feel free to check out my [CV](/CV.html) and [publications](/publications.html),
 
 
 <script>
-  function Func_remove() {
-    var x = document.getElementById("alert-browser");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-  }
+  $(document).ready(function(){   
+    setTimeout(function () {
+      $("#alert-browser").fadeIn(200);
+    }, 4000);
+    $("#alert-close").click(function() {
+      $("#alert-browser").fadeOut(200);
+    }); 
+});
 </script>
