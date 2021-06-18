@@ -11,6 +11,11 @@ layout: page
   <a href="#">2020</a>
 </div>
 
+<!-- Menu for navigation -->
+<header class="header">
+  <button class="header__button" id="btnNav" type="button"><i class="fas fa-bars">Jump to:</button>
+</header>
+
 
 <!-- Google Scholar link -->
 <i class="fab fa-google"></i> &nbsp; My Google Scholar profile: [Thomas Samuel Binns](https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ)
