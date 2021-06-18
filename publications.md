@@ -20,7 +20,7 @@ layout: page
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #2196F3;
+  /*color: #2196F3;*/
   display: block;
 }
 .sidenav a:hover {
@@ -43,6 +43,7 @@ layout: page
   <a href="#">2021</a>
   <a href="#">2020</a>
 </div>
+
 
 <!-- Script for making collapsibles -->
 <script>
