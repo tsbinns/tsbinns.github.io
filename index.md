@@ -13,11 +13,12 @@ layout: page
         </div>
     </div>
     <div class="hb-close-wrapper">
-        <a href="javascript:void(0);" class="icon-close">&#10006;</a>
+        <!--<a href="javascript:void(0);" class="icon-close">&#10006;</a>-->
+        <a href="javascript:void(0);" class="icon-close" onclick="$('#use_chrome-bar').fadeOut()">&#10006;</a>
     </div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<a href="javascript:void(0);" class="icon-close" onclick="$('#use_chrome-bar').fadeOut()">&#10006;</a>
+<!--<a href="javascript:void(0);" class="icon-close" onclick="$('#use_chrome-bar').fadeOut()">&#10006;</a>-->
 
 
 <!-- Profile picture -->
