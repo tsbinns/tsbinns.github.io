@@ -5,31 +5,9 @@ layout: page
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
-  <a href="#home">Top</a>
+  <a href="#Top">Top</a>
+  <a href="#2021">2021</a>
+  <a href="#2020">2020</a>
 </div>
 
 
