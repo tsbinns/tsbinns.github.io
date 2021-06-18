@@ -3,22 +3,15 @@ title: "About Me - Thomas Samuel Binns"
 layout: page
 ---
 
-<!-- Alert bar: "Use Chrome!" -->
-<div id="hellobar-bar" class="regular closable">
-    <div class="hb-content-wrapper">
-        <div class="hb-text-wrapper">
-            <div class="hb-headline-text">
-                <p><span>For the intended website experience, please use Google Chrome.</span></p>
-            </div>
-        </div>
-    </div>
-    <div class="hb-close-wrapper">
-        <!--<a href="javascript:void(0);" class="icon-close">&#10006;</a>-->
-        <a href="javascript:void(0);" class="icon-close" onclick="$('#use_chrome-bar').fadeOut()">&#10006;</a>
-    </div>
+<!-- Notification bar: "Use Chrome!" -->
+<div class="alert_browser">
+  <b>For the intended website experience, please use Google Chrome.</b><button class="alert_close">&times;</button>
 </div>
-
-<!--<a href="javascript:void(0);" class="icon-close" onclick="$('#use_chrome-bar').fadeOut()">&#10006;</a>-->
+<script>
+  $('.close').on('click', function() {
+    $(this).parent('.alert').hide();
+  });
+</script>
 
 
 <!-- Profile picture -->
@@ -33,5 +26,3 @@ I have recently graduated with First-Class Honours in an M.Sci. Neuroscience wit
 I am scheduled to begin my Ph.D. at the Einstein Center for Neurosciences Berlin, Germany, in October 2021.
 
 Feel free to check out my [CV](/CV.html) and [publications](/publications.html), or contact me [here](/contact-links.html).
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
