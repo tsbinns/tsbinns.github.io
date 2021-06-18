@@ -5,7 +5,7 @@ layout: page
 
 <!-- Sidebar for navigation by year -->
 <div class="sidenav">
-  <t style="color:#FFFFFF;">Jump to:</t>
+  <t style="color:#fff; font-size:20px; font-weight:bolder;">Jump to:</t>
   <a href="#">Top</a>
   <a href="#">2021</a>
   <a href="#">2020</a>
