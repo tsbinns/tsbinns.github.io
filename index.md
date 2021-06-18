@@ -5,7 +5,7 @@ layout: page
 
 <!-- Notification bar: "Use Chrome!" -->
 <div class="alert_browser">
-  <b>For the intended website experience, please use Google Chrome.</b><a class="alert_close">&times;</a>
+  <b>For the intended website experience, please use Google Chrome.</b><button class="alert_close">&times;</button>
 </div>
 
 <!-- Profile picture -->
