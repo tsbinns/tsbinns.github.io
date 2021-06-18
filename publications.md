@@ -3,10 +3,10 @@ title: "Publications"
 layout: page
 ---
 
-<ul class="topnav">
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
+<ul class="topnav_ul">
+  <li class="topnav_li"><a class="active" href="#home">Home</a></li>
+  <li class="topnav_li"><a href="#news">News</a></li>
+  <li class="topnav_li"><a href="#contact">Contact</a></li>
 </ul>
 
 <!-- Sidebar for navigation by year -->
