@@ -30,9 +30,6 @@ layout: page
   <a href="#home">Top</a>
   <a href="#home">Top</a>
   <a href="#home">Top</a>
-  <div class="scrollbar" id="style-1">
-    <div class="force-overflow"></div>
-  </div>
 </div>
 
 
