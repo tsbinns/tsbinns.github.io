@@ -1,14 +1,12 @@
-<!-- Notification bar: "Use Chrome!" -->
-<div class="alert_browser">
-  <b>For the intended website experience, please use Google Chrome.</b><button class="alert_close">&times;</button>
-</div>
-
 ---
 title: "About Me - Thomas Samuel Binns"
 layout: page
 ---
 
-
+<!-- Notification bar: "Use Chrome!" -->
+<div class="alert_browser">
+  <b>For the intended website experience, please use Google Chrome.</b><a class="alert_close">&times;</a>
+</div>
 
 <!-- Profile picture -->
 <img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic.png">
@@ -25,7 +23,9 @@ Feel free to check out my [CV](/CV.html) and [publications](/publications.html),
 
 
 <script>
-  $('.alert_close').on('click', function() {
-    $(this).parent('.alert_browser').hide();
-  });
+  alert_close = document.getElementById("close");
+  alert_close.addEventListener('click', function() {
+  note = document.getElementById("note");
+  note.style.display = 'none';
+  }, false);
 </script>
