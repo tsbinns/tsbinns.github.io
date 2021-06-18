@@ -1,12 +1,12 @@
----
-title: "About Me - Thomas Samuel Binns"
-layout: page
----
-
 <!-- Notification bar: "Use Chrome!" -->
 <div class="alert_browser">
   <b>For the intended website experience, please use Google Chrome.</b><button class="alert_close">&times;</button>
 </div>
+
+---
+title: "About Me - Thomas Samuel Binns"
+layout: page
+---
 
 
 
