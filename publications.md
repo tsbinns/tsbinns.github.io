@@ -24,21 +24,3 @@ layout: page
         <p>A short review article examining whether research into the readiness potential has disproven free will, published in the British Neuroscience Association's summer 2020 Bulletin.</p>
     </div>
 </ul>
-
-<!-- Makes collapsibles work -->
-<script>
-    var coll = document.getElementsByClassName("collapsible");
-    var i;
-
-    for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var content = this.nextElementSibling;
-        if (content.style.display === "block") {
-        content.style.display = "none";
-        } else {
-        content.style.display = "block";
-        }
-    });
-    }
-</script>
