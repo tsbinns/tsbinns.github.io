@@ -4,8 +4,8 @@ layout: page
 ---
 
 <!-- Notification bar: "Use Chrome!" -->
-<div class="alert_browser">
-  <b>For the intended website experience, use Google Chrome.</b><button class="alert_close">&times;</button>
+<div class="alert-browser">
+  <b>For the intended website experience, use Google Chrome.</b><button class="alert-close" onclick="Func_remove()">&times;</button>
 </div>
 
 <!-- Profile picture -->
@@ -23,13 +23,12 @@ Feel free to check out my [CV](/CV.html) and [publications](/publications.html),
 
 
 <script>
-  const targetDiv = document.getElementById("alert_browser");
-  const btn = document.getElementById("alert_close");
-  btn.onclick = function () {
-    if (targetDiv.style.display !== "none") {
-      targetDiv.style.display = "none";
+  function Func_remove() {
+    var x = document.getElementById("alert-browser");
+    if (x.style.display === "none") {
+        x.style.display = "block";
     } else {
-      targetDiv.style.display = "block";
+        x.style.display = "none";
     }
-  };
+  }
 </script>
