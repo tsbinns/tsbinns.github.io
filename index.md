@@ -1,3 +1,8 @@
+---
+title: "About Me - Thomas Samuel Binns"
+layout: page
+---
+
 <!-- Alert bar: "Use Chrome!" -->
 <div id="hellobar-bar" class="regular closable">
     <div class="hb-content-wrapper">
@@ -13,11 +18,6 @@
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <a href="javascript:void(0);" class="icon-close" onclick="$('#use_chrome-bar').fadeOut()">&#10006;</a>
-
----
-title: "About Me - Thomas Samuel Binns"
-layout: page
----
 
 
 <!-- Profile picture -->
