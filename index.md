@@ -8,8 +8,8 @@ layout: page
   <b>For the intended website experience, please use Google Chrome.</b><button class="alert_close">&times;</button>
 </div>
 <script>
-  $('.close').on('click', function() {
-    $(this).parent('.alert').hide();
+  $('.alert_close').on('click', function() {
+    $(this).parent('.alert_browser').hide();
   });
 </script>
 
