@@ -3,19 +3,12 @@ title: "Publications"
 layout: page
 ---
 
+<!-- Topbar for navigation of publications by year -->
 <ul class="topnav_ul">
-  <li class="topnav_li"><a class="active" href="#home">Home</a></li>
-  <li class="topnav_li"><a href="#news">News</a></li>
-  <li class="topnav_li"><a href="#contact">Contact</a></li>
+  <li class="topnav_li"><a class="active" href="#home">Top</a></li>
+  <li class="topnav_li"><a href="#news">2021</a></li>
+  <li class="topnav_li"><a href="#contact">2020</a></li>
 </ul>
-
-<!-- Sidebar for navigation by year -->
-<div class="sidenav">
-  <t style="color:#fff; font-size:20px; font-weight:bolder;">Jump to:</t>
-  <a href="#">Top</a>
-  <a href="#">2021</a>
-  <a href="#">2020</a>
-</div>
 
 
 <!-- Google Scholar link -->
