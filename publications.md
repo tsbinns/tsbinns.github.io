@@ -5,30 +5,31 @@ layout: page
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
-  <li class="scrollmenu"><a class="active" href="#home">2020</a></li>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
+  <a href="#home">Top</a>
 </div>
 
 
