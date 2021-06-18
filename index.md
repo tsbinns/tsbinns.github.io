@@ -7,11 +7,7 @@ layout: page
 <div class="alert_browser">
   <b>For the intended website experience, please use Google Chrome.</b><button class="alert_close">&times;</button>
 </div>
-<script>
-  $('.alert_close').on('click', function() {
-    $(this).parent('.alert_browser').hide();
-  });
-</script>
+
 
 
 <!-- Profile picture -->
@@ -26,3 +22,10 @@ I have recently graduated with First-Class Honours in an M.Sci. Neuroscience wit
 I am scheduled to begin my Ph.D. at the Einstein Center for Neurosciences Berlin, Germany, in October 2021.
 
 Feel free to check out my [CV](/CV.html) and [publications](/publications.html), or contact me [here](/contact-links.html).
+
+
+<script>
+  $('.alert_close').on('click', function() {
+    $(this).parent('.alert_browser').hide();
+  });
+</script>
