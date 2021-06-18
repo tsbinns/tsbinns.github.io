@@ -41,6 +41,7 @@
   <meta name="theme-color" content="#ffffff">
 
   <style>
+    /* Collapsible content buttons */
     /* Style the button that is used to open and close the collapsible content */
     .collapsible {
       background-color: #eee;
@@ -55,18 +56,47 @@
       font-size: 15px;
       font-weight: bolder;
     }
-
     /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
     .active, .collapsible:hover {
       background-color: #ccc;
     }
-
     /* Style the collapsible content. Note: hidden by default */
     .content {
       padding: 0 18px;
       display: none;
       overflow: hidden;
       background-color: #444;
+    }
+
+    /* Sidebar navigation */
+    .sidenav {
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    left: 10px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+    }
+    .sidenav a {
+      padding: 6px 8px 6px 16px;
+      text-decoration: none;
+      font-size: 25px;
+      /*color: #2196F3;*/
+      display: block;
+    }
+    .sidenav a:hover {
+      color: #064579;
+    }
+    .main {
+      margin-left: 140px; /* Same width as the sidebar + left position in px */
+      font-size: 28px; /* Increased text to enable scrolling */
+      padding: 0px 10px;
+    }
+    @media screen and (max-height: 450px) {
+      .sidenav {padding-top: 15px;}
+      .sidenav a {font-size: 18px;}
     }
   </style>
 </head>
