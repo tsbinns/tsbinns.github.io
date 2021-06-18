@@ -4,31 +4,31 @@ layout: page
 ---
 
 <!-- Topbar for navigation of publications by year -->
-<ul class="topnav_ul">
-  <li class="topnav_li"><a class="active" href="#home">Top</a></li>
-  <li class="topnav_li"><a href="#news">2021</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
-  <li class="topnav_li"><a href="#contact">2020</a></li>
+<div class="scrollmenu">
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
+  <li class="scrollmenu"><a class="active" href="#home">Top</a></li>
 </ul>
 
 
