@@ -13,7 +13,7 @@ layout: page
 
 <!-- Menu for navigation -->
 <header class="header">
-  <button class="header__button" id="btnNav" type="button"><i class="fas fa-bars">Jump to:</button>
+  <button class="header__button" id="btnNav" type="button"><i class="fas fa-bars"><t>Jump to:</t></button>
 </header>
 
 
