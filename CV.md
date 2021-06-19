@@ -25,16 +25,16 @@ layout: page
 <h1><a id="Education" class="section-ID">Education</a></h1>
 
 <div style="white-space: pre-line;">
-  <large>09/2016 - 06/2021 &emsp; University of Aberdeen
+  <x-large>09/2016 - 06/2021 &emsp; University of Aberdeen
   M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement
-  First-Class Honours</large>
+  First-Class Honours</x-large>
 
-  <b>Industrial Placement (Master's) thesis</b>
+  &emsp;&emsp;<b>Industrial Placement (Master's) thesis</b>
   &emsp;&emsp;“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.
   &emsp;&emsp;Placement at the Bernstein Center for Computational Neuroscience, Berlin.
   &emsp;&emsp;Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.
 
-  <b>Honours (Bachelor's) thesis</b>
+  &emsp;&emsp;<b>Honours (Bachelor's) thesis</b>
   &emsp;&emsp;"Investigating the neuromodulation of striatal activity <i>in silico</i>”. First Class.
   &emsp;&emsp;Supervisor: Dr. Antonio Gonzalez.
 </div>
