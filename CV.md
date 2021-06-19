@@ -44,7 +44,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
   </p>
 </div><br>
 <!-- Expandable -->
-<ul>
+<div>
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
       <p style="font-size: 18px;">
@@ -54,7 +54,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
         A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.<br>
       </p>
   </div>
-</ul>
+</div>
 
 
 
