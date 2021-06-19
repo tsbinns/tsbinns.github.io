@@ -28,16 +28,17 @@ layout: page
   <b>09/2016 - 06/2021 &emsp; University of Aberdeen</b>
   <b>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b>
   First-Class Honours
+  
   <b>Industrial Placement (Master's) thesis</b>
-  &emsp;“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.
-  &emsp;Placement at the Bernstein Center for Computational Neuroscience, Berlin.
-  &emsp;Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.
-  <b>Honours (Bachelor's) thesis</b>
-  &emsp;"Investigating the neuromodulation of striatal activity <i>in silico</i>”. First Class.
-  &emsp;Supervisor: Dr. Antonio Gonzalez.
+  &emsp;&emsp;“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.
+  &emsp;&emsp;Placement at the Bernstein Center for Computational Neuroscience, Berlin.
+  &emsp;&emsp;Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.
+  <b>Honours (Bachelor's) thesis</b> <br>
+  &emsp;&emsp;"Investigating the neuromodulation of striatal activity <i>in silico</i>”. First Class.
+  &emsp;&emsp;Supervisor: Dr. Antonio Gonzalez.
 </div>
 
-<div style="white-space: pre-line; font-size: larger;">
+<div style="white-space: pre-line;">
   <b>07/2020 &emsp; Neuromatch Academy</b>
   A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
 </div>
