@@ -25,7 +25,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
 <!-- Education -->
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
 <div>
-  <p>
+  <p style="white-space: pre-line;">
     <b>09/2016 - 06/2021 &emsp; University of Aberdeen
     M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b>
     First-Class Honours
