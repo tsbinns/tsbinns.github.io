@@ -10,7 +10,7 @@ layout: page
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
-  <a href="#Top">Top</a>
+  <a href="#Top" style="position: relative; top: -50 px">Top</a>
   <a href="#2021">2021</a>
   <a href="#2020">2020</a>
 </div>
