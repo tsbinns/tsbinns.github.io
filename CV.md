@@ -22,8 +22,26 @@ layout: page
 
 
 <!-- Education -->
-<hr>
 <h1><a id="Education" class="section-ID">Education</a></h1>
+
+<table style="width: 100%">
+  <tr>
+    <td><b>09/2016 - 06/2021</b></td>
+    <td><b>University of Aberdeen</b></td>
+  </tr>
+</table>
+<b>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b>
+First-Class Honours
+<b>Industrial Placement (Master's) thesis -</b> “Investigating neural precursors of self-initiated action using machine learning techniques”. Placement at the Bernstein Center for Computational Neuroscience, Berlin. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes. First-Class.
+<b>Honours (Bachelor's) thesis -</b> "Investigating the neuromodulation of striatal activity <i>in silico</i>”. Supervisor: Dr. Antonio Gonzalez. First-Class.
+
+<table style="width: 100%">
+  <tr>
+    <td><b>07/2020</b></td>
+    <td><b>Neuromatch Academy</b></td>
+  </tr>
+</table>
+A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
 
 
 <!-- Experience -->
@@ -60,7 +78,7 @@ layout: page
 <hr>
 <h1><a id="References" class="section-ID">References</a></h1>
 
-Available on request. <a href="mailto:t.s.binns@outlook.com"><i class="fas fa-envelope"></i></a>
+Available on request. &nbsp; <a href="mailto:t.s.binns@outlook.com"><i class="fas fa-envelope"></i></a>
 
 
 <script>
