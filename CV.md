@@ -28,11 +28,11 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
   <h3 class="CV-heading">09/2016 - 06/2021 &emsp; University of Aberdeen
   M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement
   First-Class Honours</h3>
-  <ul style="margin: 0; padding: 0;">
-    <li><b>Industrial Placement (Master's) thesis</b></li>
-    <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.</li>
-    <li>Placement at the Bernstein Center for Computational Neuroscience, Berlin.</li>
-    <li>Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
+  <ul style="padding: 0;">
+    <li style="padding: 0;"><b>Industrial Placement (Master's) thesis</b></li>
+    <li style="padding: 0;">“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.</li>
+    <li style="padding: 0;">Placement at the Bernstein Center for Computational Neuroscience, Berlin.</li>
+    <li style="padding: 0;">Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
   </ul>
   <ul style="margin: 0; padding: 0;">
     <li><b>Honours (Bachelor's) thesis</b></li>
