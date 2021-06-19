@@ -8,7 +8,7 @@ layout: page
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
-  &nbsp;&nbsp;<b>Jump to:</b>
+  &nbsp;&nbsp;&nbsp;<b>Jump to:</b>
   <a href="#Top">Top</a>
   <a href="#Education">Education</a>
   <a href="#Experience">Experience</a>
@@ -17,30 +17,20 @@ layout: page
   <a href="#Memberships">Memberships</a>
   <a href="#Skills">Skills</a>
   <a href="#Achievements-Interests">Achievements & Interests</a>
-  <a href="#References">References</a>
+  <a href="#References">References&nbsp;&nbsp;</a>
 </div>
 
 
 <!-- Education -->
 <h1><a id="Education" class="section-ID">Education</a></h1>
 
-<table style="width: 100%">
-  <tr>
-    <td><b>09/2016 - 06/2021</b></td>
-    <td><b>University of Aberdeen</b></td>
-  </tr>
-</table>
+<p><b>09/2016 - 06/2021</b> &emsp; <b>University of Aberdeen</b>
 <b>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b>
 First-Class Honours
 <b>Industrial Placement (Master's) thesis -</b> “Investigating neural precursors of self-initiated action using machine learning techniques”. Placement at the Bernstein Center for Computational Neuroscience, Berlin. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes. First-Class.
-<b>Honours (Bachelor's) thesis -</b> "Investigating the neuromodulation of striatal activity <i>in silico</i>”. Supervisor: Dr. Antonio Gonzalez. First-Class.
+<b>Honours (Bachelor's) thesis -</b> "Investigating the neuromodulation of striatal activity <i>in silico</i>”. Supervisor: Dr. Antonio Gonzalez. First-Class.</p>
 
-<table style="width: 100%">
-  <tr>
-    <td><b>07/2020</b></td>
-    <td><b>Neuromatch Academy</b></td>
-  </tr>
-</table>
+<b>07/2020</b> &emsp; <b>Neuromatch Academy</b>
 A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
 
 
