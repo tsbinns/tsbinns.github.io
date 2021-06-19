@@ -5,7 +5,7 @@ layout: page
 
 
 <!-- Profile picture -->
-<img width="25%" height="auto" style="float: left; margin-right: 20px; border: 1px solid #444" src="/assets/images/ProfilePic.png">
+<img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic.png">
 
 
 <!-- Main website description/introduction -->

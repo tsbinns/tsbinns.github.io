@@ -26,7 +26,7 @@ layout: page
     </div>
 </ul>
 
-## 2020
+<h1>2020</h1>
 
 <ul>
     <li><mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="\assets\images\BNA_article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li>
