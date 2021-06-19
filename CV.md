@@ -44,7 +44,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
   </p>
 </div>
 <!-- Expandable -->
-<button type="button" class="collapsible">View Description</button>
+<button type="button" class="collapsible">View Additional Education</button>
     <div class="content">
         <p style="font-size: 18px;">
           <b>07/2020 &emsp; Neuromatch Academy</b>
