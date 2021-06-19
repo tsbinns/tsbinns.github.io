@@ -5,6 +5,7 @@ layout: page
 
 <a id="Top" class="section-ID"></a>
 
+Download as a pdf <a href="/assets/documents/tsbinns-CV.pdf>
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
@@ -37,10 +38,9 @@ layout: page
   &emsp;&emsp;Supervisor: Dr. Antonio Gonzalez.
 </div>
 <br>
-
 <div style="white-space: pre-line;">
   <h3 class="CV-heading">07/2020 &emsp; Neuromatch Academy</h3>
-  A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
+  &emsp;&emsp;A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
 </div>
 
 

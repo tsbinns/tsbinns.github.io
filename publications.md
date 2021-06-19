@@ -32,7 +32,7 @@ layout: page
 <h1><a id="2020" class="section-ID">2020</a></h1>
 
 <ul>
-    <li><mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="\assets\images\BNA_article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li>
+    <li><mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="\assets\documents\BNA_article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li>
     <button type="button" class="collapsible">View Description</button>
     <div class="content">
         <p>A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.</p>
@@ -41,7 +41,7 @@ layout: page
 
 
 <script>
-  
+
   /* Makes collapsibles work */
   var coll = document.getElementsByClassName("collapsible");
   var i;
