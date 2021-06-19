@@ -44,6 +44,9 @@
 
   <style>
     /* Main scrollbar styling */
+    html {
+      overflow-y: scroll;
+    }
     html::-webkit-scrollbar {
       width: 15px;
       background: transparent;
@@ -81,7 +84,6 @@
       outline: none;
       font-family: inherit;
       font-size: 15px;
-      font-weight: bolder;
     }
     /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
     .active, .collapsible:hover {
@@ -158,7 +160,7 @@
       padding: 5px;
     }
     #more-button:hover {
-      color: #444;
+      background-color: #444;
     }
     #more-button:active {
       color: #444;
