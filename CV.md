@@ -23,6 +23,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
 
 
 <!-- Education -->
+<!-- Main -->
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
 <div>
   <p style="font-size: 18px;">
@@ -42,15 +43,17 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
     Supervisor: Dr. Antonio Gonzalez.<br>
   </p>
 </div>
-<br>
+<!-- Expandable -->
+<button type="button" class="collapsible">View Description</button>
+    <div class="content">
+        <p style="font-size: 18px;">
+          <b>07/2020 &emsp; Neuromatch Academy</b>
+        </p>
+        <p style="margin-left: 20px; font-size: 17px;">
+          A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.<br>
+        </p>
+    </div>
 <div>
-  <p style="font-size: 18px;">
-    <b>07/2020 &emsp; Neuromatch Academy</b>
-  </p>
-  <p style="margin-left: 20px; font-size: 17px;">
-    A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.<br>
-  </p>
-</div>
 
 
 
