@@ -87,7 +87,6 @@
     }
     .active, .collapsible:hover {
       background-color: #444;
-      border-radius: 10px 10px 0 0;
     }
     .collapsible:after {
       content: '\02795';
@@ -98,6 +97,11 @@
     }
     .active:after {
       content: "\2796";
+      transition: transform 0.2s linear;
+      transform: border-radius(10px)
+    }
+    .active {
+      border-radius: 10px 10px 0 0;
     }
     .content {
       padding: 0 18px;
