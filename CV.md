@@ -28,17 +28,17 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
   <h3 class="CV-heading">09/2016 - 06/2021 &emsp; University of Aberdeen
   M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement
   First-Class Honours</h3>
-  <ul style="padding: 0;">
-    <li style="padding: 0;"><b>Industrial Placement (Master's) thesis</b></li>
-    <li style="padding: 0;">“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.</li>
-    <li style="padding: 0;">Placement at the Bernstein Center for Computational Neuroscience, Berlin.</li>
-    <li style="padding: 0;">Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
-  </ul>
-  <ul style="margin: 0; padding: 0;">
-    <li><b>Honours (Bachelor's) thesis</b></li>
-    <li>"Investigating the neuromodulation of striatal activity <i>in silico</i>”. First Class.</li>
-    <li>Supervisor: Dr. Antonio Gonzalez.</li>
-  </ul>
+  <p class="CV-para">
+    <b>Industrial Placement (Master's) thesis</b>
+    “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.
+    Placement at the Bernstein Center for Computational Neuroscience, Berlin.
+    Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.
+  </p>
+  <p class="CV para">
+    <b>Honours (Bachelor's) thesis</b>
+    "Investigating the neuromodulation of striatal activity <i>in silico</i>”. First Class.
+    Supervisor: Dr. Antonio Gonzalez.
+  </p>
 <div class="CV-para">
   <h3 class="CV-heading">07/2020 &emsp; Neuromatch Academy</h3>
   <ul>
