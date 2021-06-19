@@ -92,7 +92,7 @@ For the full list of publications, <a href="/publications" target="_blank">click
 <div>
   <p>
     <b>2019 - 2020 &emsp; <i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i></b><br>
-    &emsp;&emsp;&emsp;&euro;5,000. Erasmus+ Traineeship grant, British Council.
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&euro;5,000. Erasmus+ Traineeship grant, British Council.
   </p>
   <p>
     <b>2018 &emsp; <i>Free Will and Neural Activity in Consequential Action</i></b><br>
