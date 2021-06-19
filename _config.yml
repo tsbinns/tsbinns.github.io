@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://tsbinns.com", title: "About Me"} #icon: "home"
   - {file: "CV.md", title: "CV", url: "https://tsbinns.com/CV"} #icon: "scroll"
   - {file: "publications.md", title: "Publications", url: "https://tsbinns.com/publications"} #icon: "book"
-  - {file: "contact-links.md", title: "Contact &amp Links", url: "https://tsbinns.com/conract-links"} #icon: "address-book"
+  - {file: "contact-links.md", title: "Contact &amp Links", url: "https://tsbinns.com/contact-links"} #icon: "address-book"
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Email, icon: "envelope", url: "mailto:t.s.binns@outlook.com"}
