@@ -29,6 +29,7 @@ layout: page
 </ul>
 
 <br>
+<hr>
 <h1><a id="2020" class="section-ID">2020</a></h1>
 
 <ul>
