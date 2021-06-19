@@ -3,7 +3,7 @@ title: "Test"
 layout: page
 ---
 
-<button type="button" class="collapsible">Open Collapsible</button>
+<button type="button" class="collapsible">Open</button>
 <div class="content2">
   <p>Lorem ipsum...</p>
 </div>
