@@ -11,7 +11,6 @@
 {% else %}
 <link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
 {% endif %}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link href="/assets/fontawesome/css/all.css" rel="stylesheet">
 {% if site.plugins contains "jekyll-feed" %}<link rel="alternate" href="{{ site.feed.path | default: "/feed.xml" | relative_url }}" type="application/atom+xml" title="{{ site.title }}">{% endif %}
 {% if page.mathjax or site.mathjax %}
@@ -112,31 +111,6 @@
     div.scrollmenu::-webkit-scrollbar-thumb {
       border-radius: 10px;
       -webkit-box-shadow: inset 0 0 3px rgba(255, 255, 255, .9); 
-    }
-    
-
-    /* Notification bar styling */
-    .cookie-banner {
-      position: fixed;
-      bottom: 40px;
-      left: 10%;
-      right: 10%;
-      width: 80%;
-      padding: 5px 14px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      background-color: #eee;
-      border-radius: 5px;
-      box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
-    }
-    .close {
-      height: 20px;
-      background-color: #777;
-      border: none;
-      color: white;
-      border-radius: 2px;
-      cursor: pointer;
     }
       
 
