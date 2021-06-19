@@ -26,7 +26,7 @@ layout: page
     </div>
 </ul>
 
-<br></br>
+<br>
 <h1>2020</h1>
 
 <ul>
