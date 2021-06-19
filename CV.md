@@ -44,10 +44,11 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
   </p>
 </div><br>
 <!-- Expandable -->
-<button type="button" class="collapsible">View Additional Education</button>
+<button type="button" class="collapsible">View Description</button>
 <div class="content">
-    <p> jeff </p>
+    <p>A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.</p>
 </div>
+
 <p style="font-size: 18px;">
   <b>07/2020 &emsp; Neuromatch Academy</b>
 </p>
@@ -95,7 +96,7 @@ Available on request. &nbsp; <a href="mailto:t.s.binns@outlook.com"><i class="fa
 
 
 <script>
-  
+
   /* Makes collapsibles work */
   var coll = document.getElementsByClassName("collapsible");
   var i;
