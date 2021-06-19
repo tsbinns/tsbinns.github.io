@@ -5,7 +5,7 @@ layout: page
 
 <a id="Top" class="section-ID"></a>
 
-Download as a pdf <a href="/assets/documents/tsbinns-CV.pdf>
+Download as a pdf <a href="/assets/documents/tsbinns-CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
