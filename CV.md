@@ -42,6 +42,15 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
     Supervisor: Dr. Antonio Gonzalez.<br>
   </p>
 </div>
+<br>
+<div>
+  <p style="font-size: 18px;">
+    <b>07/2020 &emsp; Neuromatch Academy</b>
+  </p>
+  <p style="margin-left: 20px; font-size: 17px;">
+    A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.<br>
+  </p>
+</div>
 
 
 
