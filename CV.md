@@ -29,13 +29,13 @@ layout: page
   <b>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b>
   First-Class Honours
   <b>Industrial Placement (Master's) thesis</b>
-    <ul>
+    <ul style="list-style-type: none;">
       <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.</li>
       <li>Placement at the Bernstein Center for Computational Neuroscience, Berlin.</li>
       <li>Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
     </ul>
   <b>Honours (Bachelor's) thesis</b>
-    <ul>
+    <ul style="list-style-type: none;">
       <li>"Investigating the neuromodulation of striatal activity <i>in silico</i>”. First Class.</li>
       <li>Supervisor: Dr. Antonio Gonzalez.</li>
     </ul>
