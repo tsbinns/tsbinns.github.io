@@ -4,8 +4,8 @@ layout: page
 ---
 
 <!-- Notification bar: "Use Chrome!" -->
-<div class="alert-browser">
-  <b>For the intended website experience, please use Google Chrome.</b><button class="alert-close">&times;</button>
+<div class=’cookie-banner’ style=’display: none’>
+  <p>By using our website, you agree to our cookie policy. <button class="close">x</button></p>
 </div>
 
 <!-- Profile picture -->
@@ -23,12 +23,11 @@ Feel free to check out my [CV](/CV.html) and [publications](/publications.html),
 
 
 <script>
-  $(document).ready(function(){   
-    setTimeout(function () {
-      $("#alert-browser").fadeIn(200);
-    }, 4000);
-    $("#alert-close").click(function() {
-      $("#alert-browser").fadeOut(200);
-    }); 
-});
+  if (localStorage.getItem(‘cookieSeen’) != ‘shown’) {
+    $(‘.cookie-banner’).delay(2000).fadeIn();
+    localStorage.setItem(‘cookieSeen’,’shown’)
+  };
+    $(‘.close’).click(function() {
+    $(‘.cookie-banner’).fadeOut();
+  })
 </script>
