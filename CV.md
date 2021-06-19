@@ -30,7 +30,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
     M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b><br>
     First-Class Honours
   </p>
-  <p style="margin-left: 20px; font-size: 15px;">
+  <p style="margin-left: 20px; font-size: 17px;">
     <b>Industrial Placement (Master's) thesis</b><br>
     “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
     Placement at the Bernstein Center for Computational Neuroscience, Berlin.<br>
