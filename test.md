@@ -3,7 +3,8 @@ title: "Test"
 layout: page
 ---
 
-<input type="button" onclick="growDiv()" value="View Description" id="more-button">
+<button type="button" onclick="growDiv()" class="collapsible" id="more-button">View Description</button>
+<!--<input type="button" onclick="growDiv()" value="View Description" id="more-button">-->
 <div class="grow-content" id='grow'>
   <div class='measuringWrapper'>
     <div class="text"><br>Here is some more text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae urna nulla. Vivamus a purus mi. In hac habitasse platea dictumst.  In ac tempor quam. Vestibulum eleifend vehicula ligula, et cursus nisl gravida sit
@@ -18,11 +19,9 @@ layout: page
     var growBtn = document.getElementById('more-button');
     if (growDiv.clientHeight) {
       growDiv.style.height = 0;
-      /*growBtn.style.background-color = #555;*/
     } else {
       var wrapper = document.querySelector('.measuringWrapper');
       growDiv.style.height = wrapper.clientHeight + "px";
-      /*growBtn.style.background-color = #444;*/
     }
   }
 </script>
