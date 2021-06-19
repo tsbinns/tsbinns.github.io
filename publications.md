@@ -3,6 +3,10 @@ title: "Publications"
 layout: page
 ---
 
+<!-- Google Scholar link -->
+<i class="fab fa-google"></i> &nbsp; My Google Scholar profile: <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas Samuel Binns</a>
+
+
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
   <a href="#Top">Top</a>
@@ -11,12 +15,8 @@ layout: page
 </div>
 
 
-<!-- Google Scholar link -->
-<i class="fab fa-google"></i> &nbsp; My Google Scholar profile: <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas Samuel Binns</a>
-
-
 <!-- Publication list -->
-## 2021
+<h1>2021</h1>
 
 <ul>
     <li>Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020. <i class="fas fa-link"></i></a></li>
@@ -26,6 +26,7 @@ layout: page
     </div>
 </ul>
 
+<br></br>
 <h1>2020</h1>
 
 <ul>
