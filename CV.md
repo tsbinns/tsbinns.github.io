@@ -5,7 +5,7 @@ layout: page
 
 <a id="Top" class="section-ID"></a>
 
-Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i class="fas fa-file-pdf"></i></a>
+Download the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">here. &nbsp;<i class="fas fa-file-pdf"></i></a>
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
@@ -47,7 +47,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
 <div style="padding-top: 10px;">
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
-      <p">
+      <p>
         <b>07/2020 &emsp; Neuromatch Academy</b>
       </p>
       <p style="margin-left: 20px;">
@@ -65,7 +65,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
 <!-- Publications -->
 <hr>
 <h1><a id="Publications" class="section-ID">Selected Publications</a></h1>
-For the full list of publications, <a href="/publications">click here.</a>
+For the full list of publications, <a href="/publications" target="_blank">click here.</a>
 
 <ul>
     <li>Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020. <i class="fas fa-link"></i></a></li>
