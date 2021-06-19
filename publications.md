@@ -39,8 +39,8 @@ layout: page
 </ul>
 
 
-<!-- Script for making collapsibles -->
 <script>
+  /* Makes collapsibles work */
   var coll = document.getElementsByClassName("collapsible");
   var i;
 
