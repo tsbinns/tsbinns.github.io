@@ -15,11 +15,11 @@ layout: page
 
 <script>
   function growDiv() {
+    this.classList.toggle("active");
     var growDiv = document.getElementById('grow');
     if (growDiv.clientHeight) {
       growDiv.style.height = 0;
     } else {
-      this.classList.toggle("active");
       var wrapper = document.querySelector('.measuringWrapper');
       growDiv.style.height = wrapper.clientHeight + "px";
     }
