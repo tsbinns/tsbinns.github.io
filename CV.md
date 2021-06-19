@@ -23,7 +23,7 @@ layout: page
 
 <!-- Education -->
 <h1><a id="Education" class="section-ID">Education</a></h1>
-<div style="white-space: pre">
+<div style="white-space: pre-line">
   <b>09/2016 - 06/2021 &emsp; University of Aberdeen</b>
   <b>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b>
   First-Class Honours
@@ -31,7 +31,7 @@ layout: page
   <b>Honours (Bachelor's) thesis -</b> "Investigating the neuromodulation of striatal activity <i>in silico</i>”. Supervisor: Dr. Antonio Gonzalez. First-Class.
 </div>
 
-<div style="white-space: pre">
+<div style="white-space: pre-line">
   <b>07/2020 &emsp; Neuromatch Academy</b>
   A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
 </div>
