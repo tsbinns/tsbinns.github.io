@@ -28,10 +28,10 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
   <h3 class="CV-heading">09/2016 - 06/2021 &emsp; University of Aberdeen
   M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement
   First-Class Honours</h3>
-  &emsp;&emsp;<b>Industrial Placement (Master's) thesis</b>
+  &emsp;&emsp;<p><b>Industrial Placement (Master's) thesis</b>
   &emsp;&emsp;“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.
   &emsp;&emsp;Placement at the Bernstein Center for Computational Neuroscience, Berlin.
-  &emsp;&emsp;Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.
+  &emsp;&emsp;Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</p>
 
   &emsp;&emsp;<b>Honours (Bachelor's) thesis</b>
   &emsp;&emsp;"Investigating the neuromodulation of striatal activity <i>in silico</i>”. First Class.
@@ -40,7 +40,7 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
 <br>
 <div style="white-space: pre-line;">
   <h3 class="CV-heading">07/2020 &emsp; Neuromatch Academy</h3>
-  &emsp;&emsp;A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
+  &emsp;&emsp;<p>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</p>
 </div>
 
 
