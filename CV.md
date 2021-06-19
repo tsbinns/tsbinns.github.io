@@ -25,12 +25,12 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
 <!-- Education -->
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
 <div>
-  <p style="text-size:20px">
+  <p style="font-size: x-large;">
     <b>09/2016 - 06/2021 &emsp; University of Aberdeen<br>
     M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b><br>
     First-Class Honours
   </p>
-  <p style="margin-left: 20px; text-size:18px">
+  <p style="margin-left: 20px; font-size: large;">
     <b>Industrial Placement (Master's) thesis</b><br>
     “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
     Placement at the Bernstein Center for Computational Neuroscience, Berlin.<br>
