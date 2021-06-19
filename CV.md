@@ -31,10 +31,15 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
     First-Class Honours
   </p>
   <p style="margin-left: 20px; font-size: 17px;">
-    <b>Industrial Placement (Master's) thesis</b><br>
+    <b>Industrial Placement (Master's) thesis:</b><br>
     “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
     Placement at the Bernstein Center for Computational Neuroscience, Berlin.<br>
     Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.<br>
+  </p>
+  <p style="margin-left: 20px; font-size: 17px;">
+    <b>Honours (Bachelor's) thesis:</b><br>
+    “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class.<br>
+    Supervisor: Dr. Antonio Gonzalez.<br>
   </p>
 </div>
 
