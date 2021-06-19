@@ -1,5 +1,5 @@
 ---
-title: "About Me - Thomas Samuel Binns"
+title: "Curriculum Vitae"
 layout: page
 ---
 
