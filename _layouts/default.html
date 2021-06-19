@@ -85,9 +85,16 @@
       font-size: 15px;
       border-radius: 10px;
     }
-    .active, .collapsible:hover {
+    .active {
       background-color: #444;
       border-radius: 10px 10px 0 0;
+    }
+    .collapsible:hover {
+      background-color: #444;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
+      -webkit-transition: border-radius 1s;
+      transition: border-radius 1s;
     }
     .collapsible:after {
       content: '\02795';
