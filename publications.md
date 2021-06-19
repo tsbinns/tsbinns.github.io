@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 ---
-<a id="Top" class="section-ID"></a>
+<a id="Top" class="section-ID" style="position: relative; top: -50 px"></a>
 
 <!-- Google Scholar link -->
 <i class="fab fa-google"></i> &nbsp; My Google Scholar profile: <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas Samuel Binns</a>
@@ -10,7 +10,7 @@ layout: page
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
-  <a href="#Top" style="position: relative; top: -50 px">Top</a>
+  <a href="#Top">Top</a>
   <a href="#2021">2021</a>
   <a href="#2020">2020</a>
 </div>
