@@ -44,10 +44,13 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
   </p>
 </div><br>
 <!-- Expandable -->
-<button type="button" class="collapsible">View Description</button>
-<div class="content">
-    <p>A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.</p>
-</div>
+<ul>
+  <li> test </li>
+  <button type="button" class="collapsible">View Description</button>
+  <div class="content">
+      <p>A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.</p>
+  </div>
+</ul>
 
 <p style="font-size: 18px;">
   <b>07/2020 &emsp; Neuromatch Academy</b>
