@@ -78,7 +78,7 @@
       background-color: #555;
       color: white;
       cursor: pointer;
-      padding: 5px;
+      padding: 8px;
       border: none;
       text-align: left;
       outline: none;
@@ -97,13 +97,27 @@
       background-color: #444;
       color: white
     }
-    .content2 {
-      padding: 0 18px;
-      overflow: hidden;
-      background-color: #444;
+
+    .collapsible-a {
+      background-color: #777;
       color: white;
+      cursor: pointer;
+      padding: 18px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 15px;
+    }
+    .active-a, .collapsible-a:hover {
+      background-color: #555;
+    }
+    .content-a {
+      padding: 0 18px;
       max-height: 0;
+      overflow: hidden;
       transition: max-height 0.2s ease-out;
+      background-color: #f1f1f1;
     }
 
 
