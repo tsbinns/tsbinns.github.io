@@ -102,8 +102,10 @@
     .active {
       background-color: #444;
       border-radius: 10px 10px 0 0;
-      -webkit-transition: border-radius .5s;
-      transition: border-radius .5s;
+      /*
+      -webkit-transition: border-radius .1s;
+      transition: border-radius .1s;
+      */
     }
     .collapsible:hover {
       background-color: #444;
@@ -120,9 +122,13 @@
       color: white;
       float: right;
       margin-left: 5px;
+      
     }
     .active:after {
       content: "\2796";
+      border-radius: 10px 10px 0 0;
+      -webkit-transition: border-radius .1s;
+      transition: border-radius .1s;
     }
     .content {
       padding: 0 18px;
