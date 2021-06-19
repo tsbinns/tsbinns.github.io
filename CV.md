@@ -32,7 +32,7 @@ layout: page
   <b>Honours (Bachelor's) thesis -</b> "Investigating the neuromodulation of striatal activity <i>in silico</i>”. Supervisor: Dr. Antonio Gonzalez. First-Class.
 </div>
 
-<div style="white-space: pre-line; font-size: 18">
+<div style="white-space: pre-line; font-size: 40">
   <b>07/2020 &emsp; Neuromatch Academy</b>
   A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
 </div>
