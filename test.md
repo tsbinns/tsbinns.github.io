@@ -15,7 +15,6 @@ layout: page
 
 <script>
   function growDiv() {
-    this.classList.toggle("active");
     var growDiv = document.getElementById('grow');
     if (growDiv.clientHeight) {
       growDiv.style.height = 0;
