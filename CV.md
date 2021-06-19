@@ -25,9 +25,9 @@ layout: page
 <h1><a id="Education" class="section-ID">Education</a></h1>
 
 <div style="white-space: pre-line;">
-  <larger><b>09/2016 - 06/2021 &emsp; University of Aberdeen</b>
-  <b>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b>
-  First-Class Honours</larger>
+  <large>09/2016 - 06/2021 &emsp; University of Aberdeen
+  M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement
+  First-Class Honours</large>
 
   <b>Industrial Placement (Master's) thesis</b>
   &emsp;&emsp;“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.
