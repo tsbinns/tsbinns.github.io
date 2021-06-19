@@ -18,7 +18,7 @@ layout: page
     var growBtn = document.getElementById('more-button');
     if (growDiv.clientHeight) {
       growDiv.style.height = 0;
-      growBtn.style.background-color = #555;
+      /*growBtn.style.background-color = #555;*/
     } else {
       var wrapper = document.querySelector('.measuringWrapper');
       growDiv.style.height = wrapper.clientHeight + "px";
