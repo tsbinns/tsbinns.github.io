@@ -22,6 +22,5 @@ layout: page
       var wrapper = document.querySelector('.measuringWrapper');
       growDiv.style.height = wrapper.clientHeight + "px";
     }
-    /*document.getElementById("more-button").value = document.getElementById("more-button").value == 'Read more' ? 'Read less' : 'Read more';*/
   }
 </script>
