@@ -1,5 +1,5 @@
 ---
-title: "Contact &amp; Links"
+title: "Contact & Links"
 layout: page
 ---
 
