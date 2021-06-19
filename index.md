@@ -3,13 +3,9 @@ title: "About Me - Thomas Samuel Binns"
 layout: page
 ---
 
-<!-- Notification bar: "Use Chrome!" -->
-<div class=’cookie-banner’ style=’display: none’>
-  <p>By using our website, you agree to our cookie policy. <button class="close">x</button></p>
-</div>
 
 <!-- Profile picture -->
-<img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic.png">
+<img width="25%" height="auto" style="float: left; margin-right: 20px; border: 1px solid #444" src="/assets/images/ProfilePic.png">
 
 
 <!-- Main website description/introduction -->
@@ -20,14 +16,3 @@ I have recently graduated with First-Class Honours in an M.Sci. Neuroscience wit
 I am scheduled to begin my Ph.D. at the Einstein Center for Neurosciences Berlin, Germany, in October 2021.
 
 Feel free to check out my [CV](/CV.html) and [publications](/publications.html), or contact me [here](/contact-links.html).
-
-
-<script>
-  if (localStorage.getItem(‘cookieSeen’) != ‘shown’) {
-    $(‘.cookie-banner’).delay(2000).fadeIn();
-    localStorage.setItem(‘cookieSeen’,’shown’)
-  };
-    $(‘.close’).click(function() {
-    $(‘.cookie-banner’).fadeOut();
-  })
-</script>
