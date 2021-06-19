@@ -41,6 +41,7 @@ layout: page
 
 
 <script>
+  
   /* Makes collapsibles work */
   var coll = document.getElementsByClassName("collapsible");
   var i;
@@ -75,5 +76,4 @@ layout: page
   // Set the offset when entering page with hash present in the url
   window.setTimeout(offsetAnchor, 0);
 
-  
 </script>
