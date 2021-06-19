@@ -23,7 +23,6 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
 
 
 <!-- Education -->
-<h1><a id="Education" class="section-ID">Education</a></h1>
 <h1 style="padding-bottom: 0;"><a id="Education" class="section-ID">Education</a></h1>
 <div class="CV-para">
   <h3 class="CV-heading">09/2016 - 06/2021 &emsp; University of Aberdeen
