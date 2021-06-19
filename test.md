@@ -4,17 +4,15 @@ layout: page
 ---
 
 
-<h1 class="title-content">Expandable Animation Keyframe</h1>
 <article class="middle-content">
   <div class="section-item-wrapper">
       <div class="section is--collapsed">
         <div class="section-item">
           <button id="section-title" aria-expanded="false" aria-controls="section-content" class="section-item-title">
-            Rutger Hauer
+            View Description
             <i class="section-item-title-icon fas fa-chevron-down"></i>
           </button>
-          <div id="section-content" role="region" tabindex="-1" aria-labelledby="section-title" class="section-item-content" aria-hidden="true">
-<q>"I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain."</q>
+          <p>Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement. We tested the ability of participants to control the magnitude of their RP in a neurofeedback experiment. Participants performed self-initiated movements, and after every movement, they were provided with immediate feedback about the magnitude of their RP. They were asked to find a strategy to perform voluntary movements such that the RPs were as small as possible. We found no evidence that participants were able to to willfully modulate or suppress their RPs while still eliciting voluntary movements. This suggests that the RP might be an involuntary component of voluntary action over which people cannot exert conscious control.</p>
           </div>
         </div>
     </div>
