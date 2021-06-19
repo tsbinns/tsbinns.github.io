@@ -45,19 +45,16 @@ Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i cl
 </div><br>
 <!-- Expandable -->
 <ul>
-  <li> test </li>
-  <button type="button" class="collapsible">View Description</button>
+  <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
-      <p>A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.</p>
+      <p style="font-size: 18px;">
+        <b>07/2020 &emsp; Neuromatch Academy</b>
+      </p>
+      <p style="margin-left: 20px; font-size: 17px;">
+        A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.<br>
+      </p>
   </div>
 </ul>
-
-<p style="font-size: 18px;">
-  <b>07/2020 &emsp; Neuromatch Academy</b>
-</p>
-<p style="margin-left: 20px; font-size: 17px;">
-  A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.<br>
-</p>
 
 
 
