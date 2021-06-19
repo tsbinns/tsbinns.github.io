@@ -39,6 +39,12 @@ layout: page
 </ul>
 
 
+<style>
+  #Top {
+    scroll-padding: 100px;
+  }
+</style>
+
 <script>
   /* Makes collapsibles work */
   var coll = document.getElementsByClassName("collapsible");
