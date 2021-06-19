@@ -22,7 +22,7 @@ layout: page
     } else {
       var wrapper = document.querySelector('.measuringWrapper');
       growDiv.style.height = wrapper.clientHeight + "px";
-      growBtn.style.background-color = #444;
+      /*growBtn.style.background-color = #444;*/
     }
   }
 </script>
