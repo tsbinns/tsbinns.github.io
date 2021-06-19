@@ -24,7 +24,7 @@ layout: page
 <!-- Education -->
 <h1><a id="Education" class="section-ID">Education</a></h1>
 
-<div style="white-space: pre-line; font-size:22;">
+<div style="white-space: pre-line; font-size:larger;">
   <b>09/2016 - 06/2021 &emsp; University of Aberdeen</b>
   <b>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b>
   First-Class Honours
@@ -41,7 +41,7 @@ layout: page
     </ul>
 </div>
 
-<div style="white-space: pre-line; font-size: 40;">
+<div style="white-space: pre-line; font-size: larger;">
   <b>07/2020 &emsp; Neuromatch Academy</b>
   A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
 </div>
