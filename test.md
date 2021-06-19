@@ -3,7 +3,7 @@ title: "Test"
 layout: page
 ---
 
-<button type="button" onclick="growDiv()" class="collapsible" id="more-button">View Description</button>
+<button type="button" onclick="growDiv()" class="collapsible" id="more-button">View Descriptions</button>
 <!--<input type="button" onclick="growDiv()" value="View Description" id="more-button">-->
 <div class="grow-content" id='grow'>
   <div class='measuringWrapper'>
