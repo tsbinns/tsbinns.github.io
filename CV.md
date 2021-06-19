@@ -5,7 +5,7 @@ layout: page
 
 <a id="Top" class="section-ID"></a>
 
-Download as a pdf <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i class="fas fa-file-pdf"></i></a>
+Download the CV as a pdf. <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i class="fas fa-file-pdf"></i></a>
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
@@ -23,7 +23,7 @@ Download as a pdf <a href="/assets/documents/tsbinns-CV.pdf">&nbsp;<i class="fas
 
 
 <!-- Education -->
-<h1 style="margin: 0;"><a id="Education" class="section-ID">Education</a></h1>
+<h1 style="padding-bottom: 0;"><a id="Education" class="section-ID">Education</a></h1>
 <div class="CV-para">
   <h3 class="CV-heading">09/2016 - 06/2021 &emsp; University of Aberdeen
   M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement
