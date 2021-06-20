@@ -30,7 +30,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
   <h3 style="margin-left: 20px; margin-top: 5px">
     University of Aberdeen<br>
     M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours
-  </p>
+  </h3>
   <p style="margin-left: 20px;">
     <b>Industrial Placement (Master's) thesis:</b><br>
     “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
