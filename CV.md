@@ -236,7 +236,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <hr>
 <h1><a id="References" class="section-ID">References</a></h1>
 
-Available on request. &nbsp; <a href="mailto:t.s.binns@outlook.com"><i class="fas fa-envelope"></i></a>
+Available upon request. &nbsp; <a href="mailto:t.s.binns@outlook.com"><i class="fas fa-envelope"></i></a>
 
 
 <!-- Scripts -->
