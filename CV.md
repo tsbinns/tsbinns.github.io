@@ -44,7 +44,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
     </p>
 </div>
 <!-- Additional Education -->
-<div style="margin-top: 20px;">
+<div style="margin-top: 30px;">
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
       <h3 class="CV-header">07/2020</h3>
@@ -71,8 +71,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
       As part of my Honour's project, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
       Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working in an academic laboratory setting working cohesively with fellow researchers.
     </p>
-  <br>
-  <h3 class="CV-header">08/2019 - 08/2020</h3>
+  <h3 class="CV-header" style="margin-top: 30px;">08/2019 - 08/2020</h3>
     <p class="CV-desc">
       <b>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany<br>
       Researcher<br>
@@ -83,9 +82,8 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
       Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.
     </p>
 </div>
-<br>
 <!-- Additional Experience -->
-<div style="margin-top: 20px;">
+<div style="margin-top: 30px;">
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="content">
     <h3 class="CV-header">05/2018 - 10/2018</h3>
@@ -110,15 +108,14 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
 <p>
   Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020.</a>
 </p>
-<div>
-<button type="button" class="collapsible">View Description</button>
-  <div class="content">
-    <p>
-      Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement. We tested the ability of participants to control the magnitude of their RP in a neurofeedback experiment. Participants performed self-initiated movements, and after every movement, they were provided with immediate feedback about the magnitude of their RP. They were asked to find a strategy to perform voluntary movements such that the RPs were as small as possible. We found no evidence that participants were able to to willfully modulate or suppress their RPs while still eliciting voluntary movements. This suggests that the RP might be an involuntary component of voluntary action over which people cannot exert conscious control.
-    </p>
-  </div>
+<div style="margin-bottom: 30px;">
+  <button type="button" class="collapsible">View Description</button>
+    <div class="content">
+      <p>
+        Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement. We tested the ability of participants to control the magnitude of their RP in a neurofeedback experiment. Participants performed self-initiated movements, and after every movement, they were provided with immediate feedback about the magnitude of their RP. They were asked to find a strategy to perform voluntary movements such that the RPs were as small as possible. We found no evidence that participants were able to to willfully modulate or suppress their RPs while still eliciting voluntary movements. This suggests that the RP might be an involuntary component of voluntary action over which people cannot exert conscious control.
+      </p>
+    </div>
 </div>
-<br>
 <p>
   <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="\assets\documents\BNA_article.pdf"><i class="fas fa-file-pdf"></i></a>
 </p>
