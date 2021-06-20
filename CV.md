@@ -26,7 +26,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
 <!-- Main -->
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
 <div>
-  <h4>09/2016 - 06/2021</h4>
+  <h3 style="margin-bottom: 0;">09/2016 - 06/2021</h3>
   <p style="margin-left: 20px;">
     <b>University of Aberdeen<br>
     M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement</b><br>
