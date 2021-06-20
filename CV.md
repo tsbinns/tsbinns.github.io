@@ -139,7 +139,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       <b><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</b><br>
       Erasmus+ Traineeship grant, British Council.
     </p>
-    <div style="margin-left: 20px;"> <!-- Expandible -->
+    <div style="margin-left: 20px; margin-bottom: 30px;"> <!-- Expandible -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="content">
         <h3 class="CV-header">08/2019 - 08/2020</h3>
