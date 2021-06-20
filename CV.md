@@ -43,8 +43,9 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
       Supervisor: Dr. Antonio Gonzalez.<br>
     </p>
 </div>
+<br>
 <!-- Expandable -->
-<div style="padding-top: 10px;">
+<div>
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
       <h3 class="CV-header">07/2020</h3>
@@ -72,7 +73,8 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
       Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.
     </p>
 </div>
-
+<br>
+<!-- Expandable -->
 <button type="button" class="collapsible">View Additional Experience</button>
 <div class="content">
   <h3 class="CV-header">05/2018 - 10/2018</h3>
