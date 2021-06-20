@@ -75,17 +75,19 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
 </div>
 <br>
 <!-- Expandable -->
-<button type="button" class="collapsible">View Additional Experience</button>
-<div class="content">
-  <h3 class="CV-header">05/2018 - 10/2018</h3>
-    <p class="CV-desc">
-      <b>Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK<br>
-      Research Assistant<br>
-      Supervisor: Dr. Rama Chakravarthi</b>
-    </p>
-    <p class="CV-desc">
-      My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.
-    </p>
+<div>
+  <button type="button" class="collapsible">View Additional Experience</button>
+  <div class="content">
+    <h3 class="CV-header">05/2018 - 10/2018</h3>
+      <p class="CV-desc">
+        <b>Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK<br>
+        Research Assistant<br>
+        Supervisor: Dr. Rama Chakravarthi</b>
+      </p>
+      <p class="CV-desc">
+        My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.
+      </p>
+  </div>
 </div>
 
 
