@@ -71,6 +71,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
       As part of my Honour's project, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
       Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working in an academic laboratory setting working cohesively with fellow researchers.
     </p>
+  <br>
   <h3 class="CV-header">08/2019 - 08/2020</h3>
     <p class="CV-desc">
       <b>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany<br>
