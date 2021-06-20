@@ -67,7 +67,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
 <hr>
 <h1><a id="Publications" class="section-ID">Selected Publications</a></h1>
 
-<p style="margin-bottom: 20px;">For the full list of publications, <a href="/publications" target="_blank">click here.</a></p>
+<p style="margin-bottom: 33px;">For the full list of publications, <a href="/publications" target="_blank">click here.</a></p>
 
 <p>Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020. <i class="fas fa-link"></i></a></p>
 <button type="button" class="collapsible">View Description</button>
@@ -96,8 +96,8 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
     <b><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</b><br>
     Erasmus+ Traineeship grant, British Council.
   </p>
-  <p>
-    <b>2018<br>
+  <p style="margin-bottom: 0;"><b>2018</b></p>
+  <p style="margin-left: 20px; margin-top: 0;">
     <i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</b><br>
     Biomedical Vacation Scholarship, Wellcome Trust.
   </p>
