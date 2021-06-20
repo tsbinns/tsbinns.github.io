@@ -24,7 +24,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
 
 <!-- Education -->
 <!-- Main -->
-<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
+<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
 <div>
   <h3 class="CV-header">09/2016 - 06/2021</h3>
     <p class="CV-desc">
