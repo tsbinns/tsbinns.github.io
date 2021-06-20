@@ -28,7 +28,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
 <div>
   <h3 class="CV-header">09/2016 - 06/2021</h3>
     <p class="CV-desc">
-      <b>University of Aberdeen<br>
+      <b>University of Aberdeen, UK<br>
       M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</b>
     </p>
     <p class="CV-desc">
@@ -63,15 +63,26 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
 <div>
   <h3 class="CV-header">08/2019 - 08/2020</h3>
     <p class="CV-desc">
-      <b>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin<br>
+      <b>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany<br>
       Researcher<br>
       Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</b>
     </p>
     <p class="CV-desc">
-      My placement at the Bernstein Center was funded by an Erasmus+ Traineeship grant, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation.<br>
-      My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS.<br>
-      As part of this work, I co-authored a research article that has been published in the journal eNeuro. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><br>
+      My placement at the Bernstein Center was funded by an Erasmus+ Traineeship grant, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in the journal eNeuro. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a><br>
       Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.
+    </p>
+</div>
+
+<button type="button" class="collapsible">View Additional Experience</button>
+<div class="content">
+  <h3 class="CV-header">05/2018 - 10/2018</h3>
+    <p class="CV-desc">
+      <b>Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK<br>
+      Research Assistant<br>
+      Supervisor: Dr. Rama Chakravarthi</b>
+    </p>
+    <p class="CV-desc">
+      My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.
     </p>
 </div>
 
@@ -83,7 +94,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
 <p style="margin-bottom: 30px;">For the full list of publications, <a href="/publications">click here.</a></p>
 
 <p>
-  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020. <i class="fas fa-link"></i></a>
+  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020.</a>
 </p>
 <button type="button" class="collapsible">View Description</button>
 <div class="content">
@@ -128,8 +139,9 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
 <div>
   <h3 class="CV-header">09/2018 - Present</h3>
     <p class="CV-desc">
-      <b>Member, British Neuroscience Associsation (BNA), Bristol, UK</b><br>
-      As a member of the BNA I have taken full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I have recently contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin, allowing me to demonstrate and further hone my academic writing skills.
+      <b>British Neuroscience Associsation (BNA), Bristol, UK<br>
+      Member</b><br>
+      As a member of the BNA I have taken full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I have also contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin, allowing me to demonstrate and further hone my academic writing skills.
     </p>
 </div>
 
@@ -154,7 +166,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
   <h3 class="CV-header">Teamwork</h3>
     <p class="CV-desc">
       Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Bernstein Center and University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences, and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.
-    </p>>
+    </p>
 </div>
 
 <!-- Achievements & Interests -->
