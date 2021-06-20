@@ -5,7 +5,7 @@ layout: page
 
 <a id="Top" class="section-ID"></a>
 
-View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i class="fas fa-file-pdf"></i></a>
+View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here. &nbsp;<i class="fas fa-file-pdf"></i></a>
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
