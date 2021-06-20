@@ -91,8 +91,8 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
 <h1><a id="Funding" class="section-ID">Funding</a></h1>
 
 <div>
-  <p><b>2019 - 2020</b></p>
-  <p style="margin-left: 20px;">
+  <p style="margin-bottom: 0;"><b>2019 - 2020</b></p>
+  <p style="margin-left: 20px; margin-top: 0;">
     <b><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</b><br>
     Erasmus+ Traineeship grant, British Council.
   </p>
