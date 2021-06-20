@@ -47,11 +47,12 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
 <div style="padding-top: 10px;">
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
-      <p>
-        <b>07/2020 &emsp; Neuromatch Academy</b>
-      </p>
+      <h3>
+        07/2020<br>
+        Neuromatch Academy
+      </h3>
       <p style="margin-left: 20px;">
-        A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.<br>
+        A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
       </p>
   </div>
 </div>
@@ -91,12 +92,14 @@ For the full list of publications, <a href="/publications" target="_blank">click
 <h1><a id="Funding" class="section-ID">Funding</a></h1>
 <div>
   <p>
-    <b>2019 - 2020 &emsp; <i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i></b><br>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&euro;5,000. Erasmus+ Traineeship grant, British Council.
+    <b>2019 - 2020<br>
+    <i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i>, &euro;5,000.</b><br>
+    Erasmus+ Traineeship grant, British Council.
   </p>
   <p>
-    <b>2018 &emsp; <i>Free Will and Neural Activity in Consequential Action</i></b><br>
-    &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&pound;2,000. Biomedical Vacation Scholarship, Wellcome Trust.
+    <b>2018<br>
+    <i>Free Will and Neural Activity in Consequential Action</i>, &pound;2,000.</b><br>
+    Biomedical Vacation Scholarship, Wellcome Trust.
   </p>
 </div>
 
