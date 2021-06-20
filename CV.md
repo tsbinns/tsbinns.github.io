@@ -43,9 +43,8 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
       Supervisor: Dr. Antonio Gonzalez.<br>
     </p>
 </div>
-<br>
-<!-- Expandable -->
-<div>
+<!-- Additional Education -->
+<div style="margin-top: 20px;">
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
       <h3 class="CV-header">07/2020</h3>
@@ -84,8 +83,8 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
     </p>
 </div>
 <br>
-<!-- Expandable -->
-<div>
+<!-- Additional Experience -->
+<div style="margin-top: 20px;">
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="content">
     <h3 class="CV-header">05/2018 - 10/2018</h3>
@@ -118,7 +117,7 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf">here. &nbsp;<i c
     </p>
   </div>
 </div>
-
+<br>
 <p>
   <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="\assets\documents\BNA_article.pdf"><i class="fas fa-file-pdf"></i></a>
 </p>
