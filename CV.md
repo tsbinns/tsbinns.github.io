@@ -96,7 +96,7 @@ For the full list of publications, <a href="/publications" target="_blank">click
   </p>
   <p>
     <b>2018 &emsp; <i>Free Will and Neural Activity in Consequential Action</i></b><br>
-    &pound;2,000. Biomedical Vacation Scholarship, Wellcome Trust.
+    &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&pound;2,000. Biomedical Vacation Scholarship, Wellcome Trust.
   </p>
 </div>
 
