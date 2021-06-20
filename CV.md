@@ -142,14 +142,14 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     <div style="margin-left: 20px;"> <!-- Expandible -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="content">
-        <h3 class="CV-header">05/2018 - 10/2018</h3>
+        <h3 class="CV-header">08/2019 - 08/2020</h3>
           <p class="CV-desc">
-            <b>Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK<br>
-            Research Assistant<br>
-            Supervisor: Dr. Rama Chakravarthi</b>
+            <b>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany<br>
+            Researcher<br>
+            Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</b>
           </p>
           <p class="CV-desc">
-            My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.
+            The core theme of my work on placement at the Bernstein Center was the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a><br> Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.
           </p>
       </div>
     </div>
@@ -161,14 +161,14 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     <div style="margin-left: 20px;"> <!-- Expandible -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="content">
-        <h3 class="CV-header">08/2019 - 08/2020</h3>
+        <h3 class="CV-header">05/2018 - 10/2018</h3>
           <p class="CV-desc">
-            <b>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany<br>
-            Researcher<br>
-            Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</b>
+            <b>Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK<br>
+            Research Assistant<br>
+            Supervisor: Dr. Rama Chakravarthi</b>
           </p>
           <p class="CV-desc">
-            The core theme of my work on placement at the Bernstein Center was the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a><br> Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.
+            My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.
           </p>
       </div>
     </div>
