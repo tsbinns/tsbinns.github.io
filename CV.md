@@ -5,7 +5,7 @@ layout: page
 
 <a id="Top" class="section-ID"></a>
 
-Download the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">here. &nbsp;<i class="fas fa-file-pdf"></i></a>
+View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">here. &nbsp;<i class="fas fa-file-pdf"></i></a>
 
 <!-- Topbar for navigation of publications by year -->
 <div class="scrollmenu">
@@ -92,7 +92,7 @@ For the full list of publications, <a href="/publications" target="_blank">click
 <div>
   <p>
     <b>2019 - 2020 &emsp; <i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i></b><br>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&euro;5,000. Erasmus+ Traineeship grant, British Council.
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&euro;5,000. Erasmus+ Traineeship grant, British Council.
   </p>
   <p>
     <b>2018 &emsp; <i>Free Will and Neural Activity in Consequential Action</i></b><br>
