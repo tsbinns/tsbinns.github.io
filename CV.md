@@ -26,18 +26,18 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
 <!-- Main -->
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
 <div>
-  <h3>
-    09/2016 - 06/2021<br>
-    University of Aberdeen<br>
-    M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours
-  </h3>
-  <p style="margin-left: 20px;">
+  <p class="CV-header">09/2016 - 06/2021</p>
+  <p class="CV-desc">
+    <b>University of Aberdeen<br>
+    M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</b>
+  </p>
+  <p class="CV-desc">
     <b>Industrial Placement (Master's) thesis:</b><br>
     “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
     Placement at the Bernstein Center for Computational Neuroscience, Berlin.<br>
     Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.<br>
   </p>
-  <p style="margin-left: 20px;">
+  <p class="CV-desc">
     <b>Honours (Bachelor's) thesis:</b><br>
     “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class.<br>
     Supervisor: Dr. Antonio Gonzalez.<br>
@@ -47,11 +47,9 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
 <div style="padding-top: 10px;">
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
-      <h3>
-        07/2020<br>
-        Neuromatch Academy
-      </h3>
-      <p style="margin-left: 20px;">
+      <p class="CV-header">07/2020</p>
+      <p class="CV-desc">
+        <b>Neuromatch Academy</b><br>
         A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
       </p>
   </div>
@@ -91,13 +89,13 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
 <h1><a id="Funding" class="section-ID">Funding</a></h1>
 
 <div>
-  <p style="margin-bottom: 0;"><b>2019 - 2020</b></p>
-  <p style="margin-left: 20px; margin-top: 0;">
+  <p class="CV-header">2019 - 2020</p>
+  <p class="CV-desc">
     <b><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</b><br>
     Erasmus+ Traineeship grant, British Council.
   </p>
-  <p style="margin-bottom: 0;"><b>2018</b></p>
-  <p style="margin-left: 20px; margin-top: 0;">
+  <p class="CV-header">2018</p>
+  <p class="CV-desc">
     <b><i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</b><br>
     Biomedical Vacation Scholarship, Wellcome Trust.
   </p>
