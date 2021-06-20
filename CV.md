@@ -48,8 +48,10 @@ View the CV as a pdf <a href="/assets/documents/tsbinns-CV.pdf" target="_blank">
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
       <h3 class="CV-header">07/2020</h3>
-      <p class="CV-desc"><b>Neuromatch Academy</b></p>
-      <p class="CV-desc">A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</p>
+      <p class="CV-desc">
+        <b>Neuromatch Academy</b><br>
+        A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
+      </p>
   </div>
 </div>
 
