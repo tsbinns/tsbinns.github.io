@@ -62,7 +62,7 @@
     }
 
 
-    /* Line styling */
+    /* Break/line styling */
     hr {
       width: 85%;
       height: 1px;
@@ -82,7 +82,7 @@
     }
 
 
-    /* CV styling */
+    /* CV entry styling */
     .CV-header {
       margin-bottom: 0;
     }
@@ -169,7 +169,6 @@
       background: transparent;
     }
     div.scrollmenu::-webkit-scrollbar-track {
-      /*-webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.5);*/
       border-radius: 10px;
     }
     div.scrollmenu::-webkit-scrollbar-track-piece:start{
@@ -183,6 +182,42 @@
     div.scrollmenu::-webkit-scrollbar-thumb {
       border-radius: 10px;
       -webkit-box-shadow: inset 0 0 3px rgba(255, 255, 255, .9); 
+    }
+
+
+    /* Callout box - fixed position at the bottom of the page */
+    .callout {
+      position: fixed;
+      bottom: 35px;
+      right: 20px;
+      margin-left: 20px;
+      max-width: 300px;
+    }
+    /* Callout header */
+    .callout-header {
+      padding: 25px 15px;
+      background: #555;
+      font-size: 30px;
+      color: white;
+    }
+    /* Callout container/body */
+    .callout-container {
+      padding: 15px;
+      background-color: #ccc;
+      color: black
+    }
+    /* Close button */
+    .closebtn {
+      position: absolute;
+      top: 5px;
+      right: 15px;
+      color: white;
+      font-size: 30px;
+      cursor: pointer;
+    }
+    /* Change color on mouse-over */
+    .closebtn:hover {
+      color: lightgrey;
     }
 
   </style>
