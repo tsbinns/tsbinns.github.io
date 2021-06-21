@@ -16,7 +16,7 @@ I am scheduled to begin my Ph.D. at the Einstein Center for Neurosciences Berlin
 
 Feel free to check out my [CV](/CV) and [publications](/publications), or contact me [here](/contact-links).
 
-<div class="alert" style="margin-top: 20px;">
+<div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   For the intended experience, please use Google Chrome.
 </div>
