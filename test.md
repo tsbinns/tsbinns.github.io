@@ -4,11 +4,9 @@ layout: page
 ---
 
 
-<div class="callout">
-  <div class="callout-header">
-    For the intended experience, please use Google Chrome.
-    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  </div>
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  For the intended experience, please use Google Chrome.
 </div>
 
 <script>
