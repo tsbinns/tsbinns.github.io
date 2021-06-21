@@ -5,10 +5,7 @@ layout: page
 
 
 <div class="callout">
-  <div class="callout-header">Callout Header</div>
+  <div class="callout-header">For the intended experience, please use Google Chrome.</div>
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  <div class="callout-container">
-    <p>Some text...</p>
-  </div>
 </div>
 
