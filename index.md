@@ -3,7 +3,7 @@ title: "About Me - Thomas Samuel Binns"
 layout: page
 ---
 
-<div class="alert">
+<div class="alert" style="margin-bottom: 20px;">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   For the intended experience, please use Google Chrome.
 </div>
@@ -20,11 +20,6 @@ I have recently graduated with First-Class Honours in an M.Sci. Neuroscience wit
 I am scheduled to begin my Ph.D. at the Einstein Center for Neurosciences Berlin, Germany, in October 2021.
 
 Feel free to check out my [CV](/CV) and [publications](/publications), or contact me [here](/contact-links).
-
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  For the intended experience, please use Google Chrome.
-</div>
 
 
 <script>
