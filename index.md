@@ -16,7 +16,7 @@ I have recently graduated with First-Class Honours in an M.Sci. Neuroscience wit
 I am scheduled to begin my Ph.D. at the Einstein Center for Neurosciences Berlin, Germany, in October 2021.
 
 Feel free to check out my [CV](/CV) and [publications](/publications), or contact me [here](/contact-links).
-
+<br>
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   For the intended experience, please use Google Chrome.
