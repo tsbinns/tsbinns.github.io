@@ -3,7 +3,6 @@ title: "About Me - Thomas Samuel Binns"
 layout: page
 ---
 
-
 <!-- Profile picture -->
 <img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic.png">
 
