@@ -7,7 +7,7 @@ layout: page
   <span style="display: inline-block; text-align: center;">
     For the intended experience,<br>please use Google Chrome.
   </span>
-  <button class="closebtn" onclick="this.parentElement.style.display='none';">Okay</button>
+  <button class="closebtn" onclick="this.parentElement.style.display='none';">Close</button>
 </div>
 
 <!-- Profile picture -->
