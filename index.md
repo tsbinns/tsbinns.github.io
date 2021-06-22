@@ -5,7 +5,7 @@ layout: page
 
 <div class="alert">
   <span>
-    For the intended experience,<br>
+    For the intended experience,
     please use Google Chrome.
   </span>
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
