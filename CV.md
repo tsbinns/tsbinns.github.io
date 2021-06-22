@@ -134,7 +134,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 
 <div>
   <h3 class="CV-header">2019 - 2020</h3>
-    <ul class="CV-subheader">
+    <ul class="CV-subheader" style="margin-bottom: 0;">
       <li><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
     </ul>
     <ul class="CV-desc" style="margin-top: 0;">
@@ -156,7 +156,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       </div>
     </div>
   <h3 class="CV-header">2018</h3>
-    <ul class="CV-subheader">
+    <ul class="CV-subheader" style="margin-bottom: 0;">
       <li><i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
     </ul>
     <ul class="CV-desc" style="margin-top: 0;">
