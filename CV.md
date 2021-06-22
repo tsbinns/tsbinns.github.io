@@ -137,7 +137,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     <ul class="CV-subheader">
       <li><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
     </ul>
-    <ul class="CV-desc">
+    <ul class="CV-desc" style="margin-top: 0;">
       <li>Erasmus+ Traineeship grant, British Council.</li>
     </ul>
     <div style="margin-left: 20px; margin-bottom: 30px;"> <!-- Expandible -->
@@ -159,8 +159,8 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     <ul class="CV-subheader">
       <li><i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
     </ul>
-    <ul class="CV-desc">
-      <li>Biomedical Vacation Scholarship, Wellcome Trust.<li>
+    <ul class="CV-desc" style="margin-top: 0;">
+      <li>Biomedical Vacation Scholarship, Wellcome Trust.</li>
     </ul>
     <div style="margin-left: 20px;"> <!-- Expandible -->
       <button type="button" class="collapsible">View Associated Work</button>
