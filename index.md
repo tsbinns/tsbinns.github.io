@@ -3,9 +3,12 @@ title: "About Me - Thomas Samuel Binns"
 layout: page
 ---
 
-<div class="alert" style="margin-bottom: 20px;">
+<div class="alert">
+  <p>
+    For the intended experience,<br>
+    please use Google Chrome.
+  </p>
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  For the intended experience, please use Google Chrome.
 </div>
 
 <!-- Profile picture -->
