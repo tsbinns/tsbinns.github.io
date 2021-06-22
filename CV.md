@@ -27,21 +27,18 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
 <div>
   <h3 class="CV-header">09/2016 - 06/2021</h3>
-    <p class="CV-desc">
-      <b>University of Aberdeen, UK<br>
-      M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</b>
-    </p>
-    <p class="CV-desc">
-      <b>Industrial Placement (Master's) thesis:</b><br>
-      “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
-      Placement at the Bernstein Center for Computational Neuroscience, Berlin.<br>
-      Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.<br>
-    </p>
-    <p class="CV-desc">
-      <b>Honours (Bachelor's) thesis:</b><br>
-      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class.<br>
-      Supervisor: Dr. Antonio Gonzalez.<br>
-    </p>
+    <ul class="CV-subheader">
+      <li>University of Aberdeen, UK</li>
+      <li>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
+    </ul>
+    <ul class="CV-desc">
+      <li><b>Industrial Placement (Master's) thesis:</b></li>
+      <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Berlin. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
+    </ul>
+    <ul class="CV-desc">
+      <li><b>Honours (Bachelor's) thesis:</b></li>
+      <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
+    </ul>
 </div>
 <!-- Additional Education -->
 <div style="margin-top: 30px;">
