@@ -4,7 +4,7 @@ layout: page
 ---
 
 <div class="alert">
-  <p>
+  <p style="text-align: center;">
     For the intended experience,<br>
     please use Google Chrome.
   </p>
