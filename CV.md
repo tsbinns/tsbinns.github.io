@@ -70,7 +70,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       <li>As part of my Honour's project, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
       Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working in an academic laboratory setting working cohesively with fellow researchers.</li>
     </ul>
-  <h3 class="CV-header" style="margin-top: 35px;">08/2019 - 08/2020</h3>
+  <h3 class="CV-header">08/2019 - 08/2020</h3>
     <ul class="CV-subheader">
       <li>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
       <li>Researcher</li>
