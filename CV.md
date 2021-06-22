@@ -134,10 +134,12 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 
 <div>
   <h3 class="CV-header">2019 - 2020</h3>
-    <p class="CV-desc">
-      <b><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</b><br>
-      Erasmus+ Traineeship grant, British Council.
-    </p>
+    <ul class="CV-subheader">
+      <li><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
+    </ul>
+    <ul class="CV-desc">
+      <li>Erasmus+ Traineeship grant, British Council.</li>
+    </ul>
     <div style="margin-left: 20px; margin-bottom: 30px;"> <!-- Expandible -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="content">
@@ -154,10 +156,12 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       </div>
     </div>
   <h3 class="CV-header">2018</h3>
-    <p class="CV-desc">
-      <b><i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</b><br>
-      Biomedical Vacation Scholarship, Wellcome Trust.
-    </p>
+    <ul class="CV-subheader">
+      <li><i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
+    </ul>
+    <ul class="CV-desc">
+      <li>Biomedical Vacation Scholarship, Wellcome Trust.<li>
+    </ul>
     <div style="margin-left: 20px;"> <!-- Expandible -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="content">
