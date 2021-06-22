@@ -4,7 +4,7 @@ layout: page
 ---
 
 <div class="alert">
-  <span>
+  <span style="display: in-line block;">
     For the intended experience,<br>please use Google Chrome.
   </span>
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
