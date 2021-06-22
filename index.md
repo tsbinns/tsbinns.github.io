@@ -4,10 +4,10 @@ layout: page
 ---
 
 <div class="alert">
-  <p style="text-align: center;">
+  <span>
     For the intended experience,<br>
     please use Google Chrome.
-  </p>
+  </span>
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
 </div>
 
