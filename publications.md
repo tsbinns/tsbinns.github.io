@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 layout: page
+sitemap:
+  lastmod: 2021-06-20
+  exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
 

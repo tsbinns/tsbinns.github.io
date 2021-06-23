@@ -1,6 +1,9 @@
 ---
 title: "About Me - Thomas Samuel Binns"
 layout: page
+sitemap:
+  lastmod: 2021-06-22
+  exclude: 'no'
 ---
 
 <div class="alert">

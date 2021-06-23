@@ -1,6 +1,9 @@
 ---
 title: "Contact & Links"
 layout: page
+sitemap:
+  lastmod: 2021-06-20
+  exclude: 'no'
 ---
 
 <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:t.s.binns@outlook.com">t.s.binns@outlook.com</a>

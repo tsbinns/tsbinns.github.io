@@ -1,6 +1,9 @@
 ---
 title: "Curriculum Vitae"
 layout: page
+sitemap:
+  lastmod: 2021-06-22
+  exclude: 'no'
 ---
 
 <a id="Top" class="section-ID"></a>
