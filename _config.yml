@@ -5,6 +5,8 @@ permalink:
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+safe: false
+url: "http://tsbinns.com" # the base hostname & protocol for your site
 
 # Layout
 
@@ -35,3 +37,5 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
