@@ -228,7 +228,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <div>
   <h3 class="CV-header">Neuroscience Student Prize</h3>
     <ul class="CV-desc">
-      <li>Upon completion of my MSci degree I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.</li>
+      <li>Upon completion of my M.Sci. degree I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.</li>
     </ul>
   <h3 class="CV-header">Sports</h3>
     <ul class="CV-desc">
