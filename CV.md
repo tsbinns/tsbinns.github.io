@@ -90,7 +90,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="content">
     <h3 class="CV-header">05/2018 - 10/2018</h3>
-      <img width="6%" height="auto" style="float: left; padding-right: 25px;" src="/assets/images/University_of_Aberdeen_arms.svg">
+      <img width="6%" height="auto" style="float: left;" src="/assets/images/University_of_Aberdeen_arms.svg">
       <ul class="CV-subheader" style="padding-left: 6%+25px;">
         <li>Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
         <li>Research Assistant</li>
