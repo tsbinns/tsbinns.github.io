@@ -30,7 +30,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
 <div>
   <h3 class="CV-header">09/2016 - 06/2021</h3>
-  <img width="5%" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/University_of_Aberdeen_crest.svg">
+  <img width="5%" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/University_of_Aberdeen_arms.svg">
     <ul class="CV-subheader">
       <li>University of Aberdeen, UK</li>
       <li>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
