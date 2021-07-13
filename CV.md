@@ -37,14 +37,20 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
         <li>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
       </ul></td>
     </tr>
-    <ul class="CV-desc">
-      <li><b>Industrial Placement (Master's) thesis:</b></li>
-      <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Berlin. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
-    </ul>
-    <ul class="CV-desc">
-      <li><b>Honours (Bachelor's) thesis:</b></li>
-      <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
-    </ul>
+    <tr>
+      <td></td>
+      <td><ul class="CV-desc">
+        <li><b>Industrial Placement (Master's) thesis:</b></li>
+        <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Berlin. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><ul class="CV-desc">
+        <li><b>Honours (Bachelor's) thesis:</b></li>
+        <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
+      </ul></td>
+    </tr>
 </div>
 <div>
   <h3 class="CV-header">09/2016 - 06/2021</h3>
