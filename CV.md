@@ -30,40 +30,16 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
 <div>
   <h3 class="CV-header">09/2016 - 06/2021</h3>
-    <tr>
-      <td><img class="logo" src="/assets/images/Logo-UoA.png"></td>
-      <td><ul class="CV-subheader_with_logo">
-        <li>University of Aberdeen, UK</li>
-        <li>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
-      </ul></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><ul class="CV-desc">
-        <li><b>Industrial Placement (Master's) thesis:</b></li>
-        <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Berlin. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
-      </ul></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><ul class="CV-desc">
-        <li><b>Honours (Bachelor's) thesis:</b></li>
-        <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
-      </ul></td>
-    </tr>
-</div>
-<div>
-  <h3 class="CV-header">09/2016 - 06/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
       <li>University of Aberdeen, UK</li>
       <li>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
     </ul>
-    <ul class="CV-desc">
+    <ul class="CV-desc_with_logo">
       <li><b>Industrial Placement (Master's) thesis:</b></li>
       <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Berlin. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
     </ul>
-    <ul class="CV-desc">
+    <ul class="CV-desc_with_logo">
       <li><b>Honours (Bachelor's) thesis:</b></li>
       <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
     </ul>
@@ -121,7 +97,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
         <li>Research Assistant</li>
         <li>Supervisor: Dr. Rama Chakravarthi</li>
       </ul>
-      <ul class="CV-desc">
+      <ul class="CV-desc_with_logo">
         <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
       </ul>
   </div>
