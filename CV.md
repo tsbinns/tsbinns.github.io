@@ -53,7 +53,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
         <ul class="CV-subheader_with_logo">
           <li>Neuromatch Academy</li>
         </ul>
-        <ul class="CV-desc">
+        <ul class="CV-desc_with_logo">
           <li>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
         </ul>
   </div>
