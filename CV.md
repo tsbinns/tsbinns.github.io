@@ -49,7 +49,8 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <button type="button" class="collapsible">View Additional Education</button>
   <div class="content">
       <h3 class="CV-header">07/2020</h3>
-        <ul class="CV-subheader">
+        <img class="logo" src="/assets/images/Logo-NMA.png">
+        <ul class="CV-subheader_with_logo">
           <li>Neuromatch Academy</li>
         </ul>
         <ul class="CV-desc">
