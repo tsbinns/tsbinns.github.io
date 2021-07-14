@@ -33,8 +33,8 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <h3 class="CV-header">09/2016 - 06/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
-      <li>University of Aberdeen, UK</li>
-      <li>M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
+      <li>- University of Aberdeen, UK</li>
+      <li>- M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
     </ul>
     <ul class="CV-desc_with_logo">
       <li><b>Industrial Placement (Master's) thesis:</b></li>
@@ -52,7 +52,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       <h3 class="CV-header">07/2020</h3>
         <img class="logo" src="/assets/images/Logo-NMA.png">
         <ul class="CV-subheader_with_logo">
-          <li>Neuromatch Academy</li>
+          <li>- Neuromatch Academy</li>
         </ul>
         <ul class="CV-desc_with_logo">
           <li>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
