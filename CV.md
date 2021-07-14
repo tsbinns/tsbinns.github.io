@@ -33,8 +33,8 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <h3 class="CV-header">09/2016 - 06/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
-      <li>&mdash; University of Aberdeen, UK</li>
-      <li>&mdash; M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
+      <li>&mdash;University of Aberdeen, UK</li>
+      <li>&mdash;M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
     </ul>
     <ul class="CV-desc_with_logo">
       <li><b>Industrial Placement (Master's) thesis:</b></li>
@@ -52,7 +52,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       <h3 class="CV-header">07/2020</h3>
         <img class="logo" src="/assets/images/Logo-NMA.png">
         <ul class="CV-subheader_with_logo">
-          <li>- Neuromatch Academy</li>
+          <li>&mdash;Neuromatch Academy</li>
         </ul>
         <ul class="CV-desc_with_logo">
           <li>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
@@ -69,9 +69,9 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <h3 class="CV-header">12/2020 - 04/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
-      <li>School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK</li>
-      <li>Researcher</li>
-      <li>Supervisor: Dr. Antonio Gonzalez</li>
+      <li>&mdash;School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK</li>
+      <li>&mdash;Researcher</li>
+      <li>&mdash;Supervisor: Dr. Antonio Gonzalez</li>
     </ul>
     <ul class="CV-desc_with_logo">
       <li>As part of my Honour's project, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
@@ -80,9 +80,9 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <h3 class="CV-header">08/2019 - 08/2020</h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
-      <li>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
-      <li>Researcher</li>
-      <li>Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
+      <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
+      <li>&mdash;Researcher</li>
+      <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
     </ul>
     <ul class="CV-desc_with_logo">
       <li>My placement at the Bernstein Center was funded by an Erasmus+ Traineeship grant, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
@@ -96,9 +96,9 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     <h3 class="CV-header">05/2018 - 10/2018</h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
       <ul class="CV-subheader_with_logo">
-        <li>Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
-        <li>Research Assistant</li>
-        <li>Supervisor: Dr. Rama Chakravarthi</li>
+        <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
+        <li>&mdash;Research Assistant</li>
+        <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
       </ul>
       <ul class="CV-desc_with_logo">
         <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
@@ -145,7 +145,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <h3 class="CV-header">2019 - 2020</h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
-      <li><i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
+      <li>&mdash;<i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Erasmus+ Traineeship grant, British Council.</li>
@@ -156,9 +156,9 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
         <h3 class="CV-header">08/2019 - 08/2020</h3>
           <img class="logo" src="/assets/images/Logo-BCCN.png">
           <ul class="CV-subheader_with_logo">
-            <li>Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
-            <li>Researcher</li>
-            <li>Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
+            <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
+            <li>&mdash;Researcher</li>
+            <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
           </ul>
           <ul class="CV-desc_with_logo">
             <li>My placement at the Bernstein Center was funded by an Erasmus+ Traineeship grant, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
@@ -169,7 +169,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <h3 class="CV-header">2018</h3>
     <img class="logo" src="/assets/images/Logo-Wellcome.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
-      <li><i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
+      <li>&mdash;<i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Biomedical Vacation Scholarship, Wellcome Trust.</li>
@@ -180,9 +180,9 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
         <h3 class="CV-header">05/2018 - 10/2018</h3>
           <img class="logo" src="/assets/images/Logo-UoA.png">
           <ul class="CV-subheader_with_logo">
-            <li>Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
-            <li>Research Assistant</li>
-            <li>Supervisor: Dr. Rama Chakravarthi</li>
+            <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
+            <li>&mdash;Research Assistant</li>
+            <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
           </ul>
           <ul class="CV-desc_with_logo">
             <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
@@ -200,8 +200,8 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <h3 class="CV-header">09/2018 - Present</h3>
     <img class="logo" src="/assets/images/Logo-BNA.png">
     <ul class="CV-subheader_with_logo">
-      <li>British Neuroscience Associsation (BNA), Bristol, UK</li>
-      <li>Member</li>
+      <li>&mdash;British Neuroscience Associsation (BNA), Bristol, UK</li>
+      <li>&mdash;Member</li>
     </ul>
     <ul class="CV-desc_with_logo">
       <li>As a member of the BNA I have taken full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I have also contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin, allowing me to demonstrate and further hone my academic writing skills.</li>
