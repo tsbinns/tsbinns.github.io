@@ -1,2 +1,2 @@
 # [tsbinns.com](https://tsbinns.com)
-Thomas Samuel Binns' Personal Website, hosted on GitHub
+Thomas Samuel Binns' personal website, hosted on GitHub
