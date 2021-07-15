@@ -71,7 +71,6 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       <ul class="CV-desc_with_logo">
         <li>A three week highly intensive online summer school providing an in-depth look into deep learning, involving extensive Python programming.</li>
       </ul>
-  </div>
     <h3 class="CV-header">07/2020</h3>
       <img class="logo" src="/assets/images/Logo-NMA.png">
       <ul class="CV-subheader_with_logo">
