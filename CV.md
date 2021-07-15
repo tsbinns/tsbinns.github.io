@@ -30,6 +30,18 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
 
 <div>
+  <h3 class="CV-header">10/2021 - Present</h3>
+    <img class="logo" src="/assets/images/Logo-ECN.png">
+    <ul class="CV-subheader_with_logo">
+      <li>&mdash;Einstein Center for Neurosciences Berlin, Germany</li>
+      <li>&mdash;Ph.D. Neuroscience</li>
+    </ul>
+    <ul class="CV-desc_with_logo">
+      <li>I am currently undertaking 6 months of placements prior to deciding on a final group to complete my Ph.D. with.</li>
+    </ul>
+</div>
+
+<div>
   <h3 class="CV-header">09/2016 - 06/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
@@ -45,18 +57,31 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
     </ul>
 </div>
+
 <!-- Additional Education -->
 <div style="margin-top: 30px;">
   <button type="button" class="collapsible">View Additional Education</button>
+
   <div class="content">
-      <h3 class="CV-header">07/2020</h3>
-        <img class="logo" src="/assets/images/Logo-NMA.png">
-        <ul class="CV-subheader_with_logo">
-          <li>&mdash;Neuromatch Academy</li>
-        </ul>
-        <ul class="CV-desc_with_logo">
-          <li>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
-        </ul>
+    <h3 class="CV-header">08/2021</h3>
+      <img class="logo" src="/assets/images/Logo-NMA.png">
+      <ul class="CV-subheader_with_logo">
+        <li>&mdash;Neuromatch Academy - Deep Learning</li>
+      </ul>
+      <ul class="CV-desc_with_logo">
+        <li>A three week highly intensive online summer school providing an in-depth look into deep learning, involving extensive Python programming.</li>
+      </ul>
+  </div>
+
+  <div class="content">
+    <h3 class="CV-header">07/2020</h3>
+      <img class="logo" src="/assets/images/Logo-NMA.png">
+      <ul class="CV-subheader_with_logo">
+        <li>&mdash;Neuromatch Academy - Computational Neuroscience</li>
+      </ul>
+      <ul class="CV-desc_with_logo">
+        <li>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
+      </ul>
   </div>
 </div>
 
@@ -77,6 +102,9 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       <li>As part of my Honour's project, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
       Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working in an academic laboratory setting working cohesively with fellow researchers.</li>
     </ul>
+</div>
+
+<div>
   <h3 class="CV-header">08/2019 - 08/2020</h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
@@ -89,6 +117,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 </div>
+
 <!-- Additional Experience -->
 <div style="margin-top: 30px;">
   <button type="button" class="collapsible">View Additional Experience</button>
@@ -124,6 +153,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       </p>
     </div>
 </div>
+
 <p>
   <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/"><i class="fas fa-link"></i></a>
 </p>
@@ -142,13 +172,36 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <h1><a id="Funding" class="section-ID">Funding</a></h1>
 
 <div>
+  <h3 class="CV-header">2021 - 2024</h3>
+    <img class="logo" src="/assets/images/Logo-ECN.png">
+    <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
+      <li>&mdash;<i>Ph.D. Neuroscience</i> &euro;63,000.</li>
+    </ul>
+    <ul class="CV-desc_with_logo" style="margin-top: 0;">
+      <li>Ph.D. Fellowship, Einstein Center for Neurosciences Berlin.</li>
+    </ul>
+    <div style="margin-left: 20px; margin-bottom: 30px;"> <!-- Expandible -->
+      <button type="button" class="collapsible">View Associated Work</button>
+      <div class="content">
+        <h3 class="CV-header">10/2021 - Present</h3>
+          <img class="logo" src="/assets/images/Logo-ECN.png">
+          <ul class="CV-subheader_with_logo">
+            <li>&mdash;Einstein Center for Neurosciences Berlin, Germany</li>
+            <li>&mdash;Ph.D. Neuroscience</li>
+          </ul>
+          <ul class="CV-desc_with_logo">
+            <li>I am currently undertaking 6 months of placements prior to deciding on a final group to complete my Ph.D. with.</li>
+          </ul>
+      </div>
+    </div>
+  
   <h3 class="CV-header">2019 - 2020</h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
-      <li>Erasmus+ Traineeship grant, British Council.</li>
+      <li>Erasmus+ Traineeship Grant, British Council.</li>
     </ul>
     <div style="margin-left: 20px; margin-bottom: 30px;"> <!-- Expandible -->
       <button type="button" class="collapsible">View Associated Work</button>
@@ -166,6 +219,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
           </ul>
       </div>
     </div>
+
   <h3 class="CV-header">2018</h3>
     <img class="logo" src="/assets/images/Logo-Wellcome.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
