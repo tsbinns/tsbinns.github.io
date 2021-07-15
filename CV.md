@@ -72,8 +72,6 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
         <li>A three week highly intensive online summer school providing an in-depth look into deep learning, involving extensive Python programming.</li>
       </ul>
   </div>
-
-  <div class="content">
     <h3 class="CV-header">07/2020</h3>
       <img class="logo" src="/assets/images/Logo-NMA.png">
       <ul class="CV-subheader_with_logo">
@@ -175,7 +173,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
   <h3 class="CV-header">2021 - 2024</h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
-      <li>&mdash;<i>Ph.D. Neuroscience</i> &euro;63,000.</li>
+      <li>&mdash;<i>Ph.D. Neuroscience.</i> &euro;63,000.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Ph.D. Fellowship, Einstein Center for Neurosciences Berlin.</li>
