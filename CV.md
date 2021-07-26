@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2021-06-22
+  lastmod: 2021-07-26
   exclude: 'no'
 ---
 
@@ -42,7 +42,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     </ul>
   -->
 
-  <h3 class="CV-header">09/2016 - 06/2021</h3>
+  <h3 class="CV-header">09/2016 - 07/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;University of Aberdeen, UK</li>
@@ -59,7 +59,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 </div>
 
 <!-- Additional Education -->
-<div style="margin-top: 30px;">
+<div style="margin-top: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Education</button>
 
   <div class="content">
@@ -117,7 +117,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 </div>
 
 <!-- Additional Experience -->
-<div style="margin-top: 30px;">
+<div style="margin-top: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="content">
     <h3 class="CV-header">05/2018 - 10/2018</h3>
@@ -143,7 +143,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <p>
   Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020.</a>
 </p>
-<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
     <div class="content">
       <p>
@@ -155,7 +155,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
 <p>
   <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/"><i class="fas fa-link"></i></a>
 </p>
-<div>
+<div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="content">
     <p>
@@ -195,7 +195,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     </div>
   -->
 
-  <h3 class="CV-header">2019 - 2020</h3>
+  <h3 class="CV-header">08/2019 - 08/2020</h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
@@ -203,7 +203,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Erasmus+ Traineeship Grant, British Council.</li>
     </ul>
-    <div style="margin-left: 20px; margin-bottom: 30px;">
+    <div style="margin-left: 20px; margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="content">
         <h3 class="CV-header">08/2019 - 08/2020</h3>
@@ -220,7 +220,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
       </div>
     </div>
 
-  <h3 class="CV-header">2018</h3>
+  <h3 class="CV-header">05/2018 - 10/2018</h3>
     <img class="logo" src="/assets/images/Logo-Wellcome.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
@@ -228,7 +228,7 @@ View the CV as a pdf <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf">here
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Biomedical Vacation Scholarship, Wellcome Trust.</li>
     </ul>
-    <div style="margin-left: 20px;"> <!-- Expandible -->
+    <div style="margin-left: 20px;"> <!--   COLLAPSIBLE   -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="content">
         <h3 class="CV-header">05/2018 - 10/2018</h3>
