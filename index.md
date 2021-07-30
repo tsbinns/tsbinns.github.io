@@ -6,12 +6,14 @@ sitemap:
   exclude: 'no'
 ---
 
+<!--
 <div class="alert">
   <span style="display: inline-block; text-align: center;">
     For the intended experience,<br>please use Google Chrome.
   </span>
   <button class="closebtn" onclick="this.parentElement.style.display='none';">Close</button>
 </div>
+-->
 
 <!-- Profile picture -->
 <img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic.png">
@@ -28,6 +30,7 @@ Feel free to check out my [CV](/CV) and [publications](/publications), or contac
 
 
 <script>
+  /*
   // For animating the closing of the alert box //
   // Get all elements with class="closebtn"
   var close = document.getElementsByClassName("closebtn");
@@ -44,4 +47,5 @@ Feel free to check out my [CV](/CV) and [publications](/publications), or contac
       setTimeout(function(){ div.style.display = "none"; }, 600);
   }
   }
+  */
 </script>
