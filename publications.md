@@ -66,6 +66,21 @@ sitemap:
     });
   }
 
+  var coll_menu = document.getElementsByClassName("collapsible_menu");
+  var j;
+
+  for (j = 0; j < coll_menu.length; j++) {
+    coll_menu[j].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.maxHeight){
+        content.style.maxHeight = null;
+      } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+      }
+    });
+  }
+
 
   // Applies offset to section links
   function offsetAnchor() {
