@@ -53,7 +53,7 @@ sitemap:
   /* Makes collapsibles work */
   var coll_desc = document.getElementsByClassName("collapsible_desc");
   var i;
-  for (i = 0; i < coll.length; i++) {
+  for (i = 0; i < coll_desc.length; i++) {
     coll_desc[i].addEventListener("click", function() {
       this.classList.toggle("collapsible_desc_active");
       var coll_desc_content = this.nextElementSibling;
@@ -69,7 +69,7 @@ sitemap:
   var j;
   for (j = 0; j < coll_menu.length; j++) {
     coll_menu[j].addEventListener("click", function() {
-      this.classList.toggle("active");
+      this.classList.toggle("collapsible_menu_active");
       var coll_menu_content = this.nextElementSibling;
       if (coll_menu_content.style.maxHeight){
         coll_menu_content.style.maxHeight = null;
