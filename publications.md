@@ -53,30 +53,28 @@ sitemap:
   /* Makes collapsibles work */
   var coll = document.getElementsByClassName("collapsible");
   var i;
-
   for (i = 0; i < coll.length; i++) {
     coll[i].addEventListener("click", function() {
       this.classList.toggle("active");
-      var content = this.nextElementSibling;
-      if (content.style.maxHeight){
-        content.style.maxHeight = null;
+      var coll_content = this.nextElementSibling;
+      if (coll_content.style.maxHeight){
+        coll_content.style.maxHeight = null;
       } else {
-        content.style.maxHeight = content.scrollHeight + "px";
+        coll_content.style.maxHeight = coll_content.scrollHeight + "px";
       }
     });
   }
 
   var coll_menu = document.getElementsByClassName("collapsible_menu");
   var j;
-
   for (j = 0; j < coll_menu.length; j++) {
     coll_menu[j].addEventListener("click", function() {
       this.classList.toggle("active");
-      var content = this.nextElementSibling;
-      if (content.style.maxHeight){
-        content.style.maxHeight = null;
+      var coll_menu_content = this.nextElementSibling;
+      if (coll_menu_content.style.maxHeight){
+        coll_menu_content.style.maxHeight = null;
       } else {
-        content.style.maxHeight = content.scrollHeight + "px";
+        coll_menu_content.style.maxHeight = coll_menu_content.scrollHeight + "px";
       }
     });
   }
