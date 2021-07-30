@@ -14,9 +14,11 @@ sitemap:
 <!-- Topbar for navigation of publications by year -->
 <button type="button" class="collapsible_menu">&nbsp;&nbsp;<b>Sections</b></button>
 <div class="collapsible_menu_content">
-  <a href="#Top">Top</a>
-  <a href="#2021">2021</a>
-  <a href="#2020">2020</a>
+  <p>
+    <a href="#Top">Top</a>
+    <a href="#2021">2021</a>
+    <a href="#2020">2020</a>
+  </p>
 </div>
 
 
