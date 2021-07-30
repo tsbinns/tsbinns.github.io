@@ -25,7 +25,7 @@ sitemap:
 
 <ul>
     <li>Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020.</a></li>
-    <button type="button" class="collapsible">View Description</button>
+    <button type="button" class="collapsible_desc">View Description</button>
     <div class="content">
         <p>
           Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement.
@@ -51,16 +51,16 @@ sitemap:
 <script>
 
   /* Makes collapsibles work */
-  var coll = document.getElementsByClassName("collapsible");
+  var coll_desc = document.getElementsByClassName("collapsible_desc");
   var i;
   for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("coll_active");
-      var coll_content = this.nextElementSibling;
-      if (coll_content.style.maxHeight){
-        coll_content.style.maxHeight = null;
+    coll_desc[i].addEventListener("click", function() {
+      this.classList.toggle("collapsible_desc_active");
+      var coll_desc_content = this.nextElementSibling;
+      if (coll_desc_content.style.maxHeight){
+        coll_desc_content.style.maxHeight = null;
       } else {
-        coll_content.style.maxHeight = coll_content.scrollHeight + "px";
+        coll_desc_content.style.maxHeight = coll_desc_content.scrollHeight + "px";
       }
     });
   }
