@@ -160,7 +160,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
-  <div class="content">
+  <div class="collapsible_content">
     <p>
       A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.
     </p>
@@ -205,7 +205,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <div style="margin-left: 20px; margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
       <button type="button" class="collapsible">View Associated Work</button>
-      <div class="content">
+      <div class="collapsible_content">
         <h3 class="CV-header">08/2019 - 08/2020</h3>
           <img class="logo" src="/assets/images/Logo-BCCN.png">
           <ul class="CV-subheader_with_logo">
