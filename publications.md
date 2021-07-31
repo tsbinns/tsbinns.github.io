@@ -71,7 +71,7 @@ sitemap:
   /* When the user clicks on the button,
   toggle between hiding and showing the dropdown content */
   function toggle_show() {
-    document.getElementById("dropdown_menu").classList.toggle("show");
+    document.getElementById("dropdown_menu").classList.toggle("dropdown_show");
   }
   // Close the dropdown menu if the user clicks outside of it
   window.onclick = function(event) {
