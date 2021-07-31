@@ -13,8 +13,8 @@ sitemap:
 
 <!-- Topbar for navigation of publications by year -->
 <div class="dropdown">
-  <button class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
-  <div class="dropdown_content">
+  <button onclick="toggle_show()" class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
+  <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
     <a href="#2021">2021</a>
     <a href="#2020">2020</a>
@@ -67,15 +67,25 @@ sitemap:
     });
   }
 
-  /* Makes hoverables work */
-  var drop = document.getElementsByClassName("dropdown");
-  var j;
-  for (j = 0; i < drop.length; j++) {
-    drop[j].addEventListener("click", function() {
-      this.classList.toggle("dropdown_active");
-    });
+  /* Makes dropdowns work */
+  /* When the user clicks on the button,
+  toggle between hiding and showing the dropdown content */
+  function toggle_show() {
+    document.getElementById("dropdown_menu").classList.toggle("show");
   }
-
+  // Close the dropdown menu if the user clicks outside of it
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropdown_button')) {
+      var dropdowns = document.getElementsByClassName("dropdown_content");
+      var j;
+      for (j = 0; j < dropdowns.length; j++) {
+        var openDropdown = dropdowns[j];
+        if (openDropdown.classList.contains('dropdown_show')) {
+          openDropdown.classList.remove('dropdown_show');
+        }
+      }
+    }
+  }
 
   // Applies offset to section links
   function offsetAnchor() {
