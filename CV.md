@@ -11,17 +11,19 @@ sitemap:
 View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 <!-- Topbar for navigation of publications by year -->
-<div class="scrollmenu">
-  &nbsp;&nbsp;&nbsp;<b>Jump to:</b>
-  <a href="#Top">Top</a>
-  <a href="#Education">Education</a>
-  <a href="#Experience">Experience</a>
-  <a href="#Publications">Publications</a>
-  <a href="#Funding">Funding</a>
-  <a href="#Memberships">Professional Memberships</a>
-  <a href="#Skills">Skills</a>
-  <a href="#Achievements-Interests">Achievements & Interests</a>
-  <a href="#References">References&nbsp;&nbsp;</a>
+<div class="dropdown">
+  <button class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
+  <div class="dropdown_content">
+    <a href="#Top">Top</a>
+    <a href="#Education">Education</a>
+    <a href="#Experience">Experience</a>
+    <a href="#Publications">Publications</a>
+    <a href="#Funding">Funding</a>
+    <a href="#Memberships">Professional Memberships</a>
+    <a href="#Skills">Skills</a>
+    <a href="#Achievements-Interests">Achievements & Interests</a>
+    <a href="#References">References</a>
+  </div>
 </div>
 
 
@@ -62,7 +64,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <div style="margin-top: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Education</button>
 
-  <div class="content">
+  <div class="collapsible_content">
     <!--
     <h3 class="CV-header">08/2021</h3>
       <img class="logo" src="/assets/images/Logo-NMA.png">
@@ -119,7 +121,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <!-- Additional Experience -->
 <div style="margin-top: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
-  <div class="content">
+  <div class="collapsible_content">
     <h3 class="CV-header">05/2018 - 10/2018</h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
       <ul class="CV-subheader_with_logo">
@@ -145,7 +147,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
-    <div class="content">
+    <div class="collapsible_content">
       <p>
         Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement.
         We tested the ability of participants to control the magnitude of their RP in a neurofeedback experiment. Participants performed self-initiated movements, and after every movement, they were provided with immediate feedback about the magnitude of their RP. They were asked to find a strategy to perform voluntary movements such that the RPs were as small as possible. We found no evidence that participants were able to to willfully modulate or suppress their RPs while still eliciting voluntary movements. This suggests that the RP might be an involuntary component of voluntary action over which people cannot exert conscious control.
@@ -182,7 +184,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <div style="margin-left: 20px; margin-bottom: 30px;">
       <button type="button" class="collapsible">View Associated Work</button>
-      <div class="content">
+      <div class="collapsible_content">
         <h3 class="CV-header">10/2021 - Present</h3>
           <img class="logo" src="/assets/images/Logo-ECN.png">
           <ul class="CV-subheader_with_logo">
@@ -224,7 +226,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <div style="margin-left: 20px;"> <!--   COLLAPSIBLE   -->
       <button type="button" class="collapsible">View Associated Work</button>
-      <div class="content">
+      <div class="collapsible_content">
         <h3 class="CV-header">05/2018 - 10/2018</h3>
           <img class="logo" src="/assets/images/Logo-UoA.png">
           <ul class="CV-subheader_with_logo">
@@ -312,7 +314,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
 
   for (i = 0; i < coll.length; i++) {
     coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
+      this.classList.toggle("collapsible_active");
       var content = this.nextElementSibling;
       if (content.style.maxHeight){
         content.style.maxHeight = null;
