@@ -13,7 +13,7 @@ sitemap:
 
 <!-- Topbar for navigation of publications by year -->
 <div class="dropdown">
-  <button class="dropdown_button">&nbsp;&nbsp;<b>Sections</b></button>
+  <button class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div class="dropdown_content">
     <a href="#Top">Top</a>
     <a href="#2021">2021</a>
