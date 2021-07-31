@@ -67,6 +67,15 @@ sitemap:
     });
   }
 
+  /* Makes hoverables work */
+  var drop = document.getElementsByClassName("dropdown_content");
+  var j;
+  for (j = 0; i < drop.length; j++) {
+    drop[j].addEventListener("click", function() {
+      this.classList.toggle("dropdown_active");
+    });
+  }
+
 
   // Applies offset to section links
   function offsetAnchor() {
