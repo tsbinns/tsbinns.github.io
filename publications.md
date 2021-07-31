@@ -68,7 +68,7 @@ sitemap:
   }
 
   /* Makes hoverables work */
-  var drop = document.getElementsByClassName("dropdown_content");
+  var drop = document.getElementsByClassName("dropdown");
   var j;
   for (j = 0; i < drop.length; j++) {
     drop[j].addEventListener("click", function() {
