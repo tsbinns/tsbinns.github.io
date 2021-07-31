@@ -203,7 +203,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Erasmus+ Traineeship Grant, British Council.</li>
     </ul>
-    <div style="margin-left: 20px; margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+    <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="collapsible_content">
         <h3 class="CV-header">08/2019 - 08/2020</h3>
@@ -224,7 +224,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Biomedical Vacation Scholarship, Wellcome Trust.</li>
     </ul>
-    <div style="margin-left: 20px;"> <!--   COLLAPSIBLE   -->
+    <div> <!--   COLLAPSIBLE   -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="collapsible_content">
         <h3 class="CV-header">05/2018 - 10/2018</h3>
