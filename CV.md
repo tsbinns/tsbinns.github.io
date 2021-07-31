@@ -12,8 +12,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 
 <!-- Topbar for navigation of publications by year -->
 <div class="dropdown">
-  <button class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
-  <div class="dropdown_content">
+  <button onclick="toggle_show()" class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
+  <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
     <a href="#Education">Education</a>
     <a href="#Experience">Experience</a>
@@ -308,10 +308,10 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
 
 <!-- Scripts -->
 <script>
+
   /* Makes collapsibles work */
   var coll = document.getElementsByClassName("collapsible");
   var i;
-
   for (i = 0; i < coll.length; i++) {
     coll[i].addEventListener("click", function() {
       this.classList.toggle("collapsible_active");
@@ -322,6 +322,27 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
         content.style.maxHeight = content.scrollHeight + "px";
       }
     });
+  }
+
+
+  /* Makes dropdowns work */
+  /* When the user clicks on the button,
+  toggle between hiding and showing the dropdown content */
+  function toggle_show() {
+    document.getElementById("dropdown_menu").classList.toggle("dropdown_show");
+  }
+  // Close the dropdown menu if the user clicks outside of it
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropdown_button')) {
+      var dropdowns = document.getElementsByClassName("dropdown_content");
+      var j;
+      for (j = 0; j < dropdowns.length; j++) {
+        var openDropdown = dropdowns[j];
+        if (openDropdown.classList.contains('dropdown_show')) {
+          openDropdown.classList.remove('dropdown_show');
+        }
+      }
+    }
   }
 
 
