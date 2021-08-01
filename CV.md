@@ -329,6 +329,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
   // When the user clicks on the button, toggle between hiding and showing the dropdown content
   function toggle_show() {
     document.getElementById("dropdown_menu").classList.toggle("dropdown_show");
+    document.getElementById("dropdown_button").classList.toggle("dropdown_button_active");
   }
   // Close the dropdown menu if the user clicks outside of it
   window.onclick = function(event) {
@@ -341,20 +342,15 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
           openDropdown.classList.remove('dropdown_show');
         }
       }
+      // When the button is clicked, toggle between changing the button colour
       var dropdown_btn = document.getElementsByClassName("dropdown_button");
       var k;
       for (k = 0; k < dropdown_btn.length; k++) {
         dropdown_btn[k].addEventListener("click", function() {
           this.classList.toggle("dropdown_button_active");
+        });
+      }
     }
-  }
-  // When the button is clicked, toggle between changing the button colour
-  var dropdown_btn = document.getElementsByClassName("dropdown_button");
-  var k;
-  for (k = 0; k < dropdown_btn.length; k++) {
-    dropdown_btn[k].addEventListener("click", function() {
-      this.classList.toggle("dropdown_button_active");
-    });
   }
 
 
