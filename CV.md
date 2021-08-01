@@ -329,7 +329,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
   // When the user clicks on the button, toggle between hiding and showing the dropdown content
   function toggle_show() {
     document.getElementById("dropdown_menu").classList.toggle("dropdown_show");
-    document.getElementClassName("dropdown_button").classList.toggle("dropdown_button_active");
+    document.getElementByClassName("dropdown_button").classList.toggle("dropdown_button_active");
   }
   // Close the dropdown menu if the user clicks outside of it
   window.onclick = function(event) {
