@@ -66,7 +66,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 
   <div class="collapsible_content">
     <!--
-    <h3 class="CV-header">08/2021</h3>
+    <h3 class="CV-collapsible_header">08/2021</h3>
       <img class="logo" src="/assets/images/Logo-NMA.png">
       <ul class="CV-subheader_with_logo">
         <li>&mdash;Neuromatch Academy - Deep Learning</li>
@@ -76,7 +76,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       </ul>
     -->
     <!---->
-    <h3 class="CV-header">07/2020</h3>
+    <h3 class="CV-collapsible_header">07/2020</h3>
       <img class="logo" src="/assets/images/Logo-NMA.png">
       <ul class="CV-subheader_with_logo">
         <li>&mdash;Neuromatch Academy - Computational Neuroscience</li>
@@ -122,7 +122,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <div style="margin-top: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="collapsible_content">
-    <h3 class="CV-header">05/2018 - 10/2018</h3>
+    <h3 class="CV-collapsible_header">05/2018 - 10/2018</h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
       <ul class="CV-subheader_with_logo">
         <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
@@ -149,7 +149,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
   <button type="button" class="collapsible">View Description</button>
     <div class="collapsible_content">
       <p>
-        Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement.
+        Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement.<br>
         We tested the ability of participants to control the magnitude of their RP in a neurofeedback experiment. Participants performed self-initiated movements, and after every movement, they were provided with immediate feedback about the magnitude of their RP. They were asked to find a strategy to perform voluntary movements such that the RPs were as small as possible. We found no evidence that participants were able to to willfully modulate or suppress their RPs while still eliciting voluntary movements. This suggests that the RP might be an involuntary component of voluntary action over which people cannot exert conscious control.
       </p>
     </div>
@@ -185,7 +185,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <div style="margin-left: 20px; margin-bottom: 30px;">
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="collapsible_content">
-        <h3 class="CV-header">10/2021 - Present</h3>
+        <h3 class="CV-collapsible_header">10/2021 - Present</h3>
           <img class="logo" src="/assets/images/Logo-ECN.png">
           <ul class="CV-subheader_with_logo">
             <li>&mdash;Einstein Center for Neurosciences Berlin, Germany</li>
@@ -206,7 +206,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="collapsible_content">
-        <h3 class="CV-header">08/2019 - 08/2020</h3>
+        <h3 class="CV-collapsible_header">08/2019 - 08/2020</h3>
           <img class="logo" src="/assets/images/Logo-BCCN.png">
           <ul class="CV-subheader_with_logo">
             <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
@@ -227,7 +227,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <div> <!--   COLLAPSIBLE   -->
       <button type="button" class="collapsible">View Associated Work</button>
       <div class="collapsible_content">
-        <h3 class="CV-header">05/2018 - 10/2018</h3>
+        <h3 class="CV-collapsible_header">05/2018 - 10/2018</h3>
           <img class="logo" src="/assets/images/Logo-UoA.png">
           <ul class="CV-subheader_with_logo">
             <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
