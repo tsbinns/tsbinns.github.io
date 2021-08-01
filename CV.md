@@ -341,6 +341,11 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
           openDropdown.classList.remove('dropdown_show');
         }
       }
+      var dropdown_btn = document.getElementsByClassName("dropdown_button");
+      var k;
+      for (k = 0; k < dropdown_btn.length; k++) {
+        dropdown_btn[k].addEventListener("click", function() {
+          this.classList.toggle("dropdown_button_active");
     }
   }
   // When the button is clicked, toggle between changing the button colour
