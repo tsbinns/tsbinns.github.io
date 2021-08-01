@@ -326,7 +326,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
 
 
   /* Makes dropdowns work */
-  // When the user clicks on the button, toggle between hiding and showing the dropdown content
+  // When the user clicks on the button, toggle between hiding and showing the dropdown content (and change the colour of the button)
   function toggle_show() {
     document.getElementById("dropdown_menu").classList.toggle("dropdown_show");
     var dropdown_btn = document.getElementsByClassName("dropdown_button");
@@ -346,7 +346,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
           openDropdown.classList.remove('dropdown_show');
         }
       }
-      // When the button is clicked, toggle between changing the button colour
+      // When the button is clicked, switch the button colour back to the inactive colour
       var dropdown_btn = document.getElementsByClassName("dropdown_button");
       var k;
       for (k = 0; k < dropdown_btn.length; k++) {
