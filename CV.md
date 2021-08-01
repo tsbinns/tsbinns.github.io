@@ -330,17 +330,16 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
   toggle between hiding and showing the dropdown content */
   function toggle_show() {
     document.getElementById("dropdown_menu").classList.toggle("dropdown_show");
-    document.getElementById("dropdown_button").classList.toggle("dropdown_button_active");
   }
   // Close the dropdown menu if the user clicks outside of it
   window.onclick = function(event) {
     if (!event.target.matches('.dropdown_button')) {
-      var dropdowns = document.getElementsByClassName("dropdown_content", "dropdown_button");
+      var dropdowns = document.getElementsByClassName("dropdown_content");
       var j;
       for (j = 0; j < dropdowns.length; j++) {
         var openDropdown = dropdowns[j];
         if (openDropdown.classList.contains('dropdown_show')) {
-          openDropdown.classList.remove('dropdown_show', 'dropdown_button_active');
+          openDropdown.classList.remove('dropdown_show');
         }
       }
     }
