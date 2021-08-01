@@ -67,9 +67,9 @@ sitemap:
     });
   }
 
+
   /* Makes dropdowns work */
-  /* When the user clicks on the button,
-  toggle between hiding and showing the dropdown content */
+  // When the user clicks on the button, toggle between hiding and showing the dropdown content
   function toggle_show() {
     document.getElementById("dropdown_menu").classList.toggle("dropdown_show");
   }
@@ -86,6 +86,15 @@ sitemap:
       }
     }
   }
+  // When the button is clicked, toggle between changing the button colour
+  var dropdown_btn = document.getElementsByClassName("dropdown_button");
+  var k;
+  for (k = 0; k < dropdown_btn.length; k++) {
+    dropdown_btn[k].addEventListener("click", function() {
+      this.classList.toggle("dropdown_button_active");
+    });
+  }
+
 
   // Applies offset to section links
   // For the section links
