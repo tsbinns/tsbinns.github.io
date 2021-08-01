@@ -88,6 +88,7 @@ sitemap:
   }
 
   // Applies offset to section links
+  // For the section links
   function offsetAnchor() {
     if (location.hash.length !== 0) {
       window.scrollTo(window.scrollX, window.scrollY - 100);
@@ -103,5 +104,22 @@ sitemap:
   });
   // Set the offset when entering page with hash present in the url
   window.setTimeout(offsetAnchor, 0);
+
+  // For the page top link
+  function offsetAnchor_top() {
+    if (location.hash.length !== 0) {
+      window.scrollTo(window.scrollX, window.scrollY - 1000);
+    }
+  }
+  // Captures click events of all <a> elements with href starting with #
+  $(document).on('click', 'a[href^="#Top"]', function(event) {
+    // Click events are captured before hashchanges. Timeout
+    // causes offsetAnchor to be called after the page jump.
+    window.setTimeout(function() {
+      offsetAnchor_top();
+    }, 0);
+  });
+  // Set the offset when entering page with hash present in the url
+  window.setTimeout(offsetAnchor_top, 0);
 
 </script>
