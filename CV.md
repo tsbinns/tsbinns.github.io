@@ -117,7 +117,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
-  <h3 class="CV-subheader_with_logo">05/2018 - 10/2018</h3>
+  <h3 class="CV-header">05/2018 - 10/2018</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
       <ul class="CV-subheader_with_logo">
         <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
@@ -212,45 +212,21 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
+      <li>&mdash;Erasmus+ Traineeship Grant, British Council.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
-      <li>Erasmus+ Traineeship Grant, British Council.</li>
       <li>Associated with my work as a Researcher in the Haynes Laboratory of the Bernstein Center for Computational, Berlin, Germany.</li>
     </ul>
-    <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
-      <button type="button" class="collapsible">View Associated Work</button>
-      <div class="collapsible_content">
-        <h3 class="CV-collapsible_header">08/2019 - 08/2020</h3>
-          <img class="logo" src="/assets/images/Logo-BCCN.png">
-          <ul class="CV-subheader_with_logo">
-            <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
-            <li>&mdash;Researcher</li>
-            <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
-          </ul>
-      </div>
-    </div>
 
   <h3 class="CV-header">05/2018 - 10/2018</h3>
     <img class="logo" src="/assets/images/Logo-Wellcome.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
+      <li>&mdash;Biomedical Vacation Scholarship, Wellcome Trust.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
-      <li>Biomedical Vacation Scholarship, Wellcome Trust.</li>
       <li>Associated with my work as a Research Assistant in the Consciousness, Attention, and Perception Laboratory of the University of Aberdeen, UK.</li>
     </ul>
-    <div> <!--   COLLAPSIBLE   -->
-      <button type="button" class="collapsible">View Associated Work</button>
-      <div class="collapsible_content">
-        <h3 class="CV-collapsible_header">05/2018 - 10/2018</h3>
-          <img class="logo" src="/assets/images/Logo-UoA.png">
-          <ul class="CV-subheader_with_logo">
-            <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
-            <li>&mdash;Research Assistant</li>
-            <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
-          </ul>
-      </div>
-    </div>
 </div>
 
 
@@ -266,7 +242,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Member</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>As a member of the BNA I have taken full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I have also contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin &nbsp;<a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf"><i class="fas fa-file-pdf"></i></a>, allowing me to demonstrate and further hone my academic writing skills.</li>
+      <li>As a member of the BNA I have taken full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I have also contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf"><i class="fas fa-file-pdf"></i></a> allowing me to demonstrate and further hone my academic writing skills.</li>
     </ul>
 </div>
 
