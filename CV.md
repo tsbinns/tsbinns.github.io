@@ -90,7 +90,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 
 <!-- Experience -->
 <hr>
-<h1><a id="Experience" class="section-ID">Selected Experience</a></h1>
+<h1><a id="Experience" class="section-ID">Experience</a></h1>
 
 <div>
   <h3 class="CV-header">12/2020 - 04/2021</h3>
@@ -116,10 +116,22 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>My placement at the Bernstein Center was funded by an Erasmus+ Traineeship grant, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
       <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
     </ul>
+
+  <h3 class="CV-subheader_with_logo">05/2018 - 10/2018</h3>
+    <img class="logo" src="/assets/images/Logo-UoA.png">
+      <ul class="CV-subheader_with_logo">
+        <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
+        <li>&mdash;Research Assistant</li>
+        <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
+      </ul>
+      <ul class="CV-desc_with_logo">
+        <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
+      </ul>
 </div>
 
-<!-- Additional Experience -->
-<div style="margin-top: 30px;"> <!-- COLLAPSIBLE -->
+<!--
+<!-- Additional Experience
+<div style="margin-top: 30px;"> <!-- COLLAPSIBLE
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="collapsible_content">
     <h3 class="CV-collapsible_header">05/2018 - 10/2018</h3>
@@ -134,11 +146,12 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       </ul>
   </div>
 </div>
+-->
 
 
 <!-- Publications -->
 <hr>
-<h1><a id="Publications" class="section-ID">Selected Publications</a></h1>
+<h1><a id="Publications" class="section-ID">Publications</a></h1>
 
 <p style="margin-bottom: 30px;">For the full list of publications, <a href="/publications">click here.</a></p>
 
@@ -202,6 +215,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Erasmus+ Traineeship Grant, British Council.</li>
+      <li>Associated with my work as a Researcher in the Haynes Laboratory of the Bernstein Center for Computational, Berlin, Germany.</li>
     </ul>
     <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
       <button type="button" class="collapsible">View Associated Work</button>
@@ -223,6 +237,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Biomedical Vacation Scholarship, Wellcome Trust.</li>
+      <li>Associated with my work as a Research Assistant in the Consciousness, Attention, and Perception Laboratory of the University of Aberdeen, UK.</li>
     </ul>
     <div> <!--   COLLAPSIBLE   -->
       <button type="button" class="collapsible">View Associated Work</button>
@@ -251,7 +266,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Member</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>As a member of the BNA I have taken full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I have also contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin, allowing me to demonstrate and further hone my academic writing skills.</li>
+      <li>As a member of the BNA I have taken full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I have also contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin &nbsp;<a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf"><i class="fas fa-file-pdf"></i></a>, allowing me to demonstrate and further hone my academic writing skills.</li>
     </ul>
 </div>
 
