@@ -93,6 +93,20 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Experience" class="section-ID">Experience</a></h1>
 
 <div>
+  <!--
+  <h3 class="CV-header">07/2021 - Present</h3>
+    <img class="logo" src="/assets/images/Logo-ICN.png">
+    <ul class="CV-subheader_with_logo">
+      <li>&mdash;Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany</li>
+      <li>&mdash;Researcher</li>
+      <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
+    </ul>
+    <ul class="CV-desc_with_logo">
+      <li>My work involves studying cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of furthering our understanding of Parkinson's disease, as well as how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
+      Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
+    </ul>
+  -->
+
   <h3 class="CV-header">12/2020 - 04/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
