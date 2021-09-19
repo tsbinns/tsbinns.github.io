@@ -295,7 +295,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
   <h3 class="CV-header">Sports</h3>
     <ul class="CV-desc">
-      <li>I am an avid athlete, being a member of the Berlin Rock Climbing and Bouldering club, as well as having previously been a member of the University of Aberdeen Athletics Society. Through my strong discipline and self-motivation I am able to adhere to a rigorous exercise regime, alongside which I am currently training for a half marathon. This is testament to both my dedication and well-rounded character.</li>
+      <li>I am an avid athlete, being a member of the Berlin Rock Climbing and Bouldering club, as well as having previously been a member of the University of Aberdeen Athletics Society and having represented my school in the Lewisham Cross-Country Championship. Through my strong discipline and self-motivation I am able to adhere to a rigorous exercise regime, testament to both my dedication and well-rounded character.</li>
     </ul>
   <h3 class="CV-header">Music</h3>
     <ul class="CV-desc">
