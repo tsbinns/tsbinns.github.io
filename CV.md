@@ -52,7 +52,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <ul class="CV-desc_with_logo">
       <li><b>Industrial Placement (Master's) thesis:</b></li>
-      <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Berlin. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
+      <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Germany. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
     </ul>
     <ul class="CV-desc_with_logo">
       <li><b>Honours (Bachelor's) thesis:</b></li>
@@ -116,13 +116,13 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <ul class="CV-desc_with_logo">
       <li>As part of my Honour's project, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
-      Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working in an academic laboratory setting working cohesively with fellow researchers.</li>
+      Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
     </ul>
 
   <h3 class="CV-header">08/2019 - 08/2020</h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
-      <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
+      <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Germany</li>
       <li>&mdash;Researcher</li>
       <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
     </ul>
@@ -229,7 +229,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Erasmus+ Traineeship Grant, British Council.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
-      <li>Associated with my work as a Researcher in the Haynes Laboratory of the Bernstein Center for Computational, Berlin, Germany.</li>
+      <li>Associated with my work as a Researcher in the Haynes Laboratory of the Bernstein Center for Computational Neuroscience, Germany.</li>
     </ul>
 
   <h3 class="CV-header">05/2018 - 10/2018</h3>
@@ -249,14 +249,14 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Memberships" class="section-ID">Professional Memberships</a></h1>
 
 <div>
-  <h3 class="CV-header">09/2018 - Present</h3>
+  <h3 class="CV-header">09/2018 - 09/2021</h3>
     <img class="logo" src="/assets/images/Logo-BNA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;British Neuroscience Associsation (BNA), Bristol, UK</li>
       <li>&mdash;Member</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>As a member of the BNA I have taken full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I have also contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf"><i class="fas fa-file-pdf"></i></a>&nbsp; allowing me to demonstrate and further hone my academic writing skills.</li>
+      <li>As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf"><i class="fas fa-file-pdf"></i></a>&nbsp; allowing me to demonstrate and further hone my academic writing skills.</li>
     </ul>
 </div>
 
@@ -268,7 +268,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <div>
   <h3 class="CV-header">Technical</h3>
     <ul class="CV-desc">
-      <li>I am highly confident programming in MATLAB and Python, and am familiar with SPSS, Microsoft Office programs, NEURON, and Git. Additionally, I have much experience conducting EEG and behavioural experiments, and also possess fundamental skills in basic laboratory techniques such as electrophoresis, ELISA, and endonuclease use. Furthermore, I can quickly familiarise myself with new software and learn new techniques to add to my repertoire.</li>
+      <li>I am highly confident programming in MATLAB and Python, and am familiar with SPSS, Microsoft Office programmes, NEURON, and Git. Additionally, I have much experience conducting EEG and behavioural experiments, and also possess fundamental skills in basic laboratory techniques such as electrophoresis, ELISA, and endonuclease use. Furthermore, I can quickly familiarise myself with new software and learn new techniques to add to my repertoire.</li>
     </ul>
   <h3 class="CV-header">Research</h3>
     <ul class="CV-desc">
@@ -295,11 +295,11 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
   <h3 class="CV-header">Sports</h3>
     <ul class="CV-desc">
-      <li>I am an avid athlete and member of the University of Aberdeen Athletics Society, and in the past have represented my school in the Lewisham Cross-Country Championship. Through my strong discipline and self-motivation I am able to adhere to a rigorous exercise regime, alongside which I am currently training for a half marathon. This is testament to both my dedication and well-rounded character.</li>
+      <li>I am an avid athlete, being a member of the Berlin Rock Climbing and Bouldering club, as well as having previously been a member of the University of Aberdeen Athletics Society. Through my strong discipline and self-motivation I am able to adhere to a rigorous exercise regime, alongside which I am currently training for a half marathon. This is testament to both my dedication and well-rounded character.</li>
     </ul>
   <h3 class="CV-header">Music</h3>
     <ul class="CV-desc">
-      <li>I have played the drum kit for fourteen years, achieving a Distinction at Grade 8. Since entering university I have been the drummer for the University of Aberdeen’s Jazz Band, playing at numerous concerts, including yearly performances at the Aberdeen Jazz Festival and the University of Aberdeen’s Concert Series. Previously, I have been involved in Lewisham Music Service’s African Drumming Group and Samba Band. I have also taken up the piano, achieving a Distinction at Grade 1. My participation in these activities has enhanced both my communication and teamwork skills greatly, and again attests to my well-rounded character and the fact that I remain dedicated to all routes I pursue.</li>
+      <li>I have played the drum kit for fifteen years, achieving a Distinction at Grade 8. Whilst studying at Aberdeen I was the drummer for the University’s Jazz Band, playing at numerous concerts, including yearly performances at the Aberdeen Jazz Festival and the University of Aberdeen’s Concert Series. I have also been involved in Lewisham Music Service’s African Drumming Group and Samba Band and have taken up the piano, achieving a Distinction at Grade 1. My partici-pation in these activities has enhanced both my communication and teamwork skills greatly, and again attests to my well-rounded character and the fact that I remain dedicated to all routes I pursue.</li>
     </ul>
 </div>
 
