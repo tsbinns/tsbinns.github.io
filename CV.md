@@ -119,7 +119,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
     </ul>
 
-  <h3 class="CV-header">08/2019 - 08/2020<a id="Haynes_Lab" class="section-ID"></a></h3>
+  <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - 08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Germany</li>
@@ -127,11 +127,11 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>My placement at the Bernstein Center was funded by an Erasmus+ Traineeship grant, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
+      <li>My placement at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
       <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
-  <h3 class="CV-header">05/2018 - 10/2018<a id="CAP_Lab" class="section-ID"></a></h3>
+  <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - 10/2018</a></h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
       <ul class="CV-subheader_with_logo">
         <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
@@ -139,7 +139,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
         <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
       </ul>
       <ul class="CV-desc_with_logo">
-        <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
+        <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
       </ul>
 </div>
 
@@ -222,7 +222,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </div>
   -->
 
-  <h3 class="CV-header">08/2019 - 08/2020</h3>
+  <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - 08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
@@ -232,7 +232,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Associated with my work as a <a href="#Haynes_Lab">Researcher in the Haynes Laboratory</a> of the Bernstein Center for Computational Neuroscience, Germany.</li>
     </ul>
 
-  <h3 class="CV-header">05/2018 - 10/2018</h3>
+  <h3 class="CV-header"><a id="Wellcome_Scholarship" class="section-ID">05/2018 - 10/2018</a></h3>
     <img class="logo" src="/assets/images/Logo-Wellcome.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
