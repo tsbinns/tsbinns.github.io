@@ -119,7 +119,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
     </ul>
 
-  <h3 class="CV-header">08/2019 - 08/2020<a id="Haynes-Lab" class="section-ID"></h3>
+  <h3 class="CV-header">08/2019 - 08/2020<a id="Haynes-Lab" class="section-ID"></a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Germany</li>
@@ -131,7 +131,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
-  <h3 class="CV-header">05/2018 - 10/2018<a id="CAP-Lab" class="section-ID"></h3>
+  <h3 class="CV-header">05/2018 - 10/2018<a id="CAP-Lab" class="section-ID"></a></h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
       <ul class="CV-subheader_with_logo">
         <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
