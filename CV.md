@@ -32,14 +32,14 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
 
 <div>
-  <h3 class="CV-header">10/2021 - Present</h3>
+  <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">10/2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Einstein Center for Neurosciences Berlin, Germany</li>
       <li>&mdash;Ph.D. Neuroscience Fellow</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>I am completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience prior to deciding on a final group with which to complete my Ph.D.</li>
+      <li>I am completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience, prior to deciding on a final group with which to complete my <a href="#PhD_Fellow">fellowship-funded Ph.D</a>.</li>
     </ul>
 
   <h3 class="CV-header">09/2016 - 07/2021</h3>
@@ -183,18 +183,15 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Funding" class="section-ID">Funding</a></h1>
 
 <div>
-  <h3 class="CV-header">2021 - 2024</h3>
+  <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">2021 - 2024</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Ph.D. Neuroscience Fellow.</i> &euro;63,000.</li>
-    </ul>
-    <ul class="CV-desc_with_logo" style="margin-top: 0;">
-      <li>Ph.D. Fellowship, Einstein Center for Neurosciences Berlin.</li>
+      <li>&mdash;Ph.D. Fellowship, Einstein Center for Neurosciences Berlin.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin, Germany</a>.</li>
     </ul>
-    </div>
 
   <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - 08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
