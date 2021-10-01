@@ -301,6 +301,17 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
   }
 
 
+  /* Trigger a click on collapsible when a link visits it */
+  var links = document.querySelectorAll('a')
+  links.forEach(link => {
+    link.addEventListener('click', function(e) {
+      const linkHref = link.getAttribute('href')
+      const targetCollapsible = document.querySelector(`${linkHref} .collapsible`)
+      if (targetCollapsible && targetCollapsible.nextElementSibling) targetCollapsible.nextElementSibling.style.display = 'block'
+    })
+  })
+
+
   /* Makes dropdowns work */
   // When the user clicks on the button, toggle between hiding and showing the dropdown content (and change the colour of the button)
   function toggle_show() {
