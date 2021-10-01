@@ -39,7 +39,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Ph.D. Neuroscience Fellow</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>I am completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience, prior to deciding on a final group with which to complete my <a href="#PhD_Fellow">fellowship-funded Ph.D</a>.</li>
+      <li>I am currently completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience, prior to deciding on a final group with which to complete my <a href="#PhD_Fellow">fellowship-funded Ph.D</a>.</li>
     </ul>
 
   <h3 class="CV-header">09/2016 - 07/2021</h3>
@@ -183,7 +183,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Funding" class="section-ID">Funding</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">2021 - 2024</a></h3>
+  <h3 class="CV-header"><a id="PhD_Fellow" class="section-ID">2021 - 2024</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Ph.D. Neuroscience Fellow.</i> &euro;63,000.</li>
