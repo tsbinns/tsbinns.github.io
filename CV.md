@@ -279,7 +279,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <hr>
 <h1><a id="References" class="section-ID">References</a></h1>
 
-Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="fas fa-envelope"></i></a>
+Availabl upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="fas fa-envelope"></i></a>
 
 
 <!-- Scripts -->
@@ -307,7 +307,9 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
     link.addEventListener('click', function(e) {
       const linkHref = link.getAttribute('href')
       const targetCollapsible = document.querySelector(`${linkHref} .collapsible`)
-      if (targetCollapsible && targetCollapsible.nextElementSibling) targetCollapsible.nextElementSibling.style.maxHeight = targetCollapsible.nextElementSibling.scrollHeight + "px"
+      if (targetCollapsible && targetCollapsible.nextElementSibling){
+        targetCollapsible.nextElementSibling.style.maxHeight = targetCollapsible.nextElementSibling.scrollHeight + "px";
+      }
     })
   })
 
