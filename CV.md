@@ -190,7 +190,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Ph.D. Fellowship, Einstein Center for Neurosciences Berlin.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
-      <li>Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin, Germany</a>.</li>
+      <li>Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - 08/2020</a></h3>
@@ -251,7 +251,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
   <h3 class="CV-header">Teamwork</h3>
     <ul class="CV-desc">
-      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Einstein Center for Neuroscience Berlin, the Bernstein Center, and the University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences, and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
+      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Einstein Center for Neurosciences Berlin, the Bernstein Center, and the University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences, and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
     </ul>
 </div>
 
