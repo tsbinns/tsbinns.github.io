@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2021-07-26
+  lastmod: 2021-10-01
   exclude: 'no'
 ---
 
@@ -32,17 +32,15 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
 
 <div>
-  <!--
   <h3 class="CV-header">10/2021 - Present</h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Einstein Center for Neurosciences Berlin, Germany</li>
-      <li>&mdash;Ph.D. Neuroscience</li>
+      <li>&mdash;Ph.D. Neuroscience Fellow</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>I am currently undertaking 6 months of placements prior to deciding on a final group to complete my Ph.D. with.</li>
+      <li>I am completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience prior to deciding on a final group with which to complete my Ph.D.</li>
     </ul>
-  -->
 
   <h3 class="CV-header">09/2016 - 07/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
@@ -90,10 +88,9 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 
 <!-- Experience -->
 <hr>
-<h1><a id="Experience" class="section-ID">Experience</a></h1>
+<h1><a id="Experience" class="section-ID">Selected Experience</a></h1>
 
 <div>
-  <!--
   <h3 class="CV-header">07/2021 - Present</h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
@@ -102,10 +99,9 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>My work involves studying cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of furthering our understanding of Parkinson's disease, as well as how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
+      <li>My work involves studying cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of furthering our understanding of disease mechanisms and how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
       Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
-  -->
 
   <h3 class="CV-header">12/2020 - 04/2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
@@ -130,37 +126,24 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>My placement at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
       <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
     </ul>
-
-  <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - 10/2018</a></h3>
-    <img class="logo" src="/assets/images/Logo-UoA.png">
-      <ul class="CV-subheader_with_logo">
-        <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
-        <li>&mdash;Research Assistant</li>
-        <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
-      </ul>
-      <ul class="CV-desc_with_logo">
-        <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
-      </ul>
 </div>
 
-<!--
-<!-- Additional Experience
-<div style="margin-top: 30px;"> <!-- COLLAPSIBLE
+<!-- Additional Experience -->
+<div style="margin-top: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="collapsible_content">
-    <h3 class="CV-collapsible_header">05/2018 - 10/2018</h3>
+    <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - 10/2018</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
-      <ul class="CV-subheader_with_logo">
-        <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
-        <li>&mdash;Research Assistant</li>
-        <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
-      </ul>
-      <ul class="CV-desc_with_logo">
-        <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a Wellcome Trust scholarship. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
-      </ul>
+        <ul class="CV-subheader_with_logo">
+          <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
+          <li>&mdash;Research Assistant</li>
+          <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
+        </ul>
+        <ul class="CV-desc_with_logo">
+          <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
+        </ul>
   </div>
 </div>
--->
 
 
 <!-- Publications -->
@@ -200,27 +183,18 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Funding" class="section-ID">Funding</a></h1>
 
 <div>
-  <!--
   <h3 class="CV-header">2021 - 2024</h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
-      <li>&mdash;<i>Ph.D. Neuroscience.</i> &euro;63,000.</li>
+      <li>&mdash;<i>Ph.D. Neuroscience Fellow.</i> &euro;63,000.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Ph.D. Fellowship, Einstein Center for Neurosciences Berlin.</li>
     </ul>
-    <div style="margin-left: 20px; margin-bottom: 30px;">
-      <button type="button" class="collapsible">View Associated Work</button>
-      <div class="collapsible_content">
-        <h3 class="CV-collapsible_header">10/2021 - Present</h3>
-          <img class="logo" src="/assets/images/Logo-ECN.png">
-          <ul class="CV-subheader_with_logo">
-            <li>&mdash;Einstein Center for Neurosciences Berlin, Germany</li>
-            <li>&mdash;Ph.D. Neuroscience</li>
-          </ul>
-      </div>
+    <ul class="CV-desc_with_logo" style="margin-top: 0;">
+      <li>Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin, Germany</a>.</li>
+    </ul>
     </div>
-  -->
 
   <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - 08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
@@ -272,7 +246,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
   <h3 class="CV-header">Research</h3>
     <ul class="CV-desc">
-      <li>Through my Honours project, industrial placement, and work as a research assistant, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection and analysis, to write up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research projects.</li>
+      <li>Through my Ph.D. Fellowship, Honours project, industrial placement, and work as a research assistant, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection and analysis, to write up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research projects.</li>
     </ul>
   <h3 class="CV-header">Communication</h3>
     <ul class="CV-desc">
@@ -280,7 +254,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
   <h3 class="CV-header">Teamwork</h3>
     <ul class="CV-desc">
-      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Bernstein Center and University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences, and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
+      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Einstein Center for Neuroscience Berlin, the Bernstein Center, and the University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences, and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
     </ul>
 </div>
 
