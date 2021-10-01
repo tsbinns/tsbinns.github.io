@@ -2,7 +2,7 @@
 title: "About Me - Thomas Samuel Binns"
 layout: page
 sitemap:
-  lastmod: 2021-06-22
+  lastmod: 2021-10-01
   exclude: 'no'
 ---
 
