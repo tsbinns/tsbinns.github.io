@@ -307,7 +307,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
     link.addEventListener('click', function(e) {
       const linkHref = link.getAttribute('href')
       const targetCollapsible = document.querySelector(`${linkHref} .collapsible`)
-      if (targetCollapsible && targetCollapsible.nextElementSibling) targetCollapsible.nextElementSibling.style.display = 'block'
+      if (targetCollapsible && targetCollapsible.nextElementSibling) targetCollapsible.nextElementSibling.style.maxHeight = targetCollapsible.nextElementSibling.scrollHeight + "px"
     })
   })
 
