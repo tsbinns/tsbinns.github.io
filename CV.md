@@ -186,8 +186,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
   <h3 class="CV-header"><a id="PhD_Fellow" class="section-ID">2021 - 2024</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
-      <li>&mdash;<i>Ph.D. Neuroscience Fellow.</i> &euro;63,000.</li>
-      <li>&mdash;Ph.D. Fellowship, Einstein Center for Neurosciences Berlin.</li>
+      <li>&mdash;<i>Ph.D. Fellowship.</i> &euro;63,000.</li>
+      <li>&mdash;Einstein Center for Neurosciences Berlin.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
       <li>Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.</li>
