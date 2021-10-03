@@ -32,7 +32,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">10/2021 - Present</a></h3>
+  <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Einstein Center for Neurosciences Berlin, Germany</li>
@@ -42,7 +42,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>I am currently completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience, prior to deciding on a final group with which to complete my <a href="#PhD_Fellowship">fellowship-funded Ph.D</a>.</li>
     </ul>
 
-  <h3 class="CV-header">09/2016 - 07/2021</h3>
+  <h3 class="CV-header">2016 - 2021</h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;University of Aberdeen, UK</li>
@@ -251,7 +251,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
   <h3 class="CV-header">Teamwork</h3>
     <ul class="CV-desc">
-      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Einstein Center for Neurosciences Berlin, the Bernstein Center, and the University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences, and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
+      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Einstein Center for Neurosciences Berlin, the Bernstein Center, and the University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
     </ul>
 </div>
 
