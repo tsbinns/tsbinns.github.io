@@ -29,7 +29,7 @@ sitemap:
   &nbsp;&nbsp; <i><big>Poster</big></i><br>
   <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-S., Kühn, A.A., Neumann, W.-J., 2021. Invasive mapping of cortico-subthalamic coherence in Parkinson's disease. <i>ReTune Fall School</i>, Hofgeismar, October 2021. &nbsp;<a href="/assets/documents/ReTune_Poster.pdf"><i class="fas fa-file-pdf"></i></a>
 </p>
-<div> <!-- COLLAPSIBLE -->
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
