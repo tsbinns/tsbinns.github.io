@@ -33,7 +33,7 @@ sitemap:
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      This poster, presented at the ReTune Fall School 2021, presents preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus LFP and cortical ECoG. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
+      This poster, presented at the ReTune Fall School 2021, shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus LFP and cortical ECoG. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
     </p>
   </div>
 </div>
