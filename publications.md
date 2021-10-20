@@ -26,18 +26,20 @@ sitemap:
 <h1><a id="2021" class="section-ID">2021</a></h1>
 
 <p>
+  <b><i>Poster</b></i>
   <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-S., Kühn, A.A., Neumann, W.-J., 2021. Invasive mapping of cortico-subthalamic coherence in Parkinson's disease. <i>ReTune Fall School</i>, Hofgeismar, October 2021. &nbsp;<a href="/assets/documents/ReTune_Poster.pdf"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      This poster, presented at the ReTune Fall School 2021, presents preliminary results of the first ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus LFP and cortical ECoG. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's, as well as the mechanisms of dopaminergic medication on these networks.
+      This poster, presented at the ReTune Fall School 2021, presents preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus LFP and cortical ECoG. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
     </p>
   </div>
 </div>
 
 <p>
+  <b><i>Research Article</b></i>
   Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020.</a>
 </p>
 <div> <!-- COLLAPSIBLE -->
@@ -54,6 +56,7 @@ sitemap:
 <h1><a id="2020" class="section-ID">2020</a></h1>
 
 <p>
+  <b><i>Review Article</b></i>
   <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
