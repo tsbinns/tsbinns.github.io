@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2021-06-20
+  lastmod: 2021-10-24
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -26,21 +26,21 @@ sitemap:
 <h1><a id="2021" class="section-ID">2021</a></h1>
 
 <p>
-  &nbsp;&nbsp; <i><big>Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-S., Kühn, A.A., Neumann, W.-J., 2021. Invasive mapping of cortico-subthalamic coherence in Parkinson's disease. <i>ReTune Fall School</i>, Hofgeismar, October 2021. &nbsp;<a href="/assets/documents/ReTune_Poster.pdf"><i class="fas fa-file-pdf"></i></a>
+  &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
+  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-S., Kühn, A.A., Neumann, W.-J., 2021. Invasive mapping of cortico-subthalamic coherence in Parkinson's disease. <i>Retune Fall School</i>, Hofgeismar, October 2021. &nbsp;<a href="/assets/documents/Retune_Poster.pdf"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      This poster, presented at the ReTune Fall School 2021, shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus LFP and cortical ECoG. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
+      This poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus LFP and cortical ECoG. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/">Retune research centre</a>.
     </p>
   </div>
 </div>
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020.</a>
+  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020">doi.org/10.1523/eneuro.0425-20.2020</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
