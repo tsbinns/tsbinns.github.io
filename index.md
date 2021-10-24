@@ -2,7 +2,7 @@
 title: "About Me - Thomas Samuel Binns"
 layout: page
 sitemap:
-  lastmod: 2021-10-01
+  lastmod: 2021-10-24
   exclude: 'no'
 ---
 
@@ -29,6 +29,10 @@ I am also a graduate with First-Class Honours in an M.Sci. Neuroscience with Psy
 Feel free to check out my [CV](/CV) and [publications](/publications), or contact me [here](/contact-links).
 
 
+<!-- Twitter highlights -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great opportunity for <a href="https://twitter.com/ECN_Berlin?ref_src=twsrc%5Etfw">@ECN_Berlin</a> PhD awardees like <a href="https://twitter.com/TSBinns?ref_src=twsrc%5Etfw">@TSBinns</a> to get involved in neuromodulation research. Get in touch if you want to learn more about the <a href="https://twitter.com/Retune_CRC?ref_src=twsrc%5Etfw">@Retune_CRC</a>! <a href="https://t.co/U9PjXD1W4Y">https://t.co/U9PjXD1W4Y</a></p>&mdash; Retune – CRC TRR 295 (@Retune_CRC) <a href="https://twitter.com/Retune_CRC/status/1451619611993071620?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--
 <script>
   /*
   // For animating the closing of the alert box //
@@ -49,3 +53,4 @@ Feel free to check out my [CV](/CV) and [publications](/publications), or contac
   }
   */
 </script>
+-->
