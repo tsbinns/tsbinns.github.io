@@ -387,7 +387,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
       window.scrollTo(window.scrollX, window.scrollY - 1000);
     }
   }
-  // Captures click events of all <a> elements with href starting with #
+  // Captures click events of all <a> elements with href starting with #Top
   $(document).on('click', 'a[href^="#Top"]', function(event) {
     // Click events are captured before hashchanges. Timeout
     // causes offsetAnchor to be called after the page jump.
@@ -404,8 +404,15 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
       window.scrollTo(window.scrollX, window.scrollY - 200);
     }
   }
-  // Captures click events of all <a> elements with href starting with #
-  $(document).on('click', 'a[href^="#Master_Desc" href^="#Bachelor_Desc"]', function(event) {
+  // Captures click events of all <a> elements with href starting with #*_Desc
+  $(document).on('click', 'a[href^="#Master_Desc"]', function(event) {
+    // Click events are captured before hashchanges. Timeout
+    // causes offsetAnchor to be called after the page jump.
+    window.setTimeout(function() {
+      offsetAnchor_thesisdesc();
+    }, 0);
+  });
+  $(document).on('click', 'a[href^="#Bachelor_Desc"]', function(event) {
     // Click events are captured before hashchanges. Timeout
     // causes offsetAnchor to be called after the page jump.
     window.setTimeout(function() {
