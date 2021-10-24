@@ -139,7 +139,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>My <a href="#Master_Desc">industrial placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
+      <li>My <a href="#Master_Desc">Industrial Placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
       <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 </div>
@@ -259,7 +259,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
   <h3 class="CV-header">Research</h3>
     <ul class="CV-desc">
-      <li>Through my Ph.D. Fellowship, Honours project, industrial placement, and work as a research assistant, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection and analysis, to write up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research projects.</li>
+      <li>Through my Ph.D. Fellowship, Honours project, Industrial Placement, and work as a research assistant, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection and analysis, to write up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research projects.</li>
     </ul>
   <h3 class="CV-header">Communication</h3>
     <ul class="CV-desc">
@@ -405,7 +405,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
     }
   }
   // Captures click events of all <a> elements with href starting with #
-  $(document).on('click', 'a[href^="#Master_Desc"]', function(event) {
+  $(document).on('click', 'a[href^="#Master_Desc" href^="#Bachelor_Desc"]', function(event) {
     // Click events are captured before hashchanges. Timeout
     // causes offsetAnchor to be called after the page jump.
     window.setTimeout(function() {
