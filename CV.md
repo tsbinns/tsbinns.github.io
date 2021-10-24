@@ -401,7 +401,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
     // For the page thesis description links
   function offsetAnchor_thesisdesc() {
     if (location.hash.length !== 0) {
-      window.scrollTo(window.scrollX, window.scrollY - 150);
+      window.scrollTo(window.scrollX, window.scrollY - 125);
     }
   }
   // Captures click events of all <a> elements with href starting with #*_Desc
