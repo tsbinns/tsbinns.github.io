@@ -405,7 +405,7 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
     }
   }
   // Captures click events of all <a> elements with href starting with #
-  $(document).on('click', 'a[href^="#Master_Desc" href^="#Bachelor_Desc"]', function(event) {
+  $(document).on('click', 'a[href^="#Master_Desc"]', function(event) {
     // Click events are captured before hashchanges. Timeout
     // causes offsetAnchor to be called after the page jump.
     window.setTimeout(function() {
