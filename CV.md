@@ -51,7 +51,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <ul class="CV-desc_with_logo">
       <li><b>Industrial Placement (Master's) thesis:</b></li>
       <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Germany. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
-      <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+      <div style="margin-bottom: 30px;" id="Master_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
           <p>
@@ -63,7 +63,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <ul class="CV-desc_with_logo">
       <li><b>Honours (Bachelor's) thesis:</b></li>
       <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
-      <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+      <div style="margin-bottom: 30px;" id="Bachelor_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
           <p>
@@ -127,7 +127,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Dr. Antonio Gonzalez</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>As part of my Honour's project, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
+      <li>As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
       Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
     </ul>
 
@@ -139,7 +139,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>My placement at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
+      <li>My <a href="#Master_Desc">industrial placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i>. &nbsp;<a href="https://www.doi.org/10.1523/eneuro.0425-20.2020"><i class="fas fa-link"></i></a></li>
       <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 </div>
