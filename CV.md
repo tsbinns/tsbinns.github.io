@@ -398,4 +398,21 @@ Available upon request: &nbsp;<a href="mailto:t.s.binns@outlook.com"><i class="f
   // Set the offset when entering page with hash present in the url
   window.setTimeout(offsetAnchor_top, 0);
 
+    // For the page thesis description links
+  function offsetAnchor_thesisdesc() {
+    if (location.hash.length !== 0) {
+      window.scrollTo(window.scrollX, window.scrollY - 200);
+    }
+  }
+  // Captures click events of all <a> elements with href starting with #
+  $(document).on('click', 'a[href^="#Master_Desc" href^="#Bachelor_Desc"]', function(event) {
+    // Click events are captured before hashchanges. Timeout
+    // causes offsetAnchor to be called after the page jump.
+    window.setTimeout(function() {
+      offsetAnchor_thesisdesc();
+    }, 0);
+  });
+  // Set the offset when entering page with hash present in the url
+  window.setTimeout(offsetAnchor_thesisdesc, 0);
+
 </script>
