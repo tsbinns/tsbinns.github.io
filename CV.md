@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2021-10-01
+  lastmod: 2021-10-24
   exclude: 'no'
 ---
 
@@ -51,10 +51,26 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <ul class="CV-desc_with_logo">
       <li><b>Industrial Placement (Master's) thesis:</b></li>
       <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Germany. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
+      <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+        <button type="button" class="collapsible">View Description</button>
+        <div class="collapsible_content">
+          <p>
+            The readiness potential (RP) is a slow, negative electrical potential preceding voluntary actions observed in EEG recordings. According to the classical interpretation, the RP reflects movement preparation and should only be found immediately prior to voluntary action. In contrast, the stochastic accumulator model argues that the RP is the result of accumulated neural activity and does not reflect movement preparation. One prediction derived from this accumulator model is that events resembling the RP should be found throughout the EEG data of tasks where voluntary actions are permitted. This prediction was tested using machine learning techniques. Events resembling the spatio-temporal profiles of the RP were identified in the EEG data, however there were discrepancies between these events and details of the prediction of the model. Yet, these events were not found to be false positives resulting from noise in the EEG recordings, raising the possibility that these events were related to voluntary action and the RP in some manner. This provides tentative support for the stochastic accumulator model.
+          </p>
+        </div>
+      </div>
     </ul>
     <ul class="CV-desc_with_logo">
       <li><b>Honours (Bachelor's) thesis:</b></li>
       <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
+      <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+        <button type="button" class="collapsible">View Description</button>
+        <div class="collapsible_content">
+          <p>
+            The dendritic plateau potential is thought to shape information processing in striatal projection neurons. The effect of cholinergic and dopaminergic modulation on the plateau potential and the spiking activity of striatal projection neurons was investigated <i>in silico</i>. Plateau potentials were generated with spatially clustered excitatory inputs to dendrites, and the efficacy of corticostriatal inputs at triggering cell spiking in the presence and absence of cholinergic and dopaminergic modulation were observed. There were some instances of dopaminergic modulation in which the probabilities of cells spiking were altered, however changes in spiking were largely attributed to alterations in cell excitability. It is concluded that acetylcholine and dopamine do not influence striatal information processing through altering plateau potentials induced by clustered excitatory inputs, with the persistence of the plateau potential supporting its proposed essential role in striatal information processing.
+          </p>
+        </div>
+      </div>
     </ul>
 </div>
 
