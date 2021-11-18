@@ -2,7 +2,7 @@
 title: "Contact & Links"
 layout: page
 sitemap:
-  lastmod: 2021-06-20
+  lastmod: 2021-11-18
   exclude: 'no'
 ---
 
