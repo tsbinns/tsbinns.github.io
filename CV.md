@@ -107,23 +107,25 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Experience" class="section-ID">Selected Experience</a></h1>
 
 <div>
+  <!--
   <h3 class="CV-header">01/2022 - Present</h3>
     <img class="logo" src="/assets/images/Logo-CNT.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
-      <li>&mdash;Researcher</li>
+      <li>&mdash;Role: Researcher</li>
       <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
     </ul>
     <ul class="CV-desc_with_logo">
       <li>For the second project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am developing an advanced, biologically representative 3D-printed human head phantom. With this phantom, our understanding of forward models of brain activity in EEG recordings can be improved.<br>
       Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
-
+  -->
+  
   <h3 class="CV-header">07/2021 - Present</h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany</li>
-      <li>&mdash;Researcher</li>
+      <li>&mdash;Role: Researcher</li>
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
@@ -135,7 +137,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK</li>
-      <li>&mdash;Researcher</li>
+      <li>&mdash;Role: Researcher</li>
       <li>&mdash;Supervisor: Dr. Antonio Gonzalez</li>
     </ul>
     <ul class="CV-desc_with_logo">
@@ -147,7 +149,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Germany</li>
-      <li>&mdash;Researcher</li>
+      <li>&mdash;Role: Researcher</li>
       <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
     </ul>
     <ul class="CV-desc_with_logo">
@@ -164,7 +166,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <ul class="CV-subheader_with_logo">
           <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
-          <li>&mdash;Research Assistant</li>
+          <li>&mdash;Role: Research Assistant</li>
           <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
         </ul>
         <ul class="CV-desc_with_logo">
