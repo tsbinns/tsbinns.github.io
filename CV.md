@@ -115,7 +115,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For this rotation I am developing an advanced, biologically representative 3D-printed human head phantom for creating improved forward models of brain activity in EEG recordings. <br>
+      <li>For the second project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am developing an advanced, biologically representative 3D-printed human head phantom. With this phantom, our understanding of forward models of brain activity in EEG recordings can be improved.<br>
       Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
 
@@ -127,7 +127,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>My work involves studying cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of furthering our understanding of disease mechanisms and how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
+      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, my work involves studying cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients. The goal is to further our understanding of disease mechanisms and how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
       Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
