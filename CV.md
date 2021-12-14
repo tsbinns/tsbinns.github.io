@@ -42,7 +42,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>I am currently completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience, prior to deciding on a final group with which to complete my <a href="#PhD_Fellowship">fellowship-funded Ph.D</a>.</li>
     </ul>
 
-  <h3 class="CV-header">2016 - 2021</h3>
+  <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;University of Aberdeen, UK</li>
@@ -50,26 +50,24 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <ul class="CV-desc_with_logo">
       <li><b>Industrial Placement (Master's) thesis:</b></li>
-      <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Germany. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.</li>
+      <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Germany. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes. <a href="#Haynes_Lab">View associated experience.</a></li>
       <div style="margin-bottom: 30px;" id="Master_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
           <p>
             The readiness potential (RP) is a slow, negative electrical potential preceding voluntary actions observed in EEG recordings. According to the classical interpretation, the RP reflects movement preparation and should only be found immediately prior to voluntary action. In contrast, the stochastic accumulator model argues that the RP is the result of accumulated neural activity and does not reflect movement preparation. One prediction derived from this accumulator model is that events resembling the RP should be found throughout the EEG data of tasks where voluntary actions are permitted. This prediction was tested using machine learning techniques. Events resembling the spatio-temporal profiles of the RP were identified in the EEG data, however there were discrepancies between these events and details of the prediction of the model. Yet, these events were not found to be false positives resulting from noise in the EEG recordings, raising the possibility that these events were related to voluntary action and the RP in some manner. This provides tentative support for the stochastic accumulator model.
-            <a href="#Haynes_Lab">View associated experience.</a>
           </p>
         </div>
       </div>
     </ul>
     <ul class="CV-desc_with_logo">
       <li><b>Honours (Bachelor's) thesis:</b></li>
-      <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez.</li>
+      <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez. <a href="#CAP_Lab">View associated experience.</a></li>
       <div style="margin-bottom: 30px;" id="Bachelor_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
           <p>
             The dendritic plateau potential is thought to shape information processing in striatal projection neurons. The effect of cholinergic and dopaminergic modulation on the plateau potential and the spiking activity of striatal projection neurons was investigated <i>in silico</i>. Plateau potentials were generated with spatially clustered excitatory inputs to dendrites, and the efficacy of corticostriatal inputs at triggering cell spiking in the presence and absence of cholinergic and dopaminergic modulation were observed. There were some instances of dopaminergic modulation in which the probabilities of cells spiking were altered, however changes in spiking were largely attributed to alterations in cell excitability. It is concluded that acetylcholine and dopamine do not influence striatal information processing through altering plateau potentials induced by clustered excitatory inputs, with the persistence of the plateau potential supporting its proposed essential role in striatal information processing.
-            <a href="#CAP_Lab">View associated experience.</a>
           </p>
         </div>
       </div>
@@ -92,7 +90,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       </ul>
     -->
     <!---->
-    <h3 class="CV-collapsible_header">07/2020</h3>
+    <h3 class="CV-collapsible_header"><a id="NMA_CN20" class="section-ID">07/2020</a></h3>
       <img class="logo" src="/assets/images/Logo-NMA.png">
       <ul class="CV-subheader_with_logo">
         <li>&mdash;Neuromatch Academy - Computational Neuroscience</li>
@@ -110,7 +108,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 
 <div>
   <!--
-  <h3 class="CV-header">01/2022 - Present</h3>
+  <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-CNT.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
@@ -123,7 +121,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
   -->
 
-  <h3 class="CV-header">07/2021 - Present</h3>
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany</li>
@@ -135,7 +133,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
-  <h3 class="CV-header">12/2020 - 04/2021</h3>
+  <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - 04/2021</a></h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK</li>
@@ -252,7 +250,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Memberships" class="section-ID">Professional Memberships</a></h1>
 
 <div>
-  <h3 class="CV-header">09/2018 - 09/2021</h3>
+  <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - 09/2021</a></h3>
     <img class="logo" src="/assets/images/Logo-BNA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;British Neuroscience Associsation (BNA), Bristol, UK</li>
@@ -269,19 +267,19 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Skills" class="section-ID">Skills</a></h1>
 
 <div>
-  <h3 class="CV-header">Technical</h3>
+  <h3 class="CV-header"><a id="Tech_Skills" class="section-ID">Technical</a></h3>
     <ul class="CV-desc">
       <li>I am highly confident programming in MATLAB and Python, and am familiar with SPSS, Microsoft Office programmes, NEURON, and Git. Additionally, I have much experience conducting EEG and behavioural experiments, and also possess fundamental skills in basic laboratory techniques such as electrophoresis, ELISA, and endonuclease use. Furthermore, I can quickly familiarise myself with new software and learn new techniques to add to my repertoire.</li>
     </ul>
-  <h3 class="CV-header">Research</h3>
+  <h3 class="CV-header"><a id="Research_Skills" class="section-ID">Research</a></h3>
     <ul class="CV-desc">
       <li>Through my Ph.D. Fellowship, Honours project, Industrial Placement, and work as a research assistant, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection and analysis, to write up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research projects.</li>
     </ul>
-  <h3 class="CV-header">Communication</h3>
+  <h3 class="CV-header"><a id="Communication_Skills" class="section-ID">Communication</a></h3>
     <ul class="CV-desc">
       <li>My communication skills have been honed through my engagement in presentations and scientific report writing, as well as through extracurricular roles such as Class Representative and House Captain. With this diverse experience, I am able to communicate information effectively to a range of audiences, from scientific experts to laymen.</li>
     </ul>
-  <h3 class="CV-header">Teamwork</h3>
+  <h3 class="CV-header"><a id="Teamwork_Skills" class="section-ID">Teamwork</a></h3>
     <ul class="CV-desc">
       <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Einstein Center for Neurosciences Berlin, the Bernstein Center, and the University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
     </ul>
@@ -292,15 +290,15 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Achievements-Interests" class="section-ID">Achievements & Interests</a></h1>
 
 <div>
-  <h3 class="CV-header">Neuroscience Student Prize &nbsp;<a href="/assets/documents/Neuroscience_Student_Prize.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></h3>
+  <h3 class="CV-header"><a id="Student_Prize" class="section-ID">Neuroscience Student Prize</a> &nbsp;<a href="/assets/documents/Neuroscience_Student_Prize.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></h3>
     <ul class="CV-desc">
       <li>Upon completion of my M.Sci. degree I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.</li>
     </ul>
-  <h3 class="CV-header">Sports</h3>
+  <h3 class="CV-header"><a id="Sports" class="section-ID">Sports</a></h3>
     <ul class="CV-desc">
       <li>I am an avid athlete, being a member of the Berlin Rock Climbing and Bouldering club, as well as having previously been a member of the University of Aberdeen Athletics Society and having represented my school in the Lewisham Cross-Country Championship. Through my strong discipline and self-motivation I am able to adhere to a rigorous exercise regime, testament to both my dedication and well-rounded character.</li>
     </ul>
-  <h3 class="CV-header">Music</h3>
+  <h3 class="CV-header"><a id="Music" class="section-ID">Music</a></h3>
     <ul class="CV-desc">
       <li>I have played the drum kit for fifteen years, achieving a Distinction at Grade 8. Whilst studying at Aberdeen I was the drummer for the University’s Jazz Band, playing at numerous concerts, including yearly performances at the Aberdeen Jazz Festival and the University of Aberdeen’s Concert Series. I have also been involved in Lewisham Music Service’s African Drumming Group and Samba Band and have taken up the piano, achieving a Distinction at Grade 1. My partici-pation in these activities has enhanced both my communication and teamwork skills greatly, and again attests to my well-rounded character and the fact that I remain dedicated to all routes I pursue.</li>
     </ul>
