@@ -107,6 +107,18 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Experience" class="section-ID">Selected Experience</a></h1>
 
 <div>
+  <h3 class="CV-header">01/2022 - Present</h3>
+    <img class="logo" src="/assets/images/Logo-CNT.png">
+    <ul class="CV-subheader_with_logo">
+      <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
+      <li>&mdash;Researcher</li>
+      <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
+    </ul>
+    <ul class="CV-desc_with_logo">
+      <li>For this rotation I am developing an advanced, biologically representative 3D-printed human head phantom for creating improved forward models of brain activity in EEG recordings. <br>
+      Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
+    </ul>
+
   <h3 class="CV-header">07/2021 - Present</h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
