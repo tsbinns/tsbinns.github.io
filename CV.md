@@ -127,8 +127,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, my work involves studying cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients. The goal is to further our understanding of disease mechanisms and how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
-      Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
+      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I studied cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of furthering our understanding of disease mechanisms and how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
+      Through this placement, I further developed my signal analysis and Python programming skills, gained an in-depth understanding of movement disorders, and also gained further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - 08/2020</a></h3>
@@ -266,7 +266,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <div>
   <h3 class="CV-header"><a id="Tech_Skills" class="section-ID">Technical</a></h3>
     <ul class="CV-desc">
-      <li>I am highly confident programming in MATLAB and Python, and am familiar with SPSS, Microsoft Office programmes, NEURON, and Git. Additionally, I have much experience conducting EEG and behavioural experiments, and also possess fundamental skills in basic laboratory techniques such as electrophoresis, ELISA, and endonuclease use. Furthermore, I can quickly familiarise myself with new software and learn new techniques to add to my repertoire.</li>
+      <li>I am highly confident programming in Python and MATLAB, and am familiar with SPSS, Microsoft Office programmes, NEURON, and Git. Additionally, I have much experience conducting EEG and behavioural experiments, and also possess fundamental skills in basic laboratory techniques such as electrophoresis, ELISA, and endonuclease use. Furthermore, I can quickly familiarise myself with new software and learn new techniques to add to my repertoire.</li>
     </ul>
   <h3 class="CV-header"><a id="Research_Skills" class="section-ID">Research</a></h3>
     <ul class="CV-desc">
