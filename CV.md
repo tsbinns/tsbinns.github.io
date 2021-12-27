@@ -107,7 +107,6 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Experience" class="section-ID">Selected Experience</a></h1>
 
 <div>
-  <!--
   <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-CNT.png">
     <ul class="CV-subheader_with_logo">
@@ -119,9 +118,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>For the second project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am developing an advanced, biologically representative 3D-printed human head phantom. With this phantom, our understanding of forward models of brain activity in EEG recordings can be improved.<br>
       Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
-  -->
 
-  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - 12/2021</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany</li>
@@ -131,18 +129,6 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <ul class="CV-desc_with_logo">
       <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, my work involves studying cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients. The goal is to further our understanding of disease mechanisms and how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
       Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
-    </ul>
-
-  <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - 04/2021</a></h3>
-    <img class="logo" src="/assets/images/Logo-UoA.png">
-    <ul class="CV-subheader_with_logo">
-      <li>&mdash;School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK</li>
-      <li>&mdash;Role: Researcher</li>
-      <li>&mdash;Supervisor: Dr. Antonio Gonzalez</li>
-    </ul>
-    <ul class="CV-desc_with_logo">
-      <li>As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
-      Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - 08/2020</a></h3>
@@ -162,6 +148,17 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <div style="margin-top: 30px;" id="CAP_Lab"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="collapsible_content">
+    <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - 04/2021</a></h3>
+      <img class="logo" src="/assets/images/Logo-UoA.png">
+        <ul class="CV-subheader_with_logo">
+          <li>&mdash;School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK</li>
+          <li>&mdash;Role: Researcher</li>
+          <li>&mdash;Supervisor: Dr. Antonio Gonzalez</li>
+        </ul>
+        <ul class="CV-desc_with_logo">
+          <li>As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
+          Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
+        </ul>
     <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - 10/2018</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <ul class="CV-subheader_with_logo">
@@ -254,7 +251,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <img class="logo" src="/assets/images/Logo-BNA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;British Neuroscience Associsation (BNA), Bristol, UK</li>
-      <li>&mdash;Member</li>
+      <li>&mdash;Role: Member</li>
     </ul>
     <ul class="CV-desc_with_logo">
       <li>As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>&nbsp; allowing me to demonstrate and further hone my academic writing skills.</li>
