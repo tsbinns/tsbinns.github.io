@@ -55,7 +55,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
           <p>
-            The readiness potential (RP) is a slow, negative electrical potential preceding voluntary actions observed in EEG recordings. According to the classical interpretation, the RP reflects movement preparation and should only be found immediately prior to voluntary action. In contrast, the stochastic accumulator model argues that the RP is the result of accumulated neural activity and does not reflect movement preparation. One prediction derived from this accumulator model is that events resembling the RP should be found throughout the EEG data of tasks where voluntary actions are permitted. This prediction was tested using machine learning techniques. Events resembling the spatio-temporal profiles of the RP were identified in the EEG data, however there were discrepancies between these events and details of the prediction of the model. Yet, these events were not found to be false positives resulting from noise in the EEG recordings, raising the possibility that these events were related to voluntary action and the RP in some manner. This provides tentative support for the stochastic accumulator model.
+            The readiness potential (RP) is a slow, negative electrical potential preceding voluntary actions observed in EEG recordings. According to the classical interpretation, the RP reflects movement preparation and should only be found immediately prior to voluntary action. In contrast, the stochastic accumulator model argues that the RP is the result of accumulated neural activity and does not reflect movement preparation. One prediction derived from this accumulator model is that events resembling the RP should be found throughout the EEG data of tasks where voluntary actions are permitted.<br>
+            This prediction was tested using machine learning techniques. Events resembling the spatio-temporal profiles of the RP were identified in the EEG data, however there were discrepancies between these events and details of the prediction of the model. Yet, these events were not found to be false positives resulting from noise in the EEG recordings, raising the possibility that these events were related to voluntary action and the RP in some manner. This provides tentative support for the stochastic accumulator model.
           </p>
         </div>
       </div>
@@ -67,7 +68,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
           <p>
-            The dendritic plateau potential is thought to shape information processing in striatal projection neurons. The effect of cholinergic and dopaminergic modulation on the plateau potential and the spiking activity of striatal projection neurons was investigated <i>in silico</i>. Plateau potentials were generated with spatially clustered excitatory inputs to dendrites, and the efficacy of corticostriatal inputs at triggering cell spiking in the presence and absence of cholinergic and dopaminergic modulation were observed. There were some instances of dopaminergic modulation in which the probabilities of cells spiking were altered, however changes in spiking were largely attributed to alterations in cell excitability. It is concluded that acetylcholine and dopamine do not influence striatal information processing through altering plateau potentials induced by clustered excitatory inputs, with the persistence of the plateau potential supporting its proposed essential role in striatal information processing.
+            The dendritic plateau potential is thought to shape information processing in striatal projection neurons. The effect of cholinergic and dopaminergic modulation on the plateau potential and the spiking activity of striatal projection neurons was investigated <i>in silico</i>. Plateau potentials were generated with spatially clustered excitatory inputs to dendrites, and the efficacy of corticostriatal inputs at triggering cell spiking in the presence and absence of cholinergic and dopaminergic modulation were observed.<br>
+            There were some instances of dopaminergic modulation in which the probabilities of cells spiking were altered, however changes in spiking were largely attributed to alterations in cell excitability. It is concluded that acetylcholine and dopamine do not influence striatal information processing through altering plateau potentials induced by clustered excitatory inputs, with the persistence of the plateau potential supporting its proposed essential role in striatal information processing.
           </p>
         </div>
       </div>
@@ -115,8 +117,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the second project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am developing an advanced, biologically representative 3D-printed human head phantom. With this phantom, our understanding of forward models of brain activity in EEG recordings can be improved.<br>
-      Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
+      <li>For the second project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am developing an advanced, biologically representative 3D-printed human head phantom. With this phantom, our understanding of forward models of brain activity in EEG recordings can be improved.</li>
+      <li>Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
 
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - 12/2021</a></h3>
@@ -127,8 +129,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I studied cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of furthering our understanding of disease mechanisms and how treatments such as deep brain stimulation may elicit their therapeutic effects.<br>
-      Through this placement, I further developed my signal analysis and Python programming skills, gained an in-depth understanding of movement disorders, and also gained further experience as a researcher working in an academic laboratory setting.</li>
+      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I studied cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of furthering our understanding of disease mechanisms and how treatments such as deep brain stimulation may elicit their therapeutic effects.</li>
+      <li>Through this placement, I further developed my signal analysis and Python programming skills, gained an in-depth understanding of movement disorders, and also gained further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - 08/2020</a></h3>
@@ -156,8 +158,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
           <li>&mdash;Supervisor: Dr. Antonio Gonzalez</li>
         </ul>
         <ul class="CV-desc_with_logo">
-          <li>As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
-          Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
+          <li>As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.</li>
+          <li>Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
         </ul>
     <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - 10/2018</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
