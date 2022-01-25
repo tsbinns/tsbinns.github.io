@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2021-11-18
+  lastmod: 2022-01-23
   exclude: 'no'
 ---
 
