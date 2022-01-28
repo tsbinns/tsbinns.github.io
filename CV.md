@@ -121,7 +121,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
 
-  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - 12/2021</a></h3>
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - &zwj;12/2021</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany</li>
@@ -133,7 +133,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Through this placement, I further developed my signal analysis and Python programming skills, gained an in-depth understanding of movement disorders, and also gained further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
-  <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - 08/2020</a></h3>
+  <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Germany</li>
@@ -150,7 +150,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <div style="margin-top: 30px;" id="CAP_Lab"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="collapsible_content">
-    <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - 04/2021</a></h3>
+    <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <ul class="CV-subheader_with_logo">
           <li>&mdash;School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK</li>
@@ -161,7 +161,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
           <li>As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.</li>
           <li>Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
         </ul>
-    <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - 10/2018</a></h3>
+    <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <ul class="CV-subheader_with_logo">
           <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
@@ -222,7 +222,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.</li>
     </ul>
 
-  <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - 08/2020</a></h3>
+  <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
@@ -232,7 +232,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Associated with my work as a <a href="#Haynes_Lab">Researcher in the Haynes Laboratory</a> of the Bernstein Center for Computational Neuroscience, Germany.</li>
     </ul>
 
-  <h3 class="CV-header"><a id="Wellcome_Scholarship" class="section-ID">05/2018 - 10/2018</a></h3>
+  <h3 class="CV-header"><a id="Wellcome_Scholarship" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
     <img class="logo" src="/assets/images/Logo-Wellcome.png">
     <ul class="CV-subheader_with_logo" style="margin-bottom: 0;">
       <li>&mdash;<i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
@@ -249,7 +249,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Memberships" class="section-ID">Professional Memberships</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - 09/2021</a></h3>
+  <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - &zwj;09/2021</a></h3>
     <img class="logo" src="/assets/images/Logo-BNA.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;British Neuroscience Associsation (BNA), Bristol, UK</li>
