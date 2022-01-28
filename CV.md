@@ -121,7 +121,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
 
-  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - 12/2021</a></h3>
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - &zwj;12/2021</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany</li>
