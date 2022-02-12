@@ -29,7 +29,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 
 <!-- Education -->
 <!-- Main -->
-<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Selected Education</a></h1>
+<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
 
 <div>
   <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">2021 - Present</a></h3>
@@ -76,37 +76,10 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
 </div>
 
-<!-- Additional Education -->
-<div style="margin-top: 30px;"> <!-- COLLAPSIBLE -->
-  <button type="button" class="collapsible">View Additional Education</button>
-
-  <div class="collapsible_content">
-    <!--
-    <h3 class="CV-collapsible_header">08/2021</h3>
-      <img class="logo" src="/assets/images/Logo-NMA.png">
-      <ul class="CV-subheader_with_logo">
-        <li>&mdash;Neuromatch Academy - Deep Learning</li>
-      </ul>
-      <ul class="CV-desc_with_logo">
-        <li>A three week highly intensive online summer school providing an in-depth look into deep learning, involving extensive Python programming.</li>
-      </ul>
-    -->
-    <!---->
-    <h3 class="CV-collapsible_header"><a id="NMA_CN20" class="section-ID">07/2020</a></h3>
-      <img class="logo" src="/assets/images/Logo-NMA.png">
-      <ul class="CV-subheader_with_logo">
-        <li>&mdash;Neuromatch Academy - Computational Neuroscience</li>
-      </ul>
-      <ul class="CV-desc_with_logo">
-        <li>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
-      </ul>
-  </div>
-</div>
-
 
 <!-- Experience -->
 <hr>
-<h1><a id="Experience" class="section-ID">Selected Experience</a></h1>
+<h1><a id="Experience" class="section-ID">Experience</a></h1>
 
 <div>
   <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - Present</a></h3>
@@ -172,6 +145,42 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
           <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
         </ul>
   </div>
+</div>
+
+
+<!-- Courses -->
+<hr>
+<h1><a id="Courses" class="section-ID">Courses</a></h1>
+
+<div>
+  <h3 class="CV-header"><a id="BCCN_Winter_School" class="section-ID">03/2022</a></h3>
+    <img class="logo" src="/assets/images/Logo-BCCN.png">
+    <ul class="CV-subheader_with_logo">
+      <li>&mdash;Winter School - Ethics of Neuroscience and AI</li>
+      <li>&mdash;Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
+    </ul>
+    <ul class="CV-desc_with_logo">
+      <li>An intensive week-long course of lectures and workshops covering theoretical foundations and practical aspects of ethics in neuroscience, including topics such as deep brain stimulation, brain death, artificial intelligence, and data protection.</li>
+    </ul>
+
+  <h3 class="CV-header"><a id="ReproducibiliTeach" class="section-ID">02/2022 - Present</a></h3>
+    <img class="logo" src="/assets/images/Logo-BIH.jpg">
+    <ul class="CV-subheader_with_logo">
+      <li>&mdash;ReproducibiliTeach</li>
+      <li>&mdash;Berlin Institute of Health, Charité – Universitätsmedizin Berlin, Germany</li>
+    </ul>
+    <ul class="CV-desc_with_logo">
+      <li>An eight week course consisting of seminars and workshops in which participants are trained to identify common problems related to tranaparency and reproducibility in scientific research. In doing so, participants learn how to overcome these challenges, and implement best practices in their own work to make it more robust, transparent, and reproducible.</li>
+    </ul>
+
+  <h3 class="CV-header"><a id="NMA_CN20" class="section-ID">07/2020</a></h3>
+    <img class="logo" src="/assets/images/Logo-NMA.png">
+    <ul class="CV-subheader_with_logo">
+      <li>&mdash;Neuromatch Academy - Computational Neuroscience</li>
+    </ul>
+    <ul class="CV-desc_with_logo">
+      <li>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
+    </ul>
 </div>
 
 
