@@ -103,7 +103,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I studied cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of identifying biomarkers for use in closed-loop, adaptive deep brain stimulation treatment paradigms.</li>
+      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I studied cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of identifying biomarkers for use in closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I presented a poster on results of some preliminary analyses at the <i>ReTune Fall School</i>. &nbsp;<a href="/assets/documents/ReTune_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li>
       <li>Through this placement, I further developed my signal analysis and Python programming skills, gained an in-depth understanding of movement disorders, and also gained further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
@@ -154,6 +154,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Courses" class="section-ID">Courses</a></h1>
 
 <div>
+  <!--
   <h3 class="CV-header"><a id="BCCN_Winter_School" class="section-ID">03/2022</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
@@ -163,6 +164,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <ul class="CV-desc_with_logo">
       <li>An intensive week-long course of lectures and workshops covering theoretical foundations and practical aspects of ethics in neuroscience, including topics such as deep brain stimulation, brain death, artificial intelligence, and data protection.</li>
     </ul>
+  -->
 
   <h3 class="CV-header"><a id="ReproducibiliTeach" class="section-ID">02/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-BIH.jpg">
