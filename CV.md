@@ -171,7 +171,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Berlin Institute of Health, Charité – Universitätsmedizin Berlin, Germany</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>An eight week course consisting of seminars and workshops in which participants are trained to identify common problems related to tranaparency and reproducibility in scientific research. In doing so, participants learn how to overcome these challenges, and implement best practices in their own work to make it more robust, transparent, and reproducible.</li>
+      <li>An eight week-long course consisting of seminars and workshops in which participants are trained to identify common problems related to tranaparency and reproducibility in scientific research. In doing so, participants learn how to overcome these challenges, and implement best practices in their own work to make it more robust, transparent, and reproducible.</li>
     </ul>
 
   <h3 class="CV-header"><a id="NMA_CN20" class="section-ID">07/2020</a></h3>
@@ -180,7 +180,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Neuromatch Academy - Computational Neuroscience</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>A three week highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
+      <li>A three week-long, highly-intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
     </ul>
 </div>
 
@@ -239,7 +239,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Erasmus+ Traineeship Grant, British Council.</li>
     </ul>
     <ul class="CV-desc_with_logo" style="margin-top: 0;">
-      <li>Associated with my work as a <a href="#Haynes_Lab">Researcher in the Haynes Laboratory</a> of the Bernstein Center for Computational Neuroscience, Germany.</li>
+      <li>Associated with my work as a <a href="#Haynes_Lab">Researcher in the Haynes Laboratory</a> of the Bernstein Center for Computational Neuroscience, Berlin, Germany.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Wellcome_Scholarship" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
