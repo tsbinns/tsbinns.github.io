@@ -17,6 +17,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <a href="#Top">Top</a>
     <a href="#Education">Education</a>
     <a href="#Experience">Experience</a>
+    <a href="#Courses">Courses</a>
     <a href="#Publications">Publications</a>
     <a href="#Funding">Funding</a>
     <a href="#Memberships">Professional Memberships</a>
