@@ -51,7 +51,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     </ul>
     <ul class="CV-desc_with_logo">
       <li><b>Industrial Placement (Master's) thesis:</b></li>
-      <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Germany. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes. <a href="#Haynes_Lab">View associated experience.</a></li>
+      <li>“Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes. <a href="#Haynes_Lab">View associated experience.</a></li>
       <div style="margin-bottom: 30px;" id="Master_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -110,7 +110,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
-      <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Germany</li>
+      <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
       <li>&mdash;Role: Researcher</li>
       <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
     </ul>
