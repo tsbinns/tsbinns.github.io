@@ -91,7 +91,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Dr. Stefan Haufe</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>n parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity and its characteristics in Parkinson's disease patients under different dopaminergic medication conditions, including with multivariate measures and time-reversed Granger causality.</li>
+      <li>In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity and its characteristics in Parkinson's disease patients under different dopaminergic medication conditions, including with multivariate measures and time-reversed Granger causality.</li>
       <li>Again, I am further developing my signal analysis and programming skills in Python and MATLAB, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
