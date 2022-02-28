@@ -83,6 +83,18 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Experience" class="section-ID">Experience</a></h1>
 
 <div>
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">03/2021 - Present</a></h3>
+    <img class="logo" src="/assets/images/Logo-BDS.png">
+    <ul class="CV-subheader_with_logo">
+      <li>&mdash;Brain and Data Science Group, Charité – Universitätsmedizin Berlin, Germany</li>
+      <li>&mdash;Role: Researcher</li>
+      <li>&mdash;Supervisor: Dr. Stefan Haufe</li>
+    </ul>
+    <ul class="CV-desc_with_logo">
+      <li>In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity and its characteristics in Parkinson's disease patients under different dopaminergic medication conditions, including with multivariate measures and time-reversed Granger causality.</li>
+      <li>Again, I am further developing my signal analysis and programming skills in Python and MATLAB, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
+    </ul>
+
   <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-CNT.png">
     <ul class="CV-subheader_with_logo">
@@ -95,7 +107,7 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
 
-  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - &zwj;12/2021</a></h3>
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany</li>
@@ -103,8 +115,8 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I studied cortical-subthalamic coherence using ECoG and subthalamic LFP recordings from Parkinson's disease patients, with the goal of identifying biomarkers for use in closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I presented a poster on results of some preliminary analyses at the <i>ReTune Fall School</i>. &nbsp;<a href="/assets/documents/ReTune_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li>
-      <li>Through this placement, I further developed my signal analysis and Python programming skills, gained an in-depth understanding of movement disorders, and also gained further experience as a researcher working in an academic laboratory setting.</li>
+      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I presented a poster on results of some preliminary analyses at the <i>ReTune Fall School</i>. &nbsp;<a href="/assets/documents/ReTune_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li>
+      <li>Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
