@@ -166,7 +166,6 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
 <h1><a id="Courses" class="section-ID">Courses</a></h1>
 
 <div>
-  <!--
   <h3 class="CV-header"><a id="BCCN_Winter_School" class="section-ID">03/2022</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <ul class="CV-subheader_with_logo">
@@ -176,7 +175,6 @@ View the CV as a pdf: &nbsp;<a href="/assets/documents/Thomas_Samuel_Binns-CV.pd
     <ul class="CV-desc_with_logo">
       <li>An intensive week-long course of lectures and workshops covering theoretical foundations and practical aspects of ethics in neuroscience, including topics such as deep brain stimulation, brain death, artificial intelligence, and data protection.</li>
     </ul>
-  -->
 
   <h3 class="CV-header"><a id="ReproducibiliTeach" class="section-ID">02/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-BIH.jpg">
