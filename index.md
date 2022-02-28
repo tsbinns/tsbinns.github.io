@@ -20,13 +20,13 @@ sitemap:
 
 
 <!-- Main website description/introduction -->
-I am a neuroscientist from the UK interested in computational, cognitive, and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces.
+<p class="paragraph">I am a neuroscientist from the UK interested in computational, cognitive, and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces.
 
 Since October 2021 I am a Ph.D. Fellow of the Einstein Center for Neurosciences Berlin, Germany, where I am completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience prior to deciding on a final group with which to complete my Ph.D.
 
 I am also a graduate with First-Class Honours in an M.Sci. Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating volition and decision-making using brain-computer interfaces in the group of Prof. John-Dylan Haynes.
 
-Feel free to check out my [CV](/CV) and [publications](/publications), or contact me [here](/contact-links).
+Feel free to check out my [CV](/CV) and [publications](/publications), or contact me [here](/contact-links).</p>
 
 
 <!-- Twitter highlights -->
