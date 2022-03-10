@@ -34,7 +34,7 @@ sitemap:
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p class="desc-paragraph">
-      Building on our earlier work, this poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://sfb-retune.de/" target="_blank">ReTune research centre</a>.
+      Building on our earlier work, this poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
     </p>
   </div>
 </div>

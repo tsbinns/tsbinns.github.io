@@ -117,7 +117,7 @@ sitemap:
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented a poster on results of some preliminary analyses at the <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.</li>
+      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.</li>
       <li>Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
@@ -206,6 +206,18 @@ sitemap:
 <p class="paragraph" style="margin-bottom: 30px">For the full list of publications, <a href="/publications">click here.</a></p>
 
 <p class="paragraph">
+  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J., 2022. Invasive mapping of cortico-subthalamic coherence in Parkinson's disease. <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany. <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p class="desc-paragraph">
+      Building on our earlier work, this poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
+    </p>
+  </div>
+</div>
+
+<p class="paragraph">
   Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020.</a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
@@ -215,18 +227,6 @@ sitemap:
       Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement.<br>
       <br>
       We tested the ability of participants to control the magnitude of their RP in a neurofeedback experiment. Participants performed self-initiated movements, and after every movement, they were provided with immediate feedback about the magnitude of their RP. They were asked to find a strategy to perform voluntary movements such that the RPs were as small as possible. We found no evidence that participants were able to to willfully modulate or suppress their RPs while still eliciting voluntary movements. This suggests that the RP might be an involuntary component of voluntary action over which people cannot exert conscious control.
-    </p>
-  </div>
-</div>
-
-<p class="paragraph">
-  <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
-</p>
-<div> <!-- COLLAPSIBLE -->
-  <button type="button" class="collapsible">View Description</button>
-  <div class="collapsible_content">
-    <p class="desc-paragraph">
-      A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.
     </p>
   </div>
 </div>
