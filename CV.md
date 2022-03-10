@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2022-03-01
+  lastmod: 2022-03-10
   exclude: 'no'
 ---
 
@@ -117,7 +117,7 @@ sitemap:
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I presented a poster on results of some preliminary analyses at the <i>ReTune Fall School</i>. &nbsp;<a href="/assets/documents/ReTune_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li>
+      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i> &nbsp;<a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li> and the <i>ReTune Fall School</i> &nbsp;<a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></li>.
       <li>Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
@@ -220,7 +220,7 @@ sitemap:
 </div>
 
 <p class="paragraph">
-  <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. &nbsp;<a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -281,7 +281,7 @@ sitemap:
       <li>&mdash;Role: Member</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>&nbsp; allowing me to demonstrate and further hone my academic writing skills.</li>
+      <li>As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a>  &nbsp;<a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>&nbsp; allowing me to demonstrate and further hone my academic writing skills.</li>
     </ul>
 </div>
 
@@ -314,7 +314,7 @@ sitemap:
 <h1><a id="Achievements-Interests" class="section-ID">Achievements & Interests</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="Student_Prize" class="section-ID">Neuroscience Student Prize</a> &nbsp;<a href="/assets/documents/Neuroscience_Student_Prize.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></h3>
+  <h3 class="CV-header"><a id="Student_Prize" class="section-ID">Neuroscience Student Prize</a> &nbsp;<a href="/assets/documents/Aberdeen_Neuroscience_Student_Prize.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></h3>
     <ul class="CV-desc">
       <li>Upon completion of my M.Sci. degree I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.</li>
     </ul>

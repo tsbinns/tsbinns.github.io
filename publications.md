@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2022-03-01
+  lastmod: 2022-03-10
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -16,6 +16,7 @@ sitemap:
   <button onclick="toggle_show()" class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
+    <a href="#2021">2022</a>
     <a href="#2021">2021</a>
     <a href="#2020">2020</a>
   </div>
@@ -23,17 +24,33 @@ sitemap:
 
 
 <!-- Publication list -->
-<h1><a id="2021" class="section-ID">2021</a></h1>
+<h1><a id="2022" class="section-ID">2022</a></h1>
 
 <p class="paragraph">
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J., 2021. Invasive mapping of cortico-subthalamic coherence in Parkinson's disease. <i>ReTune Fall School</i>, Hofgeismar, October 2021. &nbsp;<a href="/assets/documents/ReTune_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J., 2022. Invasive mapping of cortico-subthalamic coherence in Parkinson's disease. <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany &nbsp;<a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p class="desc-paragraph">
-      This poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus LFP and cortical ECoG. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
+      Building on my our work, this poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and electrocorticography. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://sfb-retune.de/" target="_blank">ReTune research centre</a>.
+    </p>
+  </div>
+</div>
+
+<hr>
+<h1><a id="2021" class="section-ID">2021</a></h1>
+
+<p class="paragraph">
+  &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
+  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J., 2021. Invasive mapping of cortico-subthalamic coherence in Parkinson's disease. <i>ReTune Fall School</i>, Hofgeismar, Germany. &nbsp;<a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p class="desc-paragraph">
+      This poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and electrocorticography. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
     </p>
   </div>
 </div>
