@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2022-03-10
+  lastmod: 2022-05-01
   exclude: 'no'
 ---
 
@@ -178,7 +178,7 @@ sitemap:
       <li>An intensive week-long course of lectures and workshops covering theoretical foundations and practical aspects of ethics in neuroscience, including topics such as deep brain stimulation, brain death, artificial intelligence, and data protection.</li>
     </ul>
 
-  <h3 class="CV-header"><a id="ReproducibiliTeach" class="section-ID">02/2022 - Present</a></h3>
+  <h3 class="CV-header"><a id="ReproducibiliTeach" class="section-ID">02/2022 - &zwj;04/2022</a></h3>
     <img class="logo" src="/assets/images/Logo-BIH.jpg">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;ReproducibiliTeach</li>
