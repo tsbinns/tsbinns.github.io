@@ -26,7 +26,7 @@ Since October 2021 I am a Ph.D. Fellow of the Einstein Center for Neurosciences 
 <br>
 I am also a graduate with First-Class Honours in an M.Sci. Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating volition and decision-making using brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
 <br>
-Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publications</a>, or contact me <a href="/contact-links">here</a>.</p>
+Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publications</a>, or contact me <a href="/contact-links">here</a>.Jeff</p>
 
 
 <!-- Twitter highlights -->
@@ -42,13 +42,20 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
 <style>
 .twitter-tweet-rendered{
     display: inline-block !important;
-    width: 98% !important;
+    width: 48% !important;
     margin-left: 1% !important;
     margin-right: 1% !important;
     margin-top: 1% !important;
     float: left !important;
 }
 </style>
+
+<script>
+  const myTimeout = setTimeout(fixWidgetWidth, 5000)
+
+  function fixWidgetWidth()
+    document.getElementById("twitter-widget-0").width = "100%";
+</script>
 
 <!--
 <script>
