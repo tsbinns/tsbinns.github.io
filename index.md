@@ -1,5 +1,5 @@
 ---
-title: "About Me - Thomas Samuel Binns"
+title: "About Me"
 layout: page
 sitemap:
   lastmod: 2022-06-05
