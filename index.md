@@ -2,7 +2,7 @@
 title: "About Me - Thomas Samuel Binns"
 layout: page
 sitemap:
-  lastmod: 2022-03-01
+  lastmod: 2022-06-05
   exclude: 'no'
 ---
 
@@ -27,10 +27,15 @@ Since October 2021 I am a Ph.D. Fellow of the Einstein Center for Neurosciences 
 I am also a graduate with First-Class Honours in an M.Sci. Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating volition and decision-making using brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
 <br>
 Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publications</a>, or contact me <a href="/contact-links">here</a>.</p>
+<br>
 
 
 <!-- Twitter highlights -->
+<div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to be presenting my poster at the DBS Expert Summit.<br><br>We use invasive ECoG and STN LFP recordings from Parkinson&#39;s patients to investigate the effects of dopaminergic medication on cortico-subthalamic connectivity.<a href="https://twitter.com/ICNeuromodulate?ref_src=twsrc%5Etfw">@ICNeuromodulate</a> <a href="https://twitter.com/Retune_CRC?ref_src=twsrc%5Etfw">@Retune_CRC</a> <a href="https://t.co/lJDko8xrWS">https://t.co/lJDko8xrWS</a> <a href="https://t.co/fr2lvwmXlm">pic.twitter.com/fr2lvwmXlm</a></p>&mdash; Thomas Samuel Binns (@tsbinns) <a href="https://twitter.com/tsbinns/status/1500564226687000588?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Great opportunity for <a href="https://twitter.com/ECN_Berlin?ref_src=twsrc%5Etfw">@ECN_Berlin</a> PhD awardees like <a href="https://twitter.com/TSBinns?ref_src=twsrc%5Etfw">@TSBinns</a> to get involved in neuromodulation research. Get in touch if you want to learn more about the <a href="https://twitter.com/Retune_CRC?ref_src=twsrc%5Etfw">@Retune_CRC</a>! <a href="https://t.co/U9PjXD1W4Y">https://t.co/U9PjXD1W4Y</a></p>&mdash; Retune – CRC TRR 295 (@Retune_CRC) <a href="https://twitter.com/Retune_CRC/status/1451619611993071620?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <!--
 <script>
