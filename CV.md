@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2022-05-01
+  lastmod: 2022-06-05
   exclude: 'no'
 ---
 
@@ -85,7 +85,7 @@ sitemap:
 <h1><a id="Experience" class="section-ID">Experience</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">03/2021 - Present</a></h3>
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">03/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-BDS.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Brain and Data Science Group, Charité – Universitätsmedizin Berlin, Germany</li>
@@ -94,10 +94,10 @@ sitemap:
     </ul>
     <ul class="CV-desc_with_logo">
       <li>In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity and its characteristics in Parkinson's disease patients under different dopaminergic medication conditions, including with multivariate measures and time-reversed Granger causality.</li>
-      <li>Again, I am further developing my signal analysis and programming skills in Python and MATLAB, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
+      <li>Again, I am further developing my signal analysis and programming skills in Python, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
-  <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - Present</a></h3>
+  <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
     <img class="logo" src="/assets/images/Logo-CNT.png">
     <ul class="CV-subheader_with_logo">
       <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
@@ -105,8 +105,8 @@ sitemap:
       <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the second project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am developing an advanced, biologically representative 3D-printed human head phantom. With this phantom, our understanding of forward models of brain activity in EEG recordings can be improved.</li>
-      <li>Through this highly practical project, I am gaining an understanding of 3D model design, 3D printing, material sciences, and hardware development, improving my overall knowledge of the technical aspects of electrophysiological research.</li>
+      <li>For the second project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I investigated the possibilty of developing a biologically representative, 3D-printed human head phantom for improving our understanding of forward models of brain activity in EEG recordings, and how non-invasive stimulation affects brain activity.</li>
+      <li>Through this highly practical project, I gained an understanding of 3D model design and 3D printing, as well as improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
 
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
