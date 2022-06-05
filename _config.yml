@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "contact-links.md", title: "<b>Contact &amp Links</b>", url: "https://tsbinns.com/contact-links"} #icon: "address-book"
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Email, icon: "envelope", url: "mailto:t.s.binns@outlook.com"}
+  - {title: Email, icon: "envelope", url: "mailto:thomas-samuel.binns@charite.de"}
   - {title: Scholar, icon: "google", url: "https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ"}
   - {title: Twitter, icon: "twitter", url: "https://twitter.com/tsbinns"}
   - {title: Github, icon: "github", url: "https://github.com/tsbinns"}
