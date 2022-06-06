@@ -48,7 +48,7 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
       margin-bottom: 1% !important;
   }
 
-  .twitter-widget-0{
+  .iframe{
     width: 100% !important;
   }
 </style>
