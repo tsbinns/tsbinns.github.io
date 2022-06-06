@@ -48,10 +48,17 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
       margin-bottom: 1% !important;
   }
 
-  .iframe{
-    width: 40% !important;
-  }
+  #twitter-widget-0,#twitter-widget-1{width: 100% !important;}
+
+  .twitterwidget::shadow .SummaryCard-content *{white-space: normal !important;}
+  .twitterwidget::shadow .resize-sensor{
+    display: none !important;
+    width: 0px !important;
+    overflow: hidden !important;
+    }
 </style>
+
+
 
 <!--
 <script>
