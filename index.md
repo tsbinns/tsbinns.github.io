@@ -47,6 +47,10 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
       margin-top: 1% !important;
       margin-bottom: 1% !important;
   }
+
+  .twitter-widget-0{
+    width: 100% !important;
+  }
 </style>
 
 <!--
