@@ -2,7 +2,7 @@
 title: "About Me"
 layout: page
 sitemap:
-  lastmod: 2022-06-05
+  lastmod: 2022-06-06
   exclude: 'no'
 ---
 
