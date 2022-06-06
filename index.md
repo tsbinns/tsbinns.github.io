@@ -46,6 +46,7 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
       margin-top: 1% !important;
       margin-bottom: 1% !important;
       overflow-y: auto !important;
+      -webkit-overflow-scrolling: touch;
   }
 
   #twitter-widget-0,#twitter-widget-1{width: 100% !important;}
