@@ -34,6 +34,7 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
 
 <style>
   .twitter-tweet-rendered{
+      display: inline !important;
       width: 45% !important;
       margin-left: 1% !important;
       margin-right: 1% !important;
