@@ -49,7 +49,7 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
   }
 
   .iframe{
-    width: 100% !important;
+    width: 40% !important;
   }
 </style>
 
