@@ -2,11 +2,11 @@
 title: "Contact & Links"
 layout: page
 sitemap:
-  lastmod: 2021-12-27
+  lastmod: 2022-07-10
   exclude: 'no'
 ---
 
-<i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:thomas-samuel.binns@charite.de" target="_blank">thomas-samuel.binns@charite.de</a>
+<i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:t.s.binns@outlook.com" target="_blank">t.s.binns@outlook.com</a>
 
 <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas Samuel Binns</a>
 
