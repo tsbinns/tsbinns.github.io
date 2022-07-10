@@ -40,7 +40,7 @@ sitemap:
       <li>&mdash;Ph.D. Neuroscience Fellow</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>Having completed my initial period of laboratory rotations, I am now working on the project for my <a href="#PhD_Fellowship">fellowship-funded Ph.D</a> investigating connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker of Parkinson's disease for use in next-generation adaptive deep brain stimulation paradigms, supervised by Prof. Wolf-Julian Neumann and Dr. Stefan Haufe.</li>
+      <li>Having completed my initial period of laboratory rotations, I am now working on the project for my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a> investigating connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker of Parkinson's disease for use in next-generation adaptive deep brain stimulation paradigms, supervised by Prof. Wolf-Julian Neumann and Dr. Stefan Haufe.</li>
       <li>As part of this project, I am implementing multivariate measures of connectivity in Python and using these measures to investigate cortico-subthalamic connectivity in electrocorticography and subthalamic nucleus local field potential recordings collected from Parkinson's patients under different dopaminergic medication states, and during different states of motor activity. For some preliminary results, please see my poster at the <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.</li>
     </ul>
 
@@ -216,7 +216,7 @@ sitemap:
     </p>
   </div>
 </div>
-
+<br>
 <p class="paragraph">
   Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020.</a>
 </p>
@@ -227,6 +227,18 @@ sitemap:
       Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement.<br>
       <br>
       We tested the ability of participants to control the magnitude of their RP in a neurofeedback experiment. Participants performed self-initiated movements, and after every movement, they were provided with immediate feedback about the magnitude of their RP. They were asked to find a strategy to perform voluntary movements such that the RPs were as small as possible. We found no evidence that participants were able to to willfully modulate or suppress their RPs while still eliciting voluntary movements. This suggests that the RP might be an involuntary component of voluntary action over which people cannot exert conscious control.
+    </p>
+  </div>
+</div>
+<br>
+<p class="paragraph">
+  <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p class="desc-paragraph">
+      A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.
     </p>
   </div>
 </div>
