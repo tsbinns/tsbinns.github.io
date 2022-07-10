@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2022-06-05
+  lastmod: 2022-07-10
   exclude: 'no'
 ---
 
@@ -40,7 +40,8 @@ sitemap:
       <li>&mdash;Ph.D. Neuroscience Fellow</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>I am currently completing an initial period of laboratory rotations in the topics of movement disorders, neurotechnology, and computational neuroscience, prior to deciding on a final group with which to complete my <a href="#PhD_Fellowship">fellowship-funded Ph.D</a>.</li>
+      <li>Having completed my initial period of laboratory rotations, I am now working on the project for my <a href="#PhD_Fellowship">fellowship-funded Ph.D</a> investigating connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker of Parkinson's disease for use in next-generation adaptive deep brain stimulation paradigms, supervised by Prof. Wolf-Julian Neumann and Dr. Stefan Haufe.</li>
+      <li>As part of this project, I am implementing multivariate measures of connectivity in Python and using these measures to investigate cortico-subthalamic connectivity in electrocorticography and subthalamic nucleus local field potential recordings collected from Parkinson's patients under different dopaminergic medication states, and during different states of motor activity. For some preliminary results, please see my poster at the <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
@@ -93,20 +94,8 @@ sitemap:
       <li>&mdash;Supervisor: Dr. Stefan Haufe</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity and its characteristics in Parkinson's disease patients under different dopaminergic medication conditions, including with multivariate measures and time-reversed Granger causality.</li>
+      <li>In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity using multivariate measures, including porting these methods from their MATLAB implementations into Python.</li>
       <li>Again, I am further developing my signal analysis and programming skills in Python, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
-    </ul>
-
-  <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
-    <img class="logo" src="/assets/images/Logo-CNT.png">
-    <ul class="CV-subheader_with_logo">
-      <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
-      <li>&mdash;Role: Researcher</li>
-      <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
-    </ul>
-    <ul class="CV-desc_with_logo">
-      <li>For the second project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I investigated the possibilty of developing a biologically representative, 3D-printed human head phantom for improving our understanding of forward models of brain activity in EEG recordings, and how non-invasive stimulation affects brain activity.</li>
-      <li>Through this highly practical project, I gained an understanding of 3D model design and 3D printing, as well as improving my overall knowledge of the technical aspects of electrophysiological research.</li>
     </ul>
 
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
@@ -117,8 +106,8 @@ sitemap:
       <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
     </ul>
     <ul class="CV-desc_with_logo">
-      <li>For the first project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.</li>
-      <li>Through this placement, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
+      <li>For the Ph.D. project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions and states of motor activity, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>2<sup>nd</sup> Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.</li>
+      <li>Through this work, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
@@ -138,6 +127,17 @@ sitemap:
 <div style="margin-top: 30px;" id="CAP_Lab"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="collapsible_content">
+    <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
+      <img class="logo" src="/assets/images/Logo-CNT.png">
+        <ul class="CV-subheader_with_logo">
+          <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
+          <li>&mdash;Role: Researcher</li>
+          <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
+        </ul>
+        <ul class="CV-desc_with_logo">
+          <li>As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I investigated the possibilty of developing a biologically representative, 3D-printed human head phantom for improving our understanding of forward models of brain activity in EEG recordings, and how non-invasive stimulation affects brain activity.</li>
+          <li>Through this highly practical project, I gained an understanding of 3D model design and 3D printing, as well as improving my overall knowledge of the technical aspects of electrophysiological research.</li>
+        </ul>
     <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <ul class="CV-subheader_with_logo">
