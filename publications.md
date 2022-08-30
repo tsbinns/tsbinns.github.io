@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2022-03-10
+  lastmod: 2022-08-30
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -75,7 +75,7 @@ sitemap:
 
 <p class="paragraph">
   &nbsp;&nbsp; <i><big>Review Article</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
