@@ -81,7 +81,7 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
 
 
 
-
+<!--
 <script>
   /*
   // For animating the closing of the alert box //
