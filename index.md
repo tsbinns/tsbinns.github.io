@@ -43,40 +43,40 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
 
 <style>
   @media (max-width: 575.98px) {
-  .ShowOnWideScreen {
-      display: none;
-  }
-  .ShowOnThinScreen {
-      display: initial;
-  }
+    .ShowOnWideScreen {
+        display: none;
+    }
+    .ShowOnThinScreen {
+        display: initial;
+    }
   }
 
   @media (min-width: 576px) {
-  .ShowOnWideScreen {
-      display: initial;
-  }
-  .ShowOnThinScreen {
-      display: none;
-  }
-  }
-
-  .twitter-tweet-rendered{
-      display: inline-block !important;
-      width: 100% !important;
-      margin-left: 1% !important;
-      margin-right: 1% !important;
-      margin-top: 1% !important;
-      margin-bottom: 1% !important;
-  }
-
-  #twitter-widget-0,#twitter-widget-1{width: 100% !important;}
-
-  .twitterwidget::shadow .SummaryCard-content *{white-space: normal !important;}
-  .twitterwidget::shadow .resize-sensor{
-      display: none !important;
-      width: 0px !important;
-      overflow: hidden !important;
+    .ShowOnWideScreen {
+        display: initial;
     }
+    .ShowOnThinScreen {
+        display: none;
+    }
+
+    .twitter-tweet-rendered{
+        display: inline-block !important;
+        width: 100% !important;
+        margin-left: 1% !important;
+        margin-right: 1% !important;
+        margin-top: 1% !important;
+        margin-bottom: 1% !important;
+    }
+
+    #twitter-widget-0,#twitter-widget-1{width: 100% !important;}
+
+    .twitterwidget::shadow .SummaryCard-content *{white-space: normal !important;}
+    .twitterwidget::shadow .resize-sensor{
+        display: none !important;
+        width: 0px !important;
+        overflow: hidden !important;
+      }
+  }
 </style>
 
 
