@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2022-08-30
+  lastmod: 2022-09-03
   exclude: 'no'
 ---
 
@@ -135,8 +135,8 @@ sitemap:
           <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
         </ul>
         <ul class="CV-desc_with_logo">
-          <li>As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I investigated the possibilty of developing a biologically representative, 3D-printed human head phantom for improving our understanding of forward models of brain activity in EEG recordings, and how non-invasive stimulation affects brain activity.</li>
-          <li>Through this highly practical project, I gained an understanding of 3D model design and 3D printing, as well as improving my overall knowledge of the technical aspects of electrophysiological research.</li>
+          <li>As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity.</li>
+          </li>Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.</li>
         </ul>
     <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
@@ -309,7 +309,7 @@ sitemap:
     </ul>
   <h3 class="CV-header"><a id="Research_Skills" class="section-ID">Research</a></h3>
     <ul class="CV-desc">
-      <li>Through my Ph.D. Fellowship, Honours project, Industrial Placement, and work as a research assistant, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection and analysis, to write up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research projects.</li>
+      <li>Through my Ph.D. Fellowship, Honours project, industrial placement, and work as a researcher, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection, analysis, and write-up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research.</li>
     </ul>
   <h3 class="CV-header"><a id="Communication_Skills" class="section-ID">Communication</a></h3>
     <ul class="CV-desc">
@@ -317,7 +317,7 @@ sitemap:
     </ul>
   <h3 class="CV-header"><a id="Teamwork_Skills" class="section-ID">Teamwork</a></h3>
     <ul class="CV-desc">
-      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects, including work in professional, academic laboratory settings such as the Einstein Center for Neurosciences Berlin, the Bernstein Center, and the University of Aberdeen’s School of Psychology and School of Medicine, Medical Sciences and Nutrition. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
+      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects. This has included work in professional and academic settings, such as at the Charité and Bernstein Center, as well as in extracurricular roles like the Youth Philanthropy Initiative. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
     </ul>
 </div>
 
@@ -332,11 +332,11 @@ sitemap:
     </ul>
   <h3 class="CV-header"><a id="Sports" class="section-ID">Sports</a></h3>
     <ul class="CV-desc">
-      <li>I am an avid athlete, being a member of the Berlin Rock Climbing and Bouldering club, as well as having previously been a member of the University of Aberdeen Athletics Society and having represented my school in the Lewisham Cross-Country Championship. Through my strong discipline and self-motivation I am able to adhere to a rigorous exercise regime, testament to both my dedication and well-rounded character.</li>
+      <li>I am an avid athlete, being a member of the Berlin Rock Climbing and Bouldering club, as well as having previously been a member of the University of Aberdeen Athletics Society and having represented my school in the Lewisham Cross-Country Championship. Through my strong discipline and self-motivation I am able to adhere to this active regime, testament to both my dedication and well-rounded character.</li>
     </ul>
   <h3 class="CV-header"><a id="Music" class="section-ID">Music</a></h3>
     <ul class="CV-desc">
-      <li>I have played the drum kit for fifteen years, achieving a Distinction at Grade 8. Whilst studying at Aberdeen I was the drummer for the University’s Jazz Band, playing at numerous concerts, including yearly performances at the Aberdeen Jazz Festival and the University of Aberdeen’s Concert Series. I have also been involved in Lewisham Music Service’s African Drumming Group and Samba Band and have taken up the piano, achieving a Distinction at Grade 1. My partici-pation in these activities has enhanced both my communication and teamwork skills greatly, and again attests to my well-rounded character and the fact that I remain dedicated to all routes I pursue.</li>
+      <li>I have played the drum kit for sixteen years, achieving a Distinction at Grade 8 in 2016. Currently I am a drummer for the Berlin Pipe Company, for which I have regular performances, and whilst studying at Aberdeen I was the drummer for the University’s Jazz Band where I played at numerous concerts, including yearly performances at the Aberdeen Jazz Festival. I was also involved in the African Drumming Group and Samba Band of my borough’s music centre in London. My participation in these activities has enhanced my communication and teamwork skills greatly, and again attests to my well-rounded character and dedication.</li>
     </ul>
 </div>
 
