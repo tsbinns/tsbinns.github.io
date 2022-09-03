@@ -136,7 +136,7 @@ sitemap:
         </ul>
         <ul class="CV-desc_with_logo">
           <li>As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity.</li>
-          </li>Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.</li>
+          <li>Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.</li>
         </ul>
     <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
