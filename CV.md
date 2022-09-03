@@ -86,18 +86,6 @@ sitemap:
 <h1><a id="Experience" class="section-ID">Experience</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">03/2022 - Present</a></h3>
-    <img class="logo" src="/assets/images/Logo-BDS.png">
-    <ul class="CV-subheader_with_logo">
-      <li>&mdash;Brain and Data Science Group, Charité – Universitätsmedizin Berlin, Germany</li>
-      <li>&mdash;Role: Researcher</li>
-      <li>&mdash;Supervisor: Dr. Stefan Haufe</li>
-    </ul>
-    <ul class="CV-desc_with_logo">
-      <li>In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity using multivariate measures, including porting these methods from their MATLAB implementations into Python.</li>
-      <li>Again, I am further developing my signal analysis and programming skills in Python, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
-    </ul>
-
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <ul class="CV-subheader_with_logo">
@@ -109,6 +97,18 @@ sitemap:
       <li>For the Ph.D. project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions and states of motor activity, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.</li>
       <li>Through this work, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
     </ul>
+
+  <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
+    <img class="logo" src="/assets/images/Logo-CNT.png">
+      <ul class="CV-subheader_with_logo">
+        <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
+        <li>&mdash;Role: Researcher</li>
+        <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
+      </ul>
+      <ul class="CV-desc_with_logo">
+        <li>As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity.</li>
+        <li>Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.</li>
+      </ul>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
@@ -127,17 +127,17 @@ sitemap:
 <div style="margin-top: 30px;" id="CAP_Lab"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="collapsible_content">
-    <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
-      <img class="logo" src="/assets/images/Logo-CNT.png">
-        <ul class="CV-subheader_with_logo">
-          <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
-          <li>&mdash;Role: Researcher</li>
-          <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
-        </ul>
-        <ul class="CV-desc_with_logo">
-          <li>As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity.</li>
-          <li>Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.</li>
-        </ul>
+    <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">03/2022 - Present</a></h3>
+      <img class="logo" src="/assets/images/Logo-BDS.png">
+      <ul class="CV-subheader_with_logo">
+        <li>&mdash;Brain and Data Science Group, Charité – Universitätsmedizin Berlin, Germany</li>
+        <li>&mdash;Role: Researcher</li>
+        <li>&mdash;Supervisor: Dr. Stefan Haufe</li>
+      </ul>
+      <ul class="CV-desc_with_logo">
+        <li>In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity using multivariate measures, including porting these methods from their MATLAB implementations into Python.</li>
+        <li>Again, I am further developing my signal analysis and programming skills in Python, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
+      </ul>
     <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <ul class="CV-subheader_with_logo">
