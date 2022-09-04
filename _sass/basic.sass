@@ -16,8 +16,9 @@ body
     background: $light
     color: $dark
 
-@media (max-width: 575.98px)
-    font-size: $font-size-media
+@media (min-width: 38em)
+body > header, body > article, body > footer
+    padding: 1.65em calc(25% - 14em)
 
 h1, h2, h3, h4, h5, h6
     font-weight: $heading-weight
