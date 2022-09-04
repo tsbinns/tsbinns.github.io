@@ -349,7 +349,8 @@ sitemap:
 
 <style>
     @media (min-width: 38em)
-        padding: 1.65em calc(25% - 14em)
+    body > header, body > article, body > footer
+      padding: 1.65em calc(25% - 14em)
 </style>
 
 <!-- Scripts -->
