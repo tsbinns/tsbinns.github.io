@@ -347,6 +347,10 @@ sitemap:
 
 <p class="paragraph">Available upon request: <a href="mailto:t.s.binns@outlook.com" target="_blank"><i class="fas fa-envelope"></i></a></p>
 
+<style>
+    @media (min-width: 38em)
+        padding: 1.65em calc(25% - 14em)
+</style>
 
 <!-- Scripts -->
 <script>
