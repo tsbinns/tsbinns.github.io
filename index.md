@@ -20,7 +20,7 @@ sitemap:
 
 
 <!-- Main website description/introduction -->
-<p class="paragraph">I am a neuroscientist from the UK currently based in Germany interested in computational, cognitive, and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces.<br>
+<p class="p">I am a neuroscientist from the UK currently based in Germany interested in computational, cognitive, and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces.<br>
 <br>
 Since October 2021 I am a Ph.D. Fellow of the Einstein Center for Neurosciences Berlin, Germany, investigating the possibility of functional connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker for next-generation adaptive deep brain stimulation treatments for Parkinson's disease.<br>
 <br>
