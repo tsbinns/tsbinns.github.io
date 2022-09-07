@@ -11,6 +11,12 @@ sitemap:
     .logo {
       display: none;
     }
+    .CV-subheader {
+      padding-left: 5px;
+    }
+    .CV-desc {
+      padding-left: 20px;
+    }
   }
 
   @media (min-width: 576px) {
