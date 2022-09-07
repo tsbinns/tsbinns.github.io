@@ -24,7 +24,7 @@ sitemap:
       display: initial;
     }
     .CV-subheader {
-      padding-left: 50px;
+      padding-left: 60px;
     }
     .CV-desc {
       padding-left: 60px;
