@@ -16,7 +16,7 @@ sitemap:
 -->
 
 <!-- Profile picture -->
-<img width="25%" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic.jpg">
+<img class="ProfilePic" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic.jpg">
 
 
 <!-- Main website description/introduction -->
@@ -49,6 +49,9 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
     .ShowOnThinScreen {
         display: initial;
     }
+    .ProfilePic {
+        width: 40%;
+    }
   }
 
   @media (min-width: 576px) {
@@ -57,6 +60,9 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
     }
     .ShowOnThinScreen {
         display: none;
+    }
+    .ProfilePic {
+        width: 25%;
     }
 
     .twitter-tweet-rendered{
