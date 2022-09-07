@@ -30,7 +30,7 @@ sitemap:
 
 <!-- Education -->
 <!-- Main -->
-<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
+<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Educatio</a></h1>
 
 <div>
   <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">2021 - Present</a></h3>
