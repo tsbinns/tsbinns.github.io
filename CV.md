@@ -24,7 +24,7 @@ sitemap:
       display: initial;
     }
     .CV-subheader {
-      padding-left: 10px;
+      padding-left: 15px;
     }
     .CV-desc {
       padding-left: 60px;
@@ -74,8 +74,8 @@ sitemap:
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <h4 class="CV-subheader">
-      <li>&mdash;University of Aberdeen, UK</li>
-      <li>&mdash;M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours</li>
+      &mdash; University of Aberdeen, UK<br>
+      &mdash; M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours
     </h4>
     <p class="CV-desc">
       <b>Industrial Placement (Master's) thesis:</b><br>
@@ -92,8 +92,8 @@ sitemap:
       </div>
     </p>
     <p class="CV-desc">
-      <li><b>Honours (Bachelor's) thesis:</b></li>
-      <li>“Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez. <a href="#CAP_Lab">View associated experience.</a></li>
+      <b>Honours (Bachelor's) thesis:</b><br>
+      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez. <a href="#CAP_Lab">View associated experience.</a>
       <div style="margin-bottom: 30px;" id="Bachelor_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -116,37 +116,40 @@ sitemap:
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <h4 class="CV-subheader">
-      <li>&mdash;Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany</li>
-      <li>&mdash;Role: Researcher</li>
-      <li>&mdash;Supervisor: Prof. Wolf-Julian Neumann</li>
+      &mdash; Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany<br>
+      &mdash; Role: Researcher<br>
+      &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      <li>For the Ph.D. project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions and states of motor activity, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.</li>
-      <li>Through this work, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
+      For the Ph.D. project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions and states of motor activity, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.<br>
+      <br>
+      Through this work, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.
     </p>
 
   <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
     <img class="logo" src="/assets/images/Logo-CNT.png">
       <h4 class="CV-subheader">
-        <li>&mdash;Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany</li>
-        <li>&mdash;Role: Researcher</li>
-        <li>&mdash;Supervisor: Prof. Surjo Soekadar</li>
+        &mdash; Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany<br>
+        &mdash; Role: Researcher<br>
+        &mdash; Supervisor: Prof. Surjo Soekadar
       </h4>
       <p class="CV-desc">
-        <li>As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity.</li>
-        <li>Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.</li>
+        As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity.<br>
+        <br>
+        Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.
       </p>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <h4 class="CV-subheader">
-      <li>&mdash;Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
-      <li>&mdash;Role: Researcher</li>
-      <li>&mdash;Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes</li>
+      &mdash; Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany<br>
+      &mdash; Role: Researcher<br>
+      &mdash; Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes
     </h4>
     <p class="CV-desc">
-      <li>My <a href="#Master_Desc">Industrial Placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i> <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank"><i class="fas fa-link"></i></a>.</li>
-      <li>Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.</li>
+      My <a href="#Master_Desc">Industrial Placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>, with the core theme of my work being the investigation of choice-predictive brain signals and the study of movement initiation. My tasks involved designing and conducting EEG experiments, with extensive analysis of EEG data using MATLAB, Python, and SPSS. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i> <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank"><i class="fas fa-link"></i></a>.<br>
+      <br>
+      Through this placement I developed an in-depth understanding of EEG-based brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. Additionally, I gained experience as a researcher working in an academic laboratory setting.
     </p>
 </div>
 
@@ -154,37 +157,39 @@ sitemap:
 <div style="margin-top: 30px;" id="CAP_Lab"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Additional Experience</button>
   <div class="collapsible_content">
-    <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">03/2022 - Present</a></h3>
+    <h3 class="CV-header"><a id="BDS_Lab" class="section-ID">03/2022 - Present</a></h3>
       <img class="logo" src="/assets/images/Logo-BDS.png">
       <h4 class="CV-subheader">
-        <li>&mdash;Brain and Data Science Group, Charité – Universitätsmedizin Berlin, Germany</li>
-        <li>&mdash;Role: Researcher</li>
-        <li>&mdash;Supervisor: Dr. Stefan Haufe</li>
+        &mdash; Brain and Data Science Group, Charité – Universitätsmedizin Berlin, Germany<br>
+        &mdash; Role: Researcher<br>
+        &mdash; Supervisor: Dr. Stefan Haufe
       </h4>
       <p class="CV-desc">
-        <li>In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity using multivariate measures, including porting these methods from their MATLAB implementations into Python.</li>
-        <li>Again, I am further developing my signal analysis and programming skills in Python, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.</li>
+        In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity using multivariate measures, including porting these methods from their MATLAB implementations into Python.<br>
+        <br>
+        Again, I am further developing my signal analysis and programming skills in Python, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.
       </p>
     <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <h4 class="CV-subheader">
-          <li>&mdash;School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK</li>
-          <li>&mdash;Role: Researcher</li>
-          <li>&mdash;Supervisor: Dr. Antonio Gonzalez</li>
+          &mdash; School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK<br>
+          &mdash; Role: Researcher<br>
+          &mdash; Supervisor: Dr. Antonio Gonzalez
         </h4>
         <p class="CV-desc">
-          <li>As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.</li>
-          <li>Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.</li>
+          As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python and NEURON, as well as writing scientific reports as part of my thesis.<br>
+          <br>
+          Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data, and I gained experience as a researcher working cohesively in an academic laboratory setting alongside fellow researchers.
         </p>
     <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <h4 class="CV-subheader">
-          <li>&mdash;Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK</li>
-          <li>&mdash;Role: Research Assistant</li>
-          <li>&mdash;Supervisor: Dr. Rama Chakravarthi</li>
+          &mdash; Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK<br>
+          &mdash; Role: Research Assistant<br>
+          &mdash; Supervisor: Dr. Rama Chakravarthi
         </h4>
         <p class="CV-desc">
-          <li>My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.</li>
+          My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>. My tasks included conducting EEG and behavioural experiments, as well as EEG and behavioural data analysis using MATLAB and SPSS. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.
         </p>
   </div>
 </div>
@@ -198,30 +203,30 @@ sitemap:
   <h3 class="CV-header"><a id="BCCN_Winter_School" class="section-ID">03/2022</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <h4 class="CV-subheader">
-      <li>&mdash;Ethics of Neuroscience and AI</li>
-      <li>&mdash;Bernstein Center for Computational Neuroscience, Berlin, Germany</li>
+      &mdash; Ethics of Neuroscience and AI<br>
+      &mdash; Bernstein Center for Computational Neuroscience, Berlin, Germany
     </h4>
     <p class="CV-desc">
-      <li>An intensive week-long course of lectures and workshops covering theoretical foundations and practical aspects of ethics in neuroscience, including topics such as deep brain stimulation, brain death, artificial intelligence, and data protection.</li>
+      An intensive week-long course of lectures and workshops covering theoretical foundations and practical aspects of ethics in neuroscience, including topics such as deep brain stimulation, brain death, artificial intelligence, and data protection.
     </p>
 
   <h3 class="CV-header"><a id="ReproducibiliTeach" class="section-ID">02/2022 - &zwj;04/2022</a></h3>
     <img class="logo" src="/assets/images/Logo-BIH.jpg">
     <h4 class="CV-subheader">
-      <li>&mdash;ReproducibiliTeach</li>
-      <li>&mdash;Berlin Institute of Health, Charité – Universitätsmedizin Berlin, Germany</li>
+      &mdash; ReproducibiliTeach<br>
+      &mdash; Berlin Institute of Health, Charité – Universitätsmedizin Berlin, Germany
     </h4>
     <p class="CV-desc">
-      <li>An eight week-long course consisting of seminars and workshops in which participants are trained to identify common problems related to tranaparency and reproducibility in scientific research. In doing so, participants learn how to overcome these challenges, and implement best practices in their own work to make it more robust, transparent, and reproducible.</li>
+      An eight week-long course consisting of seminars and workshops in which participants are trained to identify common problems related to tranaparency and reproducibility in scientific research. In doing so, participants learn how to overcome these challenges, and implement best practices in their own work to make it more robust, transparent, and reproducible.
     </p>
 
   <h3 class="CV-header"><a id="NMA_CN20" class="section-ID">07/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-NMA.png">
     <h4 class="CV-subheader">
-      <li>&mdash;Neuromatch Academy - Computational Neuroscience</li>
+      &mdash; Neuromatch Academy - Computational Neuroscience
     </h4>
     <p class="CV-desc">
-      <li>A three week-long, highly-intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.</li>
+      A three week-long, highly-intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
     </p>
 </div>
 
@@ -279,31 +284,31 @@ sitemap:
   <h3 class="CV-header"><a id="PhD_Fellowship" class="section-ID">2021 - 2024</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
-      <li>&mdash;<i>Ph.D. Fellowship.</i> &euro;63,000.</li>
-      <li>&mdash;Einstein Center for Neurosciences Berlin.</li>
+      &mdash; <i>Ph.D. Fellowship.</i> &euro;63,000.<br>
+      &mdash; Einstein Center for Neurosciences Berlin.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      <li>Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.</li>
+      Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.
     </p>
 
   <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
-      <li>&mdash;<i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.</li>
-      <li>&mdash;Erasmus+ Traineeship Grant, British Council.</li>
+      &mdash; <i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.<br>
+      &mdash; Erasmus+ Traineeship Grant, British Council.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      <li>Associated with my work as a <a href="#Haynes_Lab">Researcher in the Haynes Laboratory</a> of the Bernstein Center for Computational Neuroscience, Berlin, Germany.</li>
+      Associated with my work as a <a href="#Haynes_Lab">Researcher in the Haynes Laboratory</a> of the Bernstein Center for Computational Neuroscience, Berlin, Germany.
     </p>
 
   <h3 class="CV-header"><a id="Wellcome_Scholarship" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
     <img class="logo" src="/assets/images/Logo-Wellcome.png">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
-      <li>&mdash;<i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.</li>
-      <li>&mdash;Biomedical Vacation Scholarship, Wellcome Trust.</li>
+      &mdash; <i>Free Will and Neural Activity in Consequential Action.</i> &pound;2,000.<br>
+      &mdash; Biomedical Vacation Scholarship, Wellcome Trust.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      <li>Associated with my work as a <a href="#CAP_Lab">Research Assistant in the Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.</li>
+      Associated with my work as a <a href="#CAP_Lab">Research Assistant in the Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.
     </p>
 </div>
 
@@ -316,11 +321,11 @@ sitemap:
   <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - &zwj;09/2021</a></h3>
     <img class="logo" src="/assets/images/Logo-BNA.png">
     <h4 class="CV-subheader">
-      <li>&mdash;British Neuroscience Associsation (BNA), Bristol, UK</li>
-      <li>&mdash;Role: Member</li>
+      &mdash; British Neuroscience Associsation (BNA), Bristol, UK<br>
+      &mdash; Role: Member
     </h4>
     <p class="CV-desc">
-      <li>As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> allowing me to demonstrate and further hone my academic writing skills.</li>
+      As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> allowing me to demonstrate and further hone my academic writing skills.
     </p>
 </div>
 
@@ -332,19 +337,19 @@ sitemap:
 <div>
   <h3 class="CV-header"><a id="Tech_Skills" class="section-ID">Technical</a></h3>
     <p class="CV-desc">
-      <li>I am highly confident programming in Python and MATLAB, and am familiar with SPSS, Microsoft Office programmes, NEURON, and Git. Additionally, I have much experience conducting EEG and behavioural experiments, and also possess fundamental skills in basic laboratory techniques such as electrophoresis, ELISA, and endonuclease use. Furthermore, I can quickly familiarise myself with new software and learn new techniques to add to my repertoire.</li>
+      I am highly confident programming in Python and MATLAB, and am familiar with SPSS, Microsoft Office programmes, NEURON, and Git. Additionally, I have much experience conducting EEG and behavioural experiments, and also possess fundamental skills in basic laboratory techniques such as electrophoresis, ELISA, and endonuclease use. Furthermore, I can quickly familiarise myself with new software and learn new techniques to add to my repertoire.
     </p>
   <h3 class="CV-header"><a id="Research_Skills" class="section-ID">Research</a></h3>
     <p class="CV-desc">
-      <li>Through my Ph.D. Fellowship, Honours project, industrial placement, and work as a researcher, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection, analysis, and write-up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research.</li>
+      Through my Ph.D. Fellowship, Honours project, industrial placement, and work as a researcher, I have been involved in all facets of the research process, from literature review, experimental design, and writing ethics proposals, to data collection, analysis, and write-up. This has instilled within me the confidence, independence, and critical thinking required to devise and undertake successful, scientifically rigorous research.
     </p>
   <h3 class="CV-header"><a id="Communication_Skills" class="section-ID">Communication</a></h3>
     <p class="CV-desc">
-      <li>My communication skills have been honed through my engagement in presentations and scientific report writing, as well as through extracurricular roles such as Class Representative and House Captain. With this diverse experience, I am able to communicate information effectively to a range of audiences, from scientific experts to laymen.</li>
+      My communication skills have been honed through my engagement in presentations and scientific report writing, as well as through extracurricular roles such as Class Representative and House Captain. With this diverse experience, I am able to communicate information effectively to a range of audiences, from scientific experts to laymen.
     </p>
   <h3 class="CV-header"><a id="Teamwork_Skills" class="section-ID">Teamwork</a></h3>
     <p class="CV-desc">
-      <li>Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects. This has included work in professional and academic settings, such as at the Charité and Bernstein Center, as well as in extracurricular roles like the Youth Philanthropy Initiative. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.</li>
+      Proficient teamwork skills have played an essential part of my education, having been involved in a number of successful group projects. This has included work in professional and academic settings, such as at the Charité and Bernstein Center, as well as in extracurricular roles like the Youth Philanthropy Initiative. My engagement in these projects has ensured that I am able to work cohesively with others in both smaller and larger groups.
     </p>
 </div>
 
@@ -355,15 +360,15 @@ sitemap:
 <div>
   <h3 class="CV-header"><a id="Student_Prize" class="section-ID">Neuroscience Student Prize</a> <a href="/assets/documents/Aberdeen_Neuroscience_Student_Prize.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></h3>
     <p class="CV-desc">
-      <li>Upon completion of my M.Sci. degree I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.</li>
+      Upon completion of my M.Sci. degree I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.
     </p>
   <h3 class="CV-header"><a id="Sports" class="section-ID">Sports</a></h3>
     <p class="CV-desc">
-      <li>I am an avid athlete, being a member of the Berlin Rock Climbing and Bouldering club, as well as having previously been a member of the University of Aberdeen Athletics Society and having represented my school in the Lewisham Cross-Country Championship. Through my strong discipline and self-motivation I am able to adhere to this active regime, testament to both my dedication and well-rounded character.</li>
+      I am an avid athlete, being a member of the Berlin Rock Climbing and Bouldering club, as well as having previously been a member of the University of Aberdeen Athletics Society and having represented my school in the Lewisham Cross-Country Championship. Through my strong discipline and self-motivation I am able to adhere to this active regime, testament to both my dedication and well-rounded character.
     </p>
   <h3 class="CV-header"><a id="Music" class="section-ID">Music</a></h3>
     <p class="CV-desc">
-      <li>I have played the drum kit for sixteen years, achieving a Distinction at Grade 8 in 2016. Currently I am a drummer for the Berlin Pipe Company, for which I have regular performances, and whilst studying at Aberdeen I was the drummer for the University’s Jazz Band where I played at numerous concerts, including yearly performances at the Aberdeen Jazz Festival. I was also involved in the African Drumming Group and Samba Band of my borough’s music centre in London. My participation in these activities has enhanced my communication and teamwork skills greatly, and again attests to my well-rounded character and dedication.</li>
+      I have played the drum kit for sixteen years, achieving a Distinction at Grade 8 in 2016. Currently I am a drummer for the Berlin Pipe Company, for which I have regular performances, and whilst studying at Aberdeen I was the drummer for the University’s Jazz Band where I played at numerous concerts, including yearly performances at the Aberdeen Jazz Festival. I was also involved in the African Drumming Group and Samba Band of my borough’s music centre in London. My participation in these activities has enhanced my communication and teamwork skills greatly, and again attests to my well-rounded character and dedication.
     </p>
 </div>
 
