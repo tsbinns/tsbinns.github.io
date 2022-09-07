@@ -62,8 +62,8 @@ sitemap:
   <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <h4 class="CV-subheader">
-      <li>&mdash;Einstein Center for Neurosciences Berlin, Germany</li>
-      <li>&mdash;Ph.D. Neuroscience Fellow</li>
+      &mdash; Einstein Center for Neurosciences Berlin, Germany<br>
+      &mdash; Ph.D. Neuroscience Fellow
     </h4>
     <p class="CV-desc">
       Having completed my initial period of laboratory rotations, I am now working on the project for my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a> investigating connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker of Parkinson's disease for use in next-generation adaptive deep brain stimulation paradigms, supervised by Prof. Wolf-Julian Neumann and Dr. Stefan Haufe.<br>
