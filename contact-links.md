@@ -10,7 +10,7 @@ sitemap:
     <br>
     <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas Samuel Binns</a><br>
     <br>
-    <i class="fab fa-twitter"></i>  &nbsp; Twitter: &nbsp; <a href="https://twitter.com/tsbinns" target="_blank">@tsbinns</a><br>
+    <i class="fab fa-twitter"></i>  &nbsp; Twitter: &nbsp; <a href="https://twitter.com/tsbinns" target="_blank">tsbinns</a><br>
     <br>
     <i class="fab fa-github"></i>   &nbsp; GitHub: &nbsp; <a href="https://github.com/tsbinns" target="_blank">tsbinns</a><br>
     <br>
