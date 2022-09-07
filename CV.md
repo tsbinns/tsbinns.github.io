@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2022-09-03
+  lastmod: 2022-09-07
   exclude: 'no'
 ---
 
@@ -24,7 +24,7 @@ sitemap:
       display: initial;
     }
     .CV-subheader {
-      padding-left: 15px;
+      padding-left: 50px;
     }
     .CV-desc {
       padding-left: 60px;
