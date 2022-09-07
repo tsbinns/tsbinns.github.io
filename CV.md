@@ -6,6 +6,26 @@ sitemap:
   exclude: 'no'
 ---
 
+<style>
+  @media (max-width: 575.98px) {
+    .logo {
+      display: none;
+    }
+  }
+
+  @media (min-width: 576px) {
+    .logo {
+      display: initial;
+    }
+    .CV-subheader {
+      padding-left: 10px;
+    }
+    .CV-desc {
+      padding-left: 60px;
+    }
+  }
+</style>
+
 <a id="Top" class="section-ID"></a>
 
 <p  class="paragraph">View the CV as a pdf: <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></p>
@@ -346,26 +366,6 @@ sitemap:
 <h1><a id="References" class="section-ID">References</a></h1>
 
 <p class="paragraph">Available upon request: <a href="mailto:t.s.binns@outlook.com" target="_blank"><i class="fas fa-envelope"></i></a></p>
-
-<style>
-  @media (max-width: 575.98px) {
-    .logo {
-      display: none;
-    }
-  }
-
-  @media (min-width: 576px) {
-    .logo {
-      display: initial;
-    }
-    .CV-subheader {
-      padding-left: 10px;
-    }
-    .CV-desc {
-      padding-left: 60px;
-    }
-  }
-</style>
 
 <!-- Scripts -->
 <script>
