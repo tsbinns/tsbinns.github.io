@@ -42,7 +42,7 @@ Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publi
 <script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <style>
-  @media (max-width: 575.98px) {
+  @media (max-width: 575.99px) {
     .ShowOnWideScreen {
         display: none;
     }
