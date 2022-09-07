@@ -7,14 +7,14 @@
 body > header, body > article, body > footer
     padding: 1.65em calc(38% - 14em)
 
-% if site.minimal %
+{% if site.minimal %}
 
 body > header
     background: $light
     color: $dark
     border-bottom: 1px solid reduce(14)
 
-% else %
+{% else %}
 
 body > header
     background: $light
@@ -22,7 +22,7 @@ body > header
     box-shadow: 0 0 .6em rgba($dark, 0.04)
     border-bottom: 1px solid reduce(14)
 
-% endif %
+{% endif %}
 
 body > footer
     box-shadow: 0 0 .6em rgba($dark, 0.04) inset
