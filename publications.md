@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2022-09-07
+  lastmod: 2022-09-14
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -34,7 +34,7 @@ sitemap:
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      Building on our earlier work in the Interventional and Cognitive Neuromodulation group of Wolf-Julian Neumann, this poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
+      Building on our earlier work in the Interventional and Cognitive Neuromodulation group of Prof. Wolf-Julian Neumann, this poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
     </p>
   </div>
 </div>
