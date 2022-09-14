@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2022-09-07
+  lastmod: 2022-09-14
   exclude: 'no'
 ---
 
@@ -66,7 +66,7 @@ sitemap:
       &mdash; Ph.D. Neuroscience Fellow
     </h4>
     <p class="CV-desc">
-      Having completed my initial period of laboratory rotations, I am now working on the project for my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a> investigating connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker of Parkinson's disease for use in next-generation adaptive deep brain stimulation paradigms, supervised by Prof. Wolf-Julian Neumann and Dr. Stefan Haufe.<br>
+      Having completed my initial period of laboratory rotations, I am now working on the project for my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a> investigating connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker of Parkinson's disease for use in next-generation adaptive deep brain stimulation paradigms, supervised by Prof. Wolf-Julian Neumann and Prof. Stefan Haufe.<br>
       <br>
       As part of this project, I am implementing multivariate measures of connectivity in Python and using these measures to investigate cortico-subthalamic connectivity in electrocorticography and subthalamic nucleus local field potential recordings collected from Parkinson's patients under different dopaminergic medication states, and during different states of motor activity. For some preliminary results, please see my poster at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
     </p>
@@ -162,7 +162,7 @@ sitemap:
       <h4 class="CV-subheader">
         &mdash; Brain and Data Science Group, Charité – Universitätsmedizin Berlin, Germany<br>
         &mdash; Role: Researcher<br>
-        &mdash; Supervisor: Dr. Stefan Haufe
+        &mdash; Supervisor: Prof. Stefan Haufe
       </h4>
       <p class="CV-desc">
         In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am further investigating cortico-subthalamic connectivity using multivariate measures, including porting these methods from their MATLAB implementations into Python.<br>
