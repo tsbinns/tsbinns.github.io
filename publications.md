@@ -28,7 +28,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R., Chikermane, M., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J., 2022. Dopamine alleviates subthalamic vulnerability to cortical synchrony in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R., Vanhoecke, J., Chikermane, M., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2022. Dopamine alleviates subthalamic vulnerability to cortical synchrony in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
