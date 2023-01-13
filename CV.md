@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2022-09-14
+  lastmod: 2023-01-13
   exclude: 'no'
 ---
 
@@ -68,7 +68,7 @@ sitemap:
     <p class="CV-desc">
       Having completed my initial period of laboratory rotations, I am now working on the project for my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a> investigating connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker of Parkinson's disease for use in next-generation adaptive deep brain stimulation paradigms, supervised by Prof. Wolf-Julian Neumann and Prof. Stefan Haufe.<br>
       <br>
-      As part of this project, I am implementing multivariate measures of connectivity in Python and using these measures to investigate cortico-subthalamic connectivity in electrocorticography and subthalamic nucleus local field potential recordings collected from Parkinson's patients under different dopaminergic medication states, and during different states of motor activity. For some preliminary results, please see my poster at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
+      As part of this project, I am implementing multivariate measures of connectivity in Python and using these measures to investigate cortico-subthalamic connectivity in electrocorticography and subthalamic nucleus local field potential recordings collected from Parkinson's patients under different dopaminergic medication states, and during different states of motor activity. For some preliminary results, please see my poster from the <i>ReTune Fall School</i> <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
     </p>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
@@ -121,7 +121,7 @@ sitemap:
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the Ph.D. project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions and states of motor activity, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2021_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.<br>
+      For the Ph.D. project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am studying the connectivity between cortex and subthalamic nucleus using electrocorticography and subthalamic local field potential recordings from Parkinson's disease patients under different dopaminergic medication conditions and states of motor activity, with the goal of identifying biomarkers for use in next-generation closed-loop, adaptive deep brain stimulation treatment paradigms. As part of this work, I have presented posters on results of some preliminary analyses at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.<br>
       <br>
       Through this work, I am further developing my signal analysis and Python programming skills, gaining an in-depth understanding of movement disorders, and also gaining further experience as a researcher working in an academic laboratory setting.
     </p>
@@ -200,6 +200,16 @@ sitemap:
 <h1><a id="Courses" class="section-ID">Courses</a></h1>
 
 <div>
+  <h3 class="CV-header"><a id="TU_MLIP" class="section-ID">10/2022 - &zwj;02/2023</a></h3>
+    <img class="logo" src="/assets/images/Logo-TU.png">
+    <h4 class="CV-subheader">
+      &mdash; Machine Learning and Inverse Problems in Neuroimaging<br>
+      &mdash; Technische Universität Berlin, Germany
+    </h4>
+    <p class="CV-desc">
+      A course covering key aspects of machine learning and inverse modelling in neuroscience, including mathematical frameworks for inverse modelling, regularisation of inverse solutions, frameworks for supervised and unsupervised machine learning, and Bayesian inference.
+    </p>
+
   <h3 class="CV-header"><a id="BCCN_Winter_School" class="section-ID">03/2022</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <h4 class="CV-subheader">
