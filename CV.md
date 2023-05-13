@@ -263,7 +263,7 @@ sitemap:
 
 <!-- Funding & Awards-->
 <hr>
-<h1><a id="Funding-Awards" class="section-ID">Funding</a></h1>
+<h1><a id="Funding-Awards" class="section-ID">Funding & Awards</a></h1>
 
 <div>
   <h3 class="CV-header"><a id="PhD_Fellowship" class="section-ID">2021 - 2024</a></h3>
