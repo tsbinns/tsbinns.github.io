@@ -24,7 +24,7 @@ sitemap:
 <br>
 Currently, I am a Ph.D. Fellow of the Einstein Center for Neurosciences Berlin, Germany, investigating functional connectivity in invasive recordings from Parkinson's disease patients, and the possibility of its use as a biomarker for next-generation adaptive deep brain stimulation treatments. Alongside this, I am also developing and contributing to open-source software projects for signal analysis.<br>
 <br>
-Prior to this, I graduated with First-Class Honours in an M.Sci. Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating decision-making with machine learning and brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
+Prior to my Ph.D., I graduated with First-Class Honours in an M.Sci. Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating decision-making with machine learning and brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
 <br>
 Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publications</a>, or contact me <a href="/contact-links">here</a>.</p>
 

@@ -66,7 +66,7 @@ sitemap:
       &mdash; Ph.D. Neuroscience Fellow
     </h4>
     <p class="CV-desc">
-      Investigating functional connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. This is the project for my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a> For some preliminary results, please see my poster from the <i>ReTune Fall School</i> <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating functional connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For some preliminary results, see my poster from the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
     </p>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
@@ -119,9 +119,7 @@ sitemap:
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating functional connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of preliminary results at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, bringing the advanced signal analysis techniques which I am using in my project to the wider community.<br>
-      <br>
-      Through this work, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
+      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating functional connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of preliminary results at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - Present</a></h3>
@@ -132,9 +130,7 @@ sitemap:
       &mdash; Supervisor: Prof. Stefan Haufe
     </h4>
     <p class="CV-desc">
-      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am developing advanced signal processing techniques for use in my Ph.D. project, and bringing them to open-source packages for use in the wider commmunity (see also my <a href="#OSS">open-source software work</a>).<br>
-      <br>
-      Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
+      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am developing advanced signal processing techniques for use in my Ph.D. project, and bringing them to open-source packages for use in the wider commmunity (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
     </p>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
@@ -207,7 +203,7 @@ sitemap:
       &mdash; Lead Developer
     </h4>
     <p class="CV-desc">
-      I am currently developing <a href="https://github.com/braindatalab/pybispectra">PyBispectra</a>, and open-source Python package for performing advanced signal analysis using bispectra (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>). There is support for computing: cross-frequency coupling (amplitude-amplitude, phase-phase, and phase-amplitude coupling); frequency-domain wave shape features; as well as time-delay estimations between signals.
+      I am currently developing <a href="https://github.com/braindatalab/pybispectra">PyBispectra</a>, and open-source Python package for performing advanced signal analysis using bispectra (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>). There is support for computing: cross-frequency coupling (amplitude-amplitude, phase-phase, and phase-amplitude coupling); frequency domain wave shape features; as well as time delay estimations between signals. The package uses multiprocessing and Numba-based C compilation for rapid, computationally efficient signal processing.
     </p>
 
   <h3 class="CV-header"><a id="PyPARRM" class="section-ID">PyPARRM</a></h3>
@@ -277,7 +273,7 @@ sitemap:
       &mdash; Einstein Center for Neurosciences Berlin.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.
+      Of almost 1,000 applicants, I was one of around only 30 people to be accepted for this prestigious and extremely competitive fellowship. Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.
     </p>
 
   <h3 class="CV-header"><a id="Student_Prize" class="section-ID">07/2021</a></h3>
@@ -297,7 +293,7 @@ sitemap:
       &mdash; Erasmus+ Traineeship Grant, British Council.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      Associated with my work as a <a href="#Haynes_Lab">Researcher in the Haynes Laboratory</a> of the Bernstein Center for Computational Neuroscience, Berlin, Germany.
+      This generous grant from the British Council allowed me to complete my Master's project in the <a href="#Haynes_Lab">Haynes Laboratory</a> of the Bernstein Center for Computational Neuroscience, Berlin, Germany.
     </p>
 
   <h3 class="CV-header"><a id="Wellcome_Scholarship" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
@@ -307,7 +303,7 @@ sitemap:
       &mdash; Biomedical Vacation Scholarship, Wellcome Trust.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      Associated with my work as a <a href="#CAP_Lab">Research Assistant in the Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.
+      I was successful in receiving this highly competitive scholarship from the pretigious Wellcome Trust to complete my research in the <a href="#CAP_Lab">Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.
     </p>
 </div>
 
@@ -324,7 +320,7 @@ sitemap:
       &mdash; Co-founder
     </h4>
     <p class="CV-desc">
-      I co-founded the Code Clinic of the <a href="https://sfb-retune.de/">ReTune research consortium</a>, with the goal of improving the quality and openness of academic programming, a crucial step for improving the quality and reproducibilty of scientific research. Towards this, the Code Clinic organises reviews for code being released alongside scientific publications and as open-source packages, ensuring a high-degree of code quality. Furthermore, we organise a pair-programming scheme in which junior programmers can receive personalised feedback on their code from experienced coders, improving the overall quality of the code and teaching coding best practice principles to these novice programmers.
+      I co-founded the Code Clinic of the <a href="https://sfb-retune.de/">ReTune research consortium</a>, with the goal of improving the quality and openness of academic programming, a crucial step for improving the quality and reproducibilty of scientific research. Towards this, the Code Clinic organises reviews for code being released alongside scientific publications and as open-source packages, ensuring a high-degree of code quality. Furthermore, we organise a pair programming scheme in which junior programmers can receive personalised feedback on their code from experienced coders, improving the overall quality of the code and teaching coding best practice principles to these novice programmers.
     </p>
 
   <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - &zwj;09/2021</a></h3>
@@ -390,7 +386,7 @@ sitemap:
       &mdash; Neuromatch Academy - Computational Neuroscience
     </h4>
     <p class="CV-desc">
-      A three week-long, highly-intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
+      A three week-long, highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
     </p>
 </div>
 
