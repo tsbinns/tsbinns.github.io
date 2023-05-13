@@ -2,7 +2,7 @@
 title: "About Me"
 layout: page
 sitemap:
-  lastmod: 2022-09-14
+  lastmod: 2023-05-13
   exclude: 'no'
 ---
 
@@ -20,11 +20,11 @@ sitemap:
 
 
 <!-- Main website description/introduction -->
-<p class="p">I am a neuroscientist from the UK currently based in Germany interested in computational, cognitive, and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces.<br>
+<p class="p">I am a neuroscientist from the UK currently based in Germany interested in computational and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces. I also have a strong interest in open-source software development, as well as promoting better coding practices in scientific research.<br>
 <br>
-Since October 2021 I am a Ph.D. Fellow of the Einstein Center for Neurosciences Berlin, Germany, investigating the possibility of functional connectivity between the cortex and subthalamic nucleus of the basal ganglia as a biomarker for next-generation adaptive deep brain stimulation treatments for Parkinson's disease under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe.<br>
+Currently, I am a Ph.D. Fellow of the Einstein Center for Neurosciences Berlin, Germany, investigating functional connectivity in invasive recordings from Parkinson's disease patients, and the possibility of its use as a biomarker for next-generation adaptive deep brain stimulation treatments. Alongside this, I am also developing and contributing to open-source software projects for signal analysis.<br>
 <br>
-I am also a graduate with First-Class Honours in an M.Sci. Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating volition and decision-making using brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
+Prior to this, I graduated with First-Class Honours in an M.Sci. Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating decision-making with machine learning and brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
 <br>
 Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publications</a>, or contact me <a href="/contact-links">here</a>.</p>
 
