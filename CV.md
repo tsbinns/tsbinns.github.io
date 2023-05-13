@@ -130,7 +130,7 @@ sitemap:
       &mdash; Supervisor: Prof. Stefan Haufe
     </h4>
     <p class="CV-desc">
-      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am developing advanced signal processing techniques for use in my Ph.D. project, and bringing them to open-source packages for use in the wider commmunity (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
+      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am developing advanced signal processing techniques for use in my Ph.D. project, and bringing them to open-source packages for use in the wider community (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
     </p>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
@@ -303,7 +303,7 @@ sitemap:
       &mdash; Biomedical Vacation Scholarship, Wellcome Trust.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      I was successful in receiving this highly competitive scholarship from the pretigious Wellcome Trust to complete my research in the <a href="#CAP_Lab">Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.
+      I was successful in receiving this highly competitive scholarship from the prestigious Wellcome Trust to complete my research in the <a href="#CAP_Lab">Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.
     </p>
 </div>
 
