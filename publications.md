@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2023-01-13
+  lastmod: 2023-06-21
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -16,6 +16,7 @@ sitemap:
   <button onclick="toggle_show()" class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
+    <a href="#2023">2023</a>
     <a href="#2022">2022</a>
     <a href="#2021">2021</a>
     <a href="#2020">2020</a>
@@ -24,6 +25,22 @@ sitemap:
 
 
 <!-- Publication list -->
+<h1><a id="2023" class="section-ID">2023</a></h1>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2022. Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Building on our earlier work in the Interventional and Cognitive Neuromodulation group of Wolf-Julian Neumann, this poster shows results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication and stimulation conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These results highlight pathological changes in cortico-subthalamic connectivity that are differentially altered by medication and stimulation.
+    </p>
+  </div>
+</div>
+
+<hr>
 <h1><a id="2022" class="section-ID">2022</a></h1>
 
 <p>

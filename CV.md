@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2023-05-13
+  lastmod: 2023-06-21
   exclude: 'no'
 ---
 
@@ -66,7 +66,7 @@ sitemap:
       &mdash; Ph.D. Neuroscience Fellow
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating functional connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For some preliminary results, see my poster from the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating functional connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my poster from the <i>International Basal Ganglia Society Conference XIV</i> <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
     </p>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
@@ -119,7 +119,7 @@ sitemap:
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating functional connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of preliminary results at the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>ReTune Fall School</i> <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
+      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating functional connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of results at the <i>International Basal Ganglia Society Conference XIV</i> <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - Present</a></h3>
@@ -223,13 +223,13 @@ sitemap:
 <p style="margin-bottom: 30px">For the full list of publications, <a href="/publications">click here.</a></p>
 
 <p>
-  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J., 2022. Invasive mapping of cortico-subthalamic connectivity in Parkinson's disease. <i>Second Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany. <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2022. Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      Building on our earlier work in the Interventional and Cognitive Neuromodulation group of Wolf-Julian Neumann, this poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These early results indicate that further analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks.
+      Building on our earlier work in the Interventional and Cognitive Neuromodulation group of Wolf-Julian Neumann, this poster shows results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication and stimulation conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These results highlight pathological changes in cortico-subthalamic connectivity that are differentially altered by medication and stimulation.
     </p>
   </div>
 </div>
@@ -313,14 +313,14 @@ sitemap:
 <h1><a id="Organisations" class="section-ID">Organisations</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">01/2023 - Present</a></h3>
+  <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-BNA.png">
     <h4 class="CV-subheader">
       &mdash; Code Clinic, ReTune International Research Consortium, Germany<br>
       &mdash; Co-founder
     </h4>
     <p class="CV-desc">
-      I co-founded the Code Clinic of the <a href="https://sfb-retune.de/">ReTune research consortium</a>, with the goal of improving the quality and openness of academic programming, a crucial step for improving the quality and reproducibilty of scientific research. Towards this, the Code Clinic organises reviews for code being released alongside scientific publications and as open-source packages, ensuring a high-degree of code quality. Furthermore, we organise a pair programming scheme in which junior programmers can receive personalised feedback on their code from experienced coders, improving the overall quality of the code and teaching coding best practice principles to these novice programmers.
+      I co-founded the Code Clinic of the <a href="https://sfb-retune.de/">ReTune research consortium</a>, with the goal of improving the quality and openness of academic programming, a crucial step for improving the quality and reproducibility of scientific research. Towards this, the Code Clinic organises reviews for code being released alongside scientific publications and as open-source packages, ensuring a high-degree of code quality. Furthermore, we organise a pair programming scheme in which junior programmers can receive personalised feedback on their code from experienced coders, improving the overall quality of the code and teaching coding best practice principles to these novice programmers.
     </p>
 
   <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - &zwj;09/2021</a></h3>
