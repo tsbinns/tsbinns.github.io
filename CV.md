@@ -203,7 +203,7 @@ sitemap:
       &mdash; Lead Developer
     </h4>
     <p class="CV-desc">
-      I am currently developing <a href="https://github.com/braindatalab/pybispectra">PyBispectra</a>, and open-source Python package for performing advanced signal analysis using bispectra (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>). There is support for computing: cross-frequency coupling (amplitude-amplitude, phase-phase, and phase-amplitude coupling); frequency domain wave shape features; as well as time delay estimations between signals. The package uses multiprocessing and Numba-based C compilation for rapid, computationally efficient signal processing.
+      I developed <a href="https://github.com/braindatalab/pybispectra">PyBispectra</a>, an open-source Python package for performing advanced signal analysis using the bispectrum (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>). There is support for analysing: cross-frequency coupling (amplitude-amplitude, phase-phase, and phase-amplitude coupling); frequency-domain wave shape features; as well as time delay estimations between signals. The package uses multiprocessing and Numba-based C compilation for rapid, computationally efficient signal processing.
     </p>
 
   <h3 class="CV-header"><a id="PyPARRM" class="section-ID">PyPARRM</a></h3>
@@ -340,14 +340,23 @@ sitemap:
 <h1><a id="Courses" class="section-ID">Courses</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="LOIS" class="section-ID">11/2022 - Present</a></h3>
+  <h3 class="CV-header"><a id="Cajal_Neurokit" class="section-ID">07/2023</a></h3>
+    <img class="logo" src="/assets/images/Logo-Cajal.png">
+    <h4 class="CV-subheader">
+      &mdash; Cajal Experimental Neuroscience Bootcamp
+    </h4>
+    <p class="CV-desc">
+      A week-long, intensive hands-on course in which students develop their understanding of electronics, microcontrollers, and machine vision through the construction of an increasingly capable robot.
+    </p>
+
+  <h3 class="CV-header"><a id="LOIS" class="section-ID">11/2022 - 06/2023</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <h4 class="CV-subheader">
       &mdash; Lab for Open Innovation in Science<br>
       &mdash; Einstein Center for Neurosciences Berlin, Germany
     </h4>
     <p class="CV-desc">
-      This course teaches principles of open and collaborative science, by which research can be integrated across academia, industry, and with the general public, ensuring that academic research is innovative and relevant to wider society. During the course, students develop their own open science projects, for which they can receive seed funding of up to €15,000 to make them a reality.
+      This course teaches principles of open and collaborative science, by which research can be integrated across academia, industry, and with the general public, ensuring that academic research is innovative and relevant to wider society.
     </p>
 
   <h3 class="CV-header"><a id="TU_MLIP" class="section-ID">10/2022 - &zwj;02/2023</a></h3>
