@@ -314,7 +314,7 @@ sitemap:
 
 <div>
   <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - Present</a></h3>
-    <img class="logo" src="/assets/images/Logo-BNA.png">
+    <img class="logo" src="/assets/images/Logo-ReTune.png">
     <h4 class="CV-subheader">
       &mdash; Code Clinic, ReTune International Research Consortium, Germany<br>
       &mdash; Co-founder
