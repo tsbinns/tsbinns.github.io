@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2023-06-21
+  lastmod: 2023-10-18
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -28,6 +28,19 @@ sitemap:
 <h1><a id="2023" class="section-ID">2023</a></h1>
 
 <p>
+  &nbsp;&nbsp; <i><big>Research Poster</big></i>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Winner of best poster prize</strong><br>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2023. Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Building on earlier work, this poster shows results of the first-ever within-subject examination of cortico-subthalamic interaction in Parkinson's disease across medication and deep brain stimulation states using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. The results highlight that dopamine and stimulation alter distinct aspects of communication with unique spectral profiles, and further supports a role for cortico-subthalamic interactions in Parkinson's disease pathology. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
+    </p>
+  </div>
+</div>
+
+<p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
   <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2022. Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
@@ -42,19 +55,6 @@ sitemap:
 
 <hr>
 <h1><a id="2022" class="section-ID">2022</a></h1>
-
-<p>
-  &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R., Vanhoecke, J., Chikermane, M., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2022. Dopamine alleviates subthalamic vulnerability to cortical synchrony in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2022_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
-</p>
-<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
-  <button type="button" class="collapsible">View Description</button>
-  <div class="collapsible_content">
-    <p>
-      Building on earlier work, this poster shows preliminary results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These early results further indicate that additional analyses may address fundamental issues regarding pathological frequency band networks in Parkinson's disease, as well as the mechanisms of dopaminergic medication on these networks. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
-    </p>
-  </div>
-</div>
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>

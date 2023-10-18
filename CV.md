@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2023-09-16
+  lastmod: 2023-10-18
   exclude: 'no'
 ---
 
@@ -66,7 +66,7 @@ sitemap:
       &mdash; Ph.D. Neuroscience Fellow
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating functional connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my poster from the <i>International Basal Ganglia Society Conference XIV</i> <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating functional connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my poster from the <i>ReTune Fall School</i> <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
     </p>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
@@ -223,16 +223,16 @@ sitemap:
 <p style="margin-bottom: 30px">For the full list of publications, <a href="/publications">click here.</a></p>
 
 <p>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2022. Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2023. Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      Building on our earlier work in the Interventional and Cognitive Neuromodulation group of Wolf-Julian Neumann, this poster shows results of the first-ever examination of cortico-subthalamic interaction in Parkinson's disease in different dopaminergic medication and stimulation conditions using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. These results highlight pathological changes in cortico-subthalamic connectivity that are differentially altered by medication and stimulation.
+      Building on earlier work, this poster shows results of the first-ever within-subject examination of cortico-subthalamic interaction in Parkinson's disease across medication and deep brain stimulation states using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. The results highlight that dopamine and stimulation alter distinct aspects of communication with unique spectral profiles, and further supports a role for cortico-subthalamic interactions in Parkinson's disease pathology. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
     </p>
   </div>
-</div>
+</div>  
 <br>
 <p>
   Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020.</a>
@@ -274,6 +274,16 @@ sitemap:
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
       Of almost 1,000 applicants, I was one of around only 30 people to be accepted for this prestigious and extremely competitive fellowship. Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.
+    </p>
+
+  <h3 class="CV-header"><a id="ReTune_Poster_Prize" class="section-ID">10/2023</a></h3>
+    <img class="logo" src="/assets/images/Logo-ReTune.png">
+    <h4 class="CV-subheader" style="margin-bottom: 0;">
+      &mdash; <i>ReTune Poster Prize</i>.<br>
+      &mdash; ReTune .
+    </h4>
+    <p class="CV-desc" style="margin-top: 0;">
+      My work on the first fully-invasive, within-patient analysis on the effects of medication and deep brain stimulation on cortico-subthalamic connectivity <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> was awarded with the prize for best poster at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
     </p>
 
   <h3 class="CV-header"><a id="Student_Prize" class="section-ID">07/2021</a></h3>
