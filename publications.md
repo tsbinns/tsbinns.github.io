@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2023-10-18
+  lastmod: 2023-11-22
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -28,8 +28,23 @@ sitemap:
 <h1><a id="2023" class="section-ID">2023</a></h1>
 
 <p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Merk, T., Zhu, G., Yin, Z., Zhao, B., Chikermane, M., ..., Kühn, A.A., Haynes, J.-D., Neumann, W.-J. (2023). Dopamine and neuromodulation accelerate the neural dynamics of volitional action in Parkinson’s disease. Pre-print. DOI: <a href="https://www.doi.org/10.1101/2023.10.30.564700" target="_blank">10.1101/2023.10.30.564700</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      The ability to initiate volitional action is fundamental to human behavior. Loss of dopaminergic neurons in Parkinson’s disease (PD) is associated with impaired action initiation, also termed akinesia. Dopamine and subthalamic deep brain stimulation (DBS) can alleviate akinesia, but the underlying mechanisms are unknown.<br>
+      <br>
+      We recorded invasive neural activity from both sensorimotor cortex and subthalamic nucleus (STN) in 25 PD patients performing self-initiated movements. Readiness potentials and brain signal decoding revealed long latencies between the neural representation of motor intention and execution. Dopamine and STN-DBS shortened these latencies, while shifting directional cortico-subthalamic oscillatory coupling from antikinetic beta (13-35 Hz) to prokinetic theta (4-10 Hz) rhythms. Our study highlights a key role for dopamine and basal ganglia in the evolution of preparatory brain signals and orchestration of neural dynamics in encoding of volitional action.
+    </p>
+  </div>
+</div>
+
+<p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Winner of best poster prize</strong><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2023. Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease. <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -41,8 +56,38 @@ sitemap:
 </div>
 
 <p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Merk, T., Köhler, R.M., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (2023). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. Pre-print. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Brain computer interfaces (BCI) provide unprecedented spatiotemporal precision that will enable significant expansion in how numerous brain disorders are treated. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for identifying and advancing novel clinical BCI approaches does not exist. Here, we developed a platform that integrates brain signal decoding with connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated for movement disorders, depression and epilepsy.<br>
+      <br>
+      First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our platform provides rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neuromodulation therapies in response to the individual needs of patients.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2023). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Bernstein Conference</i>, Berlin, Germany. DOI: <a href="https://www.doi.org/10.12751/nncn.bc2023.149" target="_blank">10.12751/nncn.bc2023.149</a> <a href="/assets/documents/2023_Bernstein_Conference-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Various forms of information can be extracted from neural timeseries data. Of this information, phase-amplitude coupling, time delays, and waveform characteristics are of great interest, providing crucial insights into neuronal function and dysfunction. However, the methods commonly used for analysing these features possess notable limitations. For example, quantifying phase-amplitude coupling with the popular modulation index requires the challenging definition of precise filter settings and is susceptible to source-mixing artefacts – as is time delay estimation with the traditional cross-correlation – and timeseries-based waveform analysis necessitates preprocessing steps that risk corrupting the shape of the underlying signal. In contrast, recent work has revealed the bispectrum – the Fourier transform of the third order moment – to be a powerful tool for the analysis of phase-amplitude coupling, time delay estimation, and non-sinusoidal waveform characteristics in neural signals. In fact, the bispectrum is immune to the above limitations, leaving a computationally efficient and robust tool for various signal analysis contexts. Despite these advantages, the bispectrum has seen relatively little use in the field of neuroscience, in part due to the lack of an accessible, easy-to-use toolbox.<br>
+      <br>
+      Accordingly, we have created PyBispectra: an open-source Python-based toolbox providing the wider neuroscientific community with access to these advanced methods. PyBispectra includes tools for performing phase-amplitude coupling, time delay estimation, and waveform analysis – incorporating recent methodological improvements – as well as additional supporting tools based on recommendations from the literature for other cross-frequency coupling methods and spatio-spectral filtering. The toolbox is highly accessible with detailed API documentation and tutorials, and is written using object-oriented principles to support ease of understanding and adaptation of the source code. Finally, PyBispectra is a high-performance toolbox, incorporating parallel processing and low-level source code compilation to maximise compute speed. Altogether, bispectrum-based methods bring numerous advantages over traditional approaches, and PyBispectra offers neuroscience researchers access to these advanced signal processing methods in an open-source, easy-to-use toolbox.
+    </p>
+  </div>
+</div>
+
+<p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2022. Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -58,7 +103,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J., 2022. Invasive mapping of cortico-subthalamic connectivity in Parkinson's disease. <i>Second Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany. <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J. (2022). Invasive mapping of cortico-subthalamic connectivity in Parkinson's disease. <i>Second Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany. <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>

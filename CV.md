@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2023-10-18
+  lastmod: 2023-11-22
   exclude: 'no'
 ---
 
@@ -47,8 +47,8 @@ sitemap:
     <a href="#Publications">Publications</a>
     <a href="#Funding-Awards">Funding & Awards</a>
     <a href="#Organisations">Organisations</a>
-    <a href="#Courses">Courses</a>
     <a href="#Teaching">Teaching</a>
+    <a href="#Courses">Courses</a>
     <a href="#References">References</a>
   </div>
 </div>
@@ -66,7 +66,7 @@ sitemap:
       &mdash; Ph.D. Neuroscience Fellow
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating functional connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my poster from the <i>ReTune Fall School</i> <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating oscillatory connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my poster from the <i>ReTune Fall School</i> <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
     </p>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
@@ -119,7 +119,7 @@ sitemap:
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating functional connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of results at the <i>International Basal Ganglia Society Conference XIV</i> <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
+      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating oscillatory connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of results at the <i>International Basal Ganglia Society Conference XIV</i> <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - Present</a></h3>
@@ -192,10 +192,10 @@ sitemap:
 <div>
   <h3 class="CV-header"><a id="MNE" class="section-ID">MNE-Python</a></h3>
     <h4 class="CV-subheader">
-      &mdash; Contributor
+      &mdash; Maintainer
     </h4>
     <p class="CV-desc">
-      I am a contributor to the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 2,000 stars on GitHub, and references in over 3,000 peer-reviewed scientific papers. My contributions have involved enhancements and bug fixes, and I am currently working with the maintainers to implement a set of advanced signal processing tools in the package (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>).
+      I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with 2,500 stars on GitHub, and references in over 4,000 peer-reviewed scientific papers. My contributions have included the addition of new features, bug fixes, and project maintenance, including the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>).
     </p>
 
   <h3 class="CV-header"><a id="PyBispectra" class="section-ID">PyBispectra</a></h3>
@@ -223,6 +223,20 @@ sitemap:
 <p style="margin-bottom: 30px">For the full list of publications, <a href="/publications">click here.</a></p>
 
 <p>
+  Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Merk, T., Zhu, G., Yin, Z., Zhao, B., Chikermane, M., ..., Kühn, A.A., Haynes, J.-D., Neumann, W.-J. (2023). Dopamine and neuromodulation accelerate the neural dynamics of volitional action in Parkinson’s disease. Pre-print. DOI: <a href="https://www.doi.org/10.1101/2023.10.30.564700" target="_blank">10.1101/2023.10.30.564700</a>.
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      The ability to initiate volitional action is fundamental to human behavior. Loss of dopaminergic neurons in Parkinson’s disease (PD) is associated with impaired action initiation, also termed akinesia. Dopamine and subthalamic deep brain stimulation (DBS) can alleviate akinesia, but the underlying mechanisms are unknown.<br>
+      <br>
+      We recorded invasive neural activity from both sensorimotor cortex and subthalamic nucleus (STN) in 25 PD patients performing self-initiated movements. Readiness potentials and brain signal decoding revealed long latencies between the neural representation of motor intention and execution. Dopamine and STN-DBS shortened these latencies, while shifting directional cortico-subthalamic oscillatory coupling from antikinetic beta (13-35 Hz) to prokinetic theta (4-10 Hz) rhythms. Our study highlights a key role for dopamine and basal ganglia in the evolution of preparatory brain signals and orchestration of neural dynamics in encoding of volitional action.
+    </p>
+  </div>
+</div>
+<br>
+<p>
   <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2023. Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
@@ -235,27 +249,15 @@ sitemap:
 </div>  
 <br>
 <p>
-  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020.</a>
-</p>
-<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
-  <button type="button" class="collapsible">View Description</button>
-  <div class="collapsible_content">
-    <p>
-      Voluntary movements are usually preceded by a slow, negative-going brain signal over motor areas, the so-called readiness potential (RP). To date, the exact nature and causal role of the RP in movement preparation have remained heavily debated. Although the RP is influenced by several motorical and cognitive factors, it has remained unclear whether people can learn to exert mental control over their RP, for example, by deliberately suppressing it. If people were able to initiate spontaneous movements without eliciting an RP, this would challenge the idea that the RP is a necessary stage of the causal chain leading up to a voluntary movement.<br>
-      <br>
-      We tested the ability of participants to control the magnitude of their RP in a neurofeedback experiment. Participants performed self-initiated movements, and after every movement, they were provided with immediate feedback about the magnitude of their RP. They were asked to find a strategy to perform voluntary movements such that the RPs were as small as possible. We found no evidence that participants were able to to willfully modulate or suppress their RPs while still eliciting voluntary movements. This suggests that the RP might be an involuntary component of voluntary action over which people cannot exert conscious control.
-    </p>
-  </div>
-</div>
-<br>
-<p>
-  <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  Merk, T., Köhler, R.M., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (2023). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. Pre-print. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      A short review article examining whether research into the readiness potential, a neural marker of upcoming movement, has disproven free will. Published in the British Neuroscience Association's summer 2020 Bulletin.
+      Brain computer interfaces (BCI) provide unprecedented spatiotemporal precision that will enable significant expansion in how numerous brain disorders are treated. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for identifying and advancing novel clinical BCI approaches does not exist. Here, we developed a platform that integrates brain signal decoding with connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated for movement disorders, depression and epilepsy.<br>
+      <br>
+      First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our platform provides rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neuromodulation therapies in response to the individual needs of patients.
     </p>
   </div>
 </div>
@@ -280,7 +282,7 @@ sitemap:
     <img class="logo" src="/assets/images/Logo-ReTune.png">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
       &mdash; <i>ReTune Poster Prize</i>.<br>
-      &mdash; ReTune .
+      &mdash; ReTune International Research Consortium, Germany.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
       My work on the first fully-invasive, within-patient analysis on the effects of medication and deep brain stimulation on cortico-subthalamic connectivity <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> was awarded with the prize for best poster at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
@@ -341,6 +343,33 @@ sitemap:
     </h4>
     <p class="CV-desc">
       As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> allowing me to demonstrate and further hone my academic writing skills.
+    </p>
+</div>
+
+
+<!-- Teaching -->
+<hr>
+<h1><a id="Teaching" class="section-ID">Teaching</a></h1>
+
+<div>
+  <h3 class="CV-header"><a id="Charite_MedNeuro" class="section-ID">Summer Semester 2023</a></h3>
+    <img class="logo" src="/assets/images/Logo-Charite.png">
+    <h4 class="CV-subheader">
+      &mdash; Clinical Neuroscience and Invasive Neurophysiology Methods<br>
+      &mdash; Charité - Universitätsmedizin Berlin, Germany
+    </h4>
+    <p class="CV-desc">
+      I delivered lectures to Master's students of the Charité's Medical Neurosciences programme, with topics on: basal ganglia anatomy, physiology, and pathophysiology; research methods for invasive neurophysiology; and electrophysiological biomarkers of movement disorders in invasive neuronal recordings.
+    </p>
+
+  <h3 class="CV-header"><a id="TU_MLIP_Teacher" class="section-ID">Summer Semester 2023</a></h3>
+    <img class="logo" src="/assets/images/Logo-TU.png">
+    <h4 class="CV-subheader">
+      &mdash; Machine Learning and Inverse Problems in Neuroimaging<br>
+      &mdash; Technische Universität Berlin, Germany
+    </h4>
+    <p class="CV-desc">
+      In this seminar series for Master's students, I supervised the topics of generalised eigendecompositions (common spatial pattern filters, spatio-spectral decomposition, etc...) and oscillatory connectivity in neuroimaging.
     </p>
 </div>
 
@@ -406,33 +435,6 @@ sitemap:
     </h4>
     <p class="CV-desc">
       A three week-long, highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
-    </p>
-</div>
-
-
-<!-- Teaching -->
-<hr>
-<h1><a id="Teaching" class="section-ID">Teaching</a></h1>
-
-<div>
-  <h3 class="CV-header"><a id="Charite_MedNeuro" class="section-ID">Summer Semester 2023</a></h3>
-    <img class="logo" src="/assets/images/Logo-Charite.png">
-    <h4 class="CV-subheader">
-      &mdash; Clinical Neuroscience and Invasive Neurophysiology Methods<br>
-      &mdash; Charité - Universitätsmedizin Berlin, Germany
-    </h4>
-    <p class="CV-desc">
-      I delivered lectures to Master's students of the Charité's Medical Neurosciences programme, with topics on: basal ganglia anatomy, physiology, and pathophysiology; research methods for invasive neurophysiology; and electrophysiological biomarkers of movement disorders in invasive neuronal recordings.
-    </p>
-
-  <h3 class="CV-header"><a id="TU_MLIP_Teacher" class="section-ID">Summer Semester 2023</a></h3>
-    <img class="logo" src="/assets/images/Logo-TU.png">
-    <h4 class="CV-subheader">
-      &mdash; Machine Learning and Inverse Problems in Neuroimaging<br>
-      &mdash; Technische Universität Berlin, Germany
-    </h4>
-    <p class="CV-desc">
-      In this seminar series for Master's students, I supervised the topics of generalised eigendecompositions (common spatial pattern filters, spatio-spectral decomposition, etc...) and functional connectivity in neuroimaging.
     </p>
 </div>
 
