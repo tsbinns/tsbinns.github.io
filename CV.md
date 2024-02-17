@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2023-11-22
+  lastmod: 2024-02-17
   exclude: 'no'
 ---
 
@@ -119,7 +119,7 @@ sitemap:
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating oscillatory connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of results at the <i>International Basal Ganglia Society Conference XIV</i> <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>Second Expert Summit on the Future of Deep Brain Stimulation</i> <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
+      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating oscillatory connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of results at the <i>ReTune Fall School</i> <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>International Basal Ganglia Society Conference XIV</i> <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - Present</a></h3>
@@ -141,7 +141,7 @@ sitemap:
       &mdash; Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes
     </h4>
     <p class="CV-desc">
-      My <a href="#Master_Desc">Industrial Placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>. Here, I investigated movement initiation using machine learning and brain-computer interfaces. As part of this work, I co-authored a research article that has been published in <i>eNeuro</i> <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank"><i class="fas fa-link"></i></a>.<br>
+      My <a href="#Master_Desc">Industrial Placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>. Here, I investigated movement initiation using machine learning and brain-computer interfaces. As part of this work, I co-authored a research article published in <i>eNeuro</i> <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank"><i class="fas fa-link"></i></a>.<br>
       <br>
       Through this placement, I developed an in-depth understanding of brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. I also gained experience designing and conducting electrophysiological studies with human subjects.
     </p>
@@ -237,7 +237,7 @@ sitemap:
 </div>
 <br>
 <p>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J., 2023. Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -275,7 +275,7 @@ sitemap:
       &mdash; Einstein Center for Neurosciences Berlin.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      Of almost 1,000 applicants, I was one of around only 30 people to be accepted for this prestigious and extremely competitive fellowship. Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.
+      Of almost 1,000 applicants, I was one of only a handful of people to be accepted for this prestigious and extremely competitive fellowship. Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.
     </p>
 
   <h3 class="CV-header"><a id="ReTune_Poster_Prize" class="section-ID">10/2023</a></h3>
@@ -352,6 +352,16 @@ sitemap:
 <h1><a id="Teaching" class="section-ID">Teaching</a></h1>
 
 <div>
+  <h3 class="CV-header"><a id="iBOTS_MNE" class="section-ID">Summer Semester 2024</a></h3>
+    <img class="logo" src="/assets/images/Logo-iBehave.png">
+    <h4 class="CV-subheader">
+      &mdash; Introduction to Signal Processing with MNE<br>
+      &mdash; iBehave Network, Germany
+    </h4>
+    <p class="CV-desc">
+      I taught an <a href="https://github.com/tsbinns/mne_course">interactive course</a> on signal processing with the MNE-Python and MNE-Connectivity packages as part of the <a href="https://ibehave.nrw/ibots-platform/about-ibots/">iBehave Network's Open Technology initiative</a>. The course provided a foundation to students in the analysis of electrophysiological data with Python, including topics on: machine learning; time-frequency analysis; connectivity analysis; and source reconstruction.
+    </p>
+
   <h3 class="CV-header"><a id="Charite_MedNeuro" class="section-ID">Summer Semester 2023</a></h3>
     <img class="logo" src="/assets/images/Logo-Charite.png">
     <h4 class="CV-subheader">
@@ -359,7 +369,7 @@ sitemap:
       &mdash; Charité - Universitätsmedizin Berlin, Germany
     </h4>
     <p class="CV-desc">
-      I delivered lectures to Master's students of the Charité's Medical Neurosciences programme, with topics on: basal ganglia anatomy, physiology, and pathophysiology; research methods for invasive neurophysiology; and electrophysiological biomarkers of movement disorders in invasive neuronal recordings.
+      I led teaching of the Charité's Medical Neurosciences Master's programme modules on clinical neuroscience and invasive neurophysiology. Topics included: basal ganglia anatomy, physiology, and pathophysiology; research methods for invasive neurophysiology; and electrophysiological biomarkers of movement disorders in invasive neuronal recordings.
     </p>
 
   <h3 class="CV-header"><a id="TU_MLIP_Teacher" class="section-ID">Summer Semester 2023</a></h3>
