@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2023-11-22
+  lastmod: 2024-03-22
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -16,6 +16,7 @@ sitemap:
   <button onclick="toggle_show()" class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
+    <a href="#2024">2024</a>
     <a href="#2023">2023</a>
     <a href="#2022">2022</a>
     <a href="#2021">2021</a>
@@ -25,11 +26,29 @@ sitemap:
 
 
 <!-- Publication list -->
+<h1><a id="2024" class="section-ID">2024</a></h1>
+
+<p>
+  &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>WIRED Conference</i>, Paris, France. <a href="/assets/documents/2024_WIRED_Conference-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Various forms of information can be extracted from neural timeseries data. Of this information, phase-amplitude coupling, time delays, and waveform characteristics are of great interest, providing crucial insights into neuronal function and dysfunction. However, the methods commonly used for analysing these features possess notable limitations. For example, quantifying phase-amplitude coupling with the popular modulation index requires the challenging definition of precise filter settings and is susceptible to source-mixing artefacts – as is time delay estimation with the traditional cross-correlation – and timeseries-based waveform analysis necessitates preprocessing steps that risk corrupting the shape of the underlying signal. In contrast, recent work has revealed the bispectrum – the Fourier transform of the third order moment – to be a powerful tool for the analysis of phase-amplitude coupling, time delay estimation, and non-sinusoidal waveform characteristics in neural signals. In fact, the bispectrum is immune to the above limitations, leaving a computationally efficient and robust tool for various signal analysis contexts. Despite these advantages, the bispectrum has seen relatively little use in the field of neuroscience, in part due to the lack of an accessible, easy-to-use toolbox.<br>
+      <br>
+      Accordingly, we have created PyBispectra: an open-source Python-based toolbox providing the wider neuroscientific community with access to these advanced methods. PyBispectra includes tools for performing phase-amplitude coupling, time delay estimation, and waveform analysis – incorporating recent methodological improvements – as well as additional supporting tools based on recommendations from the literature for other cross-frequency coupling methods and spatio-spectral filtering. The toolbox is highly accessible with detailed API documentation and tutorials, and is written using object-oriented principles to support ease of understanding and adaptation of the source code. Finally, PyBispectra is a high-performance toolbox, incorporating parallel processing and low-level source code compilation to maximise compute speed. Altogether, bispectrum-based methods bring numerous advantages over traditional approaches, and PyBispectra offers neuroscience researchers access to these advanced signal processing methods in an open-source, easy-to-use toolbox.
+    </p>
+  </div>
+</div>
+
+<hr>
 <h1><a id="2023" class="section-ID">2023</a></h1>
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Merk, T., Zhu, G., Yin, Z., Zhao, B., Chikermane, M., ..., Kühn, A.A., Haynes, J.-D., Neumann, W.-J. (2023). Dopamine and neuromodulation accelerate the neural dynamics of volitional action in Parkinson’s disease. Pre-print. DOI: <a href="https://www.doi.org/10.1101/2023.10.30.564700" target="_blank">10.1101/2023.10.30.564700</a>.
+  Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Merk, T., Zhu, G., Yin, Z., Zhao, B., Chikermane, M., ..., Kühn, A.A., Haynes, J.-D., Neumann, W.-J. (Pre-print). Dopamine and neuromodulation accelerate the neural dynamics of volitional action in Parkinson’s disease. DOI: <a href="https://www.doi.org/10.1101/2023.10.30.564700" target="_blank">10.1101/2023.10.30.564700</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -57,7 +76,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Merk, T., Köhler, R.M., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (2023). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. Pre-print. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
+  Merk, T., Köhler, R.M., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (Pre-print). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
