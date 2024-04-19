@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2024-03-22
+  lastmod: 2024-04-19
   exclude: 'no'
 ---
 
@@ -66,7 +66,7 @@ sitemap:
       &mdash; Ph.D. Neuroscience Fellow
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating oscillatory connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my poster from the <i>ReTune Fall School</i> <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>.
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating oscillatory connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my pre-print (Binns *et al.*, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>).
     </p>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
@@ -119,7 +119,7 @@ sitemap:
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating oscillatory connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms. I have presented posters of results at the <i>ReTune Fall School</i> <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> and the <i>International Basal Ganglia Society Conference XIV</i> <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>. Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
+      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating oscillatory connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms (see my pre-print Binns *et al.*, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a> for results). Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - Present</a></h3>
@@ -223,6 +223,20 @@ sitemap:
 <p style="margin-bottom: 30px">For the full list of publications, <a href="/publications">click here.</a></p>
 
 <p>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (Pre-print). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>.
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Deep brain stimulation (DBS) is a brain circuit intervention that can modulate distinct neural pathways for the alleviation of neurological symptoms in patients with brain disorders. In Parkinson's disease, subthalamic DBS clinically mimics the effect of dopaminergic drug treatment, but the shared pathway mechanisms on cortex-basal ganglia networks are unknown. To address this critical knowledge gap, we combined fully-invasive neural multisite recordings in patients undergoing DBS surgery with MRI-based whole-brain connectomics.
+      <br>
+      Our findings demonstrate that dopamine and DBS exert distinct mesoscale effects through modulation of local neural population synchrony. In contrast, at the macroscale, DBS mimics dopamine in its suppression of excessive interregional network synchrony associated with indirect and hyperdirect cortex-basal ganglia pathways. Our results provide a better understanding of the circuit mechanisms of dopamine and DBS, laying the foundation for advanced closed-loop neurostimulation therapies.
+    </p>
+  </div>
+</div>
+<br>
+<p>
   Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Merk, T., Zhu, G., Yin, Z., Zhao, B., Chikermane, M., ..., Kühn, A.A., Haynes, J.-D., Neumann, W.-J. (Pre-print). Dopamine and neuromodulation accelerate the neural dynamics of volitional action in Parkinson’s disease. DOI: <a href="https://www.doi.org/10.1101/2023.10.30.564700" target="_blank">10.1101/2023.10.30.564700</a>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
@@ -237,27 +251,15 @@ sitemap:
 </div>
 <br>
 <p>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-PyBispectra_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
-<div> <!-- COLLAPSIBLE -->
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      Building on earlier work, this poster shows results of the first-ever within-subject examination of cortico-subthalamic interaction in Parkinson's disease across medication and deep brain stimulation states using invasive recordings of subthalamic nucleus local field potentials and the cortex with electrocorticography. The results highlight that dopamine and stimulation alter distinct aspects of communication with unique spectral profiles, and further supports a role for cortico-subthalamic interactions in Parkinson's disease pathology. Presented at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
-    </p>
-  </div>
-</div>  
-<br>
-<p>
-  Merk, T., Köhler, R.M., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (Pre-print). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
-</p>
-<div> <!-- COLLAPSIBLE -->
-  <button type="button" class="collapsible">View Description</button>
-  <div class="collapsible_content">
-    <p>
-      Brain computer interfaces (BCI) provide unprecedented spatiotemporal precision that will enable significant expansion in how numerous brain disorders are treated. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for identifying and advancing novel clinical BCI approaches does not exist. Here, we developed a platform that integrates brain signal decoding with connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated for movement disorders, depression and epilepsy.<br>
+      Various forms of information can be extracted from neural timeseries data. Of this information, phase-amplitude coupling, time delays, and waveform characteristics are of great interest, providing crucial insights into neuronal function and dysfunction. However, the methods commonly used for analysing these features possess notable limitations. For example, quantifying phase-amplitude coupling with the popular modulation index requires the challenging definition of precise filter settings and is susceptible to source-mixing artefacts – as is time delay estimation with the traditional cross-correlation – and timeseries-based waveform analysis necessitates preprocessing steps that risk corrupting the shape of the underlying signal. In contrast, recent work has revealed the bispectrum – the Fourier transform of the third order moment – to be a powerful tool for the analysis of phase-amplitude coupling, time delay estimation, and non-sinusoidal waveform characteristics in neural signals. In fact, the bispectrum is immune to the above limitations, leaving a computationally efficient and robust tool for various signal analysis contexts. Despite these advantages, the bispectrum has seen relatively little use in the field of neuroscience, in part due to the lack of an accessible, easy-to-use toolbox.<br>
       <br>
-      First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our platform provides rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neuromodulation therapies in response to the individual needs of patients.
+      Accordingly, we have created PyBispectra: an open-source Python-based toolbox providing the wider neuroscientific community with access to these advanced methods. PyBispectra includes tools for performing phase-amplitude coupling, time delay estimation, and waveform analysis – incorporating recent methodological improvements – as well as additional supporting tools based on recommendations from the literature for other cross-frequency coupling methods and spatio-spectral filtering. The toolbox is highly accessible with detailed API documentation and tutorials, and is written using object-oriented principles to support ease of understanding and adaptation of the source code. Finally, PyBispectra is a high-performance toolbox, incorporating parallel processing and low-level source code compilation to maximise compute speed. Altogether, bispectrum-based methods bring numerous advantages over traditional approaches, and PyBispectra offers neuroscience researchers access to these advanced signal processing methods in an open-source, easy-to-use toolbox.
     </p>
   </div>
 </div>
