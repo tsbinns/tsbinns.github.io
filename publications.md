@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 sitemap:
-  lastmod: 2024-03-22
+  lastmod: 2024-04-19
   exclude: 'no'
 ---
 <a id="Top" class="section-ID"></a>
@@ -27,6 +27,51 @@ sitemap:
 
 <!-- Publication list -->
 <h1><a id="2024" class="section-ID">2024</a></h1>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (Pre-print). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Deep brain stimulation (DBS) is a brain circuit intervention that can modulate distinct neural pathways for the alleviation of neurological symptoms in patients with brain disorders. In Parkinson's disease, subthalamic DBS clinically mimics the effect of dopaminergic drug treatment, but the shared pathway mechanisms on cortex-basal ganglia networks are unknown. To address this critical knowledge gap, we combined fully-invasive neural multisite recordings in patients undergoing DBS surgery with MRI-based whole-brain connectomics.
+      <br>
+      Our findings demonstrate that dopamine and DBS exert distinct mesoscale effects through modulation of local neural population synchrony. In contrast, at the macroscale, DBS mimics dopamine in its suppression of excessive interregional network synchrony associated with indirect and hyperdirect cortex-basal ganglia pathways. Our results provide a better understanding of the circuit mechanisms of dopamine and DBS, laying the foundation for advanced closed-loop neurostimulation therapies.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-PyBispectra_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Various forms of information can be extracted from neural timeseries data. Of this information, phase-amplitude coupling, time delays, and waveform characteristics are of great interest, providing crucial insights into neuronal function and dysfunction. However, the methods commonly used for analysing these features possess notable limitations. For example, quantifying phase-amplitude coupling with the popular modulation index requires the challenging definition of precise filter settings and is susceptible to source-mixing artefacts – as is time delay estimation with the traditional cross-correlation – and timeseries-based waveform analysis necessitates preprocessing steps that risk corrupting the shape of the underlying signal. In contrast, recent work has revealed the bispectrum – the Fourier transform of the third order moment – to be a powerful tool for the analysis of phase-amplitude coupling, time delay estimation, and non-sinusoidal waveform characteristics in neural signals. In fact, the bispectrum is immune to the above limitations, leaving a computationally efficient and robust tool for various signal analysis contexts. Despite these advantages, the bispectrum has seen relatively little use in the field of neuroscience, in part due to the lack of an accessible, easy-to-use toolbox.<br>
+      <br>
+      Accordingly, we have created PyBispectra: an open-source Python-based toolbox providing the wider neuroscientific community with access to these advanced methods. PyBispectra includes tools for performing phase-amplitude coupling, time delay estimation, and waveform analysis – incorporating recent methodological improvements – as well as additional supporting tools based on recommendations from the literature for other cross-frequency coupling methods and spatio-spectral filtering. The toolbox is highly accessible with detailed API documentation and tutorials, and is written using object-oriented principles to support ease of understanding and adaptation of the source code. Finally, PyBispectra is a high-performance toolbox, incorporating parallel processing and low-level source code compilation to maximise compute speed. Altogether, bispectrum-based methods bring numerous advantages over traditional approaches, and PyBispectra offers neuroscience researchers access to these advanced signal processing methods in an open-source, easy-to-use toolbox.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-MNE_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Effective connectivity analyses are a common approach for analysing electrophysiological data, characterising the interaction between timeseries signals in a frequency-resolved manner. Various methods exist for performing such analyses, with the traditional approach being generally bivariate, i.e. between two signals. However, when handling data from multi-channel setups – as is often the case in electrophysiology – examining the connectivity between each combination of signals results in high-dimensional results that are difficult to interpret. A common approach to handle this is to average the results across multiple connections, diminishing the signal-to-noise ratio if the interaction of interest is not present across all connections. In contrast, multivariate connectivity methods characterise interactions between two sets of signals, representing relationships between these groups in the component space. In this way, critical connectivity information is represented in a low-dimensional, more interpretable manner. Additionally, the enhanced signal-to-noise ratio offered by multivariate methods allows for interactions to be captured which may otherwise be lost with less sophisticated bivariate methods. A major factor in the limited uptake of multivariate methods is their lack of availability in popular signal processing packages.
+      <br>
+      Accordingly, we developed implementations of multivariate methods based on coherency and state-space Granger causality in MNE-Connectivity, a toolbox for estimating effective connectivity that extends the popular open-source MNE-Python signal processing toolbox .toolbox (Gramfort et al., 2013). To further promote their adoption, example use cases of these tools are presented as tutorials in the MNE-Connectivity documentation.
+    </p>
+  </div>
+</div>
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
