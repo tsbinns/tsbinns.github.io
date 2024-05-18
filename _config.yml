@@ -13,14 +13,13 @@ url: "http://tsbinns.com" # the base hostname & protocol for your site
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
 show_sidebar: false         # show a sidebar instead of the usual header
-minimal: false              # use a dark header
+minimal: false         # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://tsbinns.com", title: "<b>Home</b>"} #icon: "home"
   - {file: "CV.md", title: "<b>CV</b>", url: "https://tsbinns.com/CV"} #icon: "scroll"
-  - {file: "tutorials.md", title: "<b>Tutorials &amp Courses</b>", url: "https://tsbinns.com/tutorials"}
   - {file: "publications.md", title: "<b>Publications</b>", url: "https://tsbinns.com/publications"} #icon: "book"
   - {file: "contact-links.md", title: "<b>Contact &amp Links</b>", url: "https://tsbinns.com/contact-links"} #icon: "address-book"
 

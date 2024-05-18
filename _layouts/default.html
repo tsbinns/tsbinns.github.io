@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,34 +7,27 @@
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 {% if site.show_frame %}
-<link rel="stylesheet" href="{{ " /assets/css/frame.css" | relative_url }}">
+<link rel="stylesheet" href="{{ "/assets/css/frame.css" | relative_url }}">
 {% else %}
-<link rel="stylesheet" href="{{ " /assets/css/index.css" | relative_url }}">
+<link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
 {% endif %}
 <link href="/assets/fontawesome/css/all.css" rel="stylesheet">
-{% if site.plugins contains "jekyll-feed" %}
-<link rel="alternate" href="{{ site.feed.path | default: " /feed.xml" | relative_url }}" type="application/atom+xml"
-  title="{{ site.title }}">{% endif %}
+{% if site.plugins contains "jekyll-feed" %}<link rel="alternate" href="{{ site.feed.path | default: "/feed.xml" | relative_url }}" type="application/atom+xml" title="{{ site.title }}">{% endif %}
 {% if page.mathjax or site.mathjax %}
-<link rel="stylesheet" href="{{ " /assets/katex/katex.min.css" | relative_url }}">
-<script defer src="{{ " /assets/katex/katex.min.js" | relative_url }}"></script>
-<script defer src="{{ " /assets/katex/contrib/auto-render.min.js" | relative_url }}"
-  onload="renderMathInElement(document.body)"></script>
+<link rel="stylesheet" href="{{ "/assets/katex/katex.min.css" | relative_url }}">
+<script defer src="{{ "/assets/katex/katex.min.js" | relative_url }}"></script>
+<script defer src="{{ "/assets/katex/contrib/auto-render.min.js" | relative_url }}" onload="renderMathInElement(document.body)"></script>
 {% endif %}
-{% if site.comments.disqus_shortname and page.layout == "post" %}
-<script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>{% endif %}
-{% if site.comments.isso_domain and page.layout == "post" %}
-<script data-isso="http://{{ site.comments.isso_domain }}"
-  src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
+{% if site.comments.disqus_shortname and page.layout == "post" %}<script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>{% endif %}
+{% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
 
 {% if site.navigation %}
-{% assign pages = site.navigation %}
+  {% assign pages = site.navigation %}
 {% else %}
-{% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
+  {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 {% seo %}
-
 <head>
   <!-- for the favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png">
@@ -54,18 +47,15 @@
     html {
       overflow-y: scroll;
     }
-
     html::-webkit-scrollbar {
       width: 15px;
       background: transparent;
       overflow-y: scroll;
     }
-
     html::-webkit-scrollbar-track {
       -webkit-box-shadow: inset 0 0 6px rgba(33, 34, 40, 0.5);
       border-radius: 10px;
     }
-
     html::-webkit-scrollbar-thumb {
       border-radius: 10px;
       -webkit-box-shadow: inset 0 0 3px rgba(33, 34, 40, .9);
@@ -87,7 +77,6 @@
       text-decoration: none;
       color: inherit;
     }
-
     .section-ID:hover {
       text-decoration: none;
     }
@@ -98,12 +87,10 @@
       margin-bottom: 0;
       margin-top: 35px;
     }
-
     .CV-collapsible_header {
       margin-bottom: 0;
       text-align: justify;
     }
-
     .CV-subheader {
       margin-top: 0;
       margin-bottom: 18px;
@@ -112,22 +99,20 @@
       font-weight: bold;
     }
 
-    .CV-subheader_with_logo {
-      /* Subheader shifted to the right to allow space for a logo (e.g. of a university) */
+    .CV-subheader_with_logo { /* Subheader shifted to the right to allow space for a logo (e.g. of a university) */
       margin-top: 0;
       list-style-type: none;
       font-weight: bold;
       padding-left: 10px;
       overflow: hidden;
     }
-
+    
     .CV-desc {
       list-style-type: none;
       text-align: justify;
     }
 
-    .CV-desc_with_logo {
-      /* Description shifted to the right to allow space for a logo (e.g. of a university) */
+    .CV-desc_with_logo { /* Description shifted to the right to allow space for a logo (e.g. of a university) */
       list-style-type: none;
       text-align: justify;
       padding-left: 60px;
@@ -151,26 +136,21 @@
       text-align: left;
       outline: none;
     }
-
     .collapsible_active {
       background-color: #ddd;
     }
-
     .collapsible:hover {
       background-color: #ddd;
     }
-
     .collapsible:after {
       content: '\02795';
       color: #555;
       float: right;
       margin-left: 5px;
     }
-
     .collapsible_active:after {
       content: "\2796";
     }
-
     .collapsible_content {
       padding: 0 18px;
       max-height: 0;
@@ -190,16 +170,13 @@
       outline: none;
       cursor: pointer;
     }
-
     /* Change color of dropdown button on hover and click */
     .dropdown_button:hover {
       background-color: #ddd;
     }
-
     .dropdown_button_active {
       background-color: #ddd;
     }
-
     /* The container <div> - needed to position the dropdown content */
     .dropdown {
       display: block;
@@ -207,18 +184,16 @@
       position: sticky;
       top: 1%;
     }
-
     /* Dropdown Content (Hidden by Default) */
     .dropdown_content {
       display: none;
       position: absolute;
       background-color: #ddd;
-      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.4);
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
       width: fit-content;
       overflow: auto;
       z-index: 1;
     }
-
     /* Links inside the dropdown */
     .dropdown_content a {
       color: #555;
@@ -226,31 +201,16 @@
       text-decoration: none;
       display: inline-block;
     }
-
     /* Change color of dropdown links on hover */
-    .dropdown_content a:hover {
-      background-color: #eee
-    }
-
+    .dropdown_content a:hover {background-color: #eee}
     /* Show the dropdown menu */
-    .dropdown_show {
-      display: block;
-    }
+    .dropdown_show {display: block;}
 
-    /* Hyperlink button */
-    .link_button {
-      padding: 1px 6px;
-      border: 1px outset buttonborder;
-      border-radius: 3px;
-      color: buttontext;
-      background-color: buttonface;
-      text-decoration: none;
-    }
   </style>
 </head>
 
 <header>
-  <b><a href="{{ " /" | relative_url }}" class="title">{{ site.title | escape }}</a></b>
+  <b><a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a></b>
   {% include menu.html menu=pages %}
 </header>
 
