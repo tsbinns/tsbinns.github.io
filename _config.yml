@@ -20,7 +20,7 @@ minimal: false         # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://tsbinns.com", title: "<b>Home</b>"} #icon: "home"
   - {file: "CV.md", title: "<b>CV</b>", url: "https://tsbinns.com/CV"} #icon: "scroll"
-  - {file: "tutorials.md", title: "<b>Tutorials</b>", url: "https://tsbinns.com/tutorials"} #icon: "book"
+  - {file: "tutorials-courses.md", title: "<b>Tutorials &amp Courses</b>", url: "https://tsbinns.com/tutorials"} #icon: "book"
   - {file: "publications.md", title: "<b>Publications</b>", url: "https://tsbinns.com/publications"} #icon: "book"
   - {file: "contact-links.md", title: "<b>Contact &amp Links</b>", url: "https://tsbinns.com/contact-links"} #icon: "address-book"
 
