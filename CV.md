@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2024-04-19
+  lastmod: 2024-05-18
   exclude: 'no'
 ---
 
@@ -59,21 +59,21 @@ sitemap:
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="ECN_Fellow" class="section-ID">2021 - Present</a></h3>
-    <img class="logo" src="/assets/images/Logo-ECN.png">
+  <h3 class="CV-header"><a id="Charite_PhD" class="section-ID">2021 - Present</a></h3>
+    <img class="logo" src="/assets/images/Logo-Charite.png">
     <h4 class="CV-subheader">
-      &mdash; Einstein Center for Neurosciences Berlin, Germany<br>
-      &mdash; Ph.D. Neuroscience Fellow
+      &mdash; Charité - Universitätsmedizin Berlin, Germany<br>
+      &mdash; PhD Neuroscience
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded Ph.D.</a>, I am investigating oscillatory connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my pre-print (Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>).
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating oscillatory connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my pre-print (Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>).
     </p>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
     <img class="logo" src="/assets/images/Logo-UoA.png">
     <h4 class="CV-subheader">
       &mdash; University of Aberdeen, UK<br>
-      &mdash; M.Sci. (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours
+      &mdash; MSci (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours
     </h4>
     <p class="CV-desc">
       <b>Industrial Placement (Master's) thesis:</b><br>
@@ -119,7 +119,7 @@ sitemap:
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#ECN_Fellow">Ph.D. Fellowship</a>, I am investigating oscillatory connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms (see my pre-print Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a> for results). Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
+      For the project of my <a href="#Charite_PhD">PhD</a>, I am investigating oscillatory connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms (see my pre-print Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a> for results). Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - Present</a></h3>
@@ -130,7 +130,7 @@ sitemap:
       &mdash; Supervisor: Prof. Stefan Haufe
     </h4>
     <p class="CV-desc">
-      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am developing advanced signal processing techniques for use in my Ph.D. project, and bringing them to open-source packages for use in the wider community (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
+      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am developing advanced signal processing techniques for use in my PhD project, and bringing them to open-source packages for use in the wider community (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
     </p>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
@@ -159,7 +159,7 @@ sitemap:
           &mdash; Supervisor: Prof. Surjo Soekadar
         </h4>
         <p class="CV-desc">
-          As one of my <a href="#ECN_Fellow">Ph.D. Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity. Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.
+          As one of my <a href="#Charite_PhD">PhD Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity. Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.
         </p>
     <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
@@ -191,28 +191,31 @@ sitemap:
 
 <div>
   <h3 class="CV-header"><a id="MNE" class="section-ID">MNE-Python</a></h3>
-    <h4 class="CV-subheader">
-      &mdash; Maintainer
-    </h4>
-    <p class="CV-desc">
-      I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with 2,500 stars on GitHub, and references in over 4,000 peer-reviewed scientific papers. My contributions have included the addition of new features, bug fixes, and project maintenance, including the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>).
-    </p>
+    <img class="logo" src="/assets/images/Logo-MNE.png">
+      <h4 class="CV-subheader">
+        &mdash; Maintainer
+      </h4>
+      <p class="CV-desc">
+        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 2,500 stars on GitHub, and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
+      </p>
 
   <h3 class="CV-header"><a id="PyBispectra" class="section-ID">PyBispectra</a></h3>
-    <h4 class="CV-subheader">
-      &mdash; Lead Developer
-    </h4>
-    <p class="CV-desc">
-      I developed <a href="https://github.com/braindatalab/pybispectra">PyBispectra</a>, an open-source Python package for performing advanced signal analysis using the bispectrum (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>). There is support for analysing: cross-frequency coupling (amplitude-amplitude, phase-phase, and phase-amplitude coupling); frequency-domain wave shape features; as well as time delay estimations between signals. The package uses multiprocessing and Numba-based C compilation for rapid, computationally efficient signal processing.
-    </p>
+    <img class="logo" src="/assets/images/Logo-Python.png">
+      <h4 class="CV-subheader">
+        &mdash; Lead Developer
+      </h4>
+      <p class="CV-desc">
+        I developed <a href="https://github.com/braindatalab/pybispectra">PyBispectra</a>, an open-source Python package for performing advanced signal analysis using the bispectrum (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>). There is support for analysing: cross-frequency coupling (amplitude-amplitude, phase-phase, and phase-amplitude coupling); frequency-domain wave shape features; as well as time delay estimations between signals. The package uses multiprocessing and Numba-based C compilation for rapid, computationally efficient signal processing.
+      </p>
 
   <h3 class="CV-header"><a id="PyPARRM" class="section-ID">PyPARRM</a></h3>
-    <h4 class="CV-subheader">
-      &mdash; Lead Developer
-    </h4>
-    <p class="CV-desc">
-      I developed the <a href="https://github.com/neuromodulation/PyPARRM">PyPARRM package</a>, an open-source Python implementation of the PARRM algorithm for removing stimulation artefacts from electrophysiological recordings (related to my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation Group</a>). This package is equipped with multiprocessing support for rapid signal processing, as well as an extensive interactive tool for exploring the effects of different filter parameters on the data.
-    </p>
+    <img class="logo" src="/assets/images/Logo-Python.png">
+      <h4 class="CV-subheader">
+        &mdash; Lead Developer
+      </h4>
+      <p class="CV-desc">
+        I developed the <a href="https://github.com/neuromodulation/PyPARRM">PyPARRM package</a>, an open-source Python implementation of the PARRM algorithm for removing stimulation artefacts from electrophysiological recordings (related to my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation Group</a>). This package is equipped with multiprocessing support for rapid signal processing, as well as an extensive interactive tool for exploring the effects of different filter parameters on the data.
+      </p>
 </div>
 
 
@@ -270,14 +273,24 @@ sitemap:
 <h1><a id="Funding-Awards" class="section-ID">Funding & Awards</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="PhD_Fellowship" class="section-ID">2021 - 2024</a></h3>
+  <h3 class="CV-header"><a id="PhD_Fellowship" class="section-ID">09/2021 - &zwj;09/2024</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
-      &mdash; <i>Ph.D. Fellowship.</i> &euro;63,000.<br>
+      &mdash; <i>PhD Fellowship</i>. &euro;63,000.<br>
       &mdash; Einstein Center for Neurosciences Berlin.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      Of almost 1,000 applicants, I was one of only a handful of people to be accepted for this prestigious and extremely competitive fellowship. Associated with my work as a <a href="#ECN_Fellow">Ph.D. Fellow of the Einstein Center for Neurosciences Berlin</a>, Germany.
+      Of almost 1,000 applicants, I was one of only a handful of people to be accepted for this prestigious and extremely competitive fellowship. Associated with my <a href="#Charite_PhD">PhD work at the Charité - Universitätsmedizin Berlin</a>, Germany.
+    </p>
+
+  <h3 class="CV-header"><a id="GSoC" class="section-ID">05/2024 - &zwj;08/2024</a></h3>
+    <img class="logo" src="/assets/images/Logo-Google.png">
+    <h4 class="CV-subheader" style="margin-bottom: 0;">
+      &mdash; <i>Google Summer of Code - MNE-Python: Add connectivity decoding module and statistical tools</i>. &dollar;6,000.<br>
+      &mdash; Google, Python Software Foundation.
+    </h4>
+    <p class="CV-desc" style="margin-top: 0;">
+      I was awarded this stipend to expand the repertoire of open-source tools for analysing effective connectivity in electrophysiological data in the <a href="https://github.com/mne-tools/mne-python">MNE-Python</a> ecosystem. This will include the development of a new decoding module in <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> for the real-time, data-driven analysis of high-dimensional data, as well as the addition of statistical tools to distinguish genuine interactions from background noise. Project details <a href="https://summerofcode.withgoogle.com/programs/2024/projects/QptYlp9M">here</a>.
     </p>
 
   <h3 class="CV-header"><a id="ReTune_Poster_Prize" class="section-ID">10/2023</a></h3>
@@ -297,13 +310,13 @@ sitemap:
       &mdash; University of Aberdeen, UK.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      Upon completion of my <a href="Abdn_MSci">M.Sci. degree</a>, I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.
+      Upon completion of my <a href="Abdn_MSci">MSci degree</a>, I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.
     </p>
 
   <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-Erasmus+.png">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
-      &mdash; <i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces.</i> &euro;5,000.<br>
+      &mdash; <i>Investigating choice-predictive brain signals using EEG-based brain-computer interfaces</i>. &euro;5,000.<br>
       &mdash; Erasmus+ Traineeship Grant, British Council.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
@@ -327,6 +340,16 @@ sitemap:
 <h1><a id="Organisations" class="section-ID">Organisations</a></h1>
 
 <div>
+  <h3 class="CV-header"><a id="MNE_Maintainer" class="section-ID">11/2023 - Present</a></h3>
+    <img class="logo" src="/assets/images/Logo-MNE.png">
+    <h4 class="CV-subheader">
+      &mdash; MNE-Connectivity, MNE-Python Ecosystem<br>
+      &mdash; Maintainer
+    </h4>
+    <p class="CV-desc">
+      I am a maintainer for <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a>, a toolbox for analysing effective connectivity in electrophysiological data in the <a href="https://github.com/mne-tools/mne-python">MNE-Python</a> ecosystem with over 2,500 stars on GitHub and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including through the Google Summer of Code programme. See my <a href=#MNE>OSS MNE work</a> for more information.
+    </p>
+
   <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ReTune.png">
     <h4 class="CV-subheader">
@@ -354,6 +377,16 @@ sitemap:
 <h1><a id="Teaching" class="section-ID">Teaching</a></h1>
 
 <div>
+  <h3 class="CV-header"><a id="Charite_MedNeuro_2024" class="section-ID">Summer Semester 2024</a></h3>
+    <img class="logo" src="/assets/images/Logo-Charite.png">
+    <h4 class="CV-subheader">
+      &mdash; Clinical Neuroscience and Invasive Neurophysiology Methods<br>
+      &mdash; Charité - Universitätsmedizin Berlin, Germany
+    </h4>
+    <p class="CV-desc">
+      I led teaching of the Charité's Medical Neurosciences Master's programme modules on clinical neuroscience and invasive neurophysiology. Topics included: understanding movement disorders from a brain network perspective; research methods for invasive neurophysiology; and machine learning for neural decoding.
+    </p>
+
   <h3 class="CV-header"><a id="iBOTS_MNE" class="section-ID">Winter Semester 2024</a></h3>
     <img class="logo" src="/assets/images/Logo-iBehave.png">
     <h4 class="CV-subheader">
@@ -364,7 +397,7 @@ sitemap:
       I taught an <a href="https://github.com/tsbinns/mne_course">interactive course</a> on signal processing with the MNE-Python and MNE-Connectivity packages as part of the <a href="https://ibehave.nrw/ibots-platform/about-ibots/">iBehave Network's Open Technology initiative</a>. The course provided a foundation to students in the analysis of electrophysiological data with Python, including topics on: machine learning; time-frequency analysis; connectivity analysis; and source reconstruction.
     </p>
 
-  <h3 class="CV-header"><a id="Charite_MedNeuro" class="section-ID">Summer Semester 2023</a></h3>
+  <h3 class="CV-header"><a id="Charite_MedNeuro_2023" class="section-ID">Summer Semester 2023</a></h3>
     <img class="logo" src="/assets/images/Logo-Charite.png">
     <h4 class="CV-subheader">
       &mdash; Clinical Neuroscience and Invasive Neurophysiology Methods<br>
