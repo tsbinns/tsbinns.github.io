@@ -196,11 +196,11 @@ sitemap:
         &mdash; Maintainer
       </h4>
       <p class="CV-desc">
-        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 2,500 stars on GitHub, and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
+        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 2,500 stars on GitHub, and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support. This has including the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
       </p>
 
   <h3 class="CV-header"><a id="PyBispectra" class="section-ID">PyBispectra</a></h3>
-    <img class="logo" src="/assets/images/Logo-Python.png">
+    <img class="logo" src="/assets/images/Logo-Python.jpg">
       <h4 class="CV-subheader">
         &mdash; Lead Developer
       </h4>
@@ -209,7 +209,7 @@ sitemap:
       </p>
 
   <h3 class="CV-header"><a id="PyPARRM" class="section-ID">PyPARRM</a></h3>
-    <img class="logo" src="/assets/images/Logo-Python.png">
+    <img class="logo" src="/assets/images/Logo-Python.jpg">
       <h4 class="CV-subheader">
         &mdash; Lead Developer
       </h4>
@@ -347,7 +347,7 @@ sitemap:
       &mdash; Maintainer
     </h4>
     <p class="CV-desc">
-      I am a maintainer for <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a>, a toolbox for analysing effective connectivity in electrophysiological data in the <a href="https://github.com/mne-tools/mne-python">MNE-Python</a> ecosystem with over 2,500 stars on GitHub and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including through the Google Summer of Code programme. See my <a href=#MNE>OSS MNE work</a> for more information.
+      I am a maintainer for <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a>, a toolbox for analysing effective connectivity in electrophysiological data in the <a href="https://github.com/mne-tools/mne-python">MNE-Python</a> ecosystem with over 2,500 stars on GitHub and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including through the Google Summer of Code programme. See my <a href="#MNE">OSS MNE work</a> for more information.
     </p>
 
   <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - Present</a></h3>
