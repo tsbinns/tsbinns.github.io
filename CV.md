@@ -63,7 +63,7 @@ sitemap:
     <img class="logo" src="/assets/images/Logo-Charite.png">
     <h4 class="CV-subheader">
       &mdash; Charité - Universitätsmedizin Berlin, Germany<br>
-      &mdash; PhD Neuroscience
+      &mdash; PhD Computational Neuroscience
     </h4>
     <p class="CV-desc">
       For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating oscillatory connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my pre-print (Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>).
