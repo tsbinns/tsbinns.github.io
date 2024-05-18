@@ -33,12 +33,12 @@ Below are a selected collection of tutorials and courses I have created for appl
     This example demonstrates how canonical coherency (CaCoh) - a multivariate method based on coherency - can be used to compute connectivity between whole sets of sensors, alongside spatial patterns of the connectivity.
   </p>
   
-  <h3 class="CV-header"><a href="https://mne.tools/mne-connectivity/stable/auto_examples/mic_mim.html">MNE-Connectivity: Compute multivariate measures of the imaginary part of coherency</a></h3>
+  <h3 class="CV-header"><a href="https://mne.tools/mne-connectivity/dev/auto_examples/mic_mim.html">MNE-Connectivity: Compute multivariate measures of the imaginary part of coherency</a></h3>
   <p class="CV-desc">
     This example demonstrates how multivariate methods based on the imaginary part of coherency can be used to compute connectivity between whole sets of sensors, and how spatial patterns of this connectivity can be interpreted. The methods in question are: the maximised imaginary part of coherency (MIC); and the multivariate interaction measure (MIM; as well as its extension, the global interaction measure, GIM).
   </p>
 
-  <h3 class="CV-header"><a href="https://mne.tools/mne-connectivity/stable/auto_examples/granger_causality.html">MNE-Connectivity: Compute directionality of connectivity with multivariate Granger causality</a></h3>
+  <h3 class="CV-header"><a href="https://mne.tools/mne-connectivity/dev/auto_examples/granger_causality.html">MNE-Connectivity: Compute directionality of connectivity with multivariate Granger causality</a></h3>
   <p class="CV-desc">
     This example demonstrates how Granger causality based on state-space models can be used to compute directed connectivity between sensors in a multivariate manner. Furthermore, the use of time-reversal for improving the robustness of directed connectivity estimates to noise in the data is discussed.
   </p>
