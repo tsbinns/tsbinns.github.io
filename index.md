@@ -26,7 +26,7 @@ Currently, I am a PhD Fellow of the Einstein Center for Neurosciences Berlin, Ge
 <br>
 Prior to my PhD, I graduated with First-Class Honours in an MSci Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating decision-making with machine learning and brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
 <br>
-Feel free to check out my <a href="/CV">CV</a> and <a href="/publications">publications</a>, or contact me <a href="/contact-links">here</a>.</p>
+Feel free to check out my <a href="/CV">CV</a>, <a href="/publications">publications</a>, and <a href="/tutorials-courses">tutorials/courses</a>, or contact me <a href="/contact-links">here</a>.</p>
 
 
 <!-- Twitter highlights -->
