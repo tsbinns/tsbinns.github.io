@@ -34,7 +34,7 @@ sitemap:
 
 <a id="Top" class="section-ID"></a>
 
-<p>View the CV as a pdf: <a href="/assets/documents/Thomas_Samuel_Binns-CV.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></p>
+<p>View the CV as a pdf: <a href="/assets/documents/Thomas_S_Binns-CV.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></p>
 
 <!-- Topbar for navigation of publications by year -->
 <div class="dropdown">

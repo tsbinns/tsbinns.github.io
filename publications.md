@@ -8,7 +8,7 @@ sitemap:
 <a id="Top" class="section-ID"></a>
 
 <!-- Google Scholar link -->
-<p><i class="fab fa-google"></i> &nbsp; My Google Scholar profile: <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas Samuel Binns</a></p>
+<p><i class="fab fa-google"></i> &nbsp; My Google Scholar profile: <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas S. Binns</a></p>
 
 
 <!-- Topbar for navigation of publications by year -->
