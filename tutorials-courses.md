@@ -23,6 +23,11 @@ sitemap:
 Below are a selected collection of tutorials and courses I have created for applying different signal analysis tools to electrophysiological data.
 
 <div>
+  <h3 class="CV-header"><a href="https://github.com/tsbinns/mne_course">An introduction to signal processing in MNE</a></h3>
+  <p class="CV-desc">
+    Resources for an introductory course for signal processing in the MNE-Python and MNE-Connectivity packages.
+  </p>
+
   <h3 class="CV-header"><a href="https://mne.tools/mne-connectivity/dev/auto_examples/compare_coherency_methods.html">MNE-Connectivity: Comparison of coherency-based methods</a></h3>
   <p class="CV-desc">
     This example demonstrates the distinct forms of information captured by coherency-based connectivity methods, and highlights the scenarios in which these different methods should be applied.
