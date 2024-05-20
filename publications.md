@@ -183,7 +183,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D., 2021. Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020</a>.
+  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D. (2021). Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -201,7 +201,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Review Article</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, 2020. Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark> (2020). Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
