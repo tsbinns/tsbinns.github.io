@@ -200,7 +200,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D. (2021). Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>, <i>8</i>(2). <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">doi.org/10.1523/eneuro.0425-20.2020</a>.
+  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D. (2021). Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>. DOI: <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">10.1523/eneuro.0425-20.2020</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
