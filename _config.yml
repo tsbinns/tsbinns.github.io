@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://tsbinns.com", title: "<b>Home</b>"} #icon: "home"
   - {file: "CV.md", title: "<b>CV</b>", url: "https://tsbinns.com/CV"} #icon: "scroll"
   - {file: "tutorials-courses.md", title: "<b>Tutorials &amp Courses</b>", url: "https://tsbinns.com/tutorials-courses"} #icon: "book"
-  - {file: "publications.md", title: "<b>Publications</b>", url: "https://tsbinns.com/publications"} #icon: "book"
+  - {file: "publications.md", title: "<b>Publications &amp Talks</b>", url: "https://tsbinns.com/publications"} #icon: "book"
   - {file: "contact-links.md", title: "<b>Contact &amp Links</b>", url: "https://tsbinns.com/contact-links"} #icon: "address-book"
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
