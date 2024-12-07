@@ -2,18 +2,22 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2024-09-29
+  lastmod: 2024-12-07
   exclude: 'no'
 ---
+
+<!-- FontAwesome integration -->
+<script src="https://kit.fontawesome.com/c8c14a8a7c.js" crossorigin="anonymous"></script>
+
 <a id="Top" class="section-ID"></a>
 
 <!-- Google Scholar link -->
-<p><i class="fab fa-google"></i> &nbsp; My Google Scholar profile: <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas S. Binns</a></p>
+<p><i class="fa-brands fa-google-scholar"></i> &nbsp; My Google Scholar profile: <a href="https://scholar.google.co.uk/citations?user=S8yDxUEAAAAJ" target="_blank">Thomas S. Binns</a></p>
 
 
 <!-- Topbar for navigation of publications by year -->
 <div class="dropdown">
-  <button onclick="toggle_show()" class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
+  <button onclick="toggle_show()" class="dropdown_button"><i class="fa-solid fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
     <a href="#2024">2024</a>
@@ -77,7 +81,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-PyBispectra_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-PyBispectra_Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -92,7 +96,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Orabe, M., Nguyen, T.D., Köhler, R.M., Pellegrini, F., Haufe, S. (2024). Multivariate connectivity methods in the MNE-Python toolbox. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-MNE_Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Orabe, M., Nguyen, T.D., Köhler, R.M., Pellegrini, F., Haufe, S. (2024). Multivariate connectivity methods in the MNE-Python toolbox. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-MNE_Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -107,7 +111,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>WIRED Conference</i>, Paris, France. <a href="/assets/documents/2024_WIRED_Conference-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>WIRED Conference</i>, Paris, France. <a href="/assets/documents/2024_WIRED_Conference-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -140,7 +144,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Winner of best poster prize</strong><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease. <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease. <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -153,7 +157,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2023). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Bernstein Conference</i>, Berlin, Germany. DOI: <a href="https://www.doi.org/10.12751/nncn.bc2023.149" target="_blank">10.12751/nncn.bc2023.149</a> <a href="/assets/documents/2023_Bernstein_Conference-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2023). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Bernstein Conference</i>, Berlin, Germany. DOI: <a href="https://www.doi.org/10.12751/nncn.bc2023.149" target="_blank">10.12751/nncn.bc2023.149</a> <a href="/assets/documents/2023_Bernstein_Conference-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -168,7 +172,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -184,7 +188,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J. (2022). Invasive mapping of cortico-subthalamic connectivity in Parkinson's disease. <i>Second Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany. <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J. (2022). Invasive mapping of cortico-subthalamic connectivity in Parkinson's disease. <i>Second Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany. <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -218,7 +222,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Review Article</big></i><br>
-  <mark><b>Binns, T.S.</b></mark> (2020). Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+  <mark><b>Binns, T.S.</b></mark> (2020). Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fa-solid fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>

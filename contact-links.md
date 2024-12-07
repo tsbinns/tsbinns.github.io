@@ -5,6 +5,8 @@ sitemap:
   lastmod: 2024-12-07
   exclude: 'no'
 ---
+
+<!-- FontAwesome integration -->
 <script src="https://kit.fontawesome.com/c8c14a8a7c.js" crossorigin="anonymous"></script>
 
 <p>

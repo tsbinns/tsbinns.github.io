@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2024-09-29
+  lastmod: 2024-12-07
   exclude: 'no'
 ---
 
@@ -32,13 +32,16 @@ sitemap:
   }
 </style>
 
+<!-- FontAwesome integration -->
+<script src="https://kit.fontawesome.com/c8c14a8a7c.js" crossorigin="anonymous"></script>
+
 <a id="Top" class="section-ID"></a>
 
-<p>View the CV as a pdf: <a href="/assets/documents/Thomas_S_Binns-CV.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></p>
+<p>View the CV as a pdf: <a href="/assets/documents/Thomas_S_Binns-CV.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a></p>
 
 <!-- Topbar for navigation of publications by year -->
 <div class="dropdown">
-  <button onclick="toggle_show()" class="dropdown_button"><i class="fas fa-bars"></i>&nbsp;&nbsp;Sections</button>
+  <button onclick="toggle_show()" class="dropdown_button"><i class="fa-solid fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
     <a href="#Education">Education</a>
@@ -141,7 +144,7 @@ sitemap:
       &mdash; Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes
     </h4>
     <p class="CV-desc">
-      My <a href="#Master_Desc">Industrial Placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>. Here, I investigated movement initiation using machine learning and brain-computer interfaces. As part of this work, I co-authored a research article published in <i>eNeuro</i> <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank"><i class="fas fa-link"></i></a>.<br>
+      My <a href="#Master_Desc">Industrial Placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>. Here, I investigated movement initiation using machine learning and brain-computer interfaces. As part of this work, I co-authored a research article published in <i>eNeuro</i> <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank"><i class="fa-solid fa-link"></i></a>.<br>
       <br>
       Through this placement, I developed an in-depth understanding of brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. I also gained experience designing and conducting electrophysiological studies with human subjects.
     </p>
@@ -304,7 +307,7 @@ sitemap:
       &mdash; ReTune International Research Consortium, Germany.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      My work on the first fully-invasive, within-patient analysis on the effects of medication and deep brain stimulation on cortico-subthalamic connectivity <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> was awarded with the prize for best poster at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
+      My work on the first fully-invasive, within-patient analysis on the effects of medication and deep brain stimulation on cortico-subthalamic connectivity <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a> was awarded with the prize for best poster at the Early-Career Fall School of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
     </p>
 
   <h3 class="CV-header"><a id="Student_Prize" class="section-ID">07/2021</a></h3>
@@ -371,7 +374,7 @@ sitemap:
       &mdash; Member
     </h4>
     <p class="CV-desc">
-      As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fas fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> allowing me to demonstrate and further hone my academic writing skills.
+      As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fa-solid fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a> allowing me to demonstrate and further hone my academic writing skills.
     </p>
 </div>
 
@@ -492,7 +495,7 @@ sitemap:
 <hr>
 <h1><a id="References" class="section-ID">References</a></h1>
 
-<p>Available upon request: <a href="mailto:t.s.binns@outlook.com" target="_blank"><i class="fas fa-envelope"></i></a></p>
+<p>Available upon request: <a href="mailto:t.s.binns@outlook.com" target="_blank"><i class="fa-solid fa-envelope"></i></a></p>
 
 <!-- Scripts -->
 <script>
