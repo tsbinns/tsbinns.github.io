@@ -1,10 +1,13 @@
+<!-- FontAwesome integration -->
+<script src="https://kit.fontawesome.com/c8c14a8a7c.js" crossorigin="anonymous"></script>
+
 <nav>
 {%- for item in include.menu -%}
   {%- assign node = site.pages | where: "name", item.file | first -%}
   {%- assign url = item.url | default: node.url -%}
   {%- assign title = item.title | default: node.title -%}
   <a href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
-    {%- if item.icon -%}<svg aria-label="{{ title }}" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use></svg>{%- else -%}{{ title }}{%- endif -%}
+    {%- if item.icon -%}<i class=item.icon></i>{%- else -%}{{ title }}{%- endif -%}
   </a>
 {%- endfor -%}
 </nav>
