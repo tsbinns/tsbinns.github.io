@@ -104,7 +104,7 @@ sitemap:
     </p>
     <p class="CV-desc">
       <b>Honours (Bachelor's) thesis:</b><br>
-      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez. <a href="#Hons_Project">View associated experience.</a>
+      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez. <a href="#CAP_Lab">View associated experience.</a>
       <div style="margin-bottom: 30px;" id="Bachelor_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
