@@ -2,7 +2,7 @@
 title: "About Me"
 layout: page
 sitemap:
-  lastmod: 2024-05-18
+  lastmod: 2024-12-07
   exclude: 'no'
 ---
 
@@ -20,9 +20,9 @@ sitemap:
 
 
 <!-- Main website description/introduction -->
-<p class="p">I am a neuroscientist from the UK currently based in Germany interested in computational and translational neuroscience, with a particular interest in neuromodulation and brain-computer interfaces. I also have a strong interest in open-source software development, as well as promoting better coding practices in scientific research.<br>
+<p class="p">I am a software developer and neuroscientist from the UK interested in all things data analysis, machine learning, and neurotechnology. I develop software to tackle issues in these fields, and work to promote better coding practices in scientific research.<br>
 <br>
-Currently, I am a PhD Fellow of the Einstein Center for Neurosciences Berlin, Germany, investigating functional connectivity in invasive recordings from Parkinson's disease patients and the possibility of its use as a biomarker for next-generation adaptive deep brain stimulation treatments. Alongside this, I am also developing and contributing to open-source software projects for signal analysis.<br>
+Currently, I am a PhD Fellow of the Einstein Center for Neurosciences Berlin, Germany, investigating neural activity of Parkinson's disease patients and its use as a biomarker for next-generation machine learning-based adaptive deep brain stimulation treatments. Alongside this, I am developing and contributing to open-source software projects for advanced signal analysis.<br>
 <br>
 Prior to my PhD, I graduated with First-Class Honours in an MSci Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating decision-making with machine learning and brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
 <br>
