@@ -69,7 +69,17 @@ sitemap:
       &mdash; PhD Computational Neuroscience
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating oscillatory connectivity in invasive recordings from Parkinson's disease patients to identify biomarkers for use in adaptive deep brain stimulation-based treatment, under the supervision of Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my pre-print in revision at Nature Communications (Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>).
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating invasive neural recordings from Parkinson's disease patients to identify disease mechanisms and biomarkers for use in machine learning-based adaptive deep brain stimulation treatment. Supervisors: Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my pre-print in revision at <i>Nature Communications</i> (Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>).
+      <div style="margin-bottom: 30px;" id="PhD_Desc"> <!-- COLLAPSIBLE -->
+        <button type="button" class="collapsible">View Description</button>
+        <div class="collapsible_content">
+          <p>
+            Deep brain stimulation (DBS) is a brain circuit intervention that can modulate distinct neural pathways for the alleviation of neurological symptoms in patients with brain disorders. In Parkinson's disease, subthalamic DBS clinically mimics the effect of dopaminergic drug treatment, but the shared pathway mechanisms on cortex-basal ganglia networks are unknown. To address this critical knowledge gap, fully-invasive neural multisite recordings in patients undergoing DBS surgery were combined with MRI-based whole-brain connectomics.<br>
+            <br>
+            The findings demonstrate that dopamine and DBS exert distinct mesoscale effects through modulation of local neural population synchrony. In contrast, at the macroscale, DBS mimics dopamine in its suppression of excessive interregional network synchrony associated with indirect and hyperdirect cortex-basal ganglia pathways. Our results provide a better understanding of the circuit mechanisms of dopamine and DBS, laying the foundation for advanced closed-loop neurostimulation therapies.
+          </p>
+        </div>
+      </div>
     </p>
 
   <h3 class="CV-header"><a id="Abdn_MSci" class="section-ID">2016 - 2021</a></h3>
@@ -94,7 +104,7 @@ sitemap:
     </p>
     <p class="CV-desc">
       <b>Honours (Bachelor's) thesis:</b><br>
-      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez. <a href="#CAP_Lab">View associated experience.</a>
+      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez. <a href="#Hons_Project">View associated experience.</a>
       <div style="margin-bottom: 30px;" id="Bachelor_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -117,30 +127,30 @@ sitemap:
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <h4 class="CV-subheader">
-      &mdash; Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany<br>
-      &mdash; Role: Researcher<br>
+      &mdash; Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany <a href="https://www.icneuromodulation.org/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Research Scientist<br>
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#Charite_PhD">PhD</a>, I am investigating oscillatory connectivity in invasive recordings of brain activity from Parkinson's disease patients to identify biomarkers for use in next-generation deep brain stimulation treatment paradigms (see my pre-print in revision at Nature Communications, Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a> for results). Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information). Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
+      For the project of my <a href="#Charite_PhD">PhD</a>, I am investigating oscillatory activity in invasive neural recordings from Parkinson's disease patients to identify biomarkers for use in next-generation, machine learning-based deep brain stimulation treatments (see my pre-print in revision at <i>Nature Communications</i>, Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a> for results). Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information), in collaboration with my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>. Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-QAI.png">
     <h4 class="CV-subheader">
-      &mdash; Uncertainty, Inverse Modeling and Machine Learning Group, Technische Universität Berlin, Germany<br>
-      &mdash; Role: Researcher<br>
+      &mdash; Quality in Artificial Intelligence Group, Technische Universität Berlin, Germany <a href="https://qai-labs.org/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Research Scientist<br>
       &mdash; Supervisor: Prof. Stefan Haufe
     </h4>
     <p class="CV-desc">
-      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation group</a>, I am developing advanced signal processing techniques for use in my PhD project, and bringing them to open-source packages for use in the wider community (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
+      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation Group</a>, I am developing advanced signal processing techniques for use in my PhD project, and bringing them to open-source packages for use in the wider community (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
     </p>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
     <img class="logo" src="/assets/images/Logo-BCCN.png">
     <h4 class="CV-subheader">
-      &mdash; Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany<br>
-      &mdash; Role: Researcher<br>
+      &mdash; Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany <a href="https://sites.google.com/site/hayneslab/home" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Research Scientist<br>
       &mdash; Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes
     </h4>
     <p class="CV-desc">
@@ -157,8 +167,8 @@ sitemap:
     <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
       <img class="logo" src="/assets/images/Logo-CNT.png">
         <h4 class="CV-subheader">
-          &mdash; Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany<br>
-          &mdash; Role: Researcher<br>
+          &mdash; Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany <a href="https://www.clinical-neurotechnology.com/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+          &mdash; Role: Research Scientist<br>
           &mdash; Supervisor: Prof. Surjo Soekadar
         </h4>
         <p class="CV-desc">
@@ -167,8 +177,8 @@ sitemap:
     <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <h4 class="CV-subheader">
-          &mdash; School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK<br>
-          &mdash; Role: Researcher<br>
+          &mdash; School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK <a href="https://www.abdn.ac.uk/smmsn/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+          &mdash; Role: Research Scientist<br>
           &mdash; Supervisor: Dr. Antonio Gonzalez
         </h4>
         <p class="CV-desc">
@@ -177,7 +187,7 @@ sitemap:
     <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <h4 class="CV-subheader">
-          &mdash; Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK<br>
+          &mdash; Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK <a href="https://homepages.abdn.ac.uk/rama/pages/index.html" target="_blank"><i class="fa-solid fa-link"></i></a><br>
           &mdash; Role: Research Assistant<br>
           &mdash; Supervisor: Dr. Rama Chakravarthi
         </h4>
@@ -199,7 +209,7 @@ sitemap:
         &mdash; Maintainer
       </h4>
       <p class="CV-desc">
-        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 2,500 stars on GitHub, and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support. This has included the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
+        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 2,500 stars on GitHub, and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support. This has included the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
       </p>
 
   <h3 class="CV-header"><a id="PyBispectra" class="section-ID">PyBispectra</a></h3>
@@ -208,7 +218,7 @@ sitemap:
         &mdash; Lead Developer
       </h4>
       <p class="CV-desc">
-        I developed <a href="https://github.com/braindatalab/pybispectra">PyBispectra</a>, an open-source Python package for performing advanced signal analysis using the bispectrum (related to my work in the <a href="#QAI_Lab">Uncertainty, Inverse Modeling and Machine Learning Group</a>). There is support for analysing: cross-frequency coupling (amplitude-amplitude, phase-phase, and phase-amplitude coupling); frequency-domain wave shape features; as well as time delay estimations between signals. The package uses multiprocessing and Numba-based C compilation for rapid, computationally efficient signal processing.
+        I developed <a href="https://github.com/braindatalab/pybispectra">PyBispectra</a>, an open-source Python package for performing advanced signal analysis using the bispectrum (related to my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>). There is support for analysing: cross-frequency coupling (amplitude-amplitude, phase-phase, and phase-amplitude coupling); frequency-domain wave shape features; as well as time delay estimations between signals. The package uses multiprocessing and Numba-based C compilation for rapid, computationally efficient signal processing.
       </p>
 
   <h3 class="CV-header"><a id="PyPARRM" class="section-ID">PyPARRM</a></h3>
@@ -357,14 +367,14 @@ sitemap:
       I am a maintainer for <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a>, a toolbox for analysing effective connectivity in electrophysiological data in the <a href="https://github.com/mne-tools/mne-python">MNE-Python</a> ecosystem with over 2,500 stars on GitHub and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including through the Google Summer of Code programme. See my <a href="#MNE">OSS MNE work</a> for more information.
     </p>
 
-  <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - Present</a></h3>
+  <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - 10/2024</a></h3>
     <img class="logo" src="/assets/images/Logo-ReTune.png">
     <h4 class="CV-subheader">
       &mdash; Code Clinic, ReTune International Research Consortium, Germany<br>
       &mdash; Co-founder
     </h4>
     <p class="CV-desc">
-      I co-founded the Code Clinic of the <a href="https://sfb-retune.de/">ReTune research consortium</a>, with the goal of improving the quality and openness of academic programming, a crucial step for improving the quality and reproducibility of scientific research. Towards this, the Code Clinic organises reviews for code being released alongside scientific publications and as open-source packages, ensuring a high-degree of code quality. Furthermore, we organise a pair programming scheme in which junior programmers can receive personalised feedback on their code from experienced coders, improving the overall quality of the code and teaching coding best practice principles to these novice programmers.
+      I co-founded the Code Clinic of the <a href="https://sfb-retune.de/">ReTune research consortium</a>, with the goal of improving the quality and openness of academic programming, a crucial step for improving the quality and reproducibility of scientific research. Towards this, the Code Clinic organised reviews for code being released alongside scientific publications and as open-source packages, ensuring a high-degree of code quality. Furthermore, I organised a pair programming scheme in which junior programmers received personalised feedback on their code from experienced coders, improving the overall quality of the code and teaching coding best practice principles to these novice programmers.
     </p>
 
   <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - &zwj;09/2021</a></h3>
@@ -391,7 +401,7 @@ sitemap:
       &mdash; Charité - Universitätsmedizin Berlin, Germany
     </h4>
     <p class="CV-desc">
-      I led teaching of the Charité's Medical Neurosciences Master's programme modules on clinical neuroscience and invasive neurophysiology. Topics included: understanding movement disorders from a brain network perspective; research methods for invasive neurophysiology; and machine learning for neural decoding.
+      I led teaching of the Charité's Medical Neurosciences Master's programme modules on clinical neuroscience and invasive neurophysiology. Topics included: machine learning for neural decoding; movement disorders from a brain network perspective; and research methods for invasive neurophysiology.
     </p>
 
   <h3 class="CV-header"><a id="iBOTS_MNE" class="section-ID">Winter Semester 2024</a></h3>
@@ -411,7 +421,7 @@ sitemap:
       &mdash; Charité - Universitätsmedizin Berlin, Germany
     </h4>
     <p class="CV-desc">
-      I led teaching of the Charité's Medical Neurosciences Master's programme modules on clinical neuroscience and invasive neurophysiology. Topics included: basal ganglia anatomy, physiology, and pathophysiology; research methods for invasive neurophysiology; and electrophysiological biomarkers of movement disorders in invasive neuronal recordings.
+      I led teaching of the Charité's Medical Neurosciences Master's programme modules on clinical neuroscience and invasive neurophysiology. Topics included: electrophysiological biomarkers of movement disorders in invasive neuronal recordings; basal ganglia anatomy, physiology, and pathophysiology; and research methods for invasive neurophysiology.
     </p>
 
   <h3 class="CV-header"><a id="TU_MLIP_Teacher" class="section-ID">Summer Semester 2023</a></h3>
@@ -421,7 +431,7 @@ sitemap:
       &mdash; Technische Universität Berlin, Germany
     </h4>
     <p class="CV-desc">
-      In this seminar series for Master's students, I supervised the topics of generalised eigendecompositions (common spatial pattern filters, spatio-spectral decomposition, etc...) and oscillatory connectivity in neuroimaging.
+      In this seminar series for Master's students, I supervised the topics of generalised eigendecompositions for multivariate analysis (common spatial pattern filters, spatio-spectral decomposition, etc...) and oscillatory connectivity in neuroimaging.
     </p>
 </div>
 
