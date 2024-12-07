@@ -2,7 +2,7 @@
 title: "Tutorials & Courses"
 layout: page
 sitemap:
-  lastmod: 2024-05-18
+  lastmod: 2024-12-07
   exclude: 'no'
 ---
 
@@ -20,7 +20,7 @@ sitemap:
   }
 </style>
 
-Below are a selected collection of tutorials and courses I have created for applying different signal analysis tools to electrophysiological data.
+Below are a selected collection of tutorials and courses I have created for data analysis, machine learning, and data visualisation.
 
 <div>
   <h3 class="CV-header">[COURSE]&nbsp;&nbsp;<a href="https://github.com/tsbinns/mne_course">An introduction to signal processing in MNE</a></h3>
@@ -86,5 +86,15 @@ Below are a selected collection of tutorials and courses I have created for appl
   <h3 class="CV-header">[TUTORIAL]&nbsp;&nbsp;<a href="https://pyparrm.readthedocs.io/en/main/auto_examples/plot_example_dbs_data.html">PyPARRM: Real data example: stimulation artefacts in human ECoG data</a></h3>
   <p class="CV-desc">
     This example demonstrates the utility of PARRM on a genuine recording of human brain activity from local field potentials (LFPs) at the site of deep brain stimulation in the subthalamic nucleus, and from electrocorticography (ECoG) at the cortex.
+  </p>
+
+  <h3 class="CV-header">[TUTORIAL]&nbsp;&nbsp;<a href="https://sphinx-gallery.github.io/stable/auto_examples/plot_9_multi_image_separate.html">Sphinx-Gallery: Controlling multi-plot cell behaviour.</a></h3>
+  <p class="CV-desc">
+    This example shows how the presentation of multiple plots from a single code cell can be controlled in HTML galleries generated from Python scripts with Sphinx-Gallery.
+  </p>
+
+  <h3 class="CV-header">[TUTORIAL]&nbsp;&nbsp;<a href="https://sphinx-gallery.github.io/stable/auto_examples/no_output/plot_raise_thumbnail.html">Sphinx-Gallery: Controlling thumbnail behaviour for failing examples.</a></h3>
+  <p class="CV-desc">
+    This example shows how the thumbnail behaviour of expected failing examples can be controlled in HTML galleries generated from Python scripts with Sphinx-Gallery.
   </p>
 </div>
