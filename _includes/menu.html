@@ -7,7 +7,7 @@
   {%- assign url = item.url | default: node.url -%}
   {%- assign title = item.title | default: node.title -%}
   <a href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
-    {%- if item.icon -%}<i class=item.icon></i>{%- else -%}{{ title }}{%- endif -%}
+    {%- if item.icon -%}<i class="{{ item.icon }}"></i>{%- else -%}{{ title }}{%- endif -%}
   </a>
 {%- endfor -%}
 </nav>
