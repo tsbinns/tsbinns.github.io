@@ -327,7 +327,7 @@ sitemap:
       &mdash; University of Aberdeen, UK.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      Upon completion of my <a href="Abdn_MSci">MSci degree</a>, I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.
+      Upon completion of my <a href="#Abdn_MSci">MSci degree</a>, I was honoured to receive the University of Aberdeen’s prize for best neuroscience student, a yearly prize presented to a student on the Neuroscience degree programme in recognition of the individual’s excellent performance during their time at the university.
     </p>
 
   <h3 class="CV-header"><a id="Erasmus_Grant" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
