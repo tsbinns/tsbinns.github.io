@@ -31,22 +31,26 @@ Feel free to check out my <a href="/CV">CV</a>, <a href="/publications">publicat
 
 <!-- Twitter highlights -->
 <div class="ShowOnWideScreen">
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Preprint 🚨 This one is important for invasive <a href="https://twitter.com/hashtag/Parkinson?src=hash&amp;ref_src=twsrc%5Etfw">#Parkinson</a> <a href="https://twitter.com/hashtag/neurotech?src=hash&amp;ref_src=twsrc%5Etfw">#neurotech</a> of the future. Deep brain stimulation suppresses oscillatory hyperdirect pathway communication. So does dopamine! Check our <a href="https://twitter.com/hashtag/Parkinson?src=hash&amp;ref_src=twsrc%5Etfw">#Parkinson</a> study spearheaded by <a href="https://twitter.com/ECN_Berlin?ref_src=twsrc%5Etfw">@ECN_Berlin</a> <a href="https://twitter.com/hashtag/PhD?src=hash&amp;ref_src=twsrc%5Etfw">#PhD</a> <a href="https://twitter.com/tsbinns?ref_src=twsrc%5Etfw">@tsbinns</a> 🧵<a href="https://t.co/SOvn5DhBUx">https://t.co/SOvn5DhBUx</a> <a href="https://t.co/IPrwCGGu7i">pic.twitter.com/IPrwCGGu7i</a></p>&mdash; Julian Neumann (@neumann_wj) <a href="https://twitter.com/neumann_wj/status/1780974296661188776?ref_src=twsrc%5Etfw">April 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7297349333660622856" height="1026" width="504" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 <div class="ShowOnThinScreen">
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Preprint 🚨 This one is important for invasive <a href="https://twitter.com/hashtag/Parkinson?src=hash&amp;ref_src=twsrc%5Etfw">#Parkinson</a> <a href="https://twitter.com/hashtag/neurotech?src=hash&amp;ref_src=twsrc%5Etfw">#neurotech</a> of the future. Deep brain stimulation suppresses oscillatory hyperdirect pathway communication. So does dopamine! Check our <a href="https://twitter.com/hashtag/Parkinson?src=hash&amp;ref_src=twsrc%5Etfw">#Parkinson</a> study spearheaded by <a href="https://twitter.com/ECN_Berlin?ref_src=twsrc%5Etfw">@ECN_Berlin</a> <a href="https://twitter.com/hashtag/PhD?src=hash&amp;ref_src=twsrc%5Etfw">#PhD</a> <a href="https://twitter.com/tsbinns?ref_src=twsrc%5Etfw">@tsbinns</a> 🧵<a href="https://t.co/SOvn5DhBUx">https://t.co/SOvn5DhBUx</a> <a href="https://t.co/IPrwCGGu7i">pic.twitter.com/IPrwCGGu7i</a></p>&mdash; Julian Neumann (@neumann_wj) <a href="https://twitter.com/neumann_wj/status/1780974296661188776?ref_src=twsrc%5Etfw">April 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7297349333660622856" height="1026" width="504" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
-
-<script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <style>
+  .iframe {
+    display: block;
+    margin: auto;
+  }
+
   @media (max-width: 575.99px) {
     .ShowOnWideScreen {
         display: none;
     }
     .ShowOnThinScreen {
-        display: initial;
+        display: block;
+        margin: auto;
+        text-align: center;
     }
     .ProfilePic {
         width: 40%;
@@ -55,7 +59,9 @@ Feel free to check out my <a href="/CV">CV</a>, <a href="/publications">publicat
 
   @media (min-width: 576px) {
     .ShowOnWideScreen {
-        display: initial;
+        display: block;
+        margin: auto;
+        text-align: center;
     }
     .ShowOnThinScreen {
         display: none;
@@ -64,6 +70,7 @@ Feel free to check out my <a href="/CV">CV</a>, <a href="/publications">publicat
         width: 25%;
     }
 
+/*
     .twitter-tweet-rendered{
         display: inline-block !important;
         width: 100% !important;
@@ -81,6 +88,7 @@ Feel free to check out my <a href="/CV">CV</a>, <a href="/publications">publicat
         width: 0px !important;
         overflow: hidden !important;
       }
+  */
   }
 </style>
 
