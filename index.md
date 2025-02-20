@@ -42,6 +42,7 @@ Feel free to check out my <a href="/CV">CV</a>, <a href="/publications">publicat
 
 <style>
   .iframe {
+    text-align: center;
     display: block;
     margin: auto;
   }
