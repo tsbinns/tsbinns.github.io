@@ -239,7 +239,7 @@ sitemap:
 <p style="margin-bottom: 30px">For the full list of publications, <a href="/publications">click here.</a></p>
 
 <p>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (In Revision). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>.
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (Accepted). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -271,15 +271,15 @@ sitemap:
 </div>
 <br>
 <p>
-  Merk, T., Köhler, R.M., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (In Revision). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. <i>Nature Biomedical Engineering</i>. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
+  Gerster, M., Waterstraat, G., <mark><b>Binns, T.S.</b></mark>, Darcy, N., Wiest, C., Köhler, R.M., Vanhoecke, J., ..., Neumann, W.-J., Curio, G., Nikulin, V. (Pre-print). Beyond beta: Aperiodic broadband power reflects Parkinson's disease severity - a multicenter study. <i>bioRxiv</i>. DOI: <a href="https://doi.org/10.1101/2025.03.11.642600" target="_blank">10.1101/2025.03.11.642600</a>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      Brain computer interfaces (BCI) provide unprecedented spatiotemporal precision that will enable significant expansion in how numerous brain disorders are treated. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for identifying and advancing novel clinical BCI approaches does not exist. Here, we developed a platform that integrates brain signal decoding with connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated for movement disorders, depression and epilepsy.<br>
+      Parkinson's disease is linked to increased beta oscillations in the subthalamic nucleus, which correlate with motor symptoms. However, findings across studies have varied. Our standardized analysis of multicenter datasets reveals that insufficient sample sizes contributed to these discrepancies - a challenge we address by pooling datasets into one large cohort (n=119). Moving beyond beta power, we disentangled spectral components reflecting distinct neural processes.<br>
       <br>
-      First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our platform provides rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neuromodulation therapies in response to the individual needs of patients.
+      Combining aperiodic offset, low beta, and low gamma oscillations explained significantly more variance in symptom severity than beta alone. Moreover, interhemispheric within-patient analyses showed that, unlike beta oscillations, aperiodic broadband power - likely reflecting spiking activity - was increased in the more affected hemisphere. These findings identify aperiodic broadband power as a potential biomarker for adaptive deep brain stimulation and provide novel insights into the relationship between subthalamic hyperactivity and motor symptoms in human Parkinson's disease.
     </p>
   </div>
 </div>

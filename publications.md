@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2024-12-07
+  lastmod: 2025-03-14
   exclude: 'no'
 ---
 
@@ -20,6 +20,7 @@ sitemap:
   <button onclick="toggle_show()" class="dropdown_button"><i class="fa-solid fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
+    <a href="#2025">2025</a>
     <a href="#2024">2024</a>
     <a href="#2023">2023</a>
     <a href="#2022">2022</a>
@@ -30,11 +31,11 @@ sitemap:
 
 
 <!-- Publication list -->
-<h1><a id="2024" class="section-ID">2024</a></h1>
+<h1><a id="2025" class="section-ID">2025</a></h1>
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (In Revision). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>.
+  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (Accepted). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -46,6 +47,38 @@ sitemap:
     </p>
   </div>
 </div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Merk, T., Köhler, R.M., Brotons, T.M., Vossberg, S.V., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (Accepted). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. <i>Nature Biomedical Engineering</i>. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Brain computer interface research can inspire closed-loop neuromodulation therapies, promising an unprecedented spatiotemporal precision for the treatment of brain disorders. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for invasive brain signal decoding from neural implants does not exist. Here, we developed a platform that integrates brain signal decoding with MRI connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated with brain implants for movement disorders, depression and epilepsy.<br>
+      <br>First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our study highlights the clinical utility of brain signal decoding for deep brain stimulation and provides methods that allow for rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neurotherapies in response to the individual needs of patients.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Gerster, M., Waterstraat, G., <mark><b>Binns, T.S.</b></mark>, Darcy, N., Wiest, C., Köhler, R.M., Vanhoecke, J., ..., Neumann, W.-J., Curio, G., Nikulin, V. (Pre-print). Beyond beta: Aperiodic broadband power reflects Parkinson's disease severity - a multicenter study. <i>bioRxiv</i>. DOI: <a href="https://doi.org/10.1101/2025.03.11.642600" target="_blank">10.1101/2025.03.11.642600</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Parkinson's disease is linked to increased beta oscillations in the subthalamic nucleus, which correlate with motor symptoms. However, findings across studies have varied. Our standardized analysis of multicenter datasets reveals that insufficient sample sizes contributed to these discrepancies - a challenge we address by pooling datasets into one large cohort (n=119). Moving beyond beta power, we disentangled spectral components reflecting distinct neural processes.<br>
+      <br>
+      Combining aperiodic offset, low beta, and low gamma oscillations explained significantly more variance in symptom severity than beta alone. Moreover, interhemispheric within-patient analyses showed that, unlike beta oscillations, aperiodic broadband power - likely reflecting spiking activity - was increased in the more affected hemisphere. These findings identify aperiodic broadband power as a potential biomarker for adaptive deep brain stimulation and provide novel insights into the relationship between subthalamic hyperactivity and motor symptoms in human Parkinson's disease.
+    </p>
+  </div>
+</div>
+
+<hr>
+<h1><a id="2024" class="section-ID">2024</a></h1>
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
@@ -126,21 +159,6 @@ sitemap:
 
 <hr>
 <h1><a id="2023" class="section-ID">2023</a></h1>
-
-<p>
-  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Merk, T., Köhler, R.M., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (In Revision). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. <i>Nature Biomedical Engineering</i>. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
-</p>
-<div> <!-- COLLAPSIBLE -->
-  <button type="button" class="collapsible">View Description</button>
-  <div class="collapsible_content">
-    <p>
-      Brain computer interfaces (BCI) provide unprecedented spatiotemporal precision that will enable significant expansion in how numerous brain disorders are treated. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for identifying and advancing novel clinical BCI approaches does not exist. Here, we developed a platform that integrates brain signal decoding with connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated for movement disorders, depression and epilepsy.<br>
-      <br>
-      First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our platform provides rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neuromodulation therapies in response to the individual needs of patients.
-    </p>
-  </div>
-</div>
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Winner of best poster prize</strong><br>
