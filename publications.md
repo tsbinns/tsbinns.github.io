@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-03-14
+  lastmod: 2025-03-24
   exclude: 'no'
 ---
 
@@ -57,7 +57,8 @@ sitemap:
   <div class="collapsible_content">
     <p>
       Brain computer interface research can inspire closed-loop neuromodulation therapies, promising an unprecedented spatiotemporal precision for the treatment of brain disorders. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for invasive brain signal decoding from neural implants does not exist. Here, we developed a platform that integrates brain signal decoding with MRI connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated with brain implants for movement disorders, depression and epilepsy.<br>
-      <br>First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our study highlights the clinical utility of brain signal decoding for deep brain stimulation and provides methods that allow for rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neurotherapies in response to the individual needs of patients.
+      <br>
+      First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our study highlights the clinical utility of brain signal decoding for deep brain stimulation and provides methods that allow for rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neurotherapies in response to the individual needs of patients.
     </p>
   </div>
 </div>
@@ -73,6 +74,21 @@ sitemap:
       Parkinson's disease is linked to increased beta oscillations in the subthalamic nucleus, which correlate with motor symptoms. However, findings across studies have varied. Our standardized analysis of multicenter datasets reveals that insufficient sample sizes contributed to these discrepancies - a challenge we address by pooling datasets into one large cohort (n=119). Moving beyond beta power, we disentangled spectral components reflecting distinct neural processes.<br>
       <br>
       Combining aperiodic offset, low beta, and low gamma oscillations explained significantly more variance in symptom severity than beta alone. Moreover, interhemispheric within-patient analyses showed that, unlike beta oscillations, aperiodic broadband power - likely reflecting spiking activity - was increased in the more affected hemisphere. These findings identify aperiodic broadband power as a potential biomarker for adaptive deep brain stimulation and provide novel insights into the relationship between subthalamic hyperactivity and motor symptoms in human Parkinson's disease.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Cavallo, A., Köhler, R.M., Busch, J.L., Habets, J.G.V., Merk, T., Zvarova, P., Vanhoecke, J., <mark><b>Binns, T.S.</b></mark>, ..., Cagnan, H., Kühn, A.A., Neumann, W.-J.. (Pre-print). Differential modulation of movement speed with state-dependent deep brain stimulation in Parkinson’s disease. <i>bioRxiv</i>. DOI: <a href="https://doi.org/10.1101/2025.03.19.642627" target="_blank">10.1101/2025.03.19.642627</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Subthalamic deep brain stimulation (STN-DBS) provides unprecedented spatiotemporal precision for the treatment of Parkinson's disease (PD), allowing for direct real-time state-specific adjustments. Inspired by findings from optogenetic stimulation in mice, we hypothesized that STN-DBS effects on movement speed depend on ongoing movement kinematics that patients exhibit during stimulation. To investigate this hypothesis, we implemented a motor state-dependent closed-loop neurostimulation algorithm, adapting DBS burst delivery to ongoing movement speed in 24 PD patients.<br>
+      <br>
+      We found a stronger anti-bradykinetic effect, raising movement speed to the level of healthy controls, when STN-DBS was applied during fast but not slow movements, while only stimulating 5% of overall movement time. To study underlying brain circuits and neurophysiological mechanisms, we investigated the behavioral effects with MRI connectomics and motor cortex electrocorticography. Finally, we demonstrate that machine learning-based brain signal decoding can be used to predict continuous movement speed for fully embedded state-dependent closed-loop algorithms. Our findings provide novel insights into the state-dependency of invasive neuromodulation, which could inspire advanced state-dependent neurostimulation algorithms for brain disorders.
     </p>
   </div>
 </div>
