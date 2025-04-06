@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-03-24
+  lastmod: 2025-04-06
   exclude: 'no'
 ---
 
@@ -59,6 +59,21 @@ sitemap:
       Brain computer interface research can inspire closed-loop neuromodulation therapies, promising an unprecedented spatiotemporal precision for the treatment of brain disorders. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for invasive brain signal decoding from neural implants does not exist. Here, we developed a platform that integrates brain signal decoding with MRI connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated with brain implants for movement disorders, depression and epilepsy.<br>
       <br>
       First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our study highlights the clinical utility of brain signal decoding for deep brain stimulation and provides methods that allow for rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neurotherapies in response to the individual needs of patients.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Zhu, G., Yin, Z., Chen, Y., Merk, T., <mark><b>Binns, T.S.</b></mark>, Ma, R., ..., Neumann W.-J., Kühn, A.A., Zhang, J. (2025). Subthalamic Nucleus Oscillatory Characteristics in Meige, Cervical Dystonia and Generalized Dystonia. <i>Annals of Clinical and Translational Neurology</i>. DOI: <a href="https://doi.org/10.1002/acn3.70040" target="_blank">10.1002/acn3.70040</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Deep brain stimulation offers a unique opportunity to record neural activity of the basal ganglia. While much work in dystonia has focused on the globus pallidus internus, expanding research to investigate subthalamic nucleus (STN) activity in various dystonia types is critical to provide a comprehensive understanding of dystonia pathophysiology. STN and cortex activity were recorded from 17 patients with cervical dystonia (CD), 19 with Meige syndrome, and 9 with generalized dystonia (GD) during the lead externalized period. We investigated local and network oscillatory characteristics, including power, bursts, and coherence. Additionally, we explored the relationship between these features and the severity of dystonic symptoms within each group and conducted a comparative analysis across the different dystonia types.<br>
+      <br>
+      Peaks of low-frequency (4–13 Hz) and beta (14–30 Hz) power were present in the STN of all patients; most of the beta peaks are distributed in the high beta range (20–30 Hz). The CD and GD groups showed longer low-frequency bursts and greater high beta power in STN than the Meige group. Interestingly, the CD group showed stronger STN-cortex low-frequency coherence, while the GD group had stronger STN-cortex high beta coherence. Combined, low-frequency and beta features could predict symptom severity with a performance of 73% in the CD group and 82% in the GD group. Low-frequency and high-beta oscillations are present in the STN across all three types of dystonia. The distinct patterns may be associated with different underlying pathological mechanisms.
     </p>
   </div>
 </div>
