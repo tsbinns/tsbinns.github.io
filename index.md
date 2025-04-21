@@ -2,7 +2,7 @@
 title: "About Me"
 layout: page
 sitemap:
-  lastmod: 2024-12-07
+  lastmod: 2025-04-21
   exclude: 'no'
 ---
 
@@ -16,7 +16,7 @@ sitemap:
 -->
 
 <!-- Profile picture -->
-<img class="ProfilePic" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic_2.jpg">
+<img class="ProfilePic" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic_3.jpg">
 
 
 <!-- Main website description/introduction -->
