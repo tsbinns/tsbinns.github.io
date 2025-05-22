@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2025-04-21
+  lastmod: 2025-05-22
   exclude: 'no'
 ---
 
@@ -39,7 +39,7 @@ sitemap:
 
 <p>View the CV as a pdf: <a href="/assets/documents/Thomas_S_Binns-CV.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a></p>
 
-<!-- Topbar for navigation of publications by year -->
+<!-- Topbar for navigation of sections -->
 <div class="dropdown">
   <button onclick="toggle_show()" class="dropdown_button"><i class="fa-solid fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
@@ -69,7 +69,7 @@ sitemap:
       &mdash; PhD Computational Neuroscience
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating invasive neural recordings from Parkinson's disease patients to identify disease mechanisms and biomarkers for use in machine learning-based adaptive deep brain stimulation treatment. Supervisors: Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my pre-print in revision at <i>Nature Communications</i> (Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1101/2024.04.14.586969" target="_blank">10.1101/2024.04.14.586969</a>).
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating invasive neural recordings from Parkinson's disease patients to identify disease mechanisms and biomarkers for use in machine learning-based adaptive deep brain stimulation treatment. Supervisors: Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my paper in <i>Nature Communications</i> (Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a>).
       <div style="margin-bottom: 30px;" id="PhD_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -124,6 +124,17 @@ sitemap:
 <h1><a id="Experience" class="section-ID">Experience</a></h1>
 
 <div>
+  <h3 class="CV-header"><a id="CSL_Internship" class="section-ID">01/2025 - Present</a></h3>
+    <img class="logo" src="/assets/images/Logo-CSL.jpg">
+    <h4 class="CV-subheader">
+      &mdash; Sony Computer Science Laboratories, Tokyo, Japan <a href="https://www.sonycsl.co.jp/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Neurotechnology Research Scientist Intern<br>
+      &mdash; Supervisors: Dr. Vincent Cheung, Dr. Shinichi Furuya
+    </h4>
+    <p class="CV-desc">
+      I am developing real-time brain-computer interface systems for music preference decoding from EEG signals using machine learning, as part of the <a href="https://www.neuropiano.org/">Music Excellence Project</a>. With this, I continue to develop my machine learning and signal analysis skills applied to electrophysiological and auditory data. 
+    </p>
+
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <h4 class="CV-subheader">
@@ -135,7 +146,7 @@ sitemap:
       For the project of my <a href="#Charite_PhD">PhD</a>, I am investigating oscillatory activity in invasive neural recordings from Parkinson's disease patients to identify biomarkers for use in next-generation, machine learning-based deep brain stimulation treatments (see my paper in <i>Nature Communications</i>, Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a> for results). Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information), in collaboration with my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>. Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
-  <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - Present</a></h3>
+  <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - &zwj;12/2024</a></h3>
     <img class="logo" src="/assets/images/Logo-QAI.png">
     <h4 class="CV-subheader">
       &mdash; Quality in Artificial Intelligence Group, Technische Universität Berlin, Germany <a href="https://qai-labs.org/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
@@ -143,7 +154,7 @@ sitemap:
       &mdash; Supervisor: Prof. Stefan Haufe
     </h4>
     <p class="CV-desc">
-      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation Group</a>, I am developing advanced signal processing techniques for use in my PhD project, and bringing them to open-source packages for use in the wider community (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I am greatly developing my understanding of advanced concepts in linear algebra and calculus, as well as gaining much experience with open-source software development.
+      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation Group</a>, I developed advanced signal processing techniques for use in my PhD project, and brought them to open-source packages for use in the wider community (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I greatly developed my understanding of advanced concepts in linear algebra and calculus, and gained much experience with open-source software development.
     </p>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
