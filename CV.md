@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2025-05-22
+  lastmod: 2025-06-12
   exclude: 'no'
 ---
 
@@ -69,7 +69,7 @@ sitemap:
       &mdash; PhD Computational Neuroscience
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating invasive neural recordings from Parkinson's disease patients to identify disease mechanisms and biomarkers for use in machine learning-based adaptive deep brain stimulation treatment. Supervisors: Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my paper in <i>Nature Communications</i> (Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a>).
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating invasive neural recordings from Parkinson's disease patients to identify disease mechanisms and biomarkers for use in machine learning-based adaptive deep brain stimulation treatment. Supervisors: Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my paper in<a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank"><i>Nature Communications</i></a>.
       <div style="margin-bottom: 30px;" id="PhD_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -128,7 +128,7 @@ sitemap:
     <img class="logo" src="/assets/images/Logo-CSL.jpg">
     <h4 class="CV-subheader">
       &mdash; Sony Computer Science Laboratories, Tokyo, Japan <a href="https://www.sonycsl.co.jp/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-      &mdash; Role: Neurotechnology Research Scientist Intern<br>
+      &mdash; Role: Neurotechnology Research Intern<br>
       &mdash; Supervisors: Dr. Vincent Cheung, Dr. Shinichi Furuya
     </h4>
     <p class="CV-desc">
