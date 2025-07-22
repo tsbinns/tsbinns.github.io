@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2025-06-12
+  lastmod: 2025-07-22
   exclude: 'no'
 ---
 
@@ -69,7 +69,7 @@ sitemap:
       &mdash; PhD Computational Neuroscience
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating invasive neural recordings from Parkinson's disease patients to identify disease mechanisms and biomarkers for use in machine learning-based adaptive deep brain stimulation treatment. Supervisors: Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my paper in<a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank"><i>Nature Communications</i></a>.
+      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating invasive neural recordings from Parkinson's disease patients to identify disease mechanisms and biomarkers for use in machine learning-based adaptive deep brain stimulation treatment. Supervisors: Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my paper in <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank"><i>Nature Communications</i></a>.
       <div style="margin-bottom: 30px;" id="PhD_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -132,7 +132,7 @@ sitemap:
       &mdash; Supervisors: Dr. Vincent Cheung, Dr. Shinichi Furuya
     </h4>
     <p class="CV-desc">
-      I am developing real-time brain-computer interface systems for music preference decoding from EEG signals using machine learning, as part of the <a href="https://www.neuropiano.org/">Music Excellence Project</a>. With this, I continue to develop my machine learning and signal analysis skills applied to electrophysiological and auditory data. 
+      I am developing real-time brain-computer interface systems for music preference decoding from EEG signals using machine learning, as part of the <a href="https://www.neuropiano.org/">Music Excellence Project</a> funded by the <a href="#Sony_Internship">Sony Global Internship Programme</a>. With this, I continue to develop my machine learning and signal analysis skills applied to electrophysiological and audio data.
     </p>
 
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
@@ -220,7 +220,7 @@ sitemap:
         &mdash; Maintainer
       </h4>
       <p class="CV-desc">
-        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 2,500 stars on GitHub, and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support. This has included the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
+        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 3,000 stars on GitHub, and citations in over 4,000 peer-reviewed scientific papers. My involvement is currently supported by a <a href="#NSF_POSE">National Science Foundation grant</a> for supporting open-source projects. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support. This has included the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
       </p>
 
   <h3 class="CV-header"><a id="PyBispectra" class="section-ID">PyBispectra</a></h3>
@@ -301,10 +301,40 @@ sitemap:
 <h1><a id="Funding-Awards" class="section-ID">Funding & Awards</a></h1>
 
 <div>
+  <h3 class="CV-header"><a id="NSF_POSE" class="section-ID">07/2025 - &zwj;07/2027</a></h3>
+    <img class="logo" src="/assets/images/Logo-NSF.png">
+    <h4 class="CV-subheader" style="margin-bottom: 0;">
+      &mdash; <i>Pathways to Enable Open-Source Ecosystems: MNE-Python Maintainer Training</i>. &dollar;500,000.<br>
+      &mdash; National Science Foundation, USA.
+    </h4>
+    <p class="CV-desc" style="margin-top: 0;">
+      I am participating in an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2449064&HistoricalAwards=false">NSF-funded POSE grant</a> to train new maintainers for MNE, building on my existing contributions to the MNE ecosystem.
+    </p>
+
+  <h3 class="CV-header"><a id="Sony_Internship" class="section-ID">04/2025 - &zwj;07/2025</a></h3>
+    <img class="logo" src="/assets/images/Logo-CSL.jpg">
+    <h4 class="CV-subheader" style="margin-bottom: 0;">
+      &mdash; <i>Sony Global Internship Programme</i>. &yen;1,200,000.<br>
+      &mdash; Sony Group Corporation, Japan.
+    </h4>
+    <p class="CV-desc" style="margin-top: 0;">
+      I was awarded this extremely competitive internship to work as a <a href="#CSL_Internship">neurotechnology researcher at Sony Computer Science Laboratories</a> in Tokyo where I developed real-time brain-computer interface systems for music preference decoding.
+    </p>
+
+  <h3 class="CV-header"><a id="ReTune_Paper_of_Month" class="section-ID">05/2025</a></h3>
+    <img class="logo" src="/assets/images/Logo-ReTune.png">
+    <h4 class="CV-subheader" style="margin-bottom: 0;">
+      &mdash; <i>ReTune Paper of the Month</i>.<br>
+      &mdash; ReTune International Research Consortium, Germany.
+    </h4>
+    <p class="CV-desc" style="margin-top: 0;">
+      The <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">paper of my PhD Fellowship</a> was selected at the paper of the month of the German Research Foundation (DFG)-funded <a href="https://retune.science/" target="_blank">ReTune research centre</a>.
+    </p>
+
   <h3 class="CV-header"><a id="PhD_Fellowship" class="section-ID">09/2021 - &zwj;09/2024</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
-      &mdash; <i>PhD Fellowship</i>. &euro;63,000.<br>
+      &mdash; <i>PhD Fellowship</i>. &euro;64,000.<br>
       &mdash; Einstein Center for Neurosciences Berlin.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
@@ -318,7 +348,7 @@ sitemap:
       &mdash; Google, Python Software Foundation.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      I was awarded this stipend to expand the repertoire of open-source tools for analysing effective connectivity in electrophysiological data in the <a href="https://github.com/mne-tools/mne-python">MNE-Python</a> ecosystem. This will include the development of a new decoding module in <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> for the real-time, data-driven analysis of high-dimensional data, as well as the addition of statistical tools to distinguish genuine interactions from background noise. Project details <a href="https://summerofcode.withgoogle.com/programs/2024/projects/QptYlp9M">here</a>.
+      I was awarded this stipend to expand the repertoire of open-source tools for analysing effective connectivity in electrophysiological data in the <a href="https://github.com/mne-tools/mne-python">MNE-Python</a> ecosystem. This included the development of a new decoding module in <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> for the real-time, data-driven analysis of high-dimensional data, as well as the addition of statistical tools to distinguish genuine interactions from background noise. Project details <a href="https://summerofcode.withgoogle.com/programs/2024/projects/QptYlp9M">here</a>.
     </p>
 
   <h3 class="CV-header"><a id="ReTune_Poster_Prize" class="section-ID">10/2023</a></h3>
@@ -371,11 +401,11 @@ sitemap:
   <h3 class="CV-header"><a id="MNE_Maintainer" class="section-ID">11/2023 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-MNE.png">
     <h4 class="CV-subheader">
-      &mdash; MNE-Connectivity, MNE-Python Ecosystem<br>
+      &mdash; MNE-Python<br>
       &mdash; Maintainer
     </h4>
     <p class="CV-desc">
-      I am a maintainer for <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a>, a toolbox for analysing effective connectivity in electrophysiological data in the <a href="https://github.com/mne-tools/mne-python">MNE-Python</a> ecosystem with over 2,500 stars on GitHub and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including through the Google Summer of Code programme. See my <a href="#MNE">OSS MNE work</a> for more information.
+      I am a maintainer for <a href="https://github.com/mne-tools">MNE-Python</a>, an ecosystem for electrophysiological data analysis with over 3,000 stars on GitHub and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including through the Google Summer of Code programme and a National Science Foundation grant. See my <a href="#MNE">OSS MNE work</a> for more information.
     </p>
 
   <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - 10/2024</a></h3>

@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-04-21
+  lastmod: 2025-07-22
   exclude: 'no'
 ---
 
@@ -34,7 +34,7 @@ sitemap:
 <h1><a id="2025" class="section-ID">2025</a></h1>
 
 <p>
-  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  &nbsp;&nbsp; <i><big>Research Article</big></i>&nbsp;&nbsp;&nbsp;&nbsp; <strong>ReTune Paper of the Month</strong><br>
   <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (2025). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
