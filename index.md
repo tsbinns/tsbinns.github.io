@@ -2,7 +2,7 @@
 title: "About Me"
 layout: page
 sitemap:
-  lastmod: 2025-06-12
+  lastmod: 2025-08-06
   exclude: 'no'
 ---
 
@@ -20,13 +20,13 @@ sitemap:
 
 
 <!-- Main website description/introduction -->
-<p class="p">I am a software developer and neuroscientist from the UK interested in all things data analysis, machine learning, and neurotechnology. I develop software to tackle issues in these fields, and work to promote better coding practices in scientific research.<br>
+<p class="p">I am a neuroscientist and software engineer from the UK interested in all things neurotechnology, machine learning, and data analysis. I develop signal processing and machine learning pipelines, as well as software, to tackle issues in these fields, and work to promote better coding practices in scientific research.<br>
 <br>
-Currently, I am an Neurotechnology Research Intern at Sony Computer Science Laboratories, Tokyo, Japan, where I am developing real-time brain-computer interface systems for music preference decoding. Alongside this, I am developing and contributing to open-source software projects for advanced signal analysis.<br>
+Currently, I am an Neurotechnology Research Intern at Sony Computer Science Laboratories, Tokyo, Japan, where I am developing real-time, multimodal brain-computer interface recommendation systems using advanced machine learning algorithms. Alongside this, I am developing and contributing to open-source software projects for advanced signal analyses.<br>
 <br>
-Additionally, I am awaiting the final assessments for my PhD in Computational Neuroscience at the Einstein Center for Neurosciences Berlin, Germany, where I investigated the neural activity of Parkinson's disease patients and its use as a biomarker for next-generation machine learning-based adaptive deep brain stimulation treatments.<br>
+Additionally, I am awaiting the final assessments for my PhD in Computational and Medical Neuroscience at the Charité Medical University Berlin and Bernstein Center for Computational Neuroscience Berlin, where I investigated the neural activity of Parkinson's disease patients and its use as a biomarker for next-generation machine learning-based adaptive deep brain stimulation treatments.<br>
 <br>
-Prior to my PhD, I graduated with First-Class Honours in an MSci Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany, investigating decision-making with machine learning and brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
+Prior to my PhD, I graduated with First-Class Honours in an MSci Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience Berlin, investigating decision-making with machine learning and brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
 <br>
 Feel free to check out my <a href="/CV">CV</a>, <a href="/publications">publications</a>, and <a href="/tutorials-courses">tutorials/courses</a>, or contact me <a href="/contact-links">here</a>.</p>
 

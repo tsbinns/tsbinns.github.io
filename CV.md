@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2025-07-22
+  lastmod: 2025-08-06
   exclude: 'no'
 ---
 
@@ -135,7 +135,7 @@ sitemap:
       I am developing real-time brain-computer interface systems for music preference decoding from EEG signals using machine learning, as part of the <a href="https://www.neuropiano.org/">Music Excellence Project</a> funded by the <a href="#Sony_Internship">Sony Global Internship Programme</a>. With this, I continue to develop my machine learning and signal analysis skills applied to electrophysiological and audio data.
     </p>
 
-  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - Present</a></h3>
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - &zwj;05-2025</a></h3>
     <img class="logo" src="/assets/images/Logo-ICN.png">
     <h4 class="CV-subheader">
       &mdash; Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany <a href="https://www.icneuromodulation.org/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
@@ -143,7 +143,7 @@ sitemap:
       &mdash; Supervisor: Prof. Wolf-Julian Neumann
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#Charite_PhD">PhD</a>, I am investigating oscillatory activity in invasive neural recordings from Parkinson's disease patients to identify biomarkers for use in next-generation, machine learning-based deep brain stimulation treatments (see my paper in <i>Nature Communications</i>, Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a> for results). Furthermore, I have written and contributed to open-source packages, making the advanced signal analysis techniques which I am using in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information), in collaboration with my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>. Through this project, I am further developing my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
+      For the project of my <a href="#Charite_PhD">PhD</a>, I investigated oscillatory activity in invasive neural recordings from Parkinson's disease patients to identify biomarkers for use in next-generation, machine learning-based deep brain stimulation treatments (see my paper in <i>Nature Communications</i>, Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a> for results). Furthermore, I developed and contributed to open-source packages, making the advanced signal analysis techniques which I used in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information), in collaboration with my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>. Through this project, I further developed my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
     </p>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - &zwj;12/2024</a></h3>
@@ -282,15 +282,13 @@ sitemap:
 </div>
 <br>
 <p>
-  Gerster, M., Waterstraat, G., <mark><b>Binns, T.S.</b></mark>, Darcy, N., Wiest, C., Köhler, R.M., Vanhoecke, J., ..., Neumann, W.-J., Curio, G., Nikulin, V. (Pre-print). Beyond beta: Aperiodic broadband power reflects Parkinson's disease severity - a multicenter study. <i>bioRxiv</i>. DOI: <a href="https://doi.org/10.1101/2025.03.11.642600" target="_blank">10.1101/2025.03.11.642600</a>.
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Nguyen, T.D., Köhler, R.M., Haufe, S. (In Review). PyBispectra: A toolbox for advanced electrophysiological signal processing using the bispectrum. <i>Journal of Open Source Software</i>. DOI: <a href="https://github.com/openjournals/joss-papers/blob/joss.08504/joss.08504/10.21105.joss.08504.pdf" target="_blank">10.21105.joss.08504</a>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      Parkinson's disease is linked to increased beta oscillations in the subthalamic nucleus, which correlate with motor symptoms. However, findings across studies have varied. Our standardized analysis of multicenter datasets reveals that insufficient sample sizes contributed to these discrepancies - a challenge we address by pooling datasets into one large cohort (n=119). Moving beyond beta power, we disentangled spectral components reflecting distinct neural processes.<br>
-      <br>
-      Combining aperiodic offset, low beta, and low gamma oscillations explained significantly more variance in symptom severity than beta alone. Moreover, interhemispheric within-patient analyses showed that, unlike beta oscillations, aperiodic broadband power - likely reflecting spiking activity - was increased in the more affected hemisphere. These findings identify aperiodic broadband power as a potential biomarker for adaptive deep brain stimulation and provide novel insights into the relationship between subthalamic hyperactivity and motor symptoms in human Parkinson's disease.
+      Various forms of information can be extracted from electrophysiology data. Of this, phase-amplitude coupling, time delays, and non-sinusoidal waveshape characteristics are of great interest, providing mechanistic insights into physiology and pathology. However, methods commonly used for these analyses possess notable limitations. Recent work has revealed the bispectrum - the Fourier transform of the third order moment - to be a powerful tool for the analysis of electrophysiology data, overcoming many such limitations. Here we present PyBispectra, a package for bispectral analyses including phase-amplitude coupling, time delays, and non-sinusoidal waveshape.
     </p>
   </div>
 </div>
