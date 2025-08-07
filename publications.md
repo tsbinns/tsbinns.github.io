@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-08-06
+  lastmod: 2025-08-07
   exclude: 'no'
 ---
 
@@ -139,6 +139,19 @@ sitemap:
       In the hypodopaminergic OFF state, we observed long latencies between motor intention and motor execution for readiness potentials and machine learning classifications. Both, dopamine and DBS significantly shortened these latencies, hinting towards a shared therapeutic mechanism for alleviation of akinesia. To investigate this further, we analysed directional cortico-subthalamic oscillatory communication with multivariate granger causality. Strikingly, we found that both therapies independently shifted cortico-subthalamic oscillatory information flow from antikinetic beta (13–35 Hz) to prokinetic theta (4–10 Hz) rhythms, which was correlated with latencies in motor execution.<br>
       <br>
       Our study reveals a shared brain network modulation pattern of dopamine and DBS that may underlie the acceleration of neural dynamics for augmentation of movement initiation in Parkinson's disease. Instead of producing or increasing preparatory brain signals, both therapies modulate oscillatory communication. These insights provide a link between the pathophysiology of akinesia and its’ therapeutic alleviation with oscillatory network changes in other non-motor and motor domains, e.g. related to hyperkinesia or effort and reward perception. In the future, our study may inspire the development of clinical brain computer interfaces based on brain signal decoders to provide temporally precise support for action initiation in patients with brain disorders.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Conference Talk</big></i><br>
+  <mark><b>Binns, T.S.</b></mark> (2024). Oscillatory connectivity analysis for electrophysiology data. <i>International Electrophysiology Skills Days</i>, Berlin, Germany.
+</p>
+<div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      This talk explored methods for advanced electrophysiological signal processing and functional connectivity analysis, and how these analyses can be performed using the <a href="https://mne.tools/mne-connectivity/stable/index.html">MNE-Connectivity</a> and <a href="https://github.com/braindatalab/PyBispectra">PyBispectra</a> toolboxes.
     </p>
   </div>
 </div>
