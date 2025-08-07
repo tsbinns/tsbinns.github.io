@@ -72,11 +72,11 @@ sitemap:
     <p class="CV-desc">
       I worked on a &dollar;3 Million research project for AI systems as part of the <a href="https://www.neuropiano.org/">Music Excellence Project</a>, supported by the <a href="#Sony_Internship">Sony Global Internship Programme</a>. The work was conducted in a dynamic, interdisciplinary team of neuroscientists, computer scientists, and engineers to develop a multimodal, real-time HCI system for music recommendation using EEG and acoustic signals, delivering results on time and within budget:
     </p>
-    <ul>
-      <li>Developed a multimodal HCI system for real-time decoding, ensembling linear techniques and deep learning approaches to improve accuracies by 15% while keeping latencies &lt;80 ms.</li>
-      <li>Identified task-relevant features for decoding through in-depth explorations of EEG and non-neural signals using Python, producing robust and real-time-feasible decoding features.</li>
-      <li>Designed, validated, and executed machine learning algorithms, exploring linear, non-linear, and CNN/deep learning architectures in Python, establishing an accurate and modular multimodal system for decoding.</li>
-      <li>Rapid in-silico and in-vitro prototyping and validation of a real-time HCI system, combining open-source and proprietary software tools in collaboration with engineers to meet project deadlines.</li>
+    <ul class="CV-ul">
+      <li class="CV-li">Developed a multimodal HCI system for real-time decoding, ensembling linear techniques and deep learning approaches to improve accuracies by 15% while keeping latencies &lt;80 ms.</li>
+      <li class="CV-li">Identified task-relevant features for decoding through in-depth explorations of EEG and non-neural signals using Python, producing robust and real-time-feasible decoding features.</li>
+      <li class="CV-li">Designed, validated, and executed machine learning algorithms, exploring linear, non-linear, and CNN/deep learning architectures in Python, establishing an accurate and modular multimodal system for decoding.</li>
+      <li class="CV-li">Rapid in-silico and in-vitro prototyping and validation of a real-time HCI system, combining open-source and proprietary software tools in collaboration with engineers to meet project deadlines.</li>
     </ul>
 
   <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - &zwj;05-2025</a></h3>
@@ -89,11 +89,11 @@ sitemap:
     <p class="CV-desc">
       For my <a href="#Charite_PhD">PhD</a>, I identified biomarkers and therapeutic mechanisms for a &euro;1.5 Million neuromodulation research project, supported by a <a href="#PhD_Fellowship">PhD Fellowship</a> from the Einstein Center for Neurosciences Berlin. The work was conducted in a collaborative, international team of neuroscientists, computer scientists, and clinicians, using machine learning methods applied to multimodal signals (ECoG, LFP, ECG, EMG) in Parkinson’s disease patients:
     </p>
-    <ul>
-      <li>Designed and executed advanced multimodal signal processing pipelines using novel multivariate algorithms in Python, identifying biomarkers and DBS mechanisms for the first time in humans.</li>
-      <li>Developed offline and online closed-loop HCI systems using machine-learning-based neural decoding pipelines, achieving accuracies &gt;85% for movement-related neural activity in latencies &lt;15 ms.</li>
-      <li>Designed and executed multimodal (ECoG-LFP) experimental paradigms through collaboration with clinical teams to acquire first-of-its-kind human Parkinson’s data for biomarker identification.</li>
-      <li>Communicated findings to biomedical professionals through international conferences and high-impact journals according to project timelines and deliverables, helping to secure future funding.</li>
+    <ul class="CV-ul">
+      <li class="CV-li">Designed and executed advanced multimodal signal processing pipelines using novel multivariate algorithms in Python, identifying biomarkers and DBS mechanisms for the first time in humans.</li>
+      <li class="CV-li">Developed offline and online closed-loop HCI systems using machine-learning-based neural decoding pipelines, achieving accuracies &gt;85% for movement-related neural activity in latencies &lt;15 ms.</li>
+      <li class="CV-li">Designed and executed multimodal (ECoG-LFP) experimental paradigms through collaboration with clinical teams to acquire first-of-its-kind human Parkinson’s data for biomarker identification.</li>
+      <li class="CV-li">Communicated findings to biomedical professionals through international conferences and high-impact journals according to project timelines and deliverables, helping to secure future funding.</li>
     </ul>
 
   <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - &zwj;12/2024</a></h3>
@@ -106,10 +106,10 @@ sitemap:
     <p class="CV-desc">
       Alongisde my <a href="#Charite_PhD">PhD</a>, I worked to support a &euro;1 Million machine learning research project, bringing advanced signal processing and machine learning algorithms for electrophysiological time-series data to <a href="#OSS">open-source software</a>:
     </p>
-    <ul>
-      <li>Implemented real-time-compatible signal processing algorithms for machine learning pipelines in the MNE ecosystem as part of the <a href="#GSoC">Google Summer of Code</a>, bringing these advanced tools to Python for the first time.</li>
-      <li>Implemented advanced signal processing algorithms based on the bispectrum, offering tools for robust biomarker and theraputic mechanism identification in the standalone <a href="#PyBispectra">PyBispectra</a> package for Python.</li>
-      <li>Developed and validated novel advanced signal processing algorithms, bringing them to open-source toolboxes like <a href="#MNE-Python">MNE</a>.</li>
+    <ul class="CV-ul">
+      <li class="CV-li">Implemented real-time-compatible signal processing algorithms for machine learning pipelines in the MNE ecosystem as part of the <a href="#GSoC">Google Summer of Code</a>, bringing these advanced tools to Python for the first time.</li>
+      <li class="CV-li">Implemented advanced signal processing algorithms based on the bispectrum, offering tools for robust biomarker and theraputic mechanism identification in the standalone <a href="#PyBispectra">PyBispectra</a> package for Python.</li>
+      <li class="CV-li">Developed and validated novel advanced signal processing algorithms, bringing them to open-source toolboxes like <a href="#MNE-Python">MNE</a>.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
@@ -122,11 +122,11 @@ sitemap:
     <p class="CV-desc">
       I worked in the Haynes group to develop and execute offline signal processing pipelines and online neurofeedback paradigms using machine learning and EEG-based BCIs to explore human movement and decision making, supported by an <a href="#Erasmus_Grant">Erasmus scholarship</a>:
     </p>
-    <ul>
-      <li>Developed real-time neurofeedback systems using machine-learning-based neural decoding pipelines, achieving accuracies ~80% for movement- and decision-related neural activity in latencies &lt;20 ms.</li>
-      <li>Designed, validated, and executed EEG-based experimental paradigms for real-time neurofeedback using MATLAB and Python, identifying neural mechanisms of decision making in line with project timelines and within budget.</li>
-      <li>Identified task-relevant features for decoding through in-depth explorations of EEG and movement signals in MATLAB, producing robust and real-time-feasible decoding features.</li>
-      <li>Designed and executed offline machine learning algorithms applied to EEG and movement signals using MATLAB, identifying neural mechanisms of movement.</li>
+    <ul class="CV-ul">
+      <li class="CV-li">Developed real-time neurofeedback systems using machine-learning-based neural decoding pipelines, achieving accuracies ~80% for movement- and decision-related neural activity in latencies &lt;20 ms.</li>
+      <li class="CV-li">Designed, validated, and executed EEG-based experimental paradigms for real-time neurofeedback using MATLAB and Python, identifying neural mechanisms of decision making in line with project timelines and within budget.</li>
+      <li class="CV-li">Identified task-relevant features for decoding through in-depth explorations of EEG and movement signals in MATLAB, producing robust and real-time-feasible decoding features.</li>
+      <li class="CV-li">Designed and executed offline machine learning algorithms applied to EEG and movement signals using MATLAB, identifying neural mechanisms of movement.</li>
     </ul>
 </div>
 
@@ -144,10 +144,10 @@ sitemap:
         <p class="CV-desc">
           I supported the Clinical Neurotechnology group by initiating development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity:
         </p>
-        <ul>
-          <li>Rapid prototyping and validation of electrically conductive 3D-printed structures <i>in silico</i> and in vitro to evaluate suitable head phantom candidates.</li>
-          <li>Investigated electrical material properties in vitro to identify biophysically comparable 3D-printable materials.</li>
-          <li>Investigated physical material properties and structural designs <i>in silico</i> and in vitro to identify suitable components and structures for 3D printing.</li>
+        <ul class="CV-ul">
+          <li class="CV-li">Rapid prototyping and validation of electrically conductive 3D-printed structures <i>in silico</i> and in vitro to evaluate suitable head phantom candidates.</li>
+          <li class="CV-li">Investigated electrical material properties in vitro to identify biophysically comparable 3D-printable materials.</li>
+          <li class="CV-li">Investigated physical material properties and structural designs <i>in silico</i> and in vitro to identify suitable components and structures for 3D printing.</li>
         </ul>
     <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
@@ -159,10 +159,10 @@ sitemap:
         <p class="CV-desc">
           I worked in the Computational Modelling group for my <a href="#Bachelor_Desc">Honour's project</a> to study the effects of neuromodulation on information processing using single- and multi-unit recordings <i>in silico</i>, related to understanding the mechanisms of movement and decision making:
         </p>
-        <ul>
-          <li>Recipient of the University of Aberdeen's <a href="#Student_Prize">Neuroscience Student Prize</a> in recognition of my outstanding work.</li>
-          <li>Developed, validated, and executed pipelines for computational modelling of neural activity using NEURON and Python, producing advanced algorithms for assessing the regulation of neural activity <i>in silico</i>.</li>
-          <li>Investigated neuromodulation of brain activity using <i>in silico</i> computational modelling and signal processing of spiking activity in Python, identifying neural mechanisms of information processing.</li>
+        <ul class="CV-ul">
+          <li class="CV-li">Recipient of the University of Aberdeen's <a href="#Student_Prize">Neuroscience Student Prize</a> in recognition of my outstanding work.</li>
+          <li class="CV-li">Developed, validated, and executed pipelines for computational modelling of neural activity using NEURON and Python, producing advanced algorithms for assessing the regulation of neural activity <i>in silico</i>.</li>
+          <li class="CV-li">Investigated neuromodulation of brain activity using <i>in silico</i> computational modelling and signal processing of spiking activity in Python, identifying neural mechanisms of information processing.</li>
         </ul>
     <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
       <img class="logo" src="/assets/images/Logo-UoA.png">
@@ -174,9 +174,9 @@ sitemap:
         <p class="CV-desc">
           I worked in the Cognition, Attention, and Perception group on cognitive neuroscience research projects, designing and executing EEG and behavioural experiments to investigate human decision making, supported by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>:
         </p>
-        <ul>
-          <li>Designed, validated, and executed cognitive neuroscience experiments implemented in MATLAB, procuring EEG and behavioural data in line with project timelines and within budget.</li>
-          <li>Developed and executed EEG and behavioural analysis pipelines using MATLAB, identifying mechanisms of decision making.</li>
+        <ul class="CV-ul">
+          <li class="CV-li">Designed, validated, and executed cognitive neuroscience experiments implemented in MATLAB, procuring EEG and behavioural data in line with project timelines and within budget.</li>
+          <li class="CV-li">Developed and executed EEG and behavioural analysis pipelines using MATLAB, identifying mechanisms of decision making.</li>
         </ul>
   </div>
 </div>
@@ -266,11 +266,11 @@ sitemap:
     <p class="CV-desc">
       I am a maintainer and developer of the <a href="https://github.com/mne-tools">MNE</a> ecosystem, a set of Python toolboxes for electrophysiological data analysis with over 3,000 stars on GitHub and citations in over 5,000 peer-reviewed scientific papers, My participation in the project has been supported by a <a href="#NSF_POSE">National Science Foundation grant</a> and the <a href="#GSoC">Google Summer of Code programme</a>:
     </p>
-    <ul>
-      <li>Developed toolboxes, operating in CI/CD workflows within solo to large-sized teams to implement new signal processing, machine learning, statistics, and visualisation features.</li>
-      <li>Maintained toolboxes, following design patterns and established best practices to implement bug fixes, design and maintain automated workflows, and create software releases.</li>
-      <li>Community support and triaging of user queries through managing forums and issue trackers to provide technical assistance to users, and handle bug reports and feature requests.</li>
-      <li>Conducted code reviews of PRs to supervise the implementation of new features and bug fixes.</li>
+    <ul class="CV-ul">
+      <li class="CV-li">Developed toolboxes, operating in CI/CD workflows within solo to large-sized teams to implement new signal processing, machine learning, statistics, and visualisation features.</li>
+      <li class="CV-li">Maintained toolboxes, following design patterns and established best practices to implement bug fixes, design and maintain automated workflows, and create software releases.</li>
+      <li class="CV-li">Community support and triaging of user queries through managing forums and issue trackers to provide technical assistance to users, and handle bug reports and feature requests.</li>
+      <li class="CV-li">Conducted code reviews of PRs to supervise the implementation of new features and bug fixes.</li>
     </ul>
 
   <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - 10/2024</a></h3>
@@ -282,11 +282,11 @@ sitemap:
     <p class="CV-desc">
       As co-founder of the <a href="https://sfb-retune.de/">ReTune research consortium's</a> Code Clinic, I improved the quality and usability of programming in scientific research projects and open-source scientific software packages:
     </p>
-    <ul>
-      <li>Conducted and supervised code reviews to identify errors and promote adherence to coding best practices, ensuring high quality, understandable code that can be used by wider research teams.</li>
-      <li>Conducted and supervised pair programming schemes for junior programmers to receive personalised feedback on their research project code from experienced developers.</li>
-      <li>Conducted and organised talks on improving code for research projects and open-source packages by incorporating object-oriented, design pattern, and DevOps principles.</li>
-      <li>Organised and led teams in hackathons to develop implementations of electrophysiological signal processing methods and machine learning algorithms in open-source toolboxes.</li>
+    <ul class="CV-ul">
+      <li class="CV-li">Conducted and supervised code reviews to identify errors and promote adherence to coding best practices, ensuring high quality, understandable code that can be used by wider research teams.</li>
+      <li class="CV-li">Conducted and supervised pair programming schemes for junior programmers to receive personalised feedback on their research project code from experienced developers.</li>
+      <li class="CV-li">Conducted and organised talks on improving code for research projects and open-source packages by incorporating object-oriented, design pattern, and DevOps principles.</li>
+      <li class="CV-li">Organised and led teams in hackathons to develop implementations of electrophysiological signal processing methods and machine learning algorithms in open-source toolboxes.</li>
     </ul>
 </div>
 
