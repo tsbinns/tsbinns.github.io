@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2025-08-06
+  lastmod: 2025-08-07
   exclude: 'no'
 ---
 
@@ -44,12 +44,12 @@ sitemap:
   <button onclick="toggle_show()" class="dropdown_button"><i class="fa-solid fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
-    <a href="#Education">Education</a>
     <a href="#Experience">Experience</a>
+    <a href="#Education">Education</a>
+    <a href="#Organisations">Organisations</a>
     <a href="#OSS">Open-Source Software</a>
     <a href="#Publications">Publications & Talks</a>
     <a href="#Funding-Awards">Funding & Awards</a>
-    <a href="#Organisations">Organisations</a>
     <a href="#Teaching">Teaching</a>
     <a href="#Courses">Courses</a>
     <a href="#References">References</a>
@@ -57,19 +57,134 @@ sitemap:
 </div>
 
 
+<!-- Experience -->
+<hr>
+<h1><a id="Experience" class="section-ID">Experience</a></h1>
+
+<!-- Main Experience -->
+<div>
+  <h3 class="CV-header"><a id="CSL_Internship" class="section-ID">01/2025 - Present</a></h3>
+    <img class="logo" src="/assets/images/Logo-CSL.jpg">
+    <h4 class="CV-subheader">
+      &mdash; Sony Computer Science Laboratories, Tokyo, Japan <a href="https://www.sonycsl.co.jp/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Neurotechnology Research Intern (Full-Time)<br>
+      &mdash; Supervisors: Dr. Vincent Cheung, Dr. Shinichi Furuya
+    </h4>
+    <p class="CV-desc">
+      I worked on a &dollar;3 Million research project for AI systems as part of the <a href="https://www.neuropiano.org/">Music Excellence Project</a>, supported by the <a href="#Sony_Internship">Sony Global Internship Programme</a>. The work was conducted in a dynamic, interdisciplinary team of neuroscientists, computer scientists, and engineers to develop a multimodal, real-time HCI system for music recommendation using EEG and acoustic signals, delivering results on time and within budget:<br>
+      • Developed a multimodal HCI system for real-time decoding, ensembling linear techniques and deep learning approaches to improve accuracies by 15% while keeping latencies &lt;80 ms.<br>
+      • Identified task-relevant features for decoding through in-depth explorations of EEG and non-neural signals using Python, producing robust and real-time-feasible decoding features.<br>
+      • Designed, validated, and executed machine learning algorithms, exploring linear, non-linear, and CNN/deep learning architectures in Python, establishing an accurate and modular multimodal system for decoding.<br>
+      • Rapid in-silico and in-vitro prototyping and validation of a real-time HCI system, combining open-source and proprietary software tools in collaboration with engineers to meet project deadlines.
+    </p>
+
+  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - &zwj;05-2025</a></h3>
+    <img class="logo" src="/assets/images/Logo-ICN.png">
+    <h4 class="CV-subheader">
+      &mdash; Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany <a href="https://www.icneuromodulation.org/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Neuromodulation Research Scientist (Full-Time)<br>
+      &mdash; Supervisor: Prof. Wolf-Julian Neumann
+    </h4>
+    <p class="CV-desc">
+      For my <a href="#Charite_PhD">PhD</a>, I identified biomarkers and therapeutic mechanisms for a &euro;1.5 Million neuromodulation research project, supported by a <a href="#PhD_Fellowship">PhD Fellowship</a> from the Einstein Center for Neurosciences Berlin. The work was conducted in a collaborative, international team of neuroscientists, computer scientists, and clinicians, using machine learning methods applied to multimodal signals (ECoG, LFP, ECG, EMG) in Parkinson’s disease patients:<br>
+      • Designed and executed advanced multimodal signal processing pipelines using novel multivariate algorithms in Python, identifying biomarkers and DBS mechanisms for the first time in humans.<br>
+      • Developed offline and online closed-loop HCI systems using machine-learning-based neural decoding pipelines, achieving accuracies &gt;85% for movement-related neural activity in latencies &lt;15 ms.<br>
+      • Designed and executed multimodal (ECoG-LFP) experimental paradigms through collaboration with clinical teams to acquire first-of-its-kind human Parkinson’s data for biomarker identification.<br>
+      • Communicated findings to biomedical professionals through international conferences and high-impact journals according to project timelines and deliverables, helping to secure future funding.
+    </p>
+
+  <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - &zwj;12/2024</a></h3>
+    <img class="logo" src="/assets/images/Logo-QAI.png">
+    <h4 class="CV-subheader">
+      &mdash; Quality in Artificial Intelligence Group, Technische Universität Berlin, Germany <a href="https://qai-labs.org/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Software Engineer & Machine Learning Scientist (Part-Time)<br>
+      &mdash; Supervisor: Prof. Stefan Haufe
+    </h4>
+    <p class="CV-desc">
+      I worked to support a &euro;1 Million machine learning research project, bringing advanced signal processing and machine learning algorithms for electrophysiological time-series data to <a href="#OSS">open-source software</a>:<br>
+      • Implemented real-time-compatible signal processing algorithms for machine learning pipelines in the MNE ecosystem as part of the <a href="GSoC">Google Summer of Code</a>, bringing these advanced tools to Python for the first time.<br>
+      • Implemented advanced signal processing algorithms based on the bispectrum, offering tools for robust biomarker and theraputic mechanism identification in the standalone <a href="#PyBispectra">PyBispectra</a> package for Python.<br>
+      • Developed and validated novel advanced signal processing algorithms, bringing them to open-source toolboxes like <a href="#MNE-Python">MNE</a>.
+    </p>
+
+  <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
+    <img class="logo" src="/assets/images/Logo-BCCN.png">
+    <h4 class="CV-subheader">
+      &mdash; Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany <a href="https://sites.google.com/site/hayneslab/home" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Neurotechnology Research Scientist (Full-Time)<br>
+      &mdash; Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes
+    </h4>
+    <p class="CV-desc">
+      I worked in the Haynes group to develop and execute offline signal processing pipelines and online neurofeedback paradigms using machine learning and EEG-based BCIs to explore human movement and decision making, supported by an <a href="#Erasmus_Grant">Erasmus scholarship</a>:<br>
+      • Developed real-time neurofeedback systems using machine-learning-based neural decoding pipelines, achieving accuracies ~80% for movement- and decision-related neural activity in latencies &lt;20 ms.<br>
+      • Designed, validated, and executed EEG-based experimental paradigms for real-time neurofeedback using MATLAB and Python, identifying neural mechanisms of decision making in line with project timelines and within budget.<br>
+      • Identified task-relevant features for decoding through in-depth explorations of EEG and movement signals in MATLAB, producing robust and real-time-feasible decoding features.<br>
+      • Designed and executed offline machine learning algorithms applied to EEG and movement signals using MATLAB, identifying neural mechanisms of movement.
+    </p>
+</div>
+
+<!-- Additional Experience -->
+<div style="margin-top: 30px;" id="Additional_Experience"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Additional Experience</button>
+  <div class="collapsible_content">
+    <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
+      <img class="logo" src="/assets/images/Logo-CNT.png">
+        <h4 class="CV-subheader">
+          &mdash; Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany <a href="https://www.clinical-neurotechnology.com/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+          &mdash; Role: Electrical Engineer Intern (Full-Time)<br>
+          &mdash; Supervisor: Prof. Surjo Soekadar
+        </h4>
+        <p class="CV-desc">
+          I supported the Clinical Neurotechnology group by initiating development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity:<br>
+          • Rapid prototyping and validation of electrically conductive 3D-printed stuctures in silico and in vitro to evaluate suitable head phantom candidates.<br>
+          • Investigated electrical material properties in vitro to identify biophysically comparable 3D-printable materials.<br>
+          • Investigated physical material properties and structural designs in silico and in vitro to identify suitable components and structures for 3D printing.
+        </p>
+    <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
+      <img class="logo" src="/assets/images/Logo-UoA.png">
+        <h4 class="CV-subheader">
+          &mdash; School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK <a href="https://www.abdn.ac.uk/smmsn/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+          &mdash; Role: Computational Modelling Scientist<br>
+          &mdash; Supervisor: Dr. Antonio Gonzalez
+        </h4>
+        <p class="CV-desc">
+          I worked in the Computational Modelling group for my <a href="#Bachelor_Desc">Honour's project</a> to study the effects of neuromodulation on information processing using single- and multi-unit recordings in silico, related to understanding the mechanisms of movement and decision making:<br>
+          • Recipient of the University of Aberdeen's <a href="#Student_Prize">Neuroscience Student Prize</a> in recognition of my outstanding work.<br>
+          • Developed, validated, and executed pipelines for computational modelling of neural activity using NEURON and Python, producing advanced algorithms for assessing the regulation of neural activity in silico.<br>
+          • Investigated neuromodulation of brain activity using in silico computational modelling and signal processing of spiking activity in Python, identifying neural mechanisms of information processing.
+        </p>
+    <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
+      <img class="logo" src="/assets/images/Logo-UoA.png">
+        <h4 class="CV-subheader">
+          &mdash; Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK <a href="https://homepages.abdn.ac.uk/rama/pages/index.html" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+          &mdash; Role: Neuroscience Research Assistant (Full-Time)<br>
+          &mdash; Supervisor: Dr. Rama Chakravarthi
+        </h4>
+        <p class="CV-desc">
+          I worked in the Cognition, Attention, and Perception group on cognitive neuroscience research projects, designing and executing EEG and behavioural experiments to investigate human decision making, supported by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>:<br>
+          • Designed, validated, and executed cognitive neuroscience experiments implemented in MATLAB, procuring EEG and behavioural data in line with project timelines and within budget.<br>
+          • Developed and executed EEG and behavioural analysis pipelines using MATLAB, identifying mechanisms of decision making.
+        </p>
+  </div>
+</div>
+
+
 <!-- Education -->
-<!-- Main -->
 <h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
 
 <div>
   <h3 class="CV-header"><a id="Charite_PhD" class="section-ID">2021 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-Charite.png">
     <h4 class="CV-subheader">
-      &mdash; Charité - Universitätsmedizin Berlin, Germany<br>
-      &mdash; PhD Computational Neuroscience
+      &mdash; Charité - Universitätsmedizin Berlin and Bernstein Center for Computational Neuroscience Berlin, Germany<br>
+      &mdash; PhD Computational and Medical Neuroscience
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#PhD_Fellowship">fellowship-funded PhD</a>, I am investigating invasive neural recordings from Parkinson's disease patients to identify disease mechanisms and biomarkers for use in machine learning-based adaptive deep brain stimulation treatment. Supervisors: Prof. Wolf-Julian Neumann and Prof. Stefan Haufe. For results, see my paper in <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank"><i>Nature Communications</i></a>.
+      Working towards my <a href="#PhD_Fellowship">fellowship-funded PhD</a> on invasive neural recordings from Parkinson's disease patients to identify biomarkers for use in machine learning-based adaptive deep brain stimulation treatments.<br>
+      <b>Dissertation:</b><br>
+      “Shared network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson’s disease”. Pending assessment.<br>
+      Supervisors: Prof. Wolf-Julian Neumann, Prof. Stefan Haufe, and Prof. Andrea Kühn.<br>
+      View associated experience in the <a href="#ICN_Lab">Neuromodulation Unit</a> and <a href="#QAI_Lab">QAI Labs</a>.
       <div style="margin-bottom: 30px;" id="PhD_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -90,7 +205,10 @@ sitemap:
     </h4>
     <p class="CV-desc">
       <b>Industrial Placement (Master's) thesis:</b><br>
-      “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class. Placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany. Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes. <a href="#Haynes_Lab">View associated experience.</a>
+      “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
+      Placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany.<br>
+      Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.<br>
+      <a href="#Haynes_Lab">View associated experience.</a>
       <div style="margin-bottom: 30px;" id="Master_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -104,7 +222,9 @@ sitemap:
     </p>
     <p class="CV-desc">
       <b>Honours (Bachelor's) thesis:</b><br>
-      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class. Supervisor: Dr. Antonio Gonzalez. <a href="#CAP_Lab">View associated experience.</a>
+      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class.<br>
+      Supervisor: Dr. Antonio Gonzalez.<br>
+      <a href="#Additional_Experience">View associated experience.</a>
       <div style="margin-bottom: 30px;" id="Bachelor_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
         <div class="collapsible_content">
@@ -119,92 +239,54 @@ sitemap:
 </div>
 
 
-<!-- Experience -->
+<!-- Organisations -->
 <hr>
-<h1><a id="Experience" class="section-ID">Experience</a></h1>
+<h1><a id="Organisations" class="section-ID">Organisations</a></h1>
 
+<!-- Main Organisations -->
 <div>
-  <h3 class="CV-header"><a id="CSL_Internship" class="section-ID">01/2025 - Present</a></h3>
-    <img class="logo" src="/assets/images/Logo-CSL.jpg">
+  <h3 class="CV-header"><a id="MNE_Maintainer" class="section-ID">11/2023 - Present</a></h3>
+    <img class="logo" src="/assets/images/Logo-MNE.png">
     <h4 class="CV-subheader">
-      &mdash; Sony Computer Science Laboratories, Tokyo, Japan <a href="https://www.sonycsl.co.jp/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-      &mdash; Role: Neurotechnology Research Intern<br>
-      &mdash; Supervisors: Dr. Vincent Cheung, Dr. Shinichi Furuya
+      &mdash; MNE-Python<br>
+      &mdash; Maintainer
     </h4>
     <p class="CV-desc">
-      I am developing real-time brain-computer interface systems for music preference decoding from EEG signals using machine learning, as part of the <a href="https://www.neuropiano.org/">Music Excellence Project</a> funded by the <a href="#Sony_Internship">Sony Global Internship Programme</a>. With this, I continue to develop my machine learning and signal analysis skills applied to electrophysiological and audio data.
+      I am a maintainer and developer of the <a href="https://github.com/mne-tools">MNE</a> ecosystem, a set of Python toolboxes for electrophysiological data analysis with over 3,000 stars on GitHub and citations in over 5,000 peer-reviewed scientific papers, My participation in the project has been supported by a <a href="NSF_POSE">National Science Foundation grant</a> and the <a href="GSoC">Google Summer of Code programme</a>:<br>
+      • Developed toolboxes, operating in CI/CD workflows within solo to large-sized teams to implement new signal processing, machine learning, statistics, and visualisation features.<br>
+      • Maintained toolboxes, following design patterns and established best practices to implement bug fixes, design and maintain automated workflows, and create software releases.<br>
+      • Community support and triaging of user queries through managing forums and issue trackers to provide technical assistance to users, and handle bug reports and feature requests.<br>
+      • Conducted code reviews of PRs to supervise the implementation of new features and bug fixes.
     </p>
 
-  <h3 class="CV-header"><a id="ICN_Lab" class="section-ID">07/2021 - &zwj;05-2025</a></h3>
-    <img class="logo" src="/assets/images/Logo-ICN.png">
+  <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - 10/2024</a></h3>
+    <img class="logo" src="/assets/images/Logo-ReTune.png">
     <h4 class="CV-subheader">
-      &mdash; Interventional and Cognitive Neuromodulation Group, Charité – Universitätsmedizin Berlin, Germany <a href="https://www.icneuromodulation.org/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-      &mdash; Role: Research Scientist<br>
-      &mdash; Supervisor: Prof. Wolf-Julian Neumann
+      &mdash; Code Clinic, ReTune International Research Consortium, Germany<br>
+      &mdash; Co-founder
     </h4>
     <p class="CV-desc">
-      For the project of my <a href="#Charite_PhD">PhD</a>, I investigated oscillatory activity in invasive neural recordings from Parkinson's disease patients to identify biomarkers for use in next-generation, machine learning-based deep brain stimulation treatments (see my paper in <i>Nature Communications</i>, Binns <i>et al.</i>, DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a> for results). Furthermore, I developed and contributed to open-source packages, making the advanced signal analysis techniques which I used in my project available to the wider community (see my <a href="#OSS">open-source software work</a> for more information), in collaboration with my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>. Through this project, I further developed my signal analysis and Python programming skills, gaining experience with open-source software development, as well as gaining an in-depth understanding of movement disorders and brain-computer interfaces.
-    </p>
-
-  <h3 class="CV-header"><a id="QAI_Lab" class="section-ID">03/2022 - &zwj;12/2024</a></h3>
-    <img class="logo" src="/assets/images/Logo-QAI.png">
-    <h4 class="CV-subheader">
-      &mdash; Quality in Artificial Intelligence Group, Technische Universität Berlin, Germany <a href="https://qai-labs.org/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-      &mdash; Role: Research Scientist<br>
-      &mdash; Supervisor: Prof. Stefan Haufe
-    </h4>
-    <p class="CV-desc">
-      In parallel with my work in the <a href="#ICN_Lab">Interventional and Cognitive Neuromodulation Group</a>, I developed advanced signal processing techniques for use in my PhD project, and brought them to open-source packages for use in the wider community (see my <a href="#OSS">open-source software work</a> for more information). Accordingly, I greatly developed my understanding of advanced concepts in linear algebra and calculus, and gained much experience with open-source software development.
-    </p>
-
-  <h3 class="CV-header"><a id="Haynes_Lab" class="section-ID">08/2019 - &zwj;08/2020</a></h3>
-    <img class="logo" src="/assets/images/Logo-BCCN.png">
-    <h4 class="CV-subheader">
-      &mdash; Haynes Laboratory, Bernstein Center for Computational Neuroscience, Berlin, Germany <a href="https://sites.google.com/site/hayneslab/home" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-      &mdash; Role: Research Scientist<br>
-      &mdash; Supervisors: Dr. Matthias Schultze-Kraft, Prof. John-Dylan Haynes
-    </h4>
-    <p class="CV-desc">
-      My <a href="#Master_Desc">Industrial Placement</a> at the Bernstein Center was funded by an <a href="#Erasmus_Grant">Erasmus+ Traineeship grant</a>. Here, I investigated movement initiation using machine learning and brain-computer interfaces. As part of this work, I co-authored a research article published in <i>eNeuro</i> <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank"><i class="fa-solid fa-link"></i></a>.<br>
-      <br>
-      Through this placement, I developed an in-depth understanding of brain-computer interfaces and machine learning techniques, and furthered my understanding of core concepts such as linear algebra, calculus, signal analysis, and statistics. I also gained experience designing and conducting electrophysiological studies with human subjects.
+      As co-founder of the <a href="https://sfb-retune.de/">ReTune research consortium's</a> Code Clinic, I improved the quality and usability of programming in scientific research projects and open-source scientific software packages:<br>
+      • Conducted and supervised code reviews to identify errors and promote adherence to coding best practices, ensuring high quality, understandable code that can be used by wider research teams.<br>
+      • Conducted and supervised pair programming schemes for junior programmers to receive personalised feedback on their research project code from experienced developers.<br>
+      • Conducted and organised talks on improving code for research projects and open-source packages by incorporating object-oriented, design pattern, and DevOps principles.<br>
+      • Organised and led teams in hackathons to develop implementations of electrophysiological signal processing methods and machine learning algorithms in open-source toolboxes.
     </p>
 </div>
 
-<!-- Additional Experience -->
-<div style="margin-top: 30px;" id="CAP_Lab"> <!-- COLLAPSIBLE -->
-  <button type="button" class="collapsible">View Additional Experience</button>
+<!-- Additional Organisations -->
+<div style="margin-top: 30px;" id="Additional_Organisations"> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Additional Organisations</button>
   <div class="collapsible_content">
-    <h3 class="CV-header"><a id="CNT_Lab" class="section-ID">01/2022 - &zwj;03/2022</a></h3>
-      <img class="logo" src="/assets/images/Logo-CNT.png">
-        <h4 class="CV-subheader">
-          &mdash; Clinical Neurotechnology Laboratory, Charité – Universitätsmedizin Berlin, Germany <a href="https://www.clinical-neurotechnology.com/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-          &mdash; Role: Research Scientist<br>
-          &mdash; Supervisor: Prof. Surjo Soekadar
-        </h4>
-        <p class="CV-desc">
-          As one of my <a href="#Charite_PhD">PhD Fellowship</a> rotations, I began work for the development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity. Through this highly practical project, I improved my understanding of the technical aspects of electrophysiological research, 3D printing, and electrical engineering.
-        </p>
-    <h3 class="CV-header"><a id="Hons_Project" class="section-ID">12/2020 - &zwj;04/2021</a></h3>
-      <img class="logo" src="/assets/images/Logo-UoA.png">
-        <h4 class="CV-subheader">
-          &mdash; School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK <a href="https://www.abdn.ac.uk/smmsn/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-          &mdash; Role: Research Scientist<br>
-          &mdash; Supervisor: Dr. Antonio Gonzalez
-        </h4>
-        <p class="CV-desc">
-          As part of my <a href="#Bachelor_Desc">Honour's project</a>, I investigated the regulation of striatal activity through computational modelling. My tasks involved conducting literature reviews, collecting and analysing simulated electrophysiological data using Python, as well as writing scientific reports. Through this placement I developed an in-depth understanding of the simulation and analysis of electrophysiological data.
-        </p>
-    <h3 class="CV-header"><a id="CAP_Lab" class="section-ID">05/2018 - &zwj;10/2018</a></h3>
-      <img class="logo" src="/assets/images/Logo-UoA.png">
-        <h4 class="CV-subheader">
-          &mdash; Consciousness, Attention and Perception Laboratory, University of Aberdeen, UK <a href="https://homepages.abdn.ac.uk/rama/pages/index.html" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-          &mdash; Role: Research Assistant<br>
-          &mdash; Supervisor: Dr. Rama Chakravarthi
-        </h4>
-        <p class="CV-desc">
-          My work focused on the investigation of choice-predictive brain signals and movement initiation in the context of consequential decisions, and was funded by a <a href="#Wellcome_Scholarship">Wellcome Trust scholarship</a>. My tasks included conducting EEG and behavioural experiments, with analysis of the associated data using MATLAB. This provided me with a solid grounding in the scientific method, and experience as a researcher working in an academic laboratory setting.
-        </p>
+    <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - &zwj;09/2021</a></h3>
+    <img class="logo" src="/assets/images/Logo-BNA.png">
+    <h4 class="CV-subheader">
+      &mdash; British Neuroscience Associsation, Bristol, UK<br>
+      &mdash; Member
+    </h4>
+    <p class="CV-desc">
+      As a member of the British Neuroscience Associsation I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the Association’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fa-solid fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>.
+    </p>
   </div>
 </div>
 
@@ -214,13 +296,13 @@ sitemap:
 <h1><a id="OSS" class="section-ID">Open-Source Software</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="MNE" class="section-ID">MNE-Python</a></h3>
+  <h3 class="CV-header"><a id="MNE" class="section-ID">MNE</a></h3>
     <img class="logo" src="/assets/images/Logo-MNE.png">
       <h4 class="CV-subheader">
         &mdash; Maintainer
       </h4>
       <p class="CV-desc">
-        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE signal analysis toolbox for Python</a>, a package with over 3,000 stars on GitHub, and citations in over 4,000 peer-reviewed scientific papers. My involvement is currently supported by a <a href="#NSF_POSE">National Science Foundation grant</a> for supporting open-source projects. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support. This has included the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
+        I am a maintainer of the popular open-source <a href="https://github.com/mne-tools/mne-python">MNE ecosystem for Python</a>, a set of toolboxes with over 3,000 stars on GitHub, and citations in over 5,000 peer-reviewed scientific papers. My involvement is currently supported by a <a href="#NSF_POSE">National Science Foundation grant</a> for supporting open-source projects. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support. This has included the implementation of several advanced, multivariate signal processing methods in the <a href="https://github.com/mne-tools/mne-connectivity">MNE-Connectivity</a> package (related to my work in the <a href="#QAI_Lab">Quality in Artificial Intelligence Group</a>), as well as a <a href="#GSoC">Google Summer of Code project</a> to implement a connectivity decoding module for real-time, data-driven analysis of high-dimensional data alongside statistical tools for distinguishing genuine interactions from background noise.
       </p>
 
   <h3 class="CV-header"><a id="PyBispectra" class="section-ID">PyBispectra</a></h3>
@@ -302,7 +384,7 @@ sitemap:
   <h3 class="CV-header"><a id="NSF_POSE" class="section-ID">07/2025 - &zwj;07/2027</a></h3>
     <img class="logo" src="/assets/images/Logo-NSF.png">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
-      &mdash; <i>Pathways to Enable Open-Source Ecosystems: MNE-Python Maintainer Training</i>. &dollar;500,000.<br>
+      &mdash; <i>Pathways to Enable Open-Source Ecosystems: MNE-Python Maintainer Training and Automation</i>. &dollar;500,000.<br>
       &mdash; National Science Foundation, USA.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
@@ -312,7 +394,7 @@ sitemap:
   <h3 class="CV-header"><a id="Sony_Internship" class="section-ID">04/2025 - &zwj;07/2025</a></h3>
     <img class="logo" src="/assets/images/Logo-CSL.jpg">
     <h4 class="CV-subheader" style="margin-bottom: 0;">
-      &mdash; <i>Sony Global Internship Programme</i>. &yen;1,200,000.<br>
+      &mdash; <i>Sony Global Internship Programme</i>. &yen;1.2 Million.<br>
       &mdash; Sony Group Corporation, Japan.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
@@ -387,43 +469,6 @@ sitemap:
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
       I was successful in receiving this highly competitive scholarship from the prestigious Wellcome Trust to complete my research in the <a href="#CAP_Lab">Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.
-    </p>
-</div>
-
-
-<!-- Organisations -->
-<hr>
-<h1><a id="Organisations" class="section-ID">Organisations</a></h1>
-
-<div>
-  <h3 class="CV-header"><a id="MNE_Maintainer" class="section-ID">11/2023 - Present</a></h3>
-    <img class="logo" src="/assets/images/Logo-MNE.png">
-    <h4 class="CV-subheader">
-      &mdash; MNE-Python<br>
-      &mdash; Maintainer
-    </h4>
-    <p class="CV-desc">
-      I am a maintainer for <a href="https://github.com/mne-tools">MNE-Python</a>, an ecosystem for electrophysiological data analysis with over 3,000 stars on GitHub and citations in over 4,000 peer-reviewed scientific papers. My contributions have involved the addition of new features, bug fixes, project maintenance, and user support, including through the Google Summer of Code programme and a National Science Foundation grant. See my <a href="#MNE">OSS MNE work</a> for more information.
-    </p>
-
-  <h3 class="CV-header"><a id="Code_Clinic_Cofounder" class="section-ID">12/2022 - 10/2024</a></h3>
-    <img class="logo" src="/assets/images/Logo-ReTune.png">
-    <h4 class="CV-subheader">
-      &mdash; Code Clinic, ReTune International Research Consortium, Germany<br>
-      &mdash; Co-founder
-    </h4>
-    <p class="CV-desc">
-      I co-founded the Code Clinic of the <a href="https://sfb-retune.de/">ReTune research consortium</a>, with the goal of improving the quality and openness of academic programming, a crucial step for improving the quality and reproducibility of scientific research. Towards this, the Code Clinic organised reviews for code being released alongside scientific publications and as open-source packages, ensuring a high-degree of code quality. Furthermore, I organised a pair programming scheme in which junior programmers received personalised feedback on their code from experienced coders, improving the overall quality of the code and teaching coding best practice principles to these novice programmers.
-    </p>
-
-  <h3 class="CV-header"><a id="BNA_Member" class="section-ID">09/2018 - &zwj;09/2021</a></h3>
-    <img class="logo" src="/assets/images/Logo-BNA.png">
-    <h4 class="CV-subheader">
-      &mdash; British Neuroscience Associsation (BNA), Bristol, UK<br>
-      &mdash; Member
-    </h4>
-    <p class="CV-desc">
-      As a member of the BNA I took full advantage of the Association’s activities, attending talks and symposia to broaden my understanding of various neuroscience topics. Furthermore, I contributed an article examining the neuroscientific study of free will to the BNA’s Summer 2020 Bulletin <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fa-solid fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a> allowing me to demonstrate and further hone my academic writing skills.
     </p>
 </div>
 
