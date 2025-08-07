@@ -136,7 +136,7 @@ sitemap:
         </h4>
         <p class="CV-desc">
           I supported the Clinical Neurotechnology group by initiating development of a 3D-printed head phantom for improving our understanding of forward models of brain activity, and the effects of non-invasive stimulation on brain activity:<br>
-          • Rapid prototyping and validation of electrically conductive 3D-printed stuctures in silico and in vitro to evaluate suitable head phantom candidates.<br>
+          • Rapid prototyping and validation of electrically conductive 3D-printed structures in silico and in vitro to evaluate suitable head phantom candidates.<br>
           • Investigated electrical material properties in vitro to identify biophysically comparable 3D-printable materials.<br>
           • Investigated physical material properties and structural designs in silico and in vitro to identify suitable components and structures for 3D printing.
         </p>
