@@ -246,7 +246,7 @@ sitemap:
   <h3 class="CV-header"><a id="MNE_Maintainer" class="section-ID">11/2023 - Present</a></h3>
     <img class="logo" src="/assets/images/Logo-MNE.png">
     <h4 class="CV-subheader">
-      &mdash; MNE-Python<br>
+      &mdash; MNE Software, University of Washington, USA<br>
       &mdash; Maintainer
     </h4>
     <p class="CV-desc">
