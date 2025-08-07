@@ -58,8 +58,7 @@ sitemap:
 
 
 <!-- Experience -->
-<hr>
-<h1><a id="Experience" class="section-ID">Experience</a></h1>
+<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Experience" class="section-ID">Experience</a></h1>
 
 <!-- Main Experience -->
 <div>
@@ -101,7 +100,7 @@ sitemap:
       &mdash; Supervisor: Prof. Stefan Haufe
     </h4>
     <p class="CV-desc">
-      I worked to support a &euro;1 Million machine learning research project, bringing advanced signal processing and machine learning algorithms for electrophysiological time-series data to <a href="#OSS">open-source software</a>:<br>
+      Alongisde my <a href="#Charite_PhD">PhD</a>, I worked to support a &euro;1 Million machine learning research project, bringing advanced signal processing and machine learning algorithms for electrophysiological time-series data to <a href="#OSS">open-source software</a>:<br>
       • Implemented real-time-compatible signal processing algorithms for machine learning pipelines in the MNE ecosystem as part of the <a href="GSoC">Google Summer of Code</a>, bringing these advanced tools to Python for the first time.<br>
       • Implemented advanced signal processing algorithms based on the bispectrum, offering tools for robust biomarker and theraputic mechanism identification in the standalone <a href="#PyBispectra">PyBispectra</a> package for Python.<br>
       • Developed and validated novel advanced signal processing algorithms, bringing them to open-source toolboxes like <a href="#MNE-Python">MNE</a>.
@@ -144,7 +143,7 @@ sitemap:
       <img class="logo" src="/assets/images/Logo-UoA.png">
         <h4 class="CV-subheader">
           &mdash; School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, UK <a href="https://www.abdn.ac.uk/smmsn/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
-          &mdash; Role: Computational Modelling Scientist<br>
+          &mdash; Role: Computational Modelling Scientist (Full-Time)<br>
           &mdash; Supervisor: Dr. Antonio Gonzalez
         </h4>
         <p class="CV-desc">
@@ -170,7 +169,8 @@ sitemap:
 
 
 <!-- Education -->
-<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Education" class="section-ID">Education</a></h1>
+<hr>
+<h1><a id="Education" class="section-ID">Education</a></h1>
 
 <div>
   <h3 class="CV-header"><a id="Charite_PhD" class="section-ID">2021 - Present</a></h3>
@@ -181,8 +181,8 @@ sitemap:
     </h4>
     <p class="CV-desc">
       Working towards my <a href="#PhD_Fellowship">fellowship-funded PhD</a> on invasive neural recordings from Parkinson's disease patients to identify biomarkers for use in machine learning-based adaptive deep brain stimulation treatments.<br>
-      <b>Dissertation:</b><br>
-      “Shared network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson’s disease”. Pending assessment.<br>
+      <br>
+      <b>Dissertation:</b> “Shared network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson’s disease”. Pending assessment.<br>
       Supervisors: Prof. Wolf-Julian Neumann, Prof. Stefan Haufe, and Prof. Andrea Kühn.<br>
       View associated experience in the <a href="#ICN_Lab">Neuromodulation Unit</a> and <a href="#QAI_Lab">QAI Labs</a>.
       <div style="margin-bottom: 30px;" id="PhD_Desc"> <!-- COLLAPSIBLE -->
@@ -204,8 +204,7 @@ sitemap:
       &mdash; MSci (Hons) Neuroscience with Psychology with Industrial Placement, First-Class Honours
     </h4>
     <p class="CV-desc">
-      <b>Industrial Placement (Master's) thesis:</b><br>
-      “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
+      <b>Industrial Placement (Master's) thesis:</b> “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
       Placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany.<br>
       Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.<br>
       <a href="#Haynes_Lab">View associated experience.</a>
@@ -221,8 +220,7 @@ sitemap:
       </div>
     </p>
     <p class="CV-desc">
-      <b>Honours (Bachelor's) thesis:</b><br>
-      “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class.<br>
+      <b>Honours (Bachelor's) thesis:</b> “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class.<br>
       Supervisor: Dr. Antonio Gonzalez.<br>
       <a href="#Additional_Experience">View associated experience.</a>
       <div style="margin-bottom: 30px;" id="Bachelor_Desc"> <!-- COLLAPSIBLE -->
@@ -296,7 +294,7 @@ sitemap:
 <h1><a id="OSS" class="section-ID">Open-Source Software</a></h1>
 
 <div>
-  <h3 class="CV-header"><a id="MNE" class="section-ID">MNE</a></h3>
+  <h3 class="CV-header"><a id="MNE" class="section-ID">MNE Software</a></h3>
     <img class="logo" src="/assets/images/Logo-MNE.png">
       <h4 class="CV-subheader">
         &mdash; Maintainer
