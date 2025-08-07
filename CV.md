@@ -101,7 +101,7 @@ sitemap:
     </h4>
     <p class="CV-desc">
       Alongisde my <a href="#Charite_PhD">PhD</a>, I worked to support a &euro;1 Million machine learning research project, bringing advanced signal processing and machine learning algorithms for electrophysiological time-series data to <a href="#OSS">open-source software</a>:<br>
-      • Implemented real-time-compatible signal processing algorithms for machine learning pipelines in the MNE ecosystem as part of the <a href="GSoC">Google Summer of Code</a>, bringing these advanced tools to Python for the first time.<br>
+      • Implemented real-time-compatible signal processing algorithms for machine learning pipelines in the MNE ecosystem as part of the <a href="#GSoC">Google Summer of Code</a>, bringing these advanced tools to Python for the first time.<br>
       • Implemented advanced signal processing algorithms based on the bispectrum, offering tools for robust biomarker and theraputic mechanism identification in the standalone <a href="#PyBispectra">PyBispectra</a> package for Python.<br>
       • Developed and validated novel advanced signal processing algorithms, bringing them to open-source toolboxes like <a href="#MNE-Python">MNE</a>.
     </p>
@@ -250,7 +250,7 @@ sitemap:
       &mdash; Maintainer
     </h4>
     <p class="CV-desc">
-      I am a maintainer and developer of the <a href="https://github.com/mne-tools">MNE</a> ecosystem, a set of Python toolboxes for electrophysiological data analysis with over 3,000 stars on GitHub and citations in over 5,000 peer-reviewed scientific papers, My participation in the project has been supported by a <a href="NSF_POSE">National Science Foundation grant</a> and the <a href="GSoC">Google Summer of Code programme</a>:<br>
+      I am a maintainer and developer of the <a href="https://github.com/mne-tools">MNE</a> ecosystem, a set of Python toolboxes for electrophysiological data analysis with over 3,000 stars on GitHub and citations in over 5,000 peer-reviewed scientific papers, My participation in the project has been supported by a <a href="#NSF_POSE">National Science Foundation grant</a> and the <a href="#GSoC">Google Summer of Code programme</a>:<br>
       • Developed toolboxes, operating in CI/CD workflows within solo to large-sized teams to implement new signal processing, machine learning, statistics, and visualisation features.<br>
       • Maintained toolboxes, following design patterns and established best practices to implement bug fixes, design and maintain automated workflows, and create software releases.<br>
       • Community support and triaging of user queries through managing forums and issue trackers to provide technical assistance to users, and handle bug reports and feature requests.<br>
@@ -466,7 +466,7 @@ sitemap:
       &mdash; Biomedical Vacation Scholarship, Wellcome Trust.
     </h4>
     <p class="CV-desc" style="margin-top: 0;">
-      I was successful in receiving this highly competitive scholarship from the prestigious Wellcome Trust to complete my research in the <a href="#CAP_Lab">Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.
+      I was successful in receiving this highly competitive scholarship from the prestigious Wellcome Trust to complete my research in the <a href="#Additional_Experience">Consciousness, Attention, and Perception Laboratory</a> of the University of Aberdeen, UK.
     </p>
 </div>
 
