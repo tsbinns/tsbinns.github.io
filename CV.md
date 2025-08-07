@@ -44,6 +44,7 @@ sitemap:
   <button onclick="toggle_show()" class="dropdown_button"><i class="fa-solid fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
+    <a href="#Skills-Expertise">Skills & Expertise</a>
     <a href="#Experience">Experience</a>
     <a href="#Education">Education</a>
     <a href="#Organisations">Organisations</a>
@@ -57,8 +58,114 @@ sitemap:
 </div>
 
 
+<!-- Skills -->
+<h1><a id="Skills-Expertise" class="section-ID">Skills & Expertise</a></h1>
+
+<div>
+  <table>
+    <tr>
+      <th>Data:</th>
+      <td>Neural ephys (EEG, ECoG, LFP)</td>
+      <td>Non-neural ephys (ECG, EMG)</td>
+      <td>Audio</td>
+      <td>Motion</td>
+      <td>Behaviour</td>
+    </tr>
+    <tr style="border-bottom: solid thin">
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th>Analysis:</th>
+      <td>Machine learning</td>
+      <td>BCIs/HCIs</td>
+      <td>Real-time decoding</td>
+      <td>Closed-loop neurofeedback</td>
+      <td>Signal processing</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Deep learning</td>
+      <td>Multimodal analyses</td>
+      <td>Statistics</td>
+      <td>HPC</td>
+    </tr>
+    <tr style="border-bottom: solid thin">
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th>Programming:</th>
+      <td>Python</td>
+      <td>MATLAB</td>
+      <td>C++</td>
+      <td>C</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>HTML</td>
+      <td>CSS</td>
+    </tr>
+    <tr style="border-bottom: solid thin">
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th>Software engineering:</th>
+      <td>Agile</td>
+      <td>DevOps</td>
+      <td>CI/CD</td>
+      <td>VCS (Git)</td>
+      <td>MLOps</td>
+    </tr>
+    <tr style="border-bottom: solid thin">
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th>Research topics:</th>
+      <td>Neuromodulation (DBS)</td>
+      <td>Movement (including disorders)</td>
+      <td>Music preference</td>
+      <td>Methods development</td>
+      <td>Decision making</td>
+    </tr>
+    <tr style="border-bottom: solid thin">
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th>Soft skills:</th>
+      <td>Proactive & independent</td>
+      <td>Strong team worker</td>
+      <td>Excellent communication</td>
+      <td>Great problem solving</td>
+      <td>Resilient</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Adaptable</td>
+      <td>Highly motivated</td>
+      <td>Exceptional time management</td>
+    </tr>
+  </table>
+</div>
+
+
 <!-- Experience -->
-<h1 style="padding-bottom: 0; margin-bottom: 0"><a id="Experience" class="section-ID">Experience</a></h1>
+<hr>
+<h1><a id="Experience" class="section-ID">Experience</a></h1>
 
 <!-- Main Experience -->
 <div>
