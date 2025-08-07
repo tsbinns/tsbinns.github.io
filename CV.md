@@ -183,7 +183,7 @@ sitemap:
       Working towards my <a href="#PhD_Fellowship">fellowship-funded PhD</a> on invasive neural recordings from Parkinson's disease patients to identify biomarkers for use in machine learning-based adaptive deep brain stimulation treatments.<br>
       <br>
       <b>Dissertation:</b> “Shared network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson’s disease”. Pending assessment.<br>
-      Supervisors: Prof. Wolf-Julian Neumann, Prof. Stefan Haufe, and Prof. Andrea Kühn.<br>
+      <b>Supervisors:</b> Prof. Wolf-Julian Neumann, Prof. Stefan Haufe, and Prof. Andrea Kühn.<br>
       View associated experience in the <a href="#ICN_Lab">Neuromodulation Unit</a> and <a href="#QAI_Lab">QAI Labs</a>.
       <div style="margin-bottom: 30px;" id="PhD_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
@@ -205,8 +205,8 @@ sitemap:
     </h4>
     <p class="CV-desc">
       <b>Industrial Placement (Master's) thesis:</b> “Investigating neural precursors of self-initiated action using machine learning techniques”. First-Class.<br>
+      <b>Supervisors:</b> Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.<br>
       Placement at the Bernstein Center for Computational Neuroscience, Berlin, Germany.<br>
-      Supervisors: Dr. Matthias Schultze-Kraft and Prof. John-Dylan Haynes.<br>
       <a href="#Haynes_Lab">View associated experience.</a>
       <div style="margin-bottom: 30px;" id="Master_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
@@ -221,7 +221,7 @@ sitemap:
     </p>
     <p class="CV-desc">
       <b>Honours (Bachelor's) thesis:</b> “Investigating the neuromodulation of striatal activity <i>in silico</i>”. First-Class.<br>
-      Supervisor: Dr. Antonio Gonzalez.<br>
+      <b>Supervisor:</b> Dr. Antonio Gonzalez.<br>
       <a href="#Additional_Experience">View associated experience.</a>
       <div style="margin-bottom: 30px;" id="Bachelor_Desc"> <!-- COLLAPSIBLE -->
         <button type="button" class="collapsible">View Description</button>
