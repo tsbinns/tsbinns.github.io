@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2025-08-07
+  lastmod: 2025-08-08
   exclude: 'no'
 ---
 
@@ -452,7 +452,7 @@ sitemap:
 <hr>
 <h1><a id="Publications" class="section-ID">Selected Publications & Talks</a></h1>
 
-<p style="margin-bottom: 30px">For the full list of publications, <a href="/publications">click here.</a></p>
+<p style="margin-bottom: 30px">For the full list of publications and talks, <a href="/publications">click here.</a></p>
 
 <p>
   <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (2025). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a>.
@@ -469,19 +469,13 @@ sitemap:
 </div>
 <br>
 <p>
-  Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Merk, T., Zhu, G., Yin, Z., Zhao, B., Chikermane, M., ..., Kühn, A.A., Haynes, J.-D., Neumann, W.-J. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. <i>Brain</i>. DOI: <a href="https://doi.org/10.1093/brain/awae219" target="_blank">10.1093/brain/awae219</a>.
+  <mark><b>Binns, T.S.</b></mark>, Furuya, S., Cheung, V.K.M. (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      The ability to initiate volitional action is fundamental to human behaviour. Loss of dopaminergic neurons in Parkinson's disease is associated with impaired action initiation, also termed akinesia. Both dopamine and subthalamic deep brain stimulation (DBS) can alleviate akinesia, but the underlying mechanisms are unknown. An important question is whether dopamine and DBS facilitate de novo build-up of neural dynamics for motor execution or accelerate existing cortical movement initiation signals through shared modulatory circuit effects. Answering these questions can provide the foundation for new closed-loop neurotherapies with adaptive DBS, but the objectification of neural processing delays prior to performance of volitional action remains a significant challenge.<br>
-      <br>
-      To overcome this challenge, we studied readiness potentials and trained brain signal decoders on invasive neurophysiology signals in 25 DBS patients (12 female) with Parkinson's disease during performance of self-initiated movements. Combined sensorimotor cortex electrocorticography and subthalamic local field potential recordings were performed OFF therapy (n = 22), ON dopaminergic medication (n = 18) and on subthalamic deep brain stimulation (n = 8). This allowed us to compare their therapeutic effects on neural latencies between the earliest cortical representation of movement intention as decoded by linear discriminant analysis classifiers and onset of muscle activation recorded with electromyography.<br>
-      <br>
-      In the hypodopaminergic OFF state, we observed long latencies between motor intention and motor execution for readiness potentials and machine learning classifications. Both, dopamine and DBS significantly shortened these latencies, hinting towards a shared therapeutic mechanism for alleviation of akinesia. To investigate this further, we analysed directional cortico-subthalamic oscillatory communication with multivariate granger causality. Strikingly, we found that both therapies independently shifted cortico-subthalamic oscillatory information flow from antikinetic beta (13–35 Hz) to prokinetic theta (4–10 Hz) rhythms, which was correlated with latencies in motor execution.<br>
-      <br>
-      Our study reveals a shared brain network modulation pattern of dopamine and DBS that may underlie the acceleration of neural dynamics for augmentation of movement initiation in Parkinson's disease. Instead of producing or increasing preparatory brain signals, both therapies modulate oscillatory communication. These insights provide a link between the pathophysiology of akinesia and its’ therapeutic alleviation with oscillatory network changes in other non-motor and motor domains, e.g. related to hyperkinesia or effort and reward perception. In the future, our study may inspire the development of clinical brain computer interfaces based on brain signal decoders to provide temporally precise support for action initiation in patients with brain disorders.
+      A recent focus in the development of music recommendation systems is the incorporation of physiological signals. Among this, the possibility of using non-invasive, electroencephalography-based neural activity is of great interest. In this preliminary work, we sought to predict the preference of individuals for previously unheard music through a combination of acoustic and neural features. We developed a real-time system for preference decoding which was used to skip songs with ∼80 ms latency according to users’ desires. The results suggest that music recommendation systems could supplement acoustic features with neural activity for characterising an individual’s music preferences in real time, with options to incorporate further acoustic and physiological information for improved system accuracy.
     </p>
   </div>
 </div>

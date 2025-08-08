@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-08-07
+  lastmod: 2025-08-08
   exclude: 'no'
 ---
 
@@ -44,6 +44,19 @@ sitemap:
       Deep brain stimulation (DBS) is a brain circuit intervention that can modulate distinct neural pathways for the alleviation of neurological symptoms in patients with brain disorders. In Parkinson's disease, subthalamic DBS clinically mimics the effect of dopaminergic drug treatment, but the shared pathway mechanisms on cortex-basal ganglia networks are unknown. To address this critical knowledge gap, we combined fully-invasive neural multisite recordings in patients undergoing DBS surgery with MRI-based whole-brain connectomics.<br>
       <br>
       Our findings demonstrate that dopamine and DBS exert distinct mesoscale effects through modulation of local neural population synchrony. In contrast, at the macroscale, DBS mimics dopamine in its suppression of excessive interregional network synchrony associated with indirect and hyperdirect cortex-basal ganglia pathways. Our results provide a better understanding of the circuit mechanisms of dopamine and DBS, laying the foundation for advanced closed-loop neurostimulation therapies.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Extended Abstract / Demo</big></i>
+  <mark><b>Binns, T.S.</b></mark>, Furuya, S., Cheung, V.K.M. (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      A recent focus in the development of music recommendation systems is the incorporation of physiological signals. Among this, the possibility of using non-invasive, electroencephalography-based neural activity is of great interest. In this preliminary work, we sought to predict the preference of individuals for previously unheard music through a combination of acoustic and neural features. We developed a real-time system for preference decoding which was used to skip songs with ∼80 ms latency according to users’ desires. The results suggest that music recommendation systems could supplement acoustic features with neural activity for characterising an individual’s music preferences in real time, with options to incorporate further acoustic and physiological information for improved system accuracy.
     </p>
   </div>
 </div>
