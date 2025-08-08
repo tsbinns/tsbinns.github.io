@@ -49,7 +49,7 @@ sitemap:
 </div>
 
 <p>
-  &nbsp;&nbsp; <i><big>Extended Abstract / Demo</big></i>
+  &nbsp;&nbsp; <i><big>Extended Abstract / Demo</big></i><br>
   <mark><b>Binns, T.S.</b></mark>, Furuya, S., Cheung, V.K.M. (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
 </p>
 <div> <!-- COLLAPSIBLE -->
@@ -62,7 +62,7 @@ sitemap:
 </div>
 
 <p>
-  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  &nbsp;&nbsp; <i><big>Software Article</big></i><br>
   <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Nguyen, T.D., Köhler, R.M., Haufe, S. (In Review). PyBispectra: A toolbox for advanced electrophysiological signal processing using the bispectrum. <i>Journal of Open Source Software</i>. DOI: <a href="https://github.com/openjournals/joss-papers/blob/joss.08504/joss.08504/10.21105.joss.08504.pdf" target="_blank">10.21105.joss.08504</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
