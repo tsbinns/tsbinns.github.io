@@ -118,6 +118,27 @@ sitemap:
       <th></th><td></td><td></td><td></td><td></td><td></td>
     </tr>
     <tr>
+      <th>Toolboxes:</th>
+      <td>Scikit-learn</td>
+      <td>TensorFlow</td>
+      <td>MNE</td>
+      <td>PyTorch</td>
+      <td>LabStreamingLayer</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>XGBoost</td>
+      <td>CatBoost</td>
+      <td>Pandas</td>
+      <td>Numba</td>
+    </tr>
+    <tr style="border-bottom: solid thin">
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <th></th><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
       <th>Software engineering:</th>
       <td>Agile</td>
       <td>DevOps</td>
