@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-08-08
+  lastmod: 2025-08-14
   exclude: 'no'
 ---
 
@@ -85,6 +85,21 @@ sitemap:
       Brain computer interface research can inspire closed-loop neuromodulation therapies, promising an unprecedented spatiotemporal precision for the treatment of brain disorders. Decoding dynamic patient states from brain signals with machine learning is required to leverage this precision, but a standardized framework for invasive brain signal decoding from neural implants does not exist. Here, we developed a platform that integrates brain signal decoding with MRI connectomics and demonstrate its utility across 123 hours of invasively recorded brain data from 73 neurosurgical patients treated with brain implants for movement disorders, depression and epilepsy.<br>
       <br>
       First, we introduce connectomics-informed movement decoders that generalize across cohorts with Parkinson’s disease and epilepsy from the US, Europe and China. Next, we reveal network targets for emotion decoding in left prefrontal and cingulate circuits in DBS patients with major depression. Finally, we showcase opportunities to improve seizure detection in responsive neurostimulation for epilepsy. Our study highlights the clinical utility of brain signal decoding for deep brain stimulation and provides methods that allow for rapid, high-accuracy decoding for precision medicine approaches that can dynamically adapt neurotherapies in response to the individual needs of patients.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Software Article</big></i><br>
+  Merk, T., Brotons, A., Vossberg, S.R., Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Abdalfatah, A.T.K., ..., Neumann, W.-J.. (2025). py_neuromodulation: Signal processing and decoding for neural electrophysiological recordings. <i>Journal of Open Source Software</i>. DOI: <a href="https://doi.org/10.21105/joss.08258" target="_blank">10.21105/joss.08258</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Invasive brain signal decoding can revolutionize the clinical utility of neurotechnological therapies. Potential signal sources stem from electroencephalography (EEG), electrocorticography (ECoG) and local field potentials (LFP) recorded from deep brain stimulation (DBS) electrodes. The application of machine learning methods to these signals requires pre-processing and feature extraction – complex analyses, often lacking standardization and clear documentation. Here, we introduce py_neuromodulation, a toolbox designed for standardized signal processing, feature extraction, and decoding of electrophysiological data. All parameters are explicitly defined in dedicated settings and channel parameterization files. The framework processes both data streamed in real-time and from recordings on disk using the same pipeline. Additionally, a browser-based graphical user interface (GUI) enables intuitive usage and visualization of the processing pipeline without requiring any code modification.<br>
+      <br>
+      By introducing py_neuromodulation, we aim to simplify and standardize the analysis of electrophysiological recordings, facilitating reproducibility and accessibility in the field of brain signal decoding. Our tool bridges the fields of neuroscience and neural engineering, providing machine learning and neurotechnology researchers with reproducible methods for the development of generalizable machine learning algorithms.
     </p>
   </div>
 </div>
