@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-08-14
+  lastmod: 2025-08-21
   exclude: 'no'
 ---
 
@@ -63,7 +63,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Article</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Nguyen, T.D., Köhler, R.M., Haufe, S. (In Review). PyBispectra: A toolbox for advanced electrophysiological signal processing using the bispectrum. <i>Journal of Open Source Software</i>. DOI: <a href="https://github.com/openjournals/joss-papers/blob/joss.08504/joss.08504/10.21105.joss.08504.pdf" target="_blank">10.21105.joss.08504</a>.
+  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Nguyen, T.D., Köhler, R.M., Haufe, S. (2025). PyBispectra: A toolbox for advanced electrophysiological signal processing using the bispectrum. <i>Journal of Open Source Software</i>. DOI: <a href="https://doi.org/10.21105/joss.08504" target="_blank">10.21105/joss.08504</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
