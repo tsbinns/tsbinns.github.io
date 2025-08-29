@@ -2,7 +2,7 @@
 title: "About Me"
 layout: page
 sitemap:
-  lastmod: 2025-08-06
+  lastmod: 2025-08-29
   exclude: 'no'
 ---
 
@@ -34,6 +34,7 @@ Feel free to check out my <a href="/CV">CV</a>, <a href="/publications">publicat
 <!-- Twitter highlights -->
 <div class="ShowOnWideScreen">
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7334110709410148352?collapsed=1" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7364307890377011200?collapsed=1" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 <div class="ShowOnThinScreen">
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7334110709410148352?collapsed=1" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
