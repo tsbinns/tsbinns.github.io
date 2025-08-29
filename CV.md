@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 layout: page
 sitemap:
-  lastmod: 2025-08-21
+  lastmod: 2025-08-29
   exclude: 'no'
 ---
 
@@ -476,7 +476,7 @@ sitemap:
 <p style="margin-bottom: 30px">For the full list of publications and talks, <a href="/publications">click here.</a></p>
 
 <p>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (2025). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a>.
+  <mark><b>Binns, TS</b></mark>, Köhler, RM, Vanhoecke, J, Chikermane, M, Gerster, M, Merk, T, Pellegrini, F, Busch, JL, Habets, JGV, Cavallo, A, Beyer, JC, Al-Fatly, B, Li, N, Horn, A, Krause, P, Faust, K, Schneider, GH, Haufe, S, Kühn, AA, Neumann, WJ (2025). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -490,7 +490,7 @@ sitemap:
 </div>
 <br>
 <p>
-  <mark><b>Binns, T.S.</b></mark>, Furuya, S., Cheung, V.K.M. (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
+  <mark><b>Binns, TS</b></mark>, Furuya, S, Cheung, VKM (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -502,7 +502,7 @@ sitemap:
 </div>
 <br>
 <p>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Nguyen, T.D., Köhler, R.M., Haufe, S. (2025). PyBispectra: A toolbox for advanced electrophysiological signal processing using the bispectrum. <i>Journal of Open Source Software</i>. DOI: <a href="https://doi.org/10.21105/joss.08504" target="_blank">10.21105/joss.08504</a>.
+  <mark><b>Binns, TS</b></mark>, Pellegrini, F, Jurhar, T, Nguyen, TD, Köhler, RM, Haufe, S (2025). PyBispectra: A toolbox for advanced electrophysiological signal processing using the bispectrum. <i>Journal of Open Source Software</i>. DOI: <a href="https://doi.org/10.21105/joss.08504" target="_blank">10.21105/joss.08504</a>.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>

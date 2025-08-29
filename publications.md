@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-08-21
+  lastmod: 2025-08-29
   exclude: 'no'
 ---
 
@@ -35,7 +35,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i>&nbsp;&nbsp;&nbsp;&nbsp; <strong>ReTune Paper of the Month</strong><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., ..., Haufe, S., Kühn, A.A., Neumann, W.-J. (2025). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a>.
+  <mark><b>Binns, TS</b></mark>, Köhler, RM, Vanhoecke, J, Chikermane, M, Gerster, M, Merk, T, Pellegrini, F, Busch, JL, Habets, JGV, Cavallo, A, Beyer, JC, Al-Fatly, B, Li, N, Horn, A, Krause, P, Faust, K, Schneider, GH, Haufe, S, Kühn, AA, Neumann, WJ (2025). Shared pathway-specific network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson's disease. <i>Nature Communications</i>. DOI: <a href="https://doi.org/10.1038/s41467-025-58825-z" target="_blank">10.1038/s41467-025-58825-z</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -50,7 +50,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Extended Abstract / Demo</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Furuya, S., Cheung, V.K.M. (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
+  <mark><b>Binns, TS</b></mark>, Furuya, S, Cheung, VKM (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -63,7 +63,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Article</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Nguyen, T.D., Köhler, R.M., Haufe, S. (2025). PyBispectra: A toolbox for advanced electrophysiological signal processing using the bispectrum. <i>Journal of Open Source Software</i>. DOI: <a href="https://doi.org/10.21105/joss.08504" target="_blank">10.21105/joss.08504</a>.
+  <mark><b>Binns, TS</b></mark>, Pellegrini, F, Jurhar, T, Nguyen, TD, Köhler, RM, Haufe, S (2025). PyBispectra: A toolbox for advanced electrophysiological signal processing using the bispectrum. <i>Journal of Open Source Software</i>. DOI: <a href="https://doi.org/10.21105/joss.08504" target="_blank">10.21105/joss.08504</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -76,7 +76,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Merk, T., Köhler, R.M., Brotons, T.M., Vossberg, S.V., Peterson, V., Lyra, L., Vanhoecke, J., Chikermane, M., <mark><b>Binns, T.S.</b></mark>, ..., Kühn, A.A., Richardson, R.M., Neumann, W.-J. (Accepted). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. <i>Nature Biomedical Engineering</i>. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
+  Merk, T, Köhler, RM, Brotons, A, Vossberg, SV, Peterson, V, Lyra, L, Vanhoecke, J, Chikermane, M, <mark><b>Binns, TS</b></mark>, Li, N, Walton, A, Bush, A, Sisterton, N, Busch, JL, Lofredi, R, Habets, JGV, Huebl, J, Zhu, G, Yin, Z, Zhao, B, Merkl, A, Bajbouj, M, Krause, P, Faust, K, Schneider, GH, Horn, A, Zhang, J, Kühn, AA, Richardson, RM, Neumann, WJ (Accepted). Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants. <i>Nature Biomedical Engineering</i>. DOI: <a href="https://www.doi.org/10.21203/rs.3.rs-3212709/v1" target="_blank">10.21203/rs.3.rs-3212709/v1</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -91,7 +91,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Article</big></i><br>
-  Merk, T., Brotons, A., Vossberg, S.R., Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Abdalfatah, A.T.K., ..., Neumann, W.-J.. (2025). py_neuromodulation: Signal processing and decoding for neural electrophysiological recordings. <i>Journal of Open Source Software</i>. DOI: <a href="https://doi.org/10.21105/joss.08258" target="_blank">10.21105/joss.08258</a>.
+  Merk, T, Brotons, A, Vossberg, SR, Köhler, RM, <mark><b>Binns, TS</b></mark>, Abdalfatah, ATK, Cavallo, A, Garulli, E, Walton, A, Vanhoecke, J, Richardson, RM, Neumann, WJ (2025). py_neuromodulation: Signal processing and decoding for neural electrophysiological recordings. <i>Journal of Open Source Software</i>. DOI: <a href="https://doi.org/10.21105/joss.08258" target="_blank">10.21105/joss.08258</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -106,7 +106,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Cavallo, A., Köhler, R.M., Busch, J.L., Habets, J.G.V., Merk, T., Zvarova, P., Vanhoecke, J., <mark><b>Binns, T.S.</b></mark>, ..., Cagnan, H., Kühn, A.A., Neumann, W.-J.. (Accepted). Differential modulation of movement speed with state-dependent deep brain stimulation in Parkinson’s disease. <i>Science Advances</i>. DOI: <a href="https://doi.org/10.1101/2025.03.19.642627" target="_blank">10.1101/2025.03.19.642627</a>.
+  Cavallo, A, Köhler, RM, Busch, JL, Habets, JGV, Merk, T, Zvarova, P, Vanhoecke, J, <mark><b>Binns, TS</b></mark>, Al-Fatly, B, de Almeida Marcelino, AL, Darcy, N, Schneider, GH, Krause, P, Horn, A, Faust, K, Herz, DM, Yttri, E, Cagnan, H, Kühn, AA, Neumann, WJ (Accepted). Differential modulation of movement speed with state-dependent deep brain stimulation in Parkinson’s disease. <i>Science Advances</i>. DOI: <a href="https://doi.org/10.1101/2025.03.19.642627" target="_blank">10.1101/2025.03.19.642627</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -121,7 +121,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Zhu, G., Yin, Z., Chen, Y., Merk, T., <mark><b>Binns, T.S.</b></mark>, Ma, R., ..., Neumann W.-J., Kühn, A.A., Zhang, J. (2025). Subthalamic Nucleus Oscillatory Characteristics in Meige, Cervical Dystonia and Generalized Dystonia. <i>Annals of Clinical and Translational Neurology</i>. DOI: <a href="https://doi.org/10.1002/acn3.70040" target="_blank">10.1002/acn3.70040</a>.
+  Zhu, GY, Yin, ZX, Chen, YC, Merk, T, <mark><b>Binns, TS</b></mark>, Ma, RY, Du, TT, Liu, YY, Xie, HT, Shi, L, Yang, AC, Meng, FG, Neumann WJ, Kühn, AA, Zhang, JG (2025). Subthalamic Nucleus Oscillatory Characteristics in Meige, Cervical Dystonia and Generalized Dystonia. <i>Annals of Clinical and Translational Neurology</i>. DOI: <a href="https://doi.org/10.1002/acn3.70040" target="_blank">10.1002/acn3.70040</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -136,7 +136,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Gerster, M., Waterstraat, G., <mark><b>Binns, T.S.</b></mark>, Darcy, N., Wiest, C., Köhler, R.M., Vanhoecke, J., ..., Neumann, W.-J., Curio, G., Nikulin, V. (Pre-print). Beyond beta: Aperiodic broadband power reflects Parkinson's disease severity - a multicenter study. <i>bioRxiv</i>. DOI: <a href="https://doi.org/10.1101/2025.03.11.642600" target="_blank">10.1101/2025.03.11.642600</a>.
+  Gerster, M, Waterstraat, G, <mark><b>Binns, TS</b></mark>, Darcy, N, Wiest, C, Köhler, RM, Vanhoecke, J, West, TO, Sure, M, Todorov, D, Radzinski, L, Habets, JGV, Busch, JL, Feldmann, LK, Krause, P, Faust, K, Schneider, GH, Ashkan, K, Pereira, E, Akram, H, Zrinzo, L, Blankertz, B, Villringer, A, Tan, H, Hirschmann, J, Kühn, AA, Florin, E, Schnitzler, A, Oswal, A, Litvak, V, Neumann, WJ, Curio, G, Nikulin, V (Pre-print). Beyond beta: Aperiodic broadband power reflects Parkinson's disease severity - a multicenter study. <i>bioRxiv</i>. DOI: <a href="https://doi.org/10.1101/2025.03.11.642600" target="_blank">10.1101/2025.03.11.642600</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -149,12 +149,27 @@ sitemap:
   </div>
 </div>
 
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Habets, JGV, Merk, T, Mathiopoulou, V, Lofredi, R, Kaplan, J, <mark><b>Binns, TS</b></mark>, Busch, JL, Köhler, RM, Memarpouri, A, Faust, K, Krause, P, Schneider, GH, Neumann, WJ, Tovote, P, Kühn, AA (Pre-print). Movement execution defines a distinct neural state in dyskinesia and enhances decoding. <i>bioRxiv</i>. DOI: <a href="https://doi.org/10.1101/2025.06.09.658641" target="_blank">10.1101/2025.06.09.658641</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Parkinson patients suffer from levodopa-induced dyskinesia, which occur adversely to chronic dopaminergic treatment. These abnormal involuntary movements can only partly be actively suppressed and affect quality of life. A lowered motor inhibition during hyperdopaminergic states, associated with structural and plasticity changes in the cortico-basal-ganglia motor network, is hypothesized to enable dyskinesia. Oscillatory cortico-subthalamic patterns associated with dyskinesia are proposed as adaptive neuromodulation biomarkers, but their dependence on behavioral states such as dyskinetic movement presence or suppression remains unknown. We studied cortico-subthalamic oscillations in 22 Parkinson patients during dyskinesia-evoking protocols. We clinically differentiated between non-dyskinetic and dyskinetic periods, and defined movement presence with kinematics, leading to four behavioral states containing rest, voluntary movements, movement suppression during dyskinesia, and dyskinetic movements.<br>
+      <br>
+      Elevated subthalamic theta-activity and attenuated beta-activity was found during both dyskinetic movement suppression and execution, while cortico-subthalamic gamma-activity only increased during dyskinetic movement execution. Subthalamic spectral changes significantly predicted dyskinesia presence, and movement presence significantly affected the predictive performance. A movement-aware classifier enhanced dyskinesia detection based on movement-depending biomarkers containing cortical oscillations and gamma-bands. We propose movement execution during dyskinesia to be a distinct behavioral and neural microstate within a dopamine-depending dyskinetic macrostate, that can enhance dyskinesia classification for adaptive neuromodulation.
+    </p>
+  </div>
+</div>
+
 <hr>
 <h1><a id="2024" class="section-ID">2024</a></h1>
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Köhler, R.M., <mark><b>Binns, T.S.</b></mark>, Merk, T., Zhu, G., Yin, Z., Zhao, B., Chikermane, M., ..., Kühn, A.A., Haynes, J.-D., Neumann, W.-J. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. <i>Brain</i>. DOI: <a href="https://doi.org/10.1093/brain/awae219" target="_blank">10.1093/brain/awae219</a>.
+  Köhler, RM, <mark><b>Binns, TS</b></mark>, Merk, T, Zhu, G, Yin, Z, Zhao, B, Chikermane, M, Vanhoecke, J, Busch, JL, Habets, JGV, Faust, K, Schneider, GH, Cavallo, A, Haufe, S, Zhang, JG, Kühn, AA, Haynes, JD, Neumann, WJ (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. <i>Brain</i>. DOI: <a href="https://doi.org/10.1093/brain/awae219" target="_blank">10.1093/brain/awae219</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -173,7 +188,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Conference Talk</big></i><br>
-  <mark><b>Binns, T.S.</b></mark> (2024). Oscillatory connectivity analysis for electrophysiology data. <i>International Electrophysiology Skills Days</i>, Berlin, Germany.
+  <mark><b>Binns, TS</b></mark> (2024). Oscillatory connectivity analysis for electrophysiology data. <i>International Electrophysiology Skills Days</i>, Berlin, Germany.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -186,7 +201,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Conference Talk</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Nguyen, T.D. (2024). ROIConnect & PyBispectra: Open-source toolboxes for advanced EEG signal processing and functional connectivity analysis. <i>Neural Traces</i>, Berlin, Germany.
+  <mark><b>Binns, TS</b></mark>, Nguyen, TD (2024). ROIConnect & PyBispectra: Open-source toolboxes for advanced EEG signal processing and functional connectivity analysis. <i>Neural Traces</i>, Berlin, Germany.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -199,7 +214,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-PyBispectra_Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+  <mark><b>Binns, TS</b></mark>, Pellegrini, F, Jurhar, T, Haufe, S (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-PyBispectra_Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -214,7 +229,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Orabe, M., Nguyen, T.D., Köhler, R.M., Pellegrini, F., Haufe, S. (2024). Multivariate connectivity methods in the MNE-Python toolbox. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-MNE_Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+  <mark><b>Binns, TS</b></mark>, Orabe, M, Nguyen, TD, Köhler, RM, Pellegrini, F, Haufe, S (2024). Multivariate connectivity methods in the MNE-Python toolbox. <i>Neural Traces</i>, Berlin, Germany. <a href="/assets/documents/2024_NT_Conference-MNE_Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -229,7 +244,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>WIRED Conference</i>, Paris, France. <a href="/assets/documents/2024_WIRED_Conference-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+  <mark><b>Binns, TS</b></mark>, Pellegrini, F, Jurhar, T, Haufe, S (2024). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>WIRED Conference</i>, Paris, France. <a href="/assets/documents/2024_WIRED_Conference-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -247,7 +262,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Winner of best poster prize</strong><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Gerster, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease. <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+  <mark><b>Binns, TS</b></mark>, Köhler, RM, Vanhoecke, J, Chikermane, M, Gerster, M, Merk, T, Pellegrini, F, Faust, K, Schneider, GH, Kühn, AA, Haufe, S, Neumann, WJ (2023). Dopamine and stimulation distinctly modulate cortico-subthalamic communication in Parkinson’s disease. <i>ReTune Fall School</i>, Apolda, Germany. <a href="/assets/documents/2023_ReTune_Fall_School-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -260,7 +275,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Software Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Pellegrini, F., Jurhar, T., Haufe, S. (2023). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Bernstein Conference</i>, Berlin, Germany. DOI: <a href="https://www.doi.org/10.12751/nncn.bc2023.149" target="_blank">10.12751/nncn.bc2023.149</a> <a href="/assets/documents/2023_Bernstein_Conference-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+  <mark><b>Binns, TS</b></mark>, Pellegrini, F, Jurhar, T, Haufe, S (2023). PyBispectra: an open-source toolbox for advanced electrophysiological signal processing based on the bispectrum. <i>Bernstein Conference</i>, Berlin, Germany. DOI: <a href="https://www.doi.org/10.12751/nncn.bc2023.149" target="_blank">10.12751/nncn.bc2023.149</a> <a href="/assets/documents/2023_Bernstein_Conference-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -275,7 +290,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Köhler, R.M., Vanhoecke, J., Chikermane, M., Merk, T., Pellegrini, F., Faust, K., Schneider, G.-H., Kühn, A.A., Haufe, S., Neumann, W.-J. (2023). Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+  <mark><b>Binns, TS</b></mark>, Köhler, RM, Vanhoecke, J, Chikermane, M, Merk, T, Pellegrini, F, Faust, K, Schneider, GH, Kühn, AA, Haufe, S, Neumann, WJ (2023). Parkinson's disease: Invasive mapping of cortico-subthalamic communications in humans. <i>International Basal Ganglia Society Conference XIV</i>, Stockholm, Sweden. <a href="/assets/documents/2023_IBAGS-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -291,7 +306,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Poster</big></i><br>
-  <mark><b>Binns, T.S.</b></mark>, Merk, T., Köhler, R., Chikermane, M., Dzaye, A., Vanhoecke, J., Faust, K., Schneider, G.-H., Kühn, A.A., Neumann, W.-J. (2022). Invasive mapping of cortico-subthalamic connectivity in Parkinson's disease. <i>Second Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany. <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+  <mark><b>Binns, TS</b></mark>, Merk, T, Köhler, R, Chikermane, M, Dzaye, A, Vanhoecke, J, Faust, K, Schneider, GH, Kühn, AA, Neumann, WJ (2022). Invasive mapping of cortico-subthalamic connectivity in Parkinson's disease. <i>Second Expert Summit on the Future of Deep Brain Stimulation</i>, Würzburg, Germany. <a href="/assets/documents/2022_DBS_Expert_Summit-Poster.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -307,7 +322,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Schultze-Kraft, M., Jonany, V., <mark><b>Binns, T.S.</b></mark>, Soch, J., Blankertz, B. and Haynes, J.-D. (2021). Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>. DOI: <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">10.1523/eneuro.0425-20.2020</a>.
+  Schultze-Kraft, M, Jonany, V, <mark><b>Binns, TS</b></mark>, Soch, J, Blankertz, B and Haynes, JD (2021). Suppress me if you can: neurofeedback of the readiness potential. <i>eNeuro</i>. DOI: <a href="https://www.doi.org/10.1523/eneuro.0425-20.2020" target="_blank">10.1523/eneuro.0425-20.2020</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -325,7 +340,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Review Article</big></i><br>
-  <mark><b>Binns, T.S.</b></mark> (2020). Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fa-solid fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+  <mark><b>Binns, TS</b></mark> (2020). Has neuroscience disproven free will?. <i>BNA Bulletin</i>, 1 August, p. 20. <a href="https://www.bna.org.uk/mediacentre/news/has-neuroscience-disproven-free-will/" target="_blank"><i class="fa-solid fa-link"></i></a> <a href="/assets/documents/2020_Free_Will-BNA_Article.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
