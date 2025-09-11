@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-08-29
+  lastmod: 2025-09-11
   exclude: 'no'
 ---
 
@@ -106,15 +106,15 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Cavallo, A, Köhler, RM, Busch, JL, Habets, JGV, Merk, T, Zvarova, P, Vanhoecke, J, <mark><b>Binns, TS</b></mark>, Al-Fatly, B, de Almeida Marcelino, AL, Darcy, N, Schneider, GH, Krause, P, Horn, A, Faust, K, Herz, DM, Yttri, E, Cagnan, H, Kühn, AA, Neumann, WJ (Accepted). Differential modulation of movement speed with state-dependent deep brain stimulation in Parkinson’s disease. <i>Science Advances</i>. DOI: <a href="https://doi.org/10.1101/2025.03.19.642627" target="_blank">10.1101/2025.03.19.642627</a>.
+  Cavallo, A, Köhler, RM, Busch, JL, Habets, JGV, Merk, T, Zvarova, P, Vanhoecke, J, <mark><b>Binns, TS</b></mark>, Al-Fatly, B, de Almeida Marcelino, AL, Darcy, N, Schneider, GH, Krause, P, Horn, A, Faust, K, Herz, DM, Yttri, E, Cagnan, H, Kühn, AA, Neumann, WJ (2025). Differential modulation of movement speed with state-dependent deep brain stimulation in Parkinson’s disease. <i>Science Advances</i>. DOI: <a href="https://doi.org/10.1126/sciadv.adx6849" target="_blank">10.1126/sciadv.adx6849</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
   <div class="collapsible_content">
     <p>
-      Subthalamic deep brain stimulation (STN-DBS) provides unprecedented spatiotemporal precision for the treatment of Parkinson's disease (PD), allowing for direct real-time state-specific adjustments. Inspired by findings from optogenetic stimulation in mice, we hypothesized that STN-DBS effects on movement speed depend on ongoing movement kinematics that patients exhibit during stimulation. To investigate this hypothesis, we implemented a motor state-dependent closed-loop neurostimulation algorithm, adapting DBS burst delivery to ongoing movement speed in 24 PD patients.<br>
+      Subthalamic deep brain stimulation (STN-DBS) provides unprecedented spatiotemporal precision for the treatment of Parkinson’s disease (PD), allowing for direct real-time state-specific adjustments. Inspired by findings from optogenetic stimulation in mice, we hypothesized that STN-DBS can mimic dopaminergic reinforcement of ongoing movement kinematics during stimulation. To investigate this hypothesis, we delivered DBS bursts during particularly fast and slow movements in 24 patients with PD.<br>
       <br>
-      We found a stronger anti-bradykinetic effect, raising movement speed to the level of healthy controls, when STN-DBS was applied during fast but not slow movements, while only stimulating 5% of overall movement time. To study underlying brain circuits and neurophysiological mechanisms, we investigated the behavioral effects with MRI connectomics and motor cortex electrocorticography. Finally, we demonstrate that machine learning-based brain signal decoding can be used to predict continuous movement speed for fully embedded state-dependent closed-loop algorithms. Our findings provide novel insights into the state-dependency of invasive neuromodulation, which could inspire advanced state-dependent neurostimulation algorithms for brain disorders.
+      Our findings reveal that DBS during fast movements enhanced future movement speed more than DBS during slow movements, raising movement speed to the level of healthy controls. To understand which brain circuits mediate this neurophysiological mechanism, we investigated the behavioral effects using magnetic resonance imaging connectomics and motor cortex electrocorticography. Last, we demonstrate that machine learning–based brain signal decoding can be used to predict continuous movement speed for fully embedded state-dependent closed-loop algorithms. Our findings provide important evidence for reinforcement-based DBS circuit mechanisms that may inspire previously unexplored treatment avenues for dopaminergic disorders.
     </p>
   </div>
 </div>
