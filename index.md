@@ -16,7 +16,7 @@ sitemap:
 -->
 
 <!-- Profile picture -->
-<img class="ProfilePic" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic_3.jpg">
+<img class="ProfilePic" height="auto" style="float: left; margin-right: 20px;" src="/assets/images/ProfilePic.jpg">
 
 
 <!-- Main website description/introduction -->
