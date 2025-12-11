@@ -663,6 +663,16 @@ sitemap:
 <h1><a id="Courses" class="section-ID">Courses</a></h1>
 
 <div>
+  <h3 class="CV-header"><a id="CSCCE_CEF" class="section-ID">09/2025 - &zwj;10/2025</a></h3>
+    <img class="logo" src="/assets/images/Logo-CSCCE.png">
+    <h4 class="CV-subheader">
+      &mdash; Scientific Community Engagement Fundamentals<br>
+      &mdash; Center for Scientific Collaboration and Community Engagement
+    </h4>
+    <p class="CV-desc">
+      An eight-week-long course promoting actionable skills and strategies for effective engagement of members in scientific communities, including lowering barriers for participation, identifying shared goals, and developing relevant content.
+    </p>
+
   <h3 class="CV-header"><a id="Cajal_Neurokit" class="section-ID">07/2023</a></h3>
     <img class="logo" src="/assets/images/Logo-Cajal.png">
     <h4 class="CV-subheader">
@@ -672,7 +682,7 @@ sitemap:
       A week-long, intensive hands-on course in which students develop their understanding of electronics, microcontrollers, and machine vision through the construction of an increasingly capable robot.
     </p>
 
-  <h3 class="CV-header"><a id="LOIS" class="section-ID">11/2022 - 06/2023</a></h3>
+  <h3 class="CV-header"><a id="LOIS" class="section-ID">11/2022 - &zwj;06/2023</a></h3>
     <img class="logo" src="/assets/images/Logo-ECN.png">
     <h4 class="CV-subheader">
       &mdash; Lab for Open Innovation in Science<br>
@@ -709,7 +719,7 @@ sitemap:
       &mdash; Berlin Institute of Health, Charité – Universitätsmedizin Berlin, Germany
     </h4>
     <p class="CV-desc">
-      An eight week-long course consisting of seminars and workshops in which participants are trained to identify common problems related to tranaparency and reproducibility in scientific research. In doing so, participants learn how to overcome these challenges, and implement best practices in their own work to make it more robust, transparent, and reproducible.
+      An eight-week-long course consisting of seminars and workshops in which participants are trained to identify common problems related to tranaparency and reproducibility in scientific research. In doing so, participants learn how to overcome these challenges, and implement best practices in their own work to make it more robust, transparent, and reproducible.
     </p>
 
   <h3 class="CV-header"><a id="NMA_CN20" class="section-ID">07/2020</a></h3>
@@ -718,7 +728,7 @@ sitemap:
       &mdash; Neuromatch Academy - Computational Neuroscience
     </h4>
     <p class="CV-desc">
-      A three week-long, highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
+      A three-week-long, highly intensive online summer school covering modelling, statistics, and machine learning, focusing on traditional and emerging tools of computational neuroscience, with extensive group work and Python programming.
     </p>
 </div>
 
