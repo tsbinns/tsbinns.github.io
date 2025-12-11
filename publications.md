@@ -50,7 +50,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Extended Abstract / Demo</big></i><br>
-  <mark><b>Binns, TS</b></mark>, Furuya, S, Cheung, VKM (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
+  <mark><b>Binns, TS</b></mark>, Furuya, S, Cheung, VKM (2025). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>, Daejeon, South Korea.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
@@ -121,6 +121,21 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Gerster, M, Waterstraat, G, <mark><b>Binns, TS</b></mark>, Darcy, N, Wiest, C, Köhler, RM, Vanhoecke, J, West, TO, Sure, M, Todorov, D, Radzinski, L, Habets, JGV, Busch, JL, Feldmann, LK, Krause, P, Faust, K, Schneider, GH, Ashkan, K, Pereira, E, Akram, H, Zrinzo, L, Blankertz, B, Villringer, A, Tan, H, Hirschmann, J, Kühn, AA, Florin, E, Schnitzler, A, Oswal, A, Litvak, V, Neumann, WJ, Curio, G, Nikulin, V (2025). Beyond beta rhythms: subthalamic aperiodic broadband power scales with Parkinson's disease severity – a cross-sectional multicentre study. <i>eBioMedicine</i>. DOI: <a href="https://doi.org/10.1016/j.ebiom.2025.105988 " target="_blank">10.1016/j.ebiom.2025.105988 </a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Parkinson's disease is linked to increased beta rhythms (13–30 Hz) in the subthalamic nucleus, which correlate with motor symptoms. However, findings across studies are inconsistent. Furthermore, the contribution of other frequencies to symptom severity remains underexplored. We analysed subthalamic local field potentials from 119 patients with Parkinson's disease (31 female; mean age 60 ± 9 years) across five independent datasets. Power spectra were parametrised and studied in relation to Levodopa administration and the severity of motor symptoms.<br>
+      <br>
+      Our findings suggest that small sample sizes contributed to the variable correlations between beta power and motor symptoms reported in previous studies. Here, we demonstrate that more than 100 patients are required for stable replication. Aperiodic offset and low gamma (30–45 Hz) oscillations were negatively correlated with motor deficits, whereas low beta oscillations were positively correlated. Combining offset, low beta, and low gamma power explained significantly more variance in symptom severity than low beta alone. Interhemispheric within-patient analyses showed that, unlike beta oscillations, aperiodic broadband power (2–60 Hz) - likely reflecting spiking activity – was increased in the more affected hemisphere. Spectral features beyond conventional beta rhythms are critical to understanding Parkinson's pathophysiology. Aperiodic broadband power shows potential as a new biomarker for adaptive deep brain stimulation, providing important insights into the relationship between subthalamic hyperactivity and motor symptoms in Parkinson's disease.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
   Zhu, GY, Yin, ZX, Chen, YC, Merk, T, <mark><b>Binns, TS</b></mark>, Ma, RY, Du, TT, Liu, YY, Xie, HT, Shi, L, Yang, AC, Meng, FG, Neumann WJ, Kühn, AA, Zhang, JG (2025). Subthalamic Nucleus Oscillatory Characteristics in Meige, Cervical Dystonia and Generalized Dystonia. <i>Annals of Clinical and Translational Neurology</i>. DOI: <a href="https://doi.org/10.1002/acn3.70040" target="_blank">10.1002/acn3.70040</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
@@ -130,21 +145,6 @@ sitemap:
       Deep brain stimulation offers a unique opportunity to record neural activity of the basal ganglia. While much work in dystonia has focused on the globus pallidus internus, expanding research to investigate subthalamic nucleus (STN) activity in various dystonia types is critical to provide a comprehensive understanding of dystonia pathophysiology. STN and cortex activity were recorded from 17 patients with cervical dystonia (CD), 19 with Meige syndrome, and 9 with generalized dystonia (GD) during the lead externalized period. We investigated local and network oscillatory characteristics, including power, bursts, and coherence. Additionally, we explored the relationship between these features and the severity of dystonic symptoms within each group and conducted a comparative analysis across the different dystonia types.<br>
       <br>
       Peaks of low-frequency (4–13 Hz) and beta (14–30 Hz) power were present in the STN of all patients; most of the beta peaks are distributed in the high beta range (20–30 Hz). The CD and GD groups showed longer low-frequency bursts and greater high beta power in STN than the Meige group. Interestingly, the CD group showed stronger STN-cortex low-frequency coherence, while the GD group had stronger STN-cortex high beta coherence. Combined, low-frequency and beta features could predict symptom severity with a performance of 73% in the CD group and 82% in the GD group. Low-frequency and high-beta oscillations are present in the STN across all three types of dystonia. The distinct patterns may be associated with different underlying pathological mechanisms.
-    </p>
-  </div>
-</div>
-
-<p>
-  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Gerster, M, Waterstraat, G, <mark><b>Binns, TS</b></mark>, Darcy, N, Wiest, C, Köhler, RM, Vanhoecke, J, West, TO, Sure, M, Todorov, D, Radzinski, L, Habets, JGV, Busch, JL, Feldmann, LK, Krause, P, Faust, K, Schneider, GH, Ashkan, K, Pereira, E, Akram, H, Zrinzo, L, Blankertz, B, Villringer, A, Tan, H, Hirschmann, J, Kühn, AA, Florin, E, Schnitzler, A, Oswal, A, Litvak, V, Neumann, WJ, Curio, G, Nikulin, V (Pre-print). Beyond beta: Aperiodic broadband power reflects Parkinson's disease severity - a multicenter study. <i>bioRxiv</i>. DOI: <a href="https://doi.org/10.1101/2025.03.11.642600" target="_blank">10.1101/2025.03.11.642600</a>.
-</p>
-<div> <!-- COLLAPSIBLE -->
-  <button type="button" class="collapsible">View Description</button>
-  <div class="collapsible_content">
-    <p>
-      Parkinson's disease is linked to increased beta oscillations in the subthalamic nucleus, which correlate with motor symptoms. However, findings across studies have varied. Our standardized analysis of multicenter datasets reveals that insufficient sample sizes contributed to these discrepancies - a challenge we address by pooling datasets into one large cohort (n=119). Moving beyond beta power, we disentangled spectral components reflecting distinct neural processes.<br>
-      <br>
-      Combining aperiodic offset, low beta, and low gamma oscillations explained significantly more variance in symptom severity than beta alone. Moreover, interhemispheric within-patient analyses showed that, unlike beta oscillations, aperiodic broadband power - likely reflecting spiking activity - was increased in the more affected hemisphere. These findings identify aperiodic broadband power as a potential biomarker for adaptive deep brain stimulation and provide novel insights into the relationship between subthalamic hyperactivity and motor symptoms in human Parkinson's disease.
     </p>
   </div>
 </div>

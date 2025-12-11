@@ -490,7 +490,7 @@ sitemap:
 </div>
 <br>
 <p>
-  <mark><b>Binns, TS</b></mark>, Furuya, S, Cheung, VKM (Accepted). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>.
+  <mark><b>Binns, TS</b></mark>, Furuya, S, Cheung, VKM (2025). A real-time multimodal system for music preference decoding combining EEG and acoustic features. In: <i>Extended Abstracts for the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval Conference</i>, Daejeon, South Korea.
 </p>
 <div style="margin-bottom: 30px;"> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
