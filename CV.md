@@ -190,7 +190,17 @@ sitemap:
 
 <!-- Main Experience -->
 <div>
-  <h3 class="CV-header"><a id="CSL_Internship" class="section-ID">01/2025 - Present</a></h3>
+  <h3 class="CV-header"><a id="Flow" class="section-ID">11/2025 - Present</a></h3>
+    <img class="logo" src="/assets/images/Logo-Flow.png">
+    <h4 class="CV-subheader">
+      &mdash; Flow Neuroscience, London, UK <a href="https://www.flowneuroscience.com/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
+      &mdash; Role: Machine Learning Engineer (Full-Time)<br>
+    </h4>
+    <p class="CV-desc">
+      I am advancing at-home non-invasive stimulation (tDCS) for the treatment of brain disorders like depression, using machine learning applied to multimodal neural and non-neural signals.
+    </p>
+
+  <h3 class="CV-header"><a id="CSL_Internship" class="section-ID">01/2025 - &zwj;09-2025</a></h3>
     <img class="logo" src="/assets/images/Logo-CSL.jpg">
     <h4 class="CV-subheader">
       &mdash; Sony Computer Science Laboratories, Tokyo, Japan <a href="https://www.sonycsl.co.jp/" target="_blank"><i class="fa-solid fa-link"></i></a><br>
