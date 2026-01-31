@@ -2,7 +2,7 @@
 title: "About Me"
 layout: page
 sitemap:
-  lastmod: 2025-08-29
+  lastmod: 2026-01-31
   exclude: 'no'
 ---
 
@@ -20,11 +20,11 @@ sitemap:
 
 
 <!-- Main website description/introduction -->
-<p class="p">I am a neuroscientist and software engineer from the UK interested in all things neurotechnology, machine learning, and data analysis. I develop signal processing and machine learning pipelines, as well as software, to tackle issues in these fields, and work to promote better coding practices in scientific research.<br>
+<p class="p">I am a neuroscientist and software engineer from the UK interested in all things neurotechnology, machine learning, and data analysis. I develop signal processing and machine learning pipelines, as well as software, to tackle issues in these fields.<br>
 <br>
 Currently, I am a Machine Learning Engineer at Flow Neuroscience, London, UK, where I am advancing at-home non-invasive stimulation (tDCS) for the treatment of brain disorders like depression. Alongside this, I am developing and contributing to open-source software projects for advanced signal analyses.<br>
 <br>
-Additionally, I am awaiting the final assessments for my PhD in Computational and Medical Neuroscience at the Charité Medical University Berlin and Bernstein Center for Computational Neuroscience Berlin, where I investigated the neural activity of Parkinson's disease patients and its use as a biomarker for next-generation machine learning-based adaptive deep brain stimulation treatments.<br>
+Additionally, I am awaiting the final assessments for my PhD in Computational and Medical Neuroscience at the Charité Medical University Berlin, and Bernstein Center for Computational Neuroscience Berlin. I investigated the neural activity of Parkinson's disease patients, and its use as a biomarker for next-generation, machine learning-based adaptive deep brain stimulation treatments.<br>
 <br>
 Prior to my PhD, I graduated with First-Class Honours in an MSci Neuroscience with Psychology degree at the University of Aberdeen, UK. This included 12 months spent on placement at the Bernstein Center for Computational Neuroscience Berlin, investigating decision-making with machine learning and brain-computer interfaces in the group of Prof. John-Dylan Haynes.<br>
 <br>
