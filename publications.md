@@ -2,7 +2,7 @@
 title: "Publications & Talks"
 layout: page
 sitemap:
-  lastmod: 2025-09-24
+  lastmod: 2026-08-02
   exclude: 'no'
 ---
 
@@ -20,6 +20,7 @@ sitemap:
   <button onclick="toggle_show()" class="dropdown_button"><i class="fa-solid fa-bars"></i>&nbsp;&nbsp;Sections</button>
   <div id="dropdown_menu" class="dropdown_content">
     <a href="#Top">Top</a>
+    <a href="#2026">2026</a>
     <a href="#2025">2025</a>
     <a href="#2024">2024</a>
     <a href="#2023">2023</a>
@@ -31,6 +32,43 @@ sitemap:
 
 
 <!-- Publication list -->
+<h1><a id="2026" class="section-ID">2026</a></h1>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Habets, JGV, Merk, T, Mathiopoulou, V, Kaplan, J, Lofredi, R, Busch, JL, <mark><b>Binns, TS</b></mark>, Köhler, RM, Memarpouri, A, Al-Fatly, B, Faust, K, Krause, P, Schneider, G-H, Neumann, W-J, Tovote, P, Kühn, AA(2026). Movement dependent neural substates within levodopa-induced dyskinesia in Parkinson's disease. <i>Brain</i>. DOI: <a href="https://doi.org/10.1093/brain/awag256" target="_blank">10.1093/brain/awag256</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      Parkinson patients suffer from levodopa-induced dyskinesia, which occur adversely to chronic dopaminergic treatment. These abnormal involuntary movements can only partly be actively suppressed and affect quality of life. A lowered motor inhibition during hyperdopaminergic states, associated with structural and plasticity changes in the cortico-basal-ganglia motor network, is hypothesized to enable dyskinesia. Multiple oscillatory cortico-subthalamic patterns associated with dyskinesia have been described but their dependence on behavioral states such as movement presence remains unknown, which is crucial for its use in real-life application of adaptive neuromodulation.<br>
+      <br>
+      We studied invasive cortico-subthalamic oscillations in 22 patients with Parkinson’s disease during dyskinesia-evoking protocols. Clinical assessments differentiated between non-dyskinetic and dyskinetic periods, and kinematic monitoring detected movement presence, leading to four behavioral states containing rest, voluntary movements, movement suppression during dyskinesia, and dyskinetic movements. Data-driven methods reduced data dimensionalities and optimized frequency-specific signal-to-noise ratios in the neural recordings and allowed feature extraction of spectral magnitudes, variances, and inter-subthalamic and cortico-subthalamic coherences.<br>
+      <br>
+      Subthalamic theta-activity and attenuated beta-activity were elevated during both dyskinetic movement suppression and execution, while cortico-subthalamic gamma-activity was only increased during dyskinetic movement execution. The subthalamic oscillations predicted dyskinesia presence, but varying behavioral states containing fluctuating movement presence affected the predictive performance. Movement-aware classifications improved dyskinesia detection based on cortical and on gamma oscillations.<br>
+      <br>
+      Introducing a movement-aware classification which considered the current behavioral state improved the neural detection of therapeutic states. We propose movement execution during dyskinesia should be considered as a distinct behavioral and neural microstate within a dopamine-depending hyperdopaminergic macrostate. Integrating this state concept may inform future adaptive neuromodulation and enhance its naturalistic robustness during every-day life.
+    </p>
+  </div>
+</div>
+
+<p>
+  &nbsp;&nbsp; <i><big>Research Article</big></i><br>
+  Zhu, G-Y, Merk, T, Butenko, K, Yin, Z-X, Chen, Y-C, Li, N-F, <mark><b>Binns, TS</b></mark>, Ma, R-Y, Du, T-T, Liu, Y-Y, Xie, H-T, Shi, L, Yang, A-C, Meng, F-G, Kühn, AA, Zhang, J-G, Neumann, W-J (2026). Decoding the impact of visual states on adaptive deep brain stimulation feedback signals in movement disorders. <i>npj Parkinson's Disease</i>. DOI: <a href="https://doi.org/10.1038/s41531-026-01273-3" target="_blank">10.1038/s41531-026-01273-3</a>.
+</p>
+<div> <!-- COLLAPSIBLE -->
+  <button type="button" class="collapsible">View Description</button>
+  <div class="collapsible_content">
+    <p>
+      We investigated the impact of visual states on basal ganglia oscillatory biomarkers, comparing local field potentials (LFPs) dynamics between Parkinson’s disease (PD) and dystonia and developing a decoding model for state identification. Simultaneous LFPs recordings from the subthalamic nucleus (STN) or globus pallidus internus (GPi), and cortex were obtained from 18 PD and 18 dystonia patients.<br>
+      <br>
+      In the eyes-closed state, theta and alpha power increased in the basal ganglia, with stronger coherence to the central cortex, more pronounced in the STN than in the GPi. Machine learning models identified the eyes-closed state with 88% accuracy for STN and 77% for GPi. The sensorimotor STN and GPi were most informative. The present findings provide proof-of-concept that basal ganglia LFPs can reliably predict a physiological state, highlighting the potential influence of physiological oscillatory activity on pathological bands and its relevance for adaptive stimulation paradigms.
+    </p>
+  </div>
+</div>
+
+<hr>
 <h1><a id="2025" class="section-ID">2025</a></h1>
 
 <p>
