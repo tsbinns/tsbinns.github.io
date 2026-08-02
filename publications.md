@@ -36,7 +36,7 @@ sitemap:
 
 <p>
   &nbsp;&nbsp; <i><big>Research Article</big></i><br>
-  Habets, JGV, Merk, T, Mathiopoulou, V, Kaplan, J, Lofredi, R, Busch, JL, <mark><b>Binns, TS</b></mark>, Köhler, RM, Memarpouri, A, Al-Fatly, B, Faust, K, Krause, P, Schneider, G-H, Neumann, W-J, Tovote, P, Kühn, AA(2026). Movement dependent neural substates within levodopa-induced dyskinesia in Parkinson's disease. <i>Brain</i>. DOI: <a href="https://doi.org/10.1093/brain/awag256" target="_blank">10.1093/brain/awag256</a>.
+  Habets, JGV, Merk, T, Mathiopoulou, V, Kaplan, J, Lofredi, R, Busch, JL, <mark><b>Binns, TS</b></mark>, Köhler, RM, Memarpouri, A, Al-Fatly, B, Faust, K, Krause, P, Schneider, G-H, Neumann, W-J, Tovote, P, Kühn, AA (2026). Movement dependent neural substates within levodopa-induced dyskinesia in Parkinson's disease. <i>Brain</i>. DOI: <a href="https://doi.org/10.1093/brain/awag256" target="_blank">10.1093/brain/awag256</a>.
 </p>
 <div> <!-- COLLAPSIBLE -->
   <button type="button" class="collapsible">View Description</button>
